@@ -1,19 +1,12 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
-
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->text()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
-      
-    <div class="wrap wide">    
-      <?php snippet('showcase') ?>
-    </div>
-
-  </main>
+	<div class="container" role="main">
+		<div class="text">
+			<h1><?php echo $page->title()->html() ?></h1>
+			<?php echo $page->text()->kirbytext() ?>
+		</div>
+    <hr>
+    <?php snippet('projects') ?>
+	</div> <!-- // container -->
 
 <?php snippet('footer') ?>
