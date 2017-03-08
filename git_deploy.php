@@ -29,7 +29,7 @@
 	file_put_contents ($log_file, $data, FILE_APPEND | LOCK_EX);
 
 	// Update local repository
-	$command = 'git pull > ' . $log_file . ' &'
+	$command = 'git pull > ' . $log_file . ' &';
 	shell_exec($command);
 
 ?>
