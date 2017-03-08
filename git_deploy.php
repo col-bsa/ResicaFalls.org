@@ -25,7 +25,7 @@
 	$user_agent =  $_SERVER['HTTP_USER_AGENT'];
 
 	// Log user info
-	$user_log = "Remote IP: " . $remote_addr . "\r\nUA: " . $user_agent "\r\n";
+	$user_log = "Remote IP: " . $remote_addr . "\r\nUA: " . $user_agent . "\r\n";
 	file_put_contents ($log_file, $data, FILE_APPEND | LOCK_EX);
 
 	// Update local repository
