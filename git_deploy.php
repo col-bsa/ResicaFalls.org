@@ -24,20 +24,12 @@
 	$remote_addr = $_SERVER['REMOTE_ADDR'];
 	$user_agent =  $_SERVER['HTTP_USER_AGENT'];
 
-	if(isset($_POST['X-GitHub-Event']))
-		$event = $_POST['X-GitHub-Event'];
+	// Log user info
+	$user_log = "Remote IP: " . $remote_addr . "\r\nUA: " . $user_agent "\r\n";
+	file_put_contents ($log_file, $data, FILE_APPEND | LOCK_EX);
 
-	// Commands to run
-	$commands = array(
-		'echo ' . $remote_addr . ' > ' . $log_file,
-		'echo ' . $user_agent . ' > ' . $log_file,
-		'git pull > ' . $log_file . ' &'
-	);
+	// Update local repository
+	$command = 'git pull > ' . $log_file . ' &'
+	shell_exec($command);
 
-	// Run the commands for output
-	$output = '';
-	foreach($commands AS $command){
-		// Run it
-		$tmp = shell_exec($command);
-	}
 ?>
