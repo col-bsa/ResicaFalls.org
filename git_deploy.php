@@ -29,7 +29,7 @@
 	$commands = array(
 		'echo ' . $remote_addr . ' > ' . $log_file,
 		'echo ' . $user_agent . ' > ' . $log_file,
-		'git pull > ' . $log_file ' &'
+		'git pull > ' . $log_file . ' &'
 	);
 
 	// Run the commands for output
