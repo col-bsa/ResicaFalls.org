@@ -23,7 +23,7 @@
 	// Get user info
 	$remote_addr = $_SERVER['REMOTE_ADDR'];
 	$user_agent =  $_SERVER['HTTP_USER_AGENT'];
-	$event = $POST['X-GitHub-Event'];
+	$event = $_POST['X-GitHub-Event'];
 
 	// Commands to run
 	$commands = array(
