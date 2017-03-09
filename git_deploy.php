@@ -27,12 +27,12 @@
 	$timestamp = date("Y-m-d h:i:s", time());
 
 	// Log user info
-	$user_log = "\n
-	Time: " . $timestamp . "\n
-	Remote IP: " . $remote_addr . "\n
-	UA: " . $user_agent . "\n";
+	$user_log = PHP_EOL . 
+	"Time: " . $timestamp . PHP_EOL . 
+	"Remote IP: " . $remote_addr . PHP_EOL . 
+	"UA: " . $user_agent . PHP_EOL;
 
-	file_put_contents($log_file, $data, FILE_APPEND | LOCK_EX);
+	file_put_contents($log_file, $user_log, FILE_APPEND | LOCK_EX);
 
 	// Update local repository
 	$command = 'git pull >> ' . $log_file . ' &';
