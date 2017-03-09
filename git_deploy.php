@@ -16,8 +16,7 @@
  * ----------------------------------------------------
  */
 
-	// Bash script location and name
-	$bash_script = "../github_request.sh";
+	// Log file location and name
 	$log_file = "../git_deploy.log";
 
 	// Get user info
