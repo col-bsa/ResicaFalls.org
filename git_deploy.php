@@ -24,7 +24,8 @@
 	$remote_addr = $_SERVER['REMOTE_ADDR'];
 	$user_agent =  $_SERVER['HTTP_USER_AGENT'];
 
-	$timestamp = date("Y-m-d h:i:s", time());
+	date_default_timezone_set('America/New_York');
+	$timestamp = date("Y-m-d H:i:s", time());
 
 	// Log user info
 	$user_log = PHP_EOL . 
