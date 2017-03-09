@@ -16,26 +16,26 @@
  * ----------------------------------------------------
  */
 
-	// Bash script location and name
-	$bash_script = "../github_request.sh";
+	// Log file location and name
 	$log_file = "../git_deploy.log";
 
 	// Get user info
 	$remote_addr = $_SERVER['REMOTE_ADDR'];
 	$user_agent =  $_SERVER['HTTP_USER_AGENT'];
-	$event = $POST['X-GitHub-Event'];
 
-	// Commands to run
-	$commands = array(
-		'echo ' . $remote_addr . ' > ' . $log_file,
-		'echo ' . $user_agent . ' > ' . $log_file,
-		'git pull > ' . $log_file ' &'
-	);
+	date_default_timezone_set('America/New_York');
+	$timestamp = date("Y-m-d H:i:s", time());
 
-	// Run the commands for output
-	$output = '';
-	foreach($commands AS $command){
-		// Run it
-		$tmp = shell_exec($command);
-	}
+	// Log user info
+	$user_log = PHP_EOL . 
+	"Time: " . $timestamp . PHP_EOL . 
+	"Remote IP: " . $remote_addr . PHP_EOL . 
+	"UA: " . $user_agent . PHP_EOL;
+
+	file_put_contents($log_file, $user_log, FILE_APPEND | LOCK_EX);
+
+	// Update local repository
+	$command = 'git pull >> ' . $log_file . ' &';
+	shell_exec($command);
+
 ?>
