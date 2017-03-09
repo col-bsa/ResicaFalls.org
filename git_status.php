@@ -19,7 +19,7 @@
 	// Find status
 	$command = 'git log -1';
 	$output = shell_exec($command);
-	$output = htmlentities(trim($output));
+	$output = nl2br(htmlentities(trim($output)));
 
 ?>
 
