@@ -1,0 +1,44 @@
+/* Header */
+.header{
+	background: grey;
+	padding: 1rem 0px;
+	text-align: center;
+}
+
+/* Navbar */
+.navbar{
+	padding: 0 1rem;
+}
+.nav-item{
+	text-transform: uppercase;
+	text-align: center;
+	width: 10rem;
+}
+.nav-item:hover{
+	background: #FFF200;
+}
+.nav-item:hover .nav-link{
+	color: #292b2c !important;
+}
+.nav-link{
+	line-height: 110%;
+	color: white !important;
+}
+.dropdown-toggle:after{
+	display: none;
+}
+
+/* Content */
+.content{
+	padding-top: 1rem;
+}
+.slider{
+	background: grey;
+	height: 30rem;
+}
+.divider{
+	background: #FFF200;
+	text-align: center;
+	padding: 1rem 0;
+	margin: 1rem 0;
+}
