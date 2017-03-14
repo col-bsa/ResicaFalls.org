@@ -28,6 +28,45 @@
 		<div class="divider">
 			<h2>Programs in Camp</h2>
 		</div>
+
+		<div class="container content">
+			<div class="row">
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">News</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">Troop 1</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">Fawn Run</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">Paddlerama</div>
+				</a>
+			</div>
+			<div class="row">
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">Dan Beard</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">ATV Program</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">High 5</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="#">
+					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<div class="grid-text h2">NYLT</div>
+				</a>
+			</div>
+		</div>
 	
 		<?php include '_inc/html_foot.php'; ?>
 	</body>
