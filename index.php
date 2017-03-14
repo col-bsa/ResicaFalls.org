@@ -9,7 +9,6 @@
 		<?php include '_inc/nav.php'; ?>
 
 		<div class="slider">
-			Slider Goes Here
 		</div>
 
 		<div class="container content">
@@ -67,7 +66,8 @@
 				</a>
 			</div>
 		</div>
-	
+
+		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
 	</body>
 </html>

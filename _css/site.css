@@ -28,6 +28,20 @@
 	display: none;
 }
 
+/* Footer */
+.footer{
+	background: #FFF200;
+	padding: 1rem 0;
+	margin: 1rem 0 0 0;
+}
+.footer a {
+	color: #292b2c;
+}
+.footer a:hover {
+	color: #696a6b;
+	text-decoration: none;
+}
+
 /* Content */
 .content{
 	padding-top: 1rem;

@@ -32,8 +32,6 @@
 					<a class="dropdown-item" href="#">Our Staff</a>
 					<a class="dropdown-item" href="#">CIT Program</a>
 					<a class="dropdown-item" href="#">Work at Resica</a>
-					<a class="dropdown-item" href="#">Camp History</a>
-					<a class="dropdown-item" href="#">Schedule a Visit</a>
 				</div>
 			</li>
 			<li class="nav-item">
