@@ -1,7 +1,7 @@
 /* Header */
 .header{
-	background: grey;
-	padding: 1rem 0px;
+	background: #fff;
+	padding: 0.7rem 0px;
 	text-align: center;
 }
 
@@ -33,8 +33,11 @@
 	padding-top: 1rem;
 }
 .slider{
-	background: grey;
-	height: 30rem;
+	background: url(../_img/slider/slide1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 32rem;
 }
 .divider{
 	background: #FFF200;

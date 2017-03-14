@@ -1,3 +1,3 @@
 <div class="header">
-	<img src="http://placehold.it/100?text=Resica+Logo" alt="">
+	<img src="_img/logo_full.png" alt="" width="100px">
 </div>
