@@ -6,7 +6,7 @@
 	<div class="collapse navbar-collapse justify-content-md-center" id="navbar">
 		<ul class="navbar-nav">
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Future<br>Campers</a>
+				<a class="nav-link dropdown-toggle" href="#" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Future<br class="hidden-md-down"> Campers</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
 					<a class="dropdown-item" href="#">Dates &amp Rates</a>
 					<a class="dropdown-item" href="#">Programs &amp Opportunities</a>
@@ -17,7 +17,7 @@
 				</div>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="dropdown_CurrentCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current<br>Campers</a>
+				<a class="nav-link dropdown-toggle" href="#" id="dropdown_CurrentCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current<br class="hidden-md-down"> Campers</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_CurrentCampers">
 					<a class="dropdown-item" href="#">Dates &amp Rates</a>
 					<a class="dropdown-item" href="#">Upcoming Events</a>
@@ -26,7 +26,7 @@
 				</div>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp<br>Leadership</a>
+				<a class="nav-link dropdown-toggle" href="#" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp<br class="hidden-md-down"> Leadership</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="#">Meet the Team</a>
 					<a class="dropdown-item" href="#">Our Staff</a>
@@ -35,13 +35,13 @@
 				</div>
 			</li>
 			<li class="nav-item">
-            	<a class="nav-link" href="#">Facilities<br>&amp Rentals</a>
+            	<a class="nav-link" href="#">Facilities<br class="hidden-md-down"> &amp Rentals</a>
             </li>
             <li class="nav-item">
-            	<a class="nav-link" href="#">Contact<br>Us</a>
+            	<a class="nav-link" href="#">Contact<br class="hidden-md-down"> Us</a>
             </li>
             <li class="nav-item">
-            	<a class="nav-link" href="#">Register<br>For Camp</a>
+            	<a class="nav-link" href="#">Register<br class="hidden-md-down"> For Camp</a>
             </li>
 		</ul>
 	</div>
