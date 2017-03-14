@@ -50,40 +50,53 @@
 .content{
 	padding-top: 1rem;
 }
-.slider{
-	background: url(../_img/slider/slide1.jpg);
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	height: 32rem;
+.split{
+	margin-bottom: 1rem;
 }
-.divider{
-	background: #FFF200;
-	text-align: center;
-	padding: 1rem 0;
-	margin: 1rem 0;
-}
-	/* Image/Link Grid */
-	.grid-item{
-		text-align: center;
-		padding-bottom: 1rem;
-	}
-	.grid-item img{
-		-webkit-transition: all 0.3s ease;
-		   -moz-transition: all 0.3s ease;
-		     -o-transition: all 0.3s ease;
-		    -ms-transition: all 0.3s ease;
-		        transition: all 0.3s ease;
-		-webkit-filter: blur(0px) grayscale(100%);
-	}
-	.grid-item:hover img{
-		-webkit-filter: blur(2px) grayscale(0%);
-	}
-	.grid-text{
-		left: 0;
-		top: 40%;
-    	position:absolute;
-    	text-align:center;
-    	width: 100%;
-    	color: #fff;
-	}
+
+/*Pages*/
+	/*Index*/
+		.slider{
+			background: url(../_img/slider/slide1.jpg);
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+			height: 32rem;
+		}
+		.divider{
+			background: #FFF200;
+			text-align: center;
+			padding: 1rem 0;
+			margin: 1rem 0;
+		}
+		/* Image/Link Grid */
+		.grid-item{
+			text-align: center;
+			padding-bottom: 1rem;
+		}
+		.grid-item img{
+			-webkit-transition: all 0.3s ease;
+			   -moz-transition: all 0.3s ease;
+			     -o-transition: all 0.3s ease;
+			    -ms-transition: all 0.3s ease;
+			        transition: all 0.3s ease;
+			-webkit-filter: blur(0px) grayscale(100%);
+		}
+		.grid-item:hover img{
+			-webkit-filter: blur(2px) grayscale(0%);
+		}
+		.grid-text{
+			left: 0;
+			top: 40%;
+	    	position:absolute;
+	    	text-align:center;
+	    	width: 100%;
+	    	color: #fff;
+		}
+	/* Dates and Costs */
+		.table-highlight,
+		.table-highlight > th,
+		.table-highlight > td {
+			background-color: #FFF200;
+			border-color: #FFF200;
+		}
