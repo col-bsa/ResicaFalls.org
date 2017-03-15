@@ -17,7 +17,11 @@
 			</div>
 			<div class="row">
 				<div class="col-12 col-md-8">
-					<h2>Contact Form</h2>
+					<div class="row">
+						<div class="col-12 col-md-10 offset-md-2">
+							<h2>Contact Form</h2>
+						</div>
+					</div>
 					<form id="contact-form">
 						<div class="form-group row">
 							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
