@@ -3,6 +3,7 @@
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<title>Contact Us <?php include '_inc/var/site_name.php'; ?></title>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
@@ -16,34 +17,44 @@
 			</div>
 			<div class="row">
 				<div class="col-12 col-md-8">
-					<h5 class="text-center">Contact Form</h5>
+					<h2 class="text-center">Contact Form</h2>
 					<form id="contact-form">
 						<div class="form-group row">
-							<label for="forminput_name" class="col-2 col-form-label">Name</label>
-							<div class="col-10">
+							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
+							<div class="col-12 col-md-10">
 								<input class="form-control" type="text" id="forminput_name" required>
 							</div>
 						</div>
 						<div class="form-group row">
-							<label for="forminput_email" class="col-2 col-form-label">Email</label>
-							<div class="col-10">
+							<label for="forminput_email" class="col-12 col-md-2 col-form-label">Email</label>
+							<div class="col-12 col-md-10">
 								<input class="form-control" type="email" id="forminput_email" required>
 							</div>
 						</div>
 						<div class="form-group row">
-							<label for="forminput_message" class="col-2 col-form-label">Message</label>
-							<textarea class="form-control" id="forminput_message" rows="4" required></textarea>
+							<label for="forminput_message" class="col-12 col-md-2 col-form-label">Message</label>
+							<div class="col-12 col-md-10">
+								<textarea class="form-control" id="forminput_message" rows="4" required></textarea>
+							</div>
+						</div>
 						</div>
 						<div class="form-group row">
-							<button type="submit" class="btn btn-primary" id="forminput_send">Send</button>
+							<div class="col-12 col-md-6 col-md-offset-3">
+								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
+							</div>
+						</div>
+						<div class="g-recaptcha"
+							data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE"
+							data-callback="onSubmit"
+							data-size="invisible">
 						</div>
 					</form>
 					<div class="alert fade show" role="alert" id="alert-response">
 						<strong id="alert-headline"></strong> <span id="alert-text"></span>
 					</div>
 				</div>
-				<div class="col-12 col-md-4">
-					<h5 class="text-center">Contact Info</h5>
+				<div class="col-12 col-md-6 col-">
+					<h2>Contact Info</h2>
 					<address>
 						<strong>Resica Falls Scout Reservation</strong><br>
 						1200 Resica Falls Road<br>
@@ -68,6 +79,7 @@
 				$("#forminput_send").prop('disabled', true);
 				$("#alert-response").addClass("alert-info");
 				$("#alert-headline").text("Loading...");
+				grecaptcha.execute();
 				$.ajax({
 					url: '_inc/engine_contact-us.php',
 					type: 'post',
@@ -90,3 +102,9 @@
 		</script>
 	</body>
 </html>
+
+<?php
+/*
+Google Secret: 6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E
+*/
+?>
