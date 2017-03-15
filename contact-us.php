@@ -50,7 +50,7 @@
 						East Stroudsburg, PA 18302<br>
 						<abbr title="Phone">P:</abbr> (570) 223-8312<br>
 						<abbr title="Fax">F:</abbr> (570) 223-7263<br>
-						<a href="index" target="_blank">ResicaFalls.org</a>
+						<a href="index" target="_blank">ResicaFalls.org</a><br>
 						<a href="mailto:#">info@resicafalls.org</a>
 					</address>
 					<h5><a href="meet-the-team">Meet the Team!</a></h5>
