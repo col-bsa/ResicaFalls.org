@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<title>Coming Soon <?php include '_inc/var/site_name.php'; ?></title>
+		<title>Dates &amp; Rates<?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
@@ -16,14 +16,14 @@
 			</div>
 			<div class="row">
 				<div class="col-12 col-md-8">
-					<table class="table">
+					<table class="table table-responsive text-center">
 						<thead class="thead-inverse">
 							<tr>
-								<th>Session</th>
-								<th>Dates</th>
-								<th>Resident Camp</th>
-								<th>Troop 1</th>
-								<th>Specialty Camps</th>
+								<th class="text-center">Session</th>
+								<th class="text-center">Dates</th>
+								<th class="text-center">Resident Camp</th>
+								<th class="text-center">Troop 1</th>
+								<th class="text-center">Specialty Camps</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -80,10 +80,10 @@
 					</table>
 				</div>
 				<div class="col-12 col-md-4">
-					<table class="table table-bordered text-center">
+					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>
-								<th>Pricing</th>
+								<th class="text-center">Pricing</th>
 							</tr>
 						</thead>
 						<tbody>
