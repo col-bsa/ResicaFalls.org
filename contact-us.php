@@ -30,13 +30,13 @@
 								<input class="form-control" type="email" id="forminput_email" required>
 							</div>
 						</div>
-						<div class="form-group row">
+						<div class="form-group">
 							<label for="forminput_message" class="col-2 col-form-label">Message</label>
-							<div class="col-10">
-								<textarea class="form-control" id="forminput_message" rows="4" required></textarea>
-							</div>
+							<textarea class="form-control" id="forminput_message" rows="4" required></textarsea>
 						</div>
-						<button type="submit" class="btn btn-primary" id="forminput_send">Send</button>
+						<div class="form-group">
+								<button type="submit" class="btn btn-primary" id="forminput_send">Send</button>
+						</div>
 					</form>
 					<div class="alert fade show" role="alert" id="alert-response">
 						<strong id="alert-headline"></strong> <span id="alert-text"></span>
@@ -48,14 +48,10 @@
 						<strong>Resica Falls Scout Reservation</strong><br>
 						1200 Resica Falls Road<br>
 						East Stroudsburg, PA 18302<br>
-						<abbr title="Phone">P:</abbr> (570) 223-8312
-					</address>
-					<address>
-						<strong>Cradle of Liberty Council Office</strong><br>
-						1485 Valley Forge Road<br>
-						Wayne, PA 19087<br>
-						<abbr title="Phone">P:</abbr> (610) 688-6900<br>
-						<a href="http://colbsa.org" target="_blank">colbsa.org</a>
+						<abbr title="Phone">P:</abbr> (570) 223-8312<br>
+						<abbr title="Fax">F:</abbr> (570) 223-7263<br>
+						<a href="index" target="_blank">ResicaFalls.org</a>
+						<a href="mailto:#">info@resicafalls.org</a>
 					</address>
 					<h5><a href="meet-the-team">Meet the Team!</a></h5>
 				</div>
