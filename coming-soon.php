@@ -11,7 +11,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-8">
-					<h1>Comming Soon</h1>
+					<h1>Coming Soon</h1>
 					Sorry about that! This site is currently under construction. While we're working on making an awesome tool for all our Scouts and Scouters some things may be out of place. Don't hesitate to contact us with any questions you may have. We want to hear from you!
 				</div>
 				<div class="col-md-4">

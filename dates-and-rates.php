@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<title>Dates &amp; Rates<?php include '_inc/var/site_name.php'; ?></title>
+		<title>Dates &amp; Rates <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
