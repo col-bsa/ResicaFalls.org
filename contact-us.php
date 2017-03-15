@@ -64,27 +64,32 @@
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
 		<script type="text/javascript">
-			$( "#contact-form" ).submit(function( event ) {
+			$( "#contact-form" ).submit(function(event) {
 				event.preventDefault();
-				$("forminput_name").prop('disabled', true);
-				$("forminput_email").prop('disabled', true);
-				$("forminput_message").prop('disabled', true);
-				$("forminput_send").prop('disabled', true);
+				$("#forminput_name").prop('disabled', true);
+				$("#forminput_email").prop('disabled', true);
+				$("#forminput_message").prop('disabled', true);
+				$("#forminput_send").prop('disabled', true);
+				$("#alert-response").addClass("alert-info");
+				$("#alert-headline").text("Loading...");
 				$.ajax({
 					url: '_inc/engine_contact-us.php',
 					type: 'post',
 					dataType: 'json',
 					data: $("form#contact-form").serialize(),
 					success: function(data) {
-						// ... do something with the data...
-					}
+						$("#alert-response").removeClass("alert-info");
+						$("#alert-response").addClass("alert-success");
+						$("#alert-headline").text("Sent!");
+						$("#alert-text").text("Thank you! You should be hearing from a member of our team shortly.");
+					},
 					error: function(data) {
+						$("#alert-response").removeClass("alert-info");
 						$("#alert-response").addClass("alert-danger");
 						$("#alert-headline").text("Woops!");
 						$("#alert-text").text("Sorry, but it looks like something has gone wrong. Please try again later.");
 					}
 				});
-				$(".alert").alert();
 			});
 		</script>
 	</body>
