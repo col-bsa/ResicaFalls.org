@@ -38,7 +38,7 @@
 							</div>
 						</div>
 						<div class="form-group row">
-							<div class="col-12 col-md-6 col-md-offset-3">
+							<div class="col-12 col-md-6 offset-md-3">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
 							</div>
 						</div>
