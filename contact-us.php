@@ -16,7 +16,7 @@
 			</div>
 			<div class="row">
 				<div class="col-12 col-md-8">
-					<h5>Contact Form</h5>
+					<h5 class="text-center">Contact Form</h5>
 					<form id="contact-form">
 						<div class="form-group row">
 							<label for="forminput_name" class="col-2 col-form-label">Name</label>
@@ -43,7 +43,7 @@
 					</div>
 				</div>
 				<div class="col-12 col-md-4">
-					<h5>Contact Info</h5>
+					<h5 class="text-center">Contact Info</h5>
 					<address>
 						<strong>Resica Falls Scout Reservation</strong><br>
 						1200 Resica Falls Road<br>
