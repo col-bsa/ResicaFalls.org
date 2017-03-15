@@ -17,7 +17,7 @@
 			</div>
 			<div class="row">
 				<div class="col-12 col-md-8">
-					<h2 class="text-center">Contact Form</h2>
+					<h2>Contact Form</h2>
 					<form id="contact-form">
 						<div class="form-group row">
 							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
@@ -38,7 +38,7 @@
 							</div>
 						</div>
 						<div class="form-group row">
-							<div class="col-12 col-md-6 offset-md-3">
+							<div class="col-12 col-md-8 offset-md-2">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
 							</div>
 						</div>
