@@ -53,7 +53,7 @@
 						<strong id="alert-headline"></strong> <span id="alert-text"></span>
 					</div>
 				</div>
-				<div class="col-12 col-md-6 col-">
+				<div class="col-12 col-md-4">
 					<h2>Contact Info</h2>
 					<address>
 						<strong>Resica Falls Scout Reservation</strong><br>
