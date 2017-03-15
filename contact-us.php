@@ -30,12 +30,12 @@
 								<input class="form-control" type="email" id="forminput_email" required>
 							</div>
 						</div>
-						<div class="form-group">
+						<div class="form-group row">
 							<label for="forminput_message" class="col-2 col-form-label">Message</label>
 							<textarea class="form-control" id="forminput_message" rows="4" required></textarea>
 						</div>
-						<div class="form-group">
-								<button type="submit" class="btn btn-primary" id="forminput_send">Send</button>
+						<div class="form-group row">
+							<button type="submit" class="btn btn-primary" id="forminput_send">Send</button>
 						</div>
 					</form>
 					<div class="alert fade show" role="alert" id="alert-response">
