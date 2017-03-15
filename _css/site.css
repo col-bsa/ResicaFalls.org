@@ -1,6 +1,6 @@
 /* Header */
 .header{
-	background: #fff;
+	background-image: url(../_img/bg.png);
 	padding: 0.7rem 0px;
 	text-align: center;
 }
