@@ -4,7 +4,7 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-headline").text(alert_headline);
 	$("#alert-text").text(alert_text);
 }
-function ContactUs() {
+$( "#contact-form" ).submit(function(event) {
 	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
@@ -36,4 +36,4 @@ function ContactUs() {
 			ContactUsAlert("alert-danger", "Woops!", "Sorry, but it looks like something has gone wrong. Please try again later.")
 		}
 	});
-};
+});
