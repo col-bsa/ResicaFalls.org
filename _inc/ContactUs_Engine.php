@@ -102,7 +102,7 @@ if (empty($error_text))
 else
 {
 	$data['success'] = false;
-	$data['error']  = var_dump($_REQUEST);
+	$data['error']  = var_dump($_POST);
 }
 
 
