@@ -40,7 +40,7 @@ $TimeStamp = date('l jS \of F Y h:i:s A');
  * * * * * * * * * * * * * * * * * * */
 
 $data = array();
-
+/*
 if (empty($reCAPTCHA_FormResponse))
 	$error_text = "reCAPTCHA was not received.";
 
@@ -50,7 +50,7 @@ if(!isset($error_text))
 	if ($reCAPTCHAStatus != true)
 		$error_text = "reCAPTCHA was not verified.";
 }
-
+*/
 if(!isset($error_text))
 {
 	if (empty($Name))
