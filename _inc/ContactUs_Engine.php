@@ -25,10 +25,10 @@ require_once 'reCAPTCHA_Validator.php';
  *    COLLECT HTML FORM POST DATA    *
  * * * * * * * * * * * * * * * * * * */
 
-$Name = sanitize_input($_POST['name']);
-$Email = sanitize_input($_POST['email']);
-$Message = sanitize_input($_POST['message']);
-$reCAPTCHA_FormResponse   = sanitize_input($_POST['g-recaptcha-response']);
+$Name = $_POST['name'];
+$Email = $_POST['email'];
+$Message = $_POST['message'];
+$reCAPTCHA_FormResponse   = $_POST['g-recaptcha-response'];
 
 $RemoteIP = $_SERVER['REMOTE_ADDR'];
 	
