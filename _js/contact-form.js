@@ -1,4 +1,3 @@
-/*
 function validate(event) {
 	event.preventDefault();
 	grecaptcha.execute();
@@ -6,15 +5,6 @@ function validate(event) {
 function onload() {
 	var element = document.getElementById('forminput_send');
 	element.onclick = validate;
-}
-*/
-function dump(obj) {
-    var out = '';
-    for (var i in obj) {
-        out += i + ": " + obj[i] + "\n";
-    }
-
-    alert(out);
 }
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("alert-info");
@@ -31,7 +21,6 @@ $("#contact-form").submit(function(event) {
 	$("#forminput_send").prop('disabled', true);
 	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
-	dump($("#contact-form :input"))
 	$.ajax({
 		url: '_inc/ContactUs_Engine.php',
 		method: 'POST',

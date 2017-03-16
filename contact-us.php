@@ -3,8 +3,8 @@
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<title>Contact Us <?php include '_inc/var/site_name.php'; ?></title>
-		<!--<script type="text/javascript" src="_js/contact-form.js"></script>-->
-		<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
+		<script type="text/javascript" src="_js/contact-form.js"></script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
@@ -42,13 +42,11 @@
 								<textarea class="form-control" name="message" id="forminput_message" rows="4" required></textarea>
 							</div>
 						</div>
-						<!--
 						<div class="g-recaptcha"
 							data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE"
 							data-callback="ContactUs"
 							data-size="invisible">
 						</div>
-						-->
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
@@ -77,6 +75,6 @@
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
 		<script type="text/javascript" src="_js/contact-form.js"></script>
-		<!--<script>onload();</script>-->
+		<script>onload();</script>
 	</body>
 </html>
