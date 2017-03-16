@@ -27,19 +27,19 @@
 						<div class="form-group row">
 							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
 							<div class="col-12 col-md-10">
-								<input class="form-control" type="text" name="name" id="forminput_name" required>
+								<input class="form-control" type="text" name="name" id="forminput_name" data-callback="ContactUs" required>
 							</div>
 						</div>
 						<div class="form-group row">
 							<label for="forminput_email" class="col-12 col-md-2 col-form-label">Email</label>
 							<div class="col-12 col-md-10">
-								<input class="form-control" type="email" name="email" id="forminput_email" required>
+								<input class="form-control" type="email" name="email" id="forminput_email" data-callback="ContactUs" required>
 							</div>
 						</div>
 						<div class="form-group row">
 							<label for="forminput_message" class="col-12 col-md-2 col-form-label">Message</label>
 							<div class="col-12 col-md-10">
-								<textarea class="form-control" name="message" id="forminput_message" rows="4" required></textarea>
+								<textarea class="form-control" name="message" id="forminput_message" rows="4" data-callback="ContactUs" required></textarea>
 							</div>
 						</div>
 						<div class="g-recaptcha"
