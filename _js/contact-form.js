@@ -27,7 +27,7 @@ $("#contact-form").submit(function(event) {
 		url: '_inc/ContactUs_Engine.php',
 		type: 'POST',
 		dataType: 'json',
-		data: $("form#contact-form").serialize(),
+		data: $("#contact-form").serialize(),
 		success: function(data) {
 				if(data['success'] == true)
 				{
