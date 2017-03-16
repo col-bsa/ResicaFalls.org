@@ -3,7 +3,7 @@
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<title>Contact Us <?php include '_inc/var/site_name.php'; ?></title>
-		<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
