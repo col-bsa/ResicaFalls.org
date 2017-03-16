@@ -25,7 +25,7 @@ function ContactUs() {
 		url: '_inc/ContactUs_Engine.php',
 		method: 'POST',
 		dataType: 'json',
-		data: $("#contact-form"+"#contact-form :input"),
+		data: $("#contact-form :input"),
 		success: function(data) {
 				if(data['success'] == true)
 				{
