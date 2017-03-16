@@ -102,7 +102,7 @@ if (empty($error_text))
 else
 {
 	$data['success'] = false;
-	$data['error']  = $Name;
+	$data['error']  = var_dump($_REQUEST);
 }
 
 
