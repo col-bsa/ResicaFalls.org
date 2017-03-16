@@ -97,10 +97,14 @@ $Reference_Num = $database_connection->insert("arc_contactfrm", array(
  *           RETURN STATUS           *
  * * * * * * * * * * * * * * * * * * */
 
-if (empty($error_text)) {
+if (empty($error_text))
+	$data['success'] = true;
+else
+{
 	$data['success'] = false;
 	$data['error']  = $error_text;
 }
+
 
 echo json_encode($data);
 
