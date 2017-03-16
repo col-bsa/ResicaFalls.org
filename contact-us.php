@@ -41,15 +41,14 @@
 								<textarea class="form-control" name="message" id="forminput_message" rows="4" required></textarea>
 							</div>
 						</div>
+						<div class="g-recaptcha"
+							data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE"
+							data-callback="onSubmit"
+							data-size="invisible">
+						</div>
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
-								<button 
-									type="submit"
-									class="btn btn-primary btn-block g-recaptcha" 
-									data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE" 
-									data-callback='ContactUs' id="forminput_send">
-									Send
-								</button>
+								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
 							</div>
 						</div>
 						<div class="alert alert-info fade hidden" role="alert" id="alert-response">
