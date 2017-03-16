@@ -16,7 +16,7 @@ function ContactUs() {
 		url: '_inc/ContactUs_Engine.php',
 		type: 'post',
 		dataType: 'json',
-		data: $("form#contact-form"),
+		data: $("form#contact-form").serialize(),
 		success: function(data) {
 				if(data['success'] == true)
 				{
