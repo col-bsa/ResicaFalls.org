@@ -14,7 +14,7 @@ function ContactUs() {
 	$("#alert-response").addClass("show")
 	$.ajax({
 		url: '_inc/ContactUs_Engine.php',
-		type: 'post',
+		type: 'POST',
 		dataType: 'json',
 		data: $("form#contact-form").serialize(),
 		success: function(data) {
