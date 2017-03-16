@@ -44,6 +44,7 @@
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
 								<button 
+									type="submit"
 									class="btn btn-primary btn-block g-recaptcha" 
 									data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE" 
 									data-callback='ContactUs' id="forminput_send">
