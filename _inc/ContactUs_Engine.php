@@ -13,7 +13,7 @@
  *          ADMIN VARIABLES          *
  * * * * * * * * * * * * * * * * * * */
 
-$reCAPTCHA_Secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E"
+$reCAPTCHA_Secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
 
 /* * * * * * * * * * * * * * * * * * *
  *         REQUIRED INCLUDES         *

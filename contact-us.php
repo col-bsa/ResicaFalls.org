@@ -22,9 +22,6 @@
 							<h2>Send a Message</h2>
 						</div>
 					</div>
-					<div class="alert alert-info fade hidden" role="alert" id="alert-response">
-						<strong id="alert-headline">Loading...</strong> <span id="alert-text"></span>
-					</div>
 					<form id="contact-form">
 						<div class="form-group row">
 							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
@@ -53,6 +50,9 @@
 									Send
 								</button>
 							</div>
+						</div>
+						<div class="alert alert-info fade hidden" role="alert" id="alert-response">
+							<strong id="alert-headline">Loading...</strong> <span id="alert-text"></span>
 						</div>
 					</form>
 				</div>
