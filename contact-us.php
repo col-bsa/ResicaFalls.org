@@ -38,7 +38,7 @@
 						<div class="form-group row">
 							<label for="forminput_message" class="col-12 col-md-2 col-form-label">Message</label>
 							<div class="col-12 col-md-10">
-								<textarea class="form-control" name="message" id="forminput_message" rows="4"></textarea>
+								<textarea class="form-control" name="message" id="forminput_message" rows="6"></textarea>
 							</div>
 						</div>
 						<div class="g-recaptcha"
