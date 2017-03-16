@@ -25,9 +25,9 @@ require_once 'reCAPTCHA_Validator.php';
  *    COLLECT HTML FORM POST DATA    *
  * * * * * * * * * * * * * * * * * * */
 
-$Name = $_POST['forminput_name'];
-$Email = $_POST['forminput_email'];
-$Message = $_POST['forminput_message'];
+$Name = $_POST['name'];
+$Email = $_POST['email'];
+$Message = $_POST['message'];
 $reCAPTCHA_FormResponse = $_POST['g-recaptcha-response'];
 
 $RemoteIP = $_SERVER['REMOTE_ADDR'];
@@ -102,7 +102,7 @@ if (empty($error_text))
 else
 {
 	$data['success'] = false;
-	$data['error']  = $error_text;
+	$data['error']  = $Name;
 }
 
 
