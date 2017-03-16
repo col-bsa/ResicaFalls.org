@@ -1,9 +1,10 @@
-function onSubmit(token) {
-	alert('thanks ' + document.getElementById('field').value);
+function validate(event) {
+	event.preventDefault();
+	grecaptcha.execute();
 }
 function onload() {
 	var element = document.getElementById('forminput_send');
-	element.onclick = grecaptcha.execute;
+	element.onclick = validate;
 }
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("alert-info");
@@ -12,8 +13,6 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-text").text(alert_text);
 }
 function ContactUs() {
-	grecaptcha.execute();
-	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
