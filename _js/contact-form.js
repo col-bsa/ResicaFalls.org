@@ -8,6 +8,14 @@ function onload() {
 	element.onclick = validate;
 }
 */
+function dump(obj) {
+    var out = '';
+    for (var i in obj) {
+        out += i + ": " + obj[i] + "\n";
+    }
+
+    alert(out);
+}
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("alert-info");
 	$("#alert-response").addClass(alert_class);
@@ -23,7 +31,7 @@ $("#contact-form").submit(function(event) {
 	$("#forminput_send").prop('disabled', true);
 	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
-	alert($("#contact-form"));
+	dump($("#contact-form"));
 	$.ajax({
 		url: '_inc/ContactUs_Engine.php',
 		method: 'POST',
