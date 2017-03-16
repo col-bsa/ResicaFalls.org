@@ -15,7 +15,8 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-text").text(alert_text);
 }
 //function ContactUs() {
-$( "#contact-form" ).submit(function(event) {
+$("#contact-form").submit(function(event) {
+	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
