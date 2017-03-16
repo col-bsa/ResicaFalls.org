@@ -18,8 +18,7 @@ function ContactUs() {
 		dataType: 'json',
 		data: $("form#contact-form").serialize(),
 		success: function(data) {
-				obj = $.parseJSON(data);
-				if(obj.success == true)
+				if(data['success'] == true)
 				{
 					alert_class = "alert-success";
 					alert_headline = "Sent!";
@@ -29,7 +28,7 @@ function ContactUs() {
 				{
 					alert_class = "alert-danger";
 					alert_headline = "Uh-Oh!";
-					alert_text = obj.error;
+					alert_text = data['error'];
 				}
 				ContactUsAlert(alert_class, alert_headline, alert_text)
 		},
