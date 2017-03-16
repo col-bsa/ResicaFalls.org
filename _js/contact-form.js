@@ -23,11 +23,12 @@ $("#contact-form").submit(function(event) {
 	$("#forminput_send").prop('disabled', true);
 	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
+	alert($("#contact-form"));
 	$.ajax({
 		url: '_inc/ContactUs_Engine.php',
-		type: 'POST',
+		method: 'POST',
 		dataType: 'json',
-		data: $("#contact-form").serialize(),
+		data: $("#contact-form"),
 		success: function(data) {
 				if(data['success'] == true)
 				{
