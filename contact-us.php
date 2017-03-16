@@ -3,6 +3,7 @@
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<title>Contact Us <?php include '_inc/var/site_name.php'; ?></title>
+		<script type="text/javascript" src="_js/contact-form.js"></script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>
 	<body>
@@ -43,7 +44,7 @@
 						</div>
 						<div class="g-recaptcha"
 							data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE"
-							data-callback="onSubmit"
+							data-callback="ContactUs"
 							data-size="invisible">
 						</div>
 						<div class="form-group row">
@@ -73,6 +74,6 @@
 		</div>
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
-		<script type="text/javascript" src="_js/contact-form.js"></script>
+		<script>onload();</script>
 	</body>
 </html>

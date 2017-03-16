@@ -1,10 +1,18 @@
+function onSubmit(token) {
+	alert('thanks ' + document.getElementById('field').value);
+}
+function onload() {
+	var element = document.getElementById('forminput_send');
+	element.onclick = grecaptcha.execute;
+}
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("alert-info");
 	$("#alert-response").addClass(alert_class);
 	$("#alert-headline").text(alert_headline);
 	$("#alert-text").text(alert_text);
 }
-$( "#contact-form" ).submit(function(event) {
+function ContactUs() {
+	grecaptcha.execute();
 	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
@@ -36,4 +44,4 @@ $( "#contact-form" ).submit(function(event) {
 			ContactUsAlert("alert-danger", "Woops!", "Sorry, but it looks like something has gone wrong. Please try again later.")
 		}
 	});
-});
+};
