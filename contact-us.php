@@ -74,6 +74,6 @@
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
 		<script type="text/javascript" src="_js/contact-form.js"></script>
-		<!--<script>onload();</script>-->
+		<script>onload();</script>
 	</body>
 </html>

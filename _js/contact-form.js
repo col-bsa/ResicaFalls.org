@@ -1,4 +1,3 @@
-/*
 function validate(event) {
 	event.preventDefault();
 	grecaptcha.execute();
@@ -7,17 +6,14 @@ function onload() {
 	var element = document.getElementById('forminput_send');
 	element.onclick = validate;
 }
-*/
 function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("alert-info");
 	$("#alert-response").addClass(alert_class);
 	$("#alert-headline").text(alert_headline);
 	$("#alert-text").text(alert_text);
 }
-//function ContactUs() {
-$("#contact-form").submit(function(event) {
+function ContactUs() {
 	event.preventDefault();
-	grecaptcha.execute();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
@@ -48,5 +44,4 @@ $("#contact-form").submit(function(event) {
 			ContactUsAlert("alert-danger", "Woops!", "Sorry, but it looks like something has gone wrong. Please try again later.")
 		}
 	});
-});
-//}''
+};
