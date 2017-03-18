@@ -13,10 +13,10 @@ function validate(event) {
 	event.preventDefault();
 	if (!document.getElementById('forminput_name'))
 		alert_text = "No name selected.";
+	if (!document.getElementById('forminput_message') == "")
+		alert_text = "No message submitted.";
 	if (!document.getElementById('forminput_email') == "")
 		alert_text = "No email given.";
-	if (!document.getElementById('forminput_message') == "")
-		alert_text = "No message submitted."
 	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
 	if (alert_text != "") {
