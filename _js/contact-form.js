@@ -13,13 +13,13 @@ function validate(event) {
 	var alert_headline = "Loading...";
 	var alert_text = "";
 	event.preventDefault();
-	if (!document.getElementById('forminput_name').value == "") {
+	if (!(document.getElementById('forminput_name').value == "")) {
 		alert_text = "No name submitted.";
 	}
-	if (!document.getElementById('forminput_email').value == "") {
+	if (!(document.getElementById('forminput_email').value == "")) {
 		alert_text = "No email submitted.";
 	}
-	if (!document.getElementById('forminput_message').value == "") {
+	if (!(document.getElementById('forminput_message').value == "")) {
 		alert_text = "No message submitted.";
 	}
 	if (alert_text != "") {
