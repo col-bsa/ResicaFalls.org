@@ -19,7 +19,6 @@
 				</div>
 			</div>
 		</div>
-
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
 	</body>
