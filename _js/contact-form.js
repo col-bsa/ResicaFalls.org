@@ -17,6 +17,8 @@ function validate(event) {
 		alert_text = "No email given.";
 	if (!document.getElementById('forminput_message') == "")
 		alert_text = "No message submitted."
+	$("#alert-response").removeClass("hidden")
+	$("#alert-response").addClass("show")
 	if (alert_text != "") {
 		alert_class = "alert-warning";
 		ContactUsAlert(alert_class, alert_headline, alert_text)
@@ -36,8 +38,6 @@ function ContactUs() {
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
 	$("#forminput_send").prop('disabled', true);
-	$("#alert-response").removeClass("hidden")
-	$("#alert-response").addClass("show")
 	$.ajax({
 		url: '_inc/ContactUs_Engine.php',
 		method: 'POST',
