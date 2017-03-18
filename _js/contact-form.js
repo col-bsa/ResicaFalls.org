@@ -11,13 +11,13 @@ function validate(event) {
 	alert_headline = "Loading...";
 	alert_text = "";
 	event.preventDefault();
-	if (!document.getElementById('forminput_name')) {
+	if (!document.getElementById('forminput_name').value =="") {
 		alert_text = "No name submitted.";
 	}
-	if (!document.getElementById('forminput_email') == "") {
+	if (!document.getElementById('forminput_email').value == "") {
 		alert_text = "No email submitted.";
 	}
-	if (!document.getElementById('forminput_message') == "") {
+	if (!document.getElementById('forminput_message').value == "") {
 		alert_text = "No message submitted.";
 	}
 	$("#alert-response").removeClass("hidden")
