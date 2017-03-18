@@ -11,16 +11,15 @@ function validate(event) {
 	alert_headline = "Loading...";
 	alert_text = "";
 	event.preventDefault();
-	if (document.getElementById('forminput_name') == "")
+	if (!document.getElementById('forminput_name'))
 		alert_text = "No name selected.";
-	if (document.getElementById('forminput_email') == "")
+	if (!document.getElementById('forminput_email') == "")
 		alert_text = "No email given.";
-	if (document.getElementById('forminput_message') == "")
+	if (!document.getElementById('forminput_message') == "")
 		alert_text = "No message submitted."
 	if (alert_text != "") {
 		alert_class = "alert-warning";
 		ContactUsAlert(alert_class, alert_headline, alert_text)
-		return false;
 	}
 	else {
 		ContactUsAlert(alert_class, alert_headline, alert_text)
