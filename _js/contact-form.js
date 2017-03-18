@@ -1,16 +1,34 @@
+function ContactUsAlert(alert_class, alert_headline, alert_text) {
+	$("#alert-response").removeClass("alert-info");
+	$("#alert-response").removeClass("alert-warning");
+	$("#alert-response").removeClass("alert-danger");
+	$("#alert-response").addClass(alert_class);
+	$("#alert-headline").text(alert_headline);
+	$("#alert-text").text(alert_text);
+}
 function validate(event) {
+	alert_class = "alert-info";
+	alert_headline = "Loading...";
+	alert_text = "";
 	event.preventDefault();
-	grecaptcha.execute();
+	if (document.getElementById('forminput_name') == "")
+		alert_text = "No name selected.";
+	if (document.getElementById('forminput_email') == "")
+		alert_text = "No email given.";
+	if (document.getElementById('forminput_message') == "")
+		alert_text = "No message sumbitted."
+	if (alert_text != "") {
+		ContactUsAlert(alert_class, alert_headline, alert_text)
+		return false;
+	}
+	else {
+		ContactUsAlert(alert_class, alert_headline, alert_text)
+		grecaptcha.execute();
+	}
 }
 function onload() {
 	var element = document.getElementById('forminput_send');
 	element.onclick = validate;
-}
-function ContactUsAlert(alert_class, alert_headline, alert_text) {
-	$("#alert-response").removeClass("alert-info");
-	$("#alert-response").addClass(alert_class);
-	$("#alert-headline").text(alert_headline);
-	$("#alert-text").text(alert_text);
 }
 function ContactUs() {
 	event.preventDefault();
@@ -29,8 +47,8 @@ function ContactUs() {
 				if(data['success'] == true)
 				{
 					alert_class = "alert-success";
-					alert_headline = "Sent!";
-					alert_text = "Thank you! You should be hearing from a member of our team shortly.";
+					alert_headline = "Thank you!";
+					alert_text = "You should be hearing from a member of our team shortly.";
 				}
 				else
 				{
