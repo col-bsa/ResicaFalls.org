@@ -21,6 +21,7 @@ function validate(event) {
 	$("#alert-response").addClass("show")
 	if (alert_text != "") {
 		alert_class = "alert-warning";
+		alert_headline = "Woops!";
 		ContactUsAlert(alert_class, alert_headline, alert_text)
 	}
 	else {
