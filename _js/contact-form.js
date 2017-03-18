@@ -18,6 +18,7 @@ function validate(event) {
 	if (document.getElementById('forminput_message') == "")
 		alert_text = "No message submitted."
 	if (alert_text != "") {
+		alert_class = "alert-warning";
 		ContactUsAlert(alert_class, alert_headline, alert_text)
 		return false;
 	}
