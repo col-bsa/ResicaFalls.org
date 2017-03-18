@@ -9,9 +9,9 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").addClass("show")
 }
 function validate(event) {
-	alert_class = "alert-info";
-	alert_headline = "Loading...";
-	alert_text = "";
+	var alert_class = "alert-info";
+	var alert_headline = "Loading...";
+	var alert_text = "";
 	event.preventDefault();
 	if (!document.getElementById('forminput_name').value == "") {
 		alert_text = "No name submitted.";
