@@ -16,7 +16,7 @@ function validate(event) {
 	if (document.getElementById('forminput_email') == "")
 		alert_text = "No email given.";
 	if (document.getElementById('forminput_message') == "")
-		alert_text = "No message sumbitted."
+		alert_text = "No message submitted."
 	if (alert_text != "") {
 		ContactUsAlert(alert_class, alert_headline, alert_text)
 		return false;
