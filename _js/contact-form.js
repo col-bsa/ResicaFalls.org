@@ -5,13 +5,15 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").addClass(alert_class);
 	$("#alert-headline").text(alert_headline);
 	$("#alert-text").text(alert_text);
+	$("#alert-response").removeClass("hidden")
+	$("#alert-response").addClass("show")
 }
 function validate(event) {
 	alert_class = "alert-info";
 	alert_headline = "Loading...";
 	alert_text = "";
 	event.preventDefault();
-	if (!document.getElementById('forminput_name').value =="") {
+	if (!document.getElementById('forminput_name').value == "") {
 		alert_text = "No name submitted.";
 	}
 	if (!document.getElementById('forminput_email').value == "") {
@@ -20,8 +22,6 @@ function validate(event) {
 	if (!document.getElementById('forminput_message').value == "") {
 		alert_text = "No message submitted.";
 	}
-	$("#alert-response").removeClass("hidden")
-	$("#alert-response").addClass("show")
 	if (alert_text != "") {
 		alert_class = "alert-warning";
 		alert_headline = "Woops!";
