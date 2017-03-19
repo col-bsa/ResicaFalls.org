@@ -28,7 +28,6 @@ $("#contact-form").validate({
 				grecaptcha.execute();
 				return false;
 				}
-			}
 		}
 	}
 });
