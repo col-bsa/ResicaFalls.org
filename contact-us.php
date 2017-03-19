@@ -8,6 +8,7 @@
 	<body>
 		<?php include '_inc/header.php'; ?>
 		<?php include '_inc/nav.php'; ?>
+
 		<div class="container content">
 			<div class="row">
 				<div class="col">
@@ -52,7 +53,7 @@
 							</div>
 						</div>
 						<div class="alert alert-info fade hidden" role="alert" id="alert-response">
-							<strong id="alert-headline">Loading...</strong> <span id="alert-text"></span>
+							<strong id="alert-headline"></strong> <span id="alert-text"></span>
 						</div>
 					</form>
 				</div>

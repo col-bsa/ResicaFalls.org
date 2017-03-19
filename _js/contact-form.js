@@ -22,24 +22,19 @@ $("#contact-form").validate({
 		forminput_message: {
 			required: true,
 			minlength: 2
-		},
-		hiddenRecaptcha: {
-			required: function () {
-				event.preventDefault();
-				grecaptcha.execute();
-				if (grecaptcha.getResponse() == '') {
-					return true;
-				} else {
-					return false;
-				}
-			}
 		}
 	}
+});
+$("#forminput_send").click(function() {
+	$("#contact-form").validate();
+	if($("#contact-form").valid() != 0)
+		grecaptcha.execute;
 });
 function ContactUs() {
 	var alert_class;
 	var alert_headline;
 	var alert_text;
+	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
