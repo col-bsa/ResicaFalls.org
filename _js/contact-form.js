@@ -9,9 +9,6 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").addClass("show")
 }
 $("#contact-form").validate({
-	function () {
-		event.preventDefault();
-	}
 	ignore: ".ignore",
 	rules: {
 		forminput_name: {
@@ -25,6 +22,13 @@ $("#contact-form").validate({
 		forminput_message: {
 			required: true,
 			minlength: 2
+		},
+		hiddenRecaptcha: {
+			required: function () {
+				grecaptcha.execute();
+				return false;
+				}
+			}
 		}
 	}
 });
@@ -32,7 +36,7 @@ function ContactUs() {
 	var alert_class;
 	var alert_headline;
 	var alert_text;
-	grecaptcha.execute();
+	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
