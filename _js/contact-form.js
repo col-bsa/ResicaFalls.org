@@ -25,9 +25,12 @@ $("#contact-form").validate({
 		},
 		hiddenRecaptcha: {
 			required: function () {
-				event.preventDefault();
 				grecaptcha.execute();
-				return false;
+				if (grecaptcha.getResponse() == '') {
+					return true;
+				} else {
+					return false;
+				}
 			}
 		}
 	}
@@ -36,6 +39,7 @@ function ContactUs() {
 	var alert_class;
 	var alert_headline;
 	var alert_text;
+	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
