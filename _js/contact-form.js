@@ -23,10 +23,10 @@ $("#contact-form").validate({
 			required: true,
 			minlength: 2
 		}
-	}
+	},
 	submitHandler: function() {
-			grecaptcha.execute();
-		}
+		grecaptcha.execute();
+	}
 });
 function ContactUs() {
 	var alert_class;
