@@ -60,13 +60,14 @@ function ContactUs() {
 					alert_class = "alert-danger";
 					alert_headline = "Uh-Oh!";
 					alert_text = data['error'];
+					ContactUsAlert(alert_class, alert_headline, alert_text);
 				}
 		},
 		error: function(data) {
 			alert_class = "alert-danger";
 			alert_headline = "Woops!";
 			alert_text = "Sorry, but it looks like something has gone wrong. Please try again later.";
+			ContactUsAlert(alert_class, alert_headline, alert_text);
 		}
 	});
-	ContactUsAlert(alert_class, alert_headline, alert_text);
 };
