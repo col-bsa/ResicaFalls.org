@@ -27,8 +27,8 @@ $("#contact-form").validate({
 		email: {
 			required: "Please give us your email address.",
 			email: "Please put your email address in the format of name@domain.com"
-		}
-		message: "Please let us know what you want to say.",
+		},
+		message: "Please let us know what you want to say."
 	},
 	submitHandler: function() {
 		grecaptcha.execute();
