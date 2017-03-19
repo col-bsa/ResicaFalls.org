@@ -48,6 +48,9 @@ body{
 			color: white !important;
 		}
 	}
+.navbar-toggler{
+	border: 0;
+}
 /* Footer */
 .footer{
 	background: #FFF200;
