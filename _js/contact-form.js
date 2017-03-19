@@ -2,10 +2,10 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("alert-info");
 	$("#alert-response").removeClass("alert-warning");
 	$("#alert-response").removeClass("alert-danger");
-	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass(alert_class);
 	$("#alert-headline").text(alert_headline);
 	$("#alert-text").text(alert_text);
+	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
 }
 $("#contact-form").validate({
@@ -49,19 +49,19 @@ function ContactUs() {
 		dataType: 'json',
 		data: $("#contact-form :input"),
 		success: function(data) {
-				if(data['success'] == true)
-				{
-					alert_class = "alert-success";
-					alert_headline = "Thank you!";
-					alert_text = "You should be hearing from a member of our team shortly.";
-				}
-				else
-				{
-					alert_class = "alert-danger";
-					alert_headline = "Uh-Oh!";
-					alert_text = data['error'];
-					ContactUsAlert(alert_class, alert_headline, alert_text);
-				}
+			if(data['success'] == true)
+			{
+				alert_class = "alert-success";
+				alert_headline = "Thank you!";
+				alert_text = "You should be hearing from a member of our team shortly.";
+			}
+			else
+			{
+				alert_class = "alert-danger";
+				alert_headline = "Uh-Oh!";
+				alert_text = data['error'];
+			}
+			ContactUsAlert(alert_class, alert_headline, alert_text);
 		},
 		error: function(data) {
 			alert_class = "alert-danger";
