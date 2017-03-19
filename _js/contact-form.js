@@ -28,10 +28,7 @@ $("#contact-form").validate({
 $("#forminput_send").click(function() {
 	event.preventDefault();
 	if($("#contact-form").valid())
-	{
-		alert("Validity: " + $("#contact-form").valid());
 		grecaptcha.execute();
-	}
 });
 function ContactUs() {
 	var alert_class;
