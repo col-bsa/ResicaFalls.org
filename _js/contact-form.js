@@ -22,16 +22,6 @@ $("#contact-form").validate({
 		forminput_message: {
 			required: true,
 			minlength: 2
-		},
-		hiddenRecaptcha: {
-			required: function () {
-				grecaptcha.execute();
-				if (grecaptcha.getResponse() == '') {
-					return true;
-				} else {
-					return false;
-				}
-			}
 		}
 	}
 });
