@@ -11,15 +11,15 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 $("#contact-form").validate({
 	debug: true,
 	rules: {
-		forminput_name: {
+		name: {
 			required: true,
 			minlength: 2
 		},
-		forminput_email: {
+		email: {
 			required: true,
 			email: true
 		},
-		forminput_message: {
+		message: {
 			required: true,
 			minlength: 2
 		}
