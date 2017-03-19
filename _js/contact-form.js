@@ -9,7 +9,6 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").addClass("show")
 }
 $("#contact-form").validate({
-	debug: true,
 	rules: {
 		name: {
 			required: true
