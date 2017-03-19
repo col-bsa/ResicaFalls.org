@@ -8,26 +8,27 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
 }
-$("#contact-form").validate({
-	ignore: ".ignore",
-	rules: {
-		forminput_name: {
-			required: true,
-			minlength: 2
-		},
-		forminput_email: {
-			required: true,
-			email: true
-		},
-		forminput_message: {
-			required: true,
-			minlength: 2
-		}
-	}
-});
 $("#forminput_send").click(function() {
 	event.preventDefault();
-	if($("#contact-form").valid())
+	var form = $("#contact-form");
+	form.validate({
+		ignore: ".ignore",
+		rules: {
+			forminput_name: {
+				required: true,
+				minlength: 2
+			},
+			forminput_email: {
+				required: true,
+				email: true
+			},
+			forminput_message: {
+				required: true,
+				minlength: 2
+			}
+		}
+	});
+	if(form.valid())
 		grecaptcha.execute();
 });
 function ContactUs() {
