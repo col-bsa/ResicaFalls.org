@@ -8,7 +8,6 @@
 	<body>
 		<?php include '_inc/header.php'; ?>
 		<?php include '_inc/nav.php'; ?>
-
 		<div class="container content">
 			<div class="row">
 				<div class="col">
