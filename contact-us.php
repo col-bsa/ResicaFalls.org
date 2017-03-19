@@ -46,6 +46,7 @@
 							data-callback="ContactUs"
 							data-size="invisible">
 						</div>
+						<input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha">
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
