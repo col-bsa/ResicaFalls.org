@@ -40,13 +40,19 @@
 								<textarea class="form-control" name="message" id="forminput_message" rows="6"></textarea>
 							</div>
 						</div>
+						<div class="g-recaptcha"
+							data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE"
+							data-callback="ContactUs"
+							data-size="invisible">
+						</div>
+						<input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha">
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
 							</div>
 						</div>
 						<div class="alert alert-info fade hidden" role="alert" id="alert-response">
-							<strong id="alert-headline"></strong> <span id="alert-text"></span>
+							<strong id="alert-headline">Loading...</strong> <span id="alert-text"></span>
 						</div>
 					</form>
 				</div>
