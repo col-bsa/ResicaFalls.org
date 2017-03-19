@@ -48,7 +48,7 @@
 						</div>
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
-								<button class="btn btn-primary btn-block" id="forminput_send">Send</button>
+								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
 							</div>
 						</div>
 						<div class="alert alert-info fade hidden" role="alert" id="alert-response">
