@@ -9,6 +9,9 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").addClass("show")
 }
 $("#contact-form").validate({
+	function () {
+		event.preventDefault();
+	}
 	ignore: ".ignore",
 	rules: {
 		forminput_name: {
@@ -29,7 +32,6 @@ function ContactUs() {
 	var alert_class;
 	var alert_headline;
 	var alert_text;
-	event.preventDefault();
 	grecaptcha.execute();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
