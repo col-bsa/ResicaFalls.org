@@ -25,15 +25,11 @@ $("#contact-form").validate({
 		}
 	}
 });
-$("#forminput_send").click(function() {
-	event.preventDefault();
-	if($("#contact-form").valid())
-		grecaptcha.execute();
-});
 function ContactUs() {
 	var alert_class;
 	var alert_headline;
 	var alert_text;
+	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
 	$("#forminput_message").prop('disabled', true);
