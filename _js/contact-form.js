@@ -1,3 +1,13 @@
+function ContactUsAlert(alert_class, alert_headline, alert_text) {
+	$("#alert-response").removeClass("alert-info");
+	$("#alert-response").removeClass("alert-warning");
+	$("#alert-response").removeClass("alert-danger");
+	$("#alert-response").addClass(alert_class);
+	$("#alert-headline").text(alert_headline);
+	$("#alert-text").text(alert_text);
+	$("#alert-response").removeClass("hidden")
+	$("#alert-response").addClass("show")
+}
 $("#contact-form").validate({
 	ignore: ".ignore",
 	rules: {
@@ -24,15 +34,9 @@ $("#contact-form").validate({
 		}
 	}
 });
-function ContactUsAlert(alert_class, alert_headline, alert_text) {
-	$("#alert-response").removeClass("alert-info");
-	$("#alert-response").removeClass("alert-warning");
-	$("#alert-response").removeClass("alert-danger");
-	$("#alert-response").addClass(alert_class);
-	$("#alert-headline").text(alert_headline);
-	$("#alert-text").text(alert_text);
-	$("#alert-response").removeClass("hidden")
-	$("#alert-response").addClass("show")
+function onload() {
+	var element = document.getElementById('forminput_send');
+	element.onclick = validate;
 }
 function ContactUs() {
 	var alert_class;
