@@ -8,35 +8,34 @@ function ContactUsAlert(alert_class, alert_headline, alert_text) {
 	$("#alert-response").removeClass("hidden")
 	$("#alert-response").addClass("show")
 }
-function validate(event) {
-	var alert_class = "alert-info";
-	var alert_headline = "Loading...";
-	var alert_text = "";
-	event.preventDefault();
-	if (!(document.getElementById('forminput_name').value == "")) {
-		alert_text = "No name submitted.";
+$("#contact-form").validate({
+	ignore: ".ignore",
+	rules: {
+		forminput_name: {
+			required: true,
+			minlength: 2
+		},
+		forminput_email: {
+			required: true,
+			email: true
+		},
+		forminput_message: {
+			required: true,
+			minlength: 2
+		},
+		hiddenRecaptcha: {
+			required: function () {
+				grecaptcha.execute();
+				return false;
+				}
+			}
+		}
 	}
-	if (!(document.getElementById('forminput_email').value == "")) {
-		alert_text = "No email submitted.";
-	}
-	if (!(document.getElementById('forminput_message').value == "")) {
-		alert_text = "No message submitted.";
-	}
-	if (alert_text != "") {
-		alert_class = "alert-warning";
-		alert_headline = "Woops!";
-		ContactUsAlert(alert_class, alert_headline, alert_text)
-	}
-	else {
-		ContactUsAlert(alert_class, alert_headline, alert_text)
-		grecaptcha.execute();
-	}
-}
-function onload() {
-	var element = document.getElementById('forminput_send');
-	element.onclick = validate;
-}
+});
 function ContactUs() {
+	var alert_class;
+	var alert_headline;
+	var alert_text;
 	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);

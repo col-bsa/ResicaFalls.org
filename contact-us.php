@@ -46,6 +46,7 @@
 							data-callback="ContactUs"
 							data-size="invisible">
 						</div>
+						<input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha">
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
@@ -73,7 +74,7 @@
 		</div>
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
+		<script src="_js/jquery-validation-1.16.0/dist/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="_js/contact-form.js"></script>
-		<script>onload();</script>
 	</body>
 </html>
