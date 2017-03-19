@@ -25,6 +25,7 @@ $("#contact-form").validate({
 		},
 		hiddenRecaptcha: {
 			required: function () {
+				grecaptcha.execute();
 				if (grecaptcha.getResponse() == '') {
 					return true;
 				} else {
