@@ -13,13 +13,13 @@ function validate(event) {
 	var alert_headline = "Loading...";
 	var alert_text = "";
 	event.preventDefault();
-	if (!(document.getElementById('forminput_name').value == "")) {
+	if ($("#forminput_name").value == "") {
 		alert_text = "No name submitted.";
 	}
-	if (!(document.getElementById('forminput_email').value == "")) {
+	if ($("#forminput_email").value == "") {
 		alert_text = "No email submitted.";
 	}
-	if (!(document.getElementById('forminput_message').value == "")) {
+	if ($("#forminput_message").value == "") {
 		alert_text = "No message submitted.";
 	}
 	if (alert_text != "") {
@@ -37,6 +37,9 @@ function onload() {
 	element.onclick = validate;
 }
 function ContactUs() {
+	var alert_class;
+	var alert_headline;
+	var alert_text;
 	event.preventDefault();
 	$("#forminput_name").prop('disabled', true);
 	$("#forminput_email").prop('disabled', true);
