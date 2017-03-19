@@ -34,10 +34,6 @@ $("#contact-form").validate({
 		}
 	}
 });
-function onload() {
-	var element = document.getElementById('forminput_send');
-	element.onclick = validate;
-}
 function ContactUs() {
 	var alert_class;
 	var alert_headline;

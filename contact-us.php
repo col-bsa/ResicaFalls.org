@@ -76,6 +76,5 @@
 		<?php include '_inc/html_foot.php'; ?>
 		<script src="_js/jquery-validation-1.16.0/dist/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="_js/contact-form.js"></script>
-		<script>onload();</script>
 	</body>
 </html>
