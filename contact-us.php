@@ -22,7 +22,7 @@
 							<h2>Send a Message</h2>
 						</div>
 					</div>
-					<form id="contact-form" onsubmit="grecaptcha.execute();">
+					<form id="contact-form">
 						<div class="form-group row">
 							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
 							<div class="col-12 col-md-10">
