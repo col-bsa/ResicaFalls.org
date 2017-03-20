@@ -20,7 +20,7 @@ $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
  * * * * * * * * * * * * * * * * * * */
 
 require_once 'reCAPTCHA_Validator.php';
-require_once 'php-smtp/src/models/Travis/SMTP.php';
+require_once './php-smtp/src/models/Travis/SMTP.php';
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
