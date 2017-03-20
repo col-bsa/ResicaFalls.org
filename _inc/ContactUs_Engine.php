@@ -20,7 +20,7 @@ $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
  * * * * * * * * * * * * * * * * * * */
 
 require_once 'reCAPTCHA_Validator.php';
-require_once './php-smtp/src/models/Travis/SMTP.php';
+require_once 'php-smtp/src/models/Travis/SMTP.php';
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -96,7 +96,7 @@ $Reference_Num = $database_connection->insert("arc_contactfrm", array(
 $send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 	PHP_EOL . PHP_EOL . $message . PHP_EOL . PHP_EOL . $name . PHP_EOL . $email;
 
-$mail = new Travis\SMTP(require __DIR__ . 'php-smtp/src/config/config.php');
+$mail = new Travis\SMTP(require __DIR__ . '/php-smtp/src/config/config.php');
 use Travis\SMTP;
 
 $mail = new SMTP($config);
