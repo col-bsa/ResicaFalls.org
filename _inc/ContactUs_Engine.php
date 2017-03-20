@@ -47,15 +47,31 @@ $TimeStamp = date('l jS \of F Y h:i:s A');
 
 if (empty($user_data['recaptcha']))
 	$error_text = "reCAPTCHA was not received.";
-if(!isset($error_text))
-	$error_text = isreCAPTCHAValid($recaptcha_secret, $user_data['recaptcha'], $user_data['address']) ? "" : "reCAPTCHA was not verified.";
 
 if(!isset($error_text))
-	$error_text = empty($user_data['name']) ? "Name was not received." : "";
+{
+	$recaptcha_status   = isreCAPTCHAValid($recaptcha_secret, $user_data['recaptcha'], $user_data['address']);
+	if ($recaptcha_status != true)
+		$error_text = "reCAPTCHA was not verified.";
+}
+
 if(!isset($error_text))
-	$error_text = empty($user_data['email']) ? "Email was not received." : "";
+{
+	if (empty($user_data['name']))
+		$error_text = "Name was not received.";
+}
+
 if(!isset($error_text))
-	$error_text = empty($user_data['message']) ? "Message was not received." : "";
+{
+	if (empty($user_data['email']))
+		$error_text = "Email was not received.";
+}
+
+if(!isset($error_text))
+{
+	if (empty($user_data['message']))
+		$error_text = "Message was not received.";
+}
 
 if(!isset($error_text))
 {
