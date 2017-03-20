@@ -13,7 +13,7 @@
  *          ADMIN VARIABLES          *
  * * * * * * * * * * * * * * * * * * */
 
-$reCAPTCHA_Secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
+$recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
 
 /* * * * * * * * * * * * * * * * * * *
  *         REQUIRED INCLUDES         *
@@ -25,12 +25,12 @@ require_once 'reCAPTCHA_Validator.php';
  *    COLLECT HTML FORM POST DATA    *
  * * * * * * * * * * * * * * * * * * */
 
-$Name = $_POST['name'];
-$Email = $_POST['email'];
-$Message = $_POST['message'];
-$reCAPTCHA_FormResponse = $_POST['g-recaptcha-response'];
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+$recaptcha_response = $_POST['g-recaptcha-response'];
 
-$RemoteIP = $_SERVER['REMOTE_ADDR'];
+$remote_ip = $_SERVER['REMOTE_ADDR'];
 	
 date_default_timezone_set("America/New_York");
 $TimeStamp = date('l jS \of F Y h:i:s A');
@@ -41,31 +41,31 @@ $TimeStamp = date('l jS \of F Y h:i:s A');
 
 $data = array();
 
-if (empty($reCAPTCHA_FormResponse))
+if (empty($recaptcha_response))
 	$error_text = "reCAPTCHA was not received.";
 
 if(!isset($error_text))
 {
-	$reCAPTCHAStatus   = isreCAPTCHAValid($reCAPTCHA_Secret, $reCAPTCHA_FormResponse, $RemoteIP);
+	$reCAPTCHAStatus   = isreCAPTCHAValid($recaptcha_secret, $recaptcha_response, $remote_ip);
 	if ($reCAPTCHAStatus != true)
 		$error_text = "reCAPTCHA was not verified.";
 }
 
 if(!isset($error_text))
 {
-	if (empty($Name))
+	if (empty($name))
 		$error_text = "Name was not received.";
 }
 
 if(!isset($error_text))
 {
-	if (empty($Email))
+	if (empty($email))
 		$error_text = "Email was not received.";
 }
 
 if(!isset($error_text))
 {
-	if (empty($Message))
+	if (empty($message))
 		$error_text = "Message was not received.";
 }
 
@@ -79,10 +79,10 @@ $database_connection = new medoo();
 
 $Reference_Num = $database_connection->insert("arc_contactfrm", array(
 	"recipient" => $Recip,
-	"name" => $Name,
-	"email" => $Email,
+	"name" => $name,
+	"email" => $email,
 	"subject" => $Subject,
-	"message" => $Message,
+	"message" => $message,
 	"orig_IP" => $IP,
 	"timestamp" => $TimeStamp
 ));
@@ -92,6 +92,20 @@ $Reference_Num = $database_connection->insert("arc_contactfrm", array(
  *          EMAIL FORM DATA          *
  * * * * * * * * * * * * * * * * * * */
 
+$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
+	PHP_EOL . PHP_EOL . $message . PHP_EOL . PHP_EOL . $name . PHP_EOL . $email;
+
+$mail = new Travis\SMTP(require __DIR__ . 'php-smtp/src/config/config.php');
+use Travis\SMTP;
+
+$mail = new SMTP($config);
+$mail->to('dgibbons@unamilodge.org');
+$mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
+$mail->reply($email, $name);
+$mail->subject('ResicaFalls.org Contact Us Submission');
+$mail->text($send_text);
+$result = $mail->send_text();
+$result = $mail->send();
 
 /* * * * * * * * * * * * * * * * * * *
  *           RETURN STATUS           *

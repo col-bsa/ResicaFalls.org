@@ -15,12 +15,12 @@ return [
     'default' => 'primary',
     'connections' => [
         'primary' => [
-            'host' => '',
-            'port' => '',
-            'secure' => null, // null, 'ssl', or 'tls'
-            'auth' => false, // true if authorization required
-            'user' => '',
-            'pass' => '',
+            'host' => 'seahawks.unisonplatform.com',
+            'port' => '465',
+            'secure' => ssl, // null, 'ssl', or 'tls'
+            'auth' => true, // true if authorization required
+            'user' => 'website@resicafalls.org',
+            'pass' => 'vx1j9eWTYjNvWQMtAY^!',
         ],
     ],
 
@@ -29,6 +29,6 @@ return [
     // "localhost" may cause the email to be considered spam.
     // http://stackoverflow.com/questions/5294478/significance-of-localhost-in-helo-localhost
 
-    'localhost' => 'localhost', // rename to the URL you want as origin of email
+    'localhost' => 'resicafalls.org', // rename to the URL you want as origin of email
 
 ];
