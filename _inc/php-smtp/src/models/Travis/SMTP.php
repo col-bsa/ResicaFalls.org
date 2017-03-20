@@ -56,7 +56,7 @@ class SMTP {
         $this->pass = $connection['pass'];
 
         // set debug mode
-        $this->debug_mode = true; //$this->config('debug_mode');
+        $this->debug_mode = $this->config('debug_mode');
 
         // set localhost
         $this->localhost = $this->config('default');

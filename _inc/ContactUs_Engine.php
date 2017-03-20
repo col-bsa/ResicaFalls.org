@@ -100,7 +100,6 @@ $send_text = "The following was submitted to ResicaFalls.org/contact-us." .
 $mail = new Travis\SMTP(require __DIR__ . '/php-smtp/src/config/config.php');
 use Travis\SMTP;
 
-$mail = new SMTP($config);
 $mail->to('dgibbons@unamilodge.org');
 $mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
 //$mail->reply($email, $name);
@@ -120,7 +119,6 @@ else
 	$data['success'] = false;
 	$data['error']  = $error_text;
 }
-
 
 echo json_encode($data);
 
