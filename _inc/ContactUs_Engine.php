@@ -14,6 +14,7 @@
  * * * * * * * * * * * * * * * * * * */
 
 $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
+// SMTP information: [web root]/_inc/php-smtp/src/config/config.php
 
 /* * * * * * * * * * * * * * * * * * *
  *         REQUIRED INCLUDES         *
@@ -27,12 +28,15 @@ require_once 'php-smtp/src/models/Travis/SMTP.php';
  *    COLLECT HTML FORM POST DATA    *
  * * * * * * * * * * * * * * * * * * */
 
-$name = $_POST['name'];
-$email = $_POST['email'];
-$message = $_POST['message'];
-$recaptcha_response = $_POST['g-recaptcha-response'];
+$user_data = array();
+$return_data = array();
 
-$remote_ip = $_SERVER['REMOTE_ADDR'];
+$user_data['name'] = $_POST['name'];
+$user_data['email'] = $_POST['email'];
+$user_data['message'] = $_POST['message'];
+$user_data['recaptcha'] = $_POST['g-recaptcha-response'];
+
+$user_data['address'] = $_SERVER['REMOTE_ADDR'];
 	
 date_default_timezone_set("America/New_York");
 $TimeStamp = date('l jS \of F Y h:i:s A');
@@ -41,35 +45,17 @@ $TimeStamp = date('l jS \of F Y h:i:s A');
  *           VALIDATE DATA           *
  * * * * * * * * * * * * * * * * * * */
 
-$data = array();
-
-if (empty($recaptcha_response))
+if (empty($user_data['recaptcha']))
 	$error_text = "reCAPTCHA was not received.";
+if(!isset($error_text))
+	$error_text = isreCAPTCHAValid($recaptcha_secret, $user_data['recaptcha'], $user_data['address']) ? "" : "reCAPTCHA was not verified.";
 
 if(!isset($error_text))
-{
-	$reCAPTCHAStatus   = isreCAPTCHAValid($recaptcha_secret, $recaptcha_response, $remote_ip);
-	if ($reCAPTCHAStatus != true)
-		$error_text = "reCAPTCHA was not verified.";
-}
-
+	$error_text = empty($user_data['name']) ? "Name was not received." : "";
 if(!isset($error_text))
-{
-	if (empty($name))
-		$error_text = "Name was not received.";
-}
-
+	$error_text = empty($user_data['email']) ? "Email was not received." : "";
 if(!isset($error_text))
-{
-	if (empty($email))
-		$error_text = "Email was not received.";
-}
-
-if(!isset($error_text))
-{
-	if (empty($message))
-		$error_text = "Message was not received.";
-}
+	$error_text = empty($user_data['message']) ? "Message was not received." : "";
 
 if(!isset($error_text))
 {
@@ -80,14 +66,14 @@ if(!isset($error_text))
 
 	/*
 	require_once 'Medoo/medoo.php';
-	$database_connection = new medoo();
+	$return_database_connection = new medoo();
 
-	$Reference_Num = $database_connection->insert("arc_contactfrm", array(
+	$Reference_Num = $return_database_connection->insert("arc_contactfrm", array(
 		"recipient" => $Recip,
-		"name" => $name,
-		"email" => $email,
+		"name" => $user_data['name'],
+		"email" => $user_data['email'],
 		"subject" => $Subject,
-		"message" => $message,
+		"message" => $user_data['message'],
 		"orig_IP" => $IP,
 		"timestamp" => $TimeStamp
 	));
@@ -98,13 +84,13 @@ if(!isset($error_text))
  	* * * * * * * * * * * * * * * * * * */
 
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
-		PHP_EOL . PHP_EOL . $message . PHP_EOL . PHP_EOL . $name . PHP_EOL . $email;
+		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
 	$mail = new Travis\SMTP(require __DIR__ . '/php-smtp/src/config/config.php');
 
 	$mail->to('dgibbons@unamilodge.org');
 	$mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
-	$mail->reply($email, $name);
+	$mail->reply($user_data['email'], $user_data['name']);
 	$mail->subject('ResicaFalls.org Contact Us Submission');
 	$mail->text($send_text);
 	$result = $mail->send_text();
@@ -117,13 +103,13 @@ if(!isset($error_text))
  * * * * * * * * * * * * * * * * * * */
 
 if (empty($error_text))
-	$data['success'] = true;
+	$return_data['success'] = true;
 else
 {
-	$data['success'] = false;
-	$data['error']  = $error_text;
+	$return_data['success'] = false;
+	$return_data['error']  = $error_text;
 }
 
-echo json_encode($data);
+echo json_encode($return_data);
 
 ?>
