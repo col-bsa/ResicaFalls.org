@@ -100,8 +100,7 @@ if(!isset($error_text))
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $message . PHP_EOL . PHP_EOL . $name . PHP_EOL . $email;
 
-	$mail = new Travis\SMTP(require 'php-smtp/src/config/config.php');
-	use Travis\SMTP;
+	$mail = new Travis\SMTP(require __DIR__ . '/php-smtp/src/config/config.php');
 
 	$mail->to('dgibbons@unamilodge.org');
 	$mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
@@ -110,7 +109,7 @@ if(!isset($error_text))
 	$mail->text($send_text);
 	$result = $mail->send_text();
 	$result = $mail->send();
-	
+
 }
 
 /* * * * * * * * * * * * * * * * * * *
