@@ -40,7 +40,7 @@ $TimeStamp = date('l jS \of F Y h:i:s A');
  * * * * * * * * * * * * * * * * * * */
 
 $data = array();
-
+/*
 if (empty($recaptcha_response))
 	$error_text = "reCAPTCHA was not received.";
 
@@ -68,7 +68,7 @@ if(!isset($error_text))
 	if (empty($message))
 		$error_text = "Message was not received.";
 }
-
+*/
 /* * * * * * * * * * * * * * * * * * *
  *          DATABASE INSERT          *
  * * * * * * * * * * * * * * * * * * */
@@ -101,7 +101,7 @@ use Travis\SMTP;
 $mail = new SMTP($config);
 $mail->to('dgibbons@unamilodge.org');
 $mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
-$mail->reply($email, $name);
+//$mail->reply($email, $name);
 $mail->subject('ResicaFalls.org Contact Us Submission');
 $mail->text($send_text);
 $result = $mail->send_text();
