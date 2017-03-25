@@ -43,13 +43,13 @@
 					<div class="grid-text h2">Fawn Run</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/paddlerama1_250.jpg" alt="">
 					<div class="grid-text h2">Paddlerama</div>
 				</a>
 			</div>
 			<div class="row">
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/danbeard1_250.jpg" alt="">
 					<div class="grid-text h2">Dan Beard</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
