@@ -1,3 +1,3 @@
 <div class="header">
-	<a href="index.php"><img src="_img/logo_full.png" alt="" width="100px"></a>
+	<a href="index.php"><span class="logo"><?php echo file_get_contents("_img/logo_60th.svg"); ?></span></a>
 </div>

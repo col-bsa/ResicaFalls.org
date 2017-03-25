@@ -30,41 +30,41 @@
 
 		<div class="container content">
 			<div class="row">
-				<a class="col-6 col-md-auto grid-item" href="coming-soon">
-					<img class="img-fluid" src="_img/program_thumbnails/News-250x250.jpg" alt="">
-					<div class="grid-text h2">News</div>
-				</a>
 				<a class="col-6 col-md-auto grid-item" href="troop-one">
-					<img class="img-fluid" src="_img/program_thumbnails/TroopOne-250x250.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/_thumbnails/TroopOne-250x250.jpg" alt="">
 					<div class="grid-text h2">Troop 1</div>
 				</a>
-				<a class="col-6 col-md-auto grid-item" href="fawn-one">
-					<img class="img-fluid" src="_img/program_thumbnails/FawnRun-250x250.jpg" alt="">
-					<div class="grid-text h2">Fawn Run</div>
-				</a>
-				<a class="col-6 col-md-auto grid-item" href="paddlerama">
-					<img class="img-fluid" src="_img/program_thumbnails/Paddlerama-250x250.jpg" alt="">
-					<div class="grid-text h2">Paddlerama</div>
-				</a>
-			</div>
-			<div class="row">
-				<a class="col-6 col-md-auto grid-item" href="dan-beard">
-					<img class="img-fluid" src="_img/program_thumbnails/DanBeard-250x250.jpg" alt="">
-					<div class="grid-text h2">Dan Beard</div>
-				</a>
 				<a class="col-6 col-md-auto grid-item" href="atv-program">
-					<img class="img-fluid" src="_img/program_thumbnails/ATV-250x250.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/_thumbnails/ATV-250x250.jpg" alt="">
 					<div class="grid-text h2">ATV Program</div>
 				</a>
-				<a class="col-6 col-md-auto grid-item" href="high-five">
-					<img class="img-fluid" src="_img/program_thumbnails/High5-250x250.jpg" alt="">
-					<div class="grid-text h2">High 5</div>
+				<a class="col-6 col-md-auto grid-item" href="paddlerama">
+					<img class="img-fluid" src="_img/programs/_thumbnails/Paddlerama-250x250.jpg" alt="">
+					<div class="grid-text h2">Paddlerama</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="nylt">
-					<img class="img-fluid" src="_img/program_thumbnails/NYLT-250x250.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/_thumbnails/NYLT-250x250.jpg" alt="">
 					<div class="grid-text h2">NYLT</div>
 				</a>
 			</div>
+			<!-- <div class="row">
+				<a class="col-6 col-md-auto grid-item" href="dan-beard">
+					<img class="img-fluid" src="_img/programs/_thumbnails/DanBeard-250x250.jpg" alt="">
+					<div class="grid-text h2">Dan Beard</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="coming-soon">
+					<img class="img-fluid" src="_img/programs/_thumbnails/News-250x250.jpg" alt="">
+					<div class="grid-text h2">News</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="fawn-one">
+					<img class="img-fluid" src="_img/programs/_thumbnails/FawnRun-250x250.jpg" alt="">
+					<div class="grid-text h2">Fawn Run</div>
+				</a>
+				<a class="col-6 col-md-auto grid-item" href="high-five">
+					<img class="img-fluid" src="_img/programs/_thumbnails/High5-250x250.jpg" alt="">
+					<div class="grid-text h2">High 5</div>
+				</a>
+			</div> -->
 		</div>
 
 		<?php include '_inc/footer.php'; ?>	
