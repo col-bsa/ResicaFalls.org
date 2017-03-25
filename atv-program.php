@@ -17,13 +17,10 @@
 			<div class="row">
 				<div class="col">
 					<p>
-						Join us for a week-long trip of over 70 miles down the picturesque Delaware River. Paddlerama participants start out North of Big Springs and end the week at the Delaware Water Gap. Enjoy the natural wonder of the Delaware River. Camp along the river, run some rapids and share experiences with Scouts from other troops in this wet and wild experience. This is a great opportunity for Scouts that are looking for an exciting, outdoor experience and love the water!
+						In the summer of 2016 Resica Falls premiered its newest and most exciting program area: the ATV course! Presented through a partnership between the Boy Scouts of America and Polaris Industries Inc., Scouts can spend a week learning the fundamentals of riding under the supervision of an ATV Safety Institute-certified instructor. Scouts begin riding on day one, and by Friday they’ll be riding the reservation like pros! Scouts who successfully complete the program will receive a certificate and an ATV <em>RiderCourse</em>&trade; certification card from the ATV Safety Institute.
 					</p>
 					<p>
-						Begin your week at Resica Falls Scout Reservation where you will meet your guides for the week. With their help you will go over the trip’s itinerary, get a review and fit of the equipment you will use and get any skill refresher you may need. You will then review the safety procedures and effectively pack for your adventure.
-					</p>
-					<p>
-						To Participate in Paddlerama you must be a registered Scout and at least 14 Years old at the time of participation.  You must also have a current BSA Annual Health &amp; Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” during the swim test.
+						In order to participate in the ATV program, Scouts must be over the age of 14, weigh 225 lbs or less, and have a parent’s permission. Scouts must also have a current BSA Annual Health & Medical Record signed by a physician within the last 12 months. The program costs an additional $25 beyond the normal summer camp fee.
 					</p>
 				</div>
 			</div>
