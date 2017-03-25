@@ -30,50 +30,50 @@
 							<tr>
 								<td>Week 1</td>
 								<td>June 25 – July 1</td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1891460&OrgKey=1112#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1891460&OrgKey=1112#">Register Now!</a></td>
 								<td></td>									
 							</tr>
 							<tr>
 								<td>Week 2</td>
 								<td>July 2 – July 8</td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948078&OrgKey=1112#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948078&OrgKey=1112#">Register Now!</a></td>
 								<td></td>									
 							</tr>
 							<tr>
 								<td>Week 3</td>
 								<td>July 9 – July 15</td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td>Registration Full</td>
+								<td>Registration Full</td>
 								<td><a href="#">NYLT</a></td></td>									
 							</tr>
 							<tr>
 								<td>Week 4</td>
 								<td>July 16 – July 22</td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948524&OrgKey=1112#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948524&OrgKey=1112#">Register Now!</a></td>
 								<td></td>									
 							</tr>
 							<tr>
 								<td>Week 5</td>
 								<td>July 23 – July 29</td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948744&OrgKey=1112#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948744&OrgKey=1112#">Register Now!</a></td>
 								<td></td>									
 							</tr>
 							<tr>
 								<td>Week 6</td>
 								<td>July 30 – Aug 5 </td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948967&OrgKey=1112#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1948967&OrgKey=1112#">Register Now!</a></td>
 								<td></td>									
 							</tr>
 							<tr>
 								<td>Week 7</td>
 								<td>Aug 6 – Aug 12 </td>
-								<td><a href="#">Register Now!</a></td>
-								<td><a href="#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1949190&OrgKey=1112#">Register Now!</a></td>
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1949190&OrgKey=1112#">Register Now!</a></td>
 								<td><a href="#">NYLT</a></td></td>									
 							</tr>
 						</tbody>
@@ -97,7 +97,7 @@
 								<td>Adult Rate: $190 per Adult</td>
 							</tr>
 							<tr>
-								<td>Get 1 Free Adult for every 10 Scouts!</td>
+								<td>Get 1 Free Adult with your first 20 Scouts, then 1 Free Adult for every 10 Scouts after!</td>
 							</tr>
 							<tr>
 								<td>Your unit must be paid in full by May 15th to receive the Early Bird rate.</td>
