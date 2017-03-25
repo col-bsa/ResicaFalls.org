@@ -9,7 +9,7 @@
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Future<br class="hidden-md-down"> Campers</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
-					<a class="dropdown-item" href="coming-soon">Programs &amp Opportunities</a>
+					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp Opportunities</a>
 					<a class="dropdown-item" href="coming-soon">Food &amp Nutrition</a>
 					<a class="dropdown-item" href="coming-soon">Taste of Camp</a>
 					<a class="dropdown-item" href="camp-history">Camp History</a>
