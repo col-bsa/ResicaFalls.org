@@ -37,11 +37,11 @@
 
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/paddlerama/400x300/PR01.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/Paddlerama/400x300/PR01.jpg" alt="">
 					<br><br>
-					<img class="img-fluid rounded" src="_img/paddlerama/400x300/PR02.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/Paddlerama/400x300/PR02.jpg" alt="">
 					<br><br>
-					<img class="img-fluid rounded" src="_img/paddlerama/400x300/PR03.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/Paddlerama/400x300/PR03.jpg" alt="">
 				</div>
 			</div>
 		</div>
