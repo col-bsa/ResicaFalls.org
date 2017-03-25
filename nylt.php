@@ -17,14 +17,13 @@
 			<div class="row">
 				<div class="col">
 					<p>
-						Join us for a week-long trip of over 70 miles down the picturesque Delaware River. Paddlerama participants start out North of Big Springs and end the week at the Delaware Water Gap. Enjoy the natural wonder of the Delaware River. Camp along the river, run some rapids and share experiences with Scouts from other troops in this wet and wild experience. This is a great opportunity for Scouts that are looking for an exciting, outdoor experience and love the water!
+						National Youth Leadership Training is an exciting, action-packed program designed for councils to provide youth members with leadership skills and experience that they can use both in their home troops as well as other parts of their lives demanding leadership of self and others.  The NYLT course is centered around the concepts of what a leader must BE, what they must KNOW, and what they must DO. These key elements are taught with a clear focus on practical application.
 					</p>
 					<p>
-						Begin your week at Resica Falls Scout Reservation where you will meet your guides for the week. With their help you will go over the trip’s itinerary, get a review and fit of the equipment you will use and get any skill refresher you may need. You will then review the safety procedures and effectively pack for your adventure.
+						When teaching at Resica Falls Scout Reservation, the Cradle of Liberty Council NYLT Staff are able to make use of the resources that the well established regular summer camp program has to offer.  This can mean anything from an effortless meal in the dining hall so that more time can be spent on a special activity or presentation, to partaking in a camp wide program, or perhaps even a high adventure activity.
 					</p>
 					<p>
-						To Participate in Paddlerama you must be a registered Scout and at least 14 Years old at the time of participation.  You must also have a current BSA Annual Health &amp; Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” during the swim test.
-					</p>
+						For more information on participating in a Cradle of Liberty Council NYLT Program hosted at Resica Falls, please see the NYLT staff's <a href="http://colbsa.org/training/nylt/">current publications.</a>
 				</div>
 			</div>
 			<div class="row">
