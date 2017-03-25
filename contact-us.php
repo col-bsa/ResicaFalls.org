@@ -22,7 +22,7 @@
 							<h2>Send a Message</h2>
 						</div>
 					</div>
-					<form id="contact-form">
+					<form id="contact-form" onsubmit="event.preventDefault();">
 						<div class="form-group row">
 							<label for="forminput_name" class="col-12 col-md-2 col-form-label">Name</label>
 							<div class="col-12 col-md-10">
@@ -46,14 +46,13 @@
 							data-callback="ContactUs"
 							data-size="invisible">
 						</div>
-						<input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha">
 						<div class="form-group row">
 							<div class="col-12 col-md-8 offset-md-2">
 								<button type="submit" class="btn btn-primary btn-block" id="forminput_send">Send</button>
 							</div>
 						</div>
 						<div class="alert alert-info fade hidden" role="alert" id="alert-response">
-							<strong id="alert-headline">Loading...</strong> <span id="alert-text"></span>
+							<strong id="alert-headline"></strong> <span id="alert-text"></span>
 						</div>
 					</form>
 				</div>
@@ -66,7 +65,7 @@
 						<abbr title="Phone">P:</abbr> (570) 223-8312<br>
 						<abbr title="Fax">F:</abbr> (570) 223-7263<br>
 						<a href="index" target="_blank">ResicaFalls.org</a><br>
-						<a href="mailto:hello@resicafalls.org">hello@resicafalls.org</a>
+						<a href="mailto:hello@resicafalls.org">hello@ResicaFalls.org</a>
 					</address>
 					<h5><a href="meet-the-team">Meet the Team!</a></h5>
 				</div>
