@@ -316,7 +316,7 @@
 									</a>
 								</h5>
 							</div>
-							<div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion3-question4">
+							<div id="accordion3-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion3-question4">
 								<div class="card-block">
 									Yes. The Dining Hall is equipped with WiFi which is available to leaders 24 hours a day. It is password protected and will only be shared with leaders. Leaders can find out the password at the Sunday evening leaders meeting or at the camp office anytime.
 								</div>
