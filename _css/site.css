@@ -98,9 +98,17 @@ body{
 			    -ms-transition: all 0.3s ease;
 			        transition: all 0.3s ease;
 			-webkit-filter: blur(0px) grayscale(100%);
+			   -moz-filter: blur(0px) grayscale(100%);
+			     -o-filter: blur(0px) grayscale(100%);
+			    -ms-filter: blur(0px) grayscale(100%);
+			        filter: blur(0px) grayscale(100%);
 		}
 		.grid-item:hover img{
 			-webkit-filter: blur(2px) grayscale(0%);
+			   -moz-filter: blur(2px) grayscale(0%);
+			     -o-filter: blur(2px) grayscale(0%);
+			    -ms-filter: blur(2px) grayscale(0%);
+			        filter: blur(2px) grayscale(0%);
 		}
 		.grid-text{
 			left: 0;
