@@ -30,7 +30,11 @@
 					</p>
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/coming_soon.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/camp_history-1.jpg" alt="">
+					<br><br>
+					<img class="img-fluid rounded" src="_img/camp_history-2.jpg" alt="">
+					<br><br>
+					<img class="img-fluid rounded" src="_img/camp_history-3.jpg" alt="">
 				</div>
 			</div>
 		</div>
