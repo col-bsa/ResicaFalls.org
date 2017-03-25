@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<title>Paddlerama <?php include '_inc/var/site_name.php'; ?></title>
+		<title>Troop One <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
@@ -11,7 +11,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>Paddlerama</h1>
+					<h1>Troop One</h1>
 				</div>
 			</div>
 			<div class="row">
@@ -29,31 +29,31 @@
 			</div>
 			<div class="row">
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR01.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR01.jpg" alt="">
 				</div>
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR02.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR02.jpg" alt="">
 				</div>
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR03.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR03.jpg" alt="">
 				</div>
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR04.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR04.jpg" alt="">
 				</div>
 			</div>
 			<br>
 			<div class="row">
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR05.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR05.jpg" alt="">
 				</div>
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR06.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR06.jpg" alt="">
 				</div>
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR07.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR07.jpg" alt="">
 				</div>
 				<div class="col-6 col-md-3">
-					<img class="img-fluid" src="_img/programs/paddlerama/1200x900/PR08.jpg" alt="">
+					<img class="img-fluid" src="_img/programs/troop_one/1200x900/TR08.jpg" alt="">
 				</div>
 			</div>
 		</div>
