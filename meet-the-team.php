@@ -21,7 +21,7 @@
 				<div class="col-12 col-md-10">
 					<h2>Chris Brenner <div class="h5">Camp Director</div></h2>
 					<p>
-						This marks Chris’s 12 th summer as the Camp Director at Resica Falls. An Eagle Scout  and Vigil Honor member, Chris has many years of Scouting experience, including 15  years as a Scoutmaster, various work on district and council committees, and one  summer as Camp Director at Treasure Island (1998). A retired school teacher of 35  years, Chris’s expert leadership has become a standard of Resica Falls. Chris’s favorite  candy is Swedish Fish. Contact Chris at <a href="mailto:campdirector@resicafalls.org">campdirector@resicafalls.org</a>.
+						This marks Chris’s 12 th summer as the Camp Director at Resica Falls. An Eagle Scout  and Vigil Honor member, Chris has many years of Scouting experience, including 15 years as a Scoutmaster, various work on district and council committees, and one  summer as Camp Director at Treasure Island (1998). A retired school teacher of 35  years, Chris’s expert leadership has become a standard of Resica Falls. Chris’s favorite  candy is Swedish Fish. Contact Chris at <a href="mailto:campdirector@resicafalls.org">campdirector@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>

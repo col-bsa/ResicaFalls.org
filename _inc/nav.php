@@ -20,7 +20,7 @@
 				<div class="dropdown-menu" aria-labelledby="dropdown_CurrentCampers">
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
 					<a class="dropdown-item" href="coming-soon">Upcoming Events</a>
-					<a class="dropdown-item" href="coming-soon">Frequently Asked Questions</a>
+					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="coming-soon">Important Documents</a>			
 				</div>
 			</li>
