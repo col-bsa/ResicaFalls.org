@@ -47,7 +47,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">ATV Program</h4>
 										<p class="card-text">
-											New to Resica Falls in 2016 is our ATV program. Spend the week riding around the reservation on one of our state-of-the-art ATVs! Scouts must be 14 years of age or older to participate in this exciting program. Throughout the week-long session, you will learn the fundamentals of riding under the supervision of a certified instructor.
+											New to Resica Falls in 2016 is our ATV program. Spend the week riding around the reservation on one of our state-of-the-art ATVs! Scouts must be 14 years of age or older to participate in this exciting program. Throughout the week-long session, you will learn the fundamentals of riding under the supervision of a certified instructor. Scouts begin riding on the first day, and by the end of the week will be riding like pros!
 										</p>
 									</div>
 								</div>
@@ -63,10 +63,10 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">High 5</h4>
 										<p class="card-text">
-											Want to try something different in the afternoon? Join in the High Five gang of adventurers and be ready to explore the secrets that Resica Falls has to offer. Scouts aged 14 and up will be given the opportunity to go on a different adventure around Resica Falls each day! Possible excursions include:
+											Want to try something different in the afternoon? Join the High Five Adventure Club and be ready to explore the secrets that Resica Falls has to offer. Scouts aged 13 and up will be given the opportunity to go on a different adventure around Resica Falls each afternoon that you decide! Possible excursions include:
 											<ul>
 												<li>A hike to Look Out Point followed by a swim in the Bushkill Creek</li>
-												<li>A shotgun shooting competition along with black powder shooting and action archery</li>
+												<li> A day shooting at our black powder, shotgun, sporting arrow and action archery ranges</li>
 												<li>A canoe trip on the Delaware River</li>
 											</ul>
 										</p>
@@ -84,7 +84,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Aquatics</h4>
 										<p class="card-text">
-											Aquatics at Resica is fun for everyone! The pool in camp is equipped with a three-story water slide that all scouts can enjoy. In addition to canoing, kayaking, and sailing at Lake Roger, campers have the chance to get wet on the Wibit attraction, that includes a blob and trampoline!
+											Aquatics at Resica is fun for everyone! The pool in camp is equipped with a three-story water slide that all scouts can enjoy. In addition to canoing, kayaking, and sailing on Lake Roger, campers have the chance to get wet on the Wibit attraction, that includes a blob and trampoline!
 										</p>
 									</div>
 								</div>
@@ -100,7 +100,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Handicraft</h4>
 										<p class="card-text">
-											In 2016, we brought our Handicraft Lodge closer to the heart of camp. The building is now located across from the Mohawk Campsite along the camp road. The state of the art building has ample covered seating. In addition to Art, Basketry, Fingerprinting, Leatherwork, Pulp and Paper, Textile and Wood Carving, we added Pottery and Sculpture merit badges! The Handicraft Lodge also features kilns for Pottery and Sculpture!
+											In 2016, we brought our Handicraft Lodge closer to the heart of camp. The building is now located across from the Mohawk Campsite along the camp road. The state of the art building has ample covered seating. In addition to Art, Basketry, Fingerprinting, Leatherwork, Pulp and Paper, Textile and Wood Carving, we added Pottery and Sculpture merit badges!
 										</p>
 									</div>
 								</div>
@@ -130,9 +130,9 @@
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
-										<h4 class="card-title">Cope</h4>
+										<h4 class="card-title">C.O.P.E</h4>
 										<p class="card-text">
-											Project C.O.P.E. is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group. 
+											Project C.O.P.E. (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group. 
 										</p>
 									</div>
 								</div>
@@ -148,7 +148,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Native American Village</h4>
 										<p class="card-text">
-											Sponsered buy Unami Lodge, our Native American Village was first constructed in 2012. Using the history of the Lenni Lenape and of the Village of Ressaca, we are excited to offer Indian Lore, Archaeology and Fly Fishing Merit Badges. This will give Scouts the opportunity to learn about the history of Native Americans, as well as the history of Ressaca and how to go on archaeology digs to find relics in other communities.
+											Our Native American Village was first constructed in 2012 with support from Unami Lodge, One. Using the history of the Lenni Lenape and of the Village of Ressaca, we are excited to offer Indian Lore, Archeology and Fly Fishing Merit Badges. This will give Scouts the opportunity to learn about the history of Native Americans, as well as the history of Ressaca and how to go on archeology digs to find relics in other communities.
 										</p>
 									</div>
 								</div>
@@ -177,7 +177,9 @@
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
 										<h4 class="card-title">Shooting Sports</h4>
-										<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis velit tenetur provident voluptates, repellat possimus, sunt laudantium nesciunt dicta, non soluta aspernatur ipsa est numquam iusto nemo necessitatibus natus.</p>
+										<p class="card-text">
+											A full complement of shooting activities are available at our multiple ranges, including: shotgun, rifle, chalkball, archery, action archery and sporting arrows.  Our certified instructors wok with the scouts to ensure each scout has the opportunity to complete their badges.  Troops at Resica can also reserve the ranges for troop shoots.
+										</p>
 									</div>
 								</div>
 							</div>
@@ -205,7 +207,9 @@
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
 										<h4 class="card-title">Sports</h4>
-										<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis velit tenetur provident voluptates, repellat possimus, sunt laudantium nesciunt dicta, non soluta aspernatur ipsa est numquam iusto nemo necessitatibus natus.</p>
+										<p class="card-text">
+											Scouts keep moving at Resica, as they have fun at our human foosball court, blacktop basketball court, GaGa pit, and many other exciting athletic features. Our knowledgeable sports staff offer badges in Athletics, Sports, Game Design, Personal Fitness, and Skating. We also offer bikes to be rented to get around camp during the day, or for your troop to take on a trip.
+										</p>
 									</div>
 								</div>
 							</div>
