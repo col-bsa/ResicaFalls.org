@@ -163,7 +163,9 @@
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
 										<h4 class="card-title">Scoutcraft</h4>
-										<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis velit tenetur provident voluptates, repellat possimus, sunt laudantium nesciunt dicta, non soluta aspernatur ipsa est numquam iusto nemo necessitatibus natus.</p>
+										<p class="card-text">
+											Put your outdoor skills to the test at scoutcraft! Scouts have the opportunity to earn many badges, including Backpacking, Camping, Cooking,  Geocaching, Hiking, Orienteering, Pioneering, Search & Rescue, and Wilderness Survival. Whether it's building a monkey bridge or demoing dutch oven cooking there's always something exciting going on in Scoutcraft.
+										</p>
 									</div>
 								</div>
 							</div>
@@ -193,7 +195,9 @@
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
 										<h4 class="card-title">Ecology</h4>
-										<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam blanditiis velit tenetur provident voluptates, repellat possimus, sunt laudantium nesciunt dicta, non soluta aspernatur ipsa est numquam iusto nemo necessitatibus natus.</p>
+										<p class="card-text">
+											Become one with nature at our Ecology center.  Our knowledgeable staff will help you learn more about the world around you and a scout's responsibility in nature.  Whether it's Fish and Wildlife Management or Oceanography theres something for everyone at Ecology!
+										</p>
 									</div>
 								</div>
 							</div>
@@ -202,7 +206,7 @@
 						<div class="card">
 							<div class="row">
 								<div class="col-md-3">
-									<img src="https://placehold.it/250x250" class="w-100">
+									<img src="_img/program_thumbnails/Sports-250x250.jpg" class="w-100">
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">

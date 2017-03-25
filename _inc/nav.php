@@ -11,7 +11,6 @@
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp Opportunities</a>
 					<a class="dropdown-item" href="coming-soon">Food &amp Nutrition</a>
-					<a class="dropdown-item" href="coming-soon">Taste of Camp</a>
 					<a class="dropdown-item" href="camp-history">Camp History</a>
 					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>					
 				</div>
@@ -29,7 +28,6 @@
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp<br class="hidden-md-down"> Leadership</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
-					<a class="dropdown-item" href="coming-soon">Our Staff</a>
 					<a class="dropdown-item" href="coming-soon">CIT Program</a>
 					<a class="dropdown-item" href="coming-soon">Work at Resica</a>
 				</div>
