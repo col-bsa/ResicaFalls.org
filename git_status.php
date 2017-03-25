@@ -21,6 +21,11 @@
 	$output = shell_exec($command);
 	$output = nl2br(htmlentities(trim($output)));
 
+	$command = 'git log -1 --pretty=%H';
+	$hash_out = shell_exec($command);
+	$link = "<a href='https://https://github.com/col-bsa/ResicaFalls.org/commit/'" . $hash_out . "></a>"
+
+
 ?>
 
 <!doctype html>
@@ -34,6 +39,11 @@
 	<p>
 <?php
 	echo $output;
+?>
+	</p>
+	<p>
+<?php
+	echo $link;
 ?>
 	</p>
 </body>

@@ -25,7 +25,7 @@
 						<div class="card">
 							<div class="row">
 								<div class="col-md-3">
-									<img src="https://placehold.it/250x250" class="w-100">
+									<img src="_img/danbeard1_250.jpg" class="w-100">
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
@@ -41,7 +41,7 @@
 						<div class="card">
 							<div class="row">
 								<div class="col-md-3">
-									<img src="https://placehold.it/250x250" class="w-100">
+									<img src="_img/atv1_250.jpg" class="w-100">
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
@@ -57,7 +57,7 @@
 						<div class="card">
 							<div class="row">
 								<div class="col-md-3">
-									<img src="https://placehold.it/250x250" class="w-100">
+									<img src="_img/cooldip1_250.jpg" class="w-100">
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
