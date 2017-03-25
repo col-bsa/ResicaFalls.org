@@ -21,7 +21,7 @@
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
 					<a class="dropdown-item" href="coming-soon">Upcoming Events</a>
 					<a class="dropdown-item" href="coming-soon">Frequently Asked Questions</a>
-					<a class="dropdown-item" href="coming-soon">Important Documents</a>			
+					<a class="dropdown-item" href="important-documents">Important Documents</a>			
 				</div>
 			</li>
 			<li class="nav-item dropdown">
