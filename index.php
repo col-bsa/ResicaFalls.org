@@ -61,7 +61,7 @@
 					<div class="grid-text h2">High 5</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/nylt1_250.jpg" alt="">
 					<div class="grid-text h2">NYLT</div>
 				</a>
 			</div>
