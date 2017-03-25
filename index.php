@@ -31,11 +31,11 @@
 		<div class="container content">
 			<div class="row">
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/news_250.jpg" alt="">
 					<div class="grid-text h2">News</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/troopcolors_250.jpg" alt="">
 					<div class="grid-text h2">Troop 1</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
@@ -53,11 +53,11 @@
 					<div class="grid-text h2">Dan Beard</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/atv1_250.jpg" alt="">
 					<div class="grid-text h2">ATV Program</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
-					<img class="img-fluid" src="_img/temp.jpg" alt="">
+					<img class="img-fluid" src="_img/cooldip1_250.jpg" alt="">
 					<div class="grid-text h2">High 5</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="#">
