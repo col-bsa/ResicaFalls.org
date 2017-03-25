@@ -29,7 +29,7 @@
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
 					<a class="dropdown-item" href="coming-soon">CIT Program</a>
-					<a class="dropdown-item" href="coming-soon">Work at Resica</a>
+					<a class="dropdown-item" href="work-at-resica">Work at Resica</a>
 				</div>
 			</li>
 			<li class="nav-item">
