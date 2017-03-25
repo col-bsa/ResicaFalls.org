@@ -23,7 +23,7 @@
 
 	$command = 'git log -1 --pretty=%H';
 	$hash_out = shell_exec($command);
-	$link = "<a href='https://https://github.com/col-bsa/ResicaFalls.org/commit/" . $hash_out . "''>Click here for more information.</a>"
+	$link = "<a href='https://github.com/col-bsa/ResicaFalls.org/commit/" . $hash_out . "''>Click here for more information.</a>"
 
 
 ?>
