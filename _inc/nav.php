@@ -12,16 +12,10 @@
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp Opportunities</a>
 					<a class="dropdown-item" href="coming-soon">Food &amp Nutrition</a>
 					<a class="dropdown-item" href="camp-history">Camp History</a>
-					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>					
-				</div>
-			</li>
-			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_CurrentCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current<br class="hidden-md-down"> Campers</a>
-				<div class="dropdown-menu" aria-labelledby="dropdown_CurrentCampers">
-					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
-					<a class="dropdown-item" href="coming-soon">Upcoming Events</a>
+					<a class="dropdown-item" href="important-dates">Important Dates</a>
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
+					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>					
 				</div>
 			</li>
 			<li class="nav-item dropdown">
