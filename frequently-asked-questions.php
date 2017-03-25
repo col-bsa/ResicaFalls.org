@@ -17,11 +17,11 @@
 			<div class="row">
 				<div class="col-md-8">
 					<h2>Youth</h2>
-					<div id="accordion" role="tablist" aria-multiselectable="true">
+					<div id="accordion1" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="question1">
 								<h5 class="mb-0">
-									<a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									<a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
 										What should I bring to camp?
 									</a>
 								</h5>
@@ -35,7 +35,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question2">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
 										What merit badges can I earn at camp?
 									</a>
 								</h5>
@@ -54,7 +54,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
 										Should I bring extra money to camp?
 									</a>
 								</h5>
@@ -67,11 +67,11 @@
 						</div>
 					</div>
 					<h2>Parents</h2>
-					<div id="accordion" role="tablist" aria-multiselectable="true">
+					<div id="accordion2" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="question1">
 								<h5 class="mb-0">
-									<a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									<a data-toggle="collapse" data-parent="#accordion2" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
 										Why should I send my son to summer camp?
 									</a>
 								</h5>
@@ -93,7 +93,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question2">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
 										Where do my camp fees go?
 									</a>
 								</h5>
@@ -115,7 +115,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
 										Can I visit my son at camp?
 									</a>
 								</h5>
@@ -129,7 +129,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
 										My son is leaving camp early. Do I need to do anything?
 									</a>
 								</h5>
@@ -148,7 +148,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question5">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
 										Can I send my son mail?
 									</a>
 								</h5>
@@ -169,7 +169,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question6">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
 										My son takes prescription medication? Do I need to do anything?
 									</a>
 								</h5>
@@ -188,7 +188,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question7">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
 										Should my son bring a cellphone to camp?
 									</a>
 								</h5>
@@ -202,7 +202,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question8">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
 										What is the camp's refund policy for Scouts?
 									</a>
 								</h5>
@@ -252,7 +252,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question9">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
 										Are camperships or financial assistance available to Scouts?
 									</a>
 								</h5>
@@ -265,11 +265,11 @@
 						</div>
 					</div>
 					<h2>Leaders</h2>
-					<div id="accordion" role="tablist" aria-multiselectable="true">
+					<div id="accordion3" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="question1">
 								<h5 class="mb-0">
-									<a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									<a data-toggle="collapse" data-parent="#accordion3" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
 										What should I do before coming to camp?
 									</a>
 								</h5>
@@ -283,7 +283,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question2">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
 										Where will my troop be staying?
 									</a>
 								</h5>
@@ -297,7 +297,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
 										I have a special skill or interest, how can I share it with Scouts or staff?
 									</a>
 								</h5>
@@ -311,7 +311,7 @@
 						<div class="card">
 							<div class="card-header" role="tab" id="question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
 										Can I get Internet access while at camp?
 									</a>
 								</h5>
