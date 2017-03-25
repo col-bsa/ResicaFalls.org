@@ -19,28 +19,28 @@
 					<h2>Youth</h2>
 					<div id="accordion1" role="tablist" aria-multiselectable="true">
 						<div class="card">
-							<div class="card-header" role="tab" id="question1">
+							<div class="card-header" role="tab" id="accordion1-question1">
 								<h5 class="mb-0">
-									<a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-collapse1" aria-expanded="true" aria-controls="accordion1-collapse1">
 										What should I bring to camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="question1">
+							<div id="accordion1-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion1-question1">
 								<div class="card-block">
 									What you should bring to camp varies depending on which program you are participating in. A suggested packing list of things to bring can be found at in our Parents or Leaders Guides. Please consult with your unit leaders for specific guidelines and guidance on how to pack and what to bring (and not to bring) to camp.
 								</div>
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question2">
+							<div class="card-header" role="tab" id="accordion1-question2">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-collapse2" aria-expanded="false" aria-controls="accordion1-collapse2">
 										What merit badges can I earn at camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="question2">
+							<div id="accordion1-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion1-question2">
 								<div class="card-block">
 									<p>
 										Resica Falls offers almost 70 different merit badges, including 13 eagle required badges. A complete list can be found on our <a href="programs-and-opportunities">Badges and Programs page</a>. It is important that you review all the requirements for each badge you intend on taking before coming to camp. You should also complete any necessary pre-requisite requirements before coming to camp. In many cases a signed note from a Scout leader is sufficient to show proof of completion of a pre-requisite.
@@ -52,14 +52,14 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question3">
+							<div class="card-header" role="tab" id="accordion1-question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-collapse3" aria-expanded="false" aria-controls="accordion1-collapse3">
 										Should I bring extra money to camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="question3">
+							<div id="accordion1-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion1-question3">
 								<div class="card-block">
 									Of course! Resica Fall mantains a full trading post. The store stocks a wide variety of items you may want to purchase, including camping supplies, T-shirts and apparel, craft kits, merit badge pamphlets, books, snacks, drinks, and much more. In addition, some badges require the purchase of project kits to complete the badge. Please be sure you bring the appropriate spending money as to not feel left out. We recommend between $35 to $50 for the week.
 								</div>
@@ -69,14 +69,14 @@
 					<h2>Parents</h2>
 					<div id="accordion2" role="tablist" aria-multiselectable="true">
 						<div class="card">
-							<div class="card-header" role="tab" id="question1">
+							<div class="card-header" role="tab" id="accordion2-question1">
 								<h5 class="mb-0">
-									<a data-toggle="collapse" data-parent="#accordion2" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse1" aria-expanded="true" aria-controls="accordion2-collapse1">
 										Why should I send my son to summer camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="question1">
+							<div id="accordion2-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion2-question1">
 								<div class="card-block">
 									<p>
 										A study performed by Harris Interactive, in conjunction with the Boy Scouts of America, shows that within the typical six days of Boy Scout summer camp, boys are "in an environment that comprehensively provides them with critical elements of healthy youth development."
@@ -91,14 +91,14 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question2">
+							<div class="card-header" role="tab" id="accordion2-question2">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse2" aria-expanded="false" aria-controls="accordion2-collapse2">
 										Where do my camp fees go?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="question2">
+							<div id="accordion2-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion2-question2">
 								<div class="card-block">
 									Every scout's fee is used to support the camping programs and services within the Cradle of Liberty Council. This includes:
 									<ul>
@@ -113,28 +113,28 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question3">
+							<div class="card-header" role="tab" id="accordion2-question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse3" aria-expanded="false" aria-controls="accordion2-collapse3">
 										Can I visit my son at camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="question3">
+							<div id="accordion2-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion2-question3">
 								<div class="card-block">
 									Resica Falls does not have a dedicated camp visitors night. Your troop is welcome to organize an evening in camp where you can visit your scout. <strong>Please remember:</strong> All visitors must sign in at the camp office immediately upon arrival.
 								</div>
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question3">
+							<div class="card-header" role="tab" id="accordion2-question4">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse4" aria-expanded="false" aria-controls="accordion2-collapse4">
 										My son is leaving camp early. Do I need to do anything?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="question4">
+							<div id="accordion2-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion2-question4">
 								<div class="card-block">
 									<p>
 										To ensure the safety of all campers, the Cradle of Liberty Council, BSA has enacted the following policy.
@@ -146,14 +146,14 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question5">
+							<div class="card-header" role="tab" id="accordion2-question5">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse5" aria-expanded="false" aria-controls="accordion2-collapse5">
 										Can I send my son mail?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="question5">
+							<div id="accordion2-collapse5" class="collapse" role="tabpanel" aria-labelledby="accordion2-question5">
 								<div class="card-block">
 									Of course! Our camp has a daily mail service. Mail should be addressed to campers and leaders in camp as follows:
 									<address>
@@ -167,14 +167,14 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question6">
+							<div class="card-header" role="tab" id="accordion2-question6">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse6" aria-expanded="false" aria-controls="accordion2-collapse6">
 										My son takes prescription medication? Do I need to do anything?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="question6">
+							<div id="accordion2-collapse6" class="collapse" role="tabpanel" aria-labelledby="accordion2-question6">
 								<div class="card-block">
 									<p>
 										Yes. Please fill out the Drug Administration Record. Send that and the medications with your son to camp. Each troop handles their medication process a little differently. Some collect all the forms and medications before going to camp. Contact your troop leader for the exact details.
@@ -186,28 +186,28 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question7">
+							<div class="card-header" role="tab" id="accordion2-question7">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse7" aria-expanded="false" aria-controls="accordion2-collapse7">
 										Should my son bring a cellphone to camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="question7">
+							<div id="accordion2-collapse7" class="collapse" role="tabpanel" aria-labelledby="accordion2-question7">
 								<div class="card-block">
 									While we cannot keep a Scout from having a phone in camp, it is highly discouraged you send your son with one. Scouts with cellphones are less likely to take full advantage of our multifaceted program and are at a greater risk of becoming homesick. <strong>Resica Falls is not responsible for the loss or damage of any personal devices.</strong>
 								</div>
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question8">
+							<div class="card-header" role="tab" id="accordion2-question8">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse8" aria-expanded="false" aria-controls="accordion2-collapse8">
 										What is the camp's refund policy for Scouts?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="question8">
+							<div id="accordion2-collapse8" class="collapse" role="tabpanel" aria-labelledby="accordion2-question8">
 								<div class="card-block">
 									<p>
 										A Summer Camp Refund Request Form must be completed for each individual requesting a refund. The form must be completed and submitted to: Cradle of Liberty Council, 1485 Valley Forge Rd, Wayne, PA 19087. All approved refunds are paid by check to the unit contact, or parent if an individual registration in the online registration system.
@@ -250,14 +250,14 @@
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question9">
+							<div class="card-header" role="tab" id="accordion2-question9">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse9" aria-expanded="false" aria-controls="accordion2-collapse9">
 										Are camperships or financial assistance available to Scouts?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse9" class="collapse" role="tabpanel" aria-labelledby="question9">
+							<div id="accordion2-collapse9" class="collapse" role="tabpanel" aria-labelledby="accordion2-question9">
 								<div class="card-block">
 									Yes. Please visit us on the <a href="important-documents">Important Documents</a> page for an up to date Financial Aid Application.
 								</div>
@@ -267,56 +267,56 @@
 					<h2>Leaders</h2>
 					<div id="accordion3" role="tablist" aria-multiselectable="true">
 						<div class="card">
-							<div class="card-header" role="tab" id="question1">
+							<div class="card-header" role="tab" id="accordion3-question1">
 								<h5 class="mb-0">
-									<a data-toggle="collapse" data-parent="#accordion3" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse1" aria-expanded="true" aria-controls="accordion3-collapse1">
 										What should I do before coming to camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="question1">
+							<div id="accordion3-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion3-question1">
 								<div class="card-block">
 									Theres a lot you can do before coming to camp. Please read the entirety of the leaders guide found on our <a href="important-documents">Important Documents</a> page. The guide lays out exactly what should be done before coming to camp. Feel free to contact us with any questions you may have. Our staff are always willing to answer your questions!
 								</div>
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question2">
+							<div class="card-header" role="tab" id="accordion3-question2">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse2" aria-expanded="false" aria-controls="accordion3-collapse2">
 										Where will my troop be staying?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="question2">
+							<div id="accordion3-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion3-question2">
 								<div class="card-block">
 									All troops find out what site they are staying in at our ##### meeting. Once you find out the name of the site, you should be able to find it on the camp map.
 								</div>
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question3">
+							<div class="card-header" role="tab" id="accordion3-question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse3" aria-expanded="false" aria-controls="accordion3-collapse3">
 										I have a special skill or interest, how can I share it with Scouts or staff?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="question3">
+							<div id="accordion3-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion3-question3">
 								<div class="card-block">
 									We would be happy to talk to you about this skill. Either bring it up with your camp commissioner or stop by the camp office and let our staff know.
 								</div>
 							</div>
 						</div>
 						<div class="card">
-							<div class="card-header" role="tab" id="question3">
+							<div class="card-header" role="tab" id="accordion3-question3">
 								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse4" aria-expanded="false" aria-controls="accordion3-collapse4">
 										Can I get Internet access while at camp?
 									</a>
 								</h5>
 							</div>
-							<div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="question4">
+							<div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion3-question4">
 								<div class="card-block">
 									Yes. The Dining Hall is equipped with WiFi which is available to leaders 24 hours a day. It is password protected and will only be shared with leaders. Leaders can find out the password at the Sunday evening leaders meeting or at the camp office anytime.
 								</div>
