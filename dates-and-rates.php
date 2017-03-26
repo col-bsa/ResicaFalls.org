@@ -46,7 +46,7 @@
 								<td>July 9 – July 15</td>
 								<td>Registration Full</td>
 								<td>Registration Full</td>
-								<td><a href="#">NYLT</a></td></td>									
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?ActivityKey=2040430&OrgKey=2793">NYLT</a></td></td>									
 							</tr>
 							<tr>
 								<td>Week 4</td>
@@ -74,7 +74,7 @@
 								<td>Aug 6 – Aug 12 </td>
 								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1949190&OrgKey=1112#">Register Now!</a></td>
 								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1949190&OrgKey=1112#">Register Now!</a></td>
-								<td><a href="#">NYLT</a></td></td>									
+								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?ActivityKey=2042371&OrgKey=2793">NYLT</a></td></td>									
 							</tr>
 						</tbody>
 					</table>

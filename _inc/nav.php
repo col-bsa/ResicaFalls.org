@@ -6,7 +6,7 @@
 	<div class="collapse navbar-collapse justify-content-md-center" id="navbar">
 		<ul class="navbar-nav">
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Future<br class="hidden-md-down"> Campers</a>
+				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Summer<br class="hidden-md-down"> Programs</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp Opportunities</a>

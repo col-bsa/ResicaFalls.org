@@ -92,6 +92,7 @@
 							</tr>
 						</tbody>
 					</table>
+					<img class="img-fluid text-center" src="_img/important_documents-1.jpg" alt="">
 				</div>
 			</div>
 		</div>
