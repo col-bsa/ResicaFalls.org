@@ -17,19 +17,19 @@
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Thank you for taking the time to consider spending your summer working at Resica Falls Scout Reservation! Working on a campstaff is not only a fun way to spend your summer, but it is also a good way to make a difference in your life and the lives of each and every scout that passes through our program. As with most things there are many demands but the rewards can be far more meaningful as you will forge memories that can last a lifetime.
+						Thank you for your interest in working at Resica Falls Scout Reservation! Working on our camp staff could be a fun and rewarding way to spend your summer.
 					</p>
 					<p>
-						All positions are paid so the application process is not trivial, but our administrative staff is well adept at finding the work that fits an applicant's skillset best. As long as you are willing to work hard, have fun, and embody the spirit of the Scout Oath and Law, you should strongly consider applying.
+						Camp staff members are needed for paid positions in programs including but not limited to aquatics, handicraft, cope and the stem center. Applicants must be at least 16 years old by June 1 and embody the spirit of the Scout Oath and Law to be considered.
 					</p>
 					<p>
-						Applicants must be at least 16 years old by June 15th of the coming summer. Anyone 14-15 years old at any point during the summer are encouraged to check out our <a href="#">CIT Program</a>.
+						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.org/campstaff">Apply Now</a>
 					</p>
 					<p>
-						Thank you again for considering us and we hope you’ll join us for a summer of fun at Resica Falls! 
+						Interested in working at Resica Falls but under 16? If you’ll be 14 or older before the end of July please check out our CIT Program. 
 					</p>
 				</div>
 				<div class="col-md-4">
