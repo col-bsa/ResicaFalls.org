@@ -17,13 +17,21 @@
 			<div class="row">
 				<div class="col">
 					<p>
-						Join us for a week-long trip of over 70 miles down the picturesque Delaware River. Paddlerama participants start out North of Big Springs and end the week at the Delaware Water Gap. Enjoy the natural wonder of the Delaware River. Camp along the river, run some rapids and share experiences with Scouts from other troops in this wet and wild experience. This is a great opportunity for Scouts that are looking for an exciting, outdoor experience and love the water!
+						Is your troop going to camp a week you can't go with them?<br>
+						Do you want to do COPE, High 5, Paddlerama, and earn a lot of merit badges?<br>
+						Do you just want the week in camp to last a little longer even though your troop is leaving?
 					</p>
 					<p>
-						Begin your week at Resica Falls Scout Reservation where you will meet your guides for the week. With their help you will go over the trip’s itinerary, get a review and fit of the equipment you will use and get any skill refresher you may need. You will then review the safety procedures and effectively pack for your adventure.
+						If you answered yes to any of the above, then Troop One is for you!
 					</p>
 					<p>
-						To Participate in Paddlerama you must be a registered Scout and at least 14 Years old at the time of participation.  You must also have a current BSA Annual Health &amp; Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” during the swim test.
+						Troop One is a group of scouts that just wanted to spend a week in camp even though their troop wasn't there. Every week a new group of scouts comes together and forms a temporary troop led by their Scoutmaster and an assistant. These scout leaders are members of our staff that have had many years at Resica Falls and know how to make the most of what camp has to offer.
+					</p>
+					<p>
+						Troop One is no different than any other week in camp except that if you are spending more than 1 week in camp (including any other camp), it is only half the normal price which can be found on our <a href="dates-and-rates">Dates and Rates</a> page.
+					</p>
+					<p>
+						To sign up, visit us at our <a href="dates-and-rates">Dates and Rates</a> page and find the week you want to spend a summer at Resica Falls!
 					</p>
 				</div>
 			</div>
