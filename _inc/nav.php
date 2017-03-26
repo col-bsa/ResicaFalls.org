@@ -10,7 +10,7 @@
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp Rates</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp Opportunities</a>
-					<a class="dropdown-item" href="coming-soon">Food &amp Nutrition</a>
+					<a class="dropdown-item" href="food-and-nutrition">Food &amp Nutrition</a>
 					<a class="dropdown-item" href="camp-history">Camp History</a>
 					<a class="dropdown-item" href="important-dates">Important Dates</a>
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>

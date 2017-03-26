@@ -15,7 +15,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-8">
+				<div class="col">
 					<h2>Youth</h2>
 					<div id="accordion1" role="tablist" aria-multiselectable="true">
 						<div class="card">
@@ -323,9 +323,6 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/StaffPhoto2015.jpg" alt="">
 				</div>
 			</div>
 		</div>

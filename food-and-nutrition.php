@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<title>Food and Nutrition <?php include '_inc/var/site_name.php'; ?></title>
+		<title>Food &amp; Nutrition <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
@@ -11,7 +11,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>Food and Nutrition</h1>
+					<h1>Food &amp; Nutrition</h1>
 				</div>
 			</div>
 			<div class="row">
