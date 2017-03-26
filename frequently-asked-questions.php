@@ -28,7 +28,7 @@
 							</div>
 							<div id="accordion1-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion1-question1">
 								<div class="card-block">
-									What you should bring to camp varies depending on which program you are participating in. A suggested packing list of things to bring can be found at in our Parents or Leaders Guides. Please consult with your unit leaders for specific guidelines and guidance on how to pack and what to bring (and not to bring) to camp.
+									A packing list can be found in our Leaders’ Guide <a href="important-documents">here</a>. Please consult with your unit leaders on a specifics about should (or should not) be brought to camp.
 								</div>
 							</div>
 						</div>
@@ -43,7 +43,7 @@
 							<div id="accordion1-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion1-question2">
 								<div class="card-block">
 									<p>
-										Resica Falls offers almost 70 different merit badges, including 13 eagle required badges. A complete list can be found on our <a href="programs-and-opportunities">Badges and Programs page</a>. It is important that you review all the requirements for each badge you intend on taking before coming to camp. You should also complete any necessary pre-requisite requirements before coming to camp. In many cases a signed note from a Scout leader is sufficient to show proof of completion of a pre-requisite.
+										Resica Falls offers almost 70 different merit badges, including 13 eagle required badges. A complete list can be found on our <a href="programs-and-opportunities">Programs and Opportunities page</a>. It is important that you review all the requirements for each badge you intend on taking before coming to camp. You should also complete any necessary pre-requisite requirements before coming to camp. In many cases a signed note from a Scout leader is sufficient to show proof of completion of a pre-requisite.
 									</p>
 									<p>
 										In addition to merit badges, Resica also offers various other activities, including our COPE and High Five programs.
@@ -61,7 +61,7 @@
 							</div>
 							<div id="accordion1-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion1-question3">
 								<div class="card-block">
-									Of course! Resica Fall mantains a full trading post. The store stocks a wide variety of items you may want to purchase, including camping supplies, T-shirts and apparel, craft kits, merit badge pamphlets, books, snacks, drinks, and much more. In addition, some badges require the purchase of project kits to complete the badge. Please be sure you bring the appropriate spending money as to not feel left out. We recommend between $35 to $50 for the week.
+									Of course! Resica Fall mantains a full trading post. The store stocks a wide variety of items you may want to purchase, including camping supplies, T-shirts and apparel, craft kits, merit badge pamphlets, books, snacks, drinks, and much more. In addition, some badges require the purchase of project kits to complete the badge. We recommend between $35 to $50 for the week.
 								</div>
 							</div>
 						</div>
@@ -276,7 +276,7 @@
 							</div>
 							<div id="accordion3-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion3-question1">
 								<div class="card-block">
-									Theres a lot you can do before coming to camp. Please read the entirety of the leaders guide found on our <a href="important-documents">Important Documents</a> page. The guide lays out exactly what should be done before coming to camp. Feel free to contact us with any questions you may have. Our staff are always willing to answer your questions!
+									Theres a lot you can do before coming to camp. Please read the entirety of the leaders guide and program guide found on our <a href="important-documents">Important Documents</a> page. The guide lays out exactly what should be done before coming to camp. Feel free to contact us with any questions you may have. Our staff are always willing to answer your questions!
 								</div>
 							</div>
 						</div>
@@ -290,7 +290,7 @@
 							</div>
 							<div id="accordion3-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion3-question2">
 								<div class="card-block">
-									All troops find out what site they are staying in at our ##### meeting. Once you find out the name of the site, you should be able to find it on the camp map.
+									All troops find out what site they are staying in at our Pre-Camp Leader's Meeting in June. Once you find out the name of the site, you should be able to find it on the camp map.
 								</div>
 							</div>
 						</div>
