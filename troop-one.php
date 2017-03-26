@@ -28,7 +28,7 @@
 						Troop One is a temporary troop, formed by scouts who are in camp when their troops are not. Members of our staff serve as the Scoutmaster and an assistant for Troop One. These scout leaders have years of experience at Resica Falls and know how to make the most of the facilities. Scouts in Troop One have the same experience as scouts with their regular troops, with more time in camp.
 					</p>
 					<p>
-						Troop One scouts is perfect for any scout who wants to spend more than 1 week in camp, including stays in any other camp. Troop One is half the price of a week in camp with a scout’s troop.
+						Troop One is no different than any other week in camp except that if you are spending more than 1 week in camp, it is only half the normal price which can be found on our <a href="dates-and-rates">Dates and Rates</a> page. This deal includes stays at other camps.
 					</p>
 					<p>
 						Please visit our <a href="dates-and-rates">Dates and Rates</a> page for more information about pricing and to sign up!
