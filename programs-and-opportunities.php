@@ -16,7 +16,7 @@
 			</div>
 			<div class="row">
 				<div class="col">
-					<p>There's something for everyone at Resica Falls!  Our campers have the opportunity to enjoy a tremendous array of activities and programs, all under the instruction and supervision of our amazing staff. Whether you're a first-year scout or a seasoned adult leader, we have an interesting program or activity to fill your day.  Check out some of the activities below that we offer during our summer camp season.</p>
+					<p>There's something for everyone at Resica Falls!  Our campers have the opportunity to enjoy a tremendous array of activities and programs, all under the instruction and supervision of our amazing staff.  Check out some of the activities below that we offer during our summer camp season.</p>
 				</div>
 			</div>
 			<div class="row">
@@ -164,7 +164,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Scoutcraft</h4>
 										<p class="card-text">
-											Put your outdoor skills to the test at scoutcraft! Scouts have the opportunity to earn many badges, including Backpacking, Camping, Cooking,  Geocaching, Hiking, Orienteering, Pioneering, Search & Rescue, and Wilderness Survival. Whether it's building a monkey bridge or demoing dutch oven cooking there's always something exciting going on in Scoutcraft.
+											Put your outdoor skills to the test at scoutcraft! Scouts have the opportunity to earn many badges, including Backpacking, Camping, Cooking,  Geocaching, Hiking, Orienteering, Pioneering, Search & Rescue, and Wilderness Survival. Whether it's building a monkey bridge or whipping up a dish in a dutch oven there's always something exciting going on in Scoutcraft.
 										</p>
 									</div>
 								</div>
@@ -196,7 +196,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Ecology</h4>
 										<p class="card-text">
-											Become one with nature at our Ecology center.  Our knowledgeable staff will help you learn more about the world around you and a scout's responsibility in nature.  Whether it's Fish and Wildlife Management or Oceanography theres something for everyone at Ecology!
+											Become one with nature at our Ecology Center.  Our knowledgeable staff will help you learn more about the world around you and a scout's responsibility in the outdoors.  Whether it's Fish and Wildlife Management or Oceanography there's something for everyone at Ecology!
 										</p>
 									</div>
 								</div>

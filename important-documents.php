@@ -40,7 +40,7 @@
 							<tr>
 								<th>
 									<ul>
-										<li><a href="#">Annual BSA Health and Mediacal Record</a></li>
+										<li><a href="#">Annual BSA Health and Medical Record</a></li>
 										<li><a href="#">Allergy Action Plan Form</a></li>
 										<li><a href="#">Drug Administration Record</a></li>
 										<li><a href="#">Unit Medication Release Form</a></li>
@@ -54,7 +54,7 @@
 							<tr>
 								<th>
 									<ul>
-										<li><a href="#">Annual BSA Health and Mediacal Record</a></li>
+										<li><a href="#">Annual BSA Health and Medical Record</a></li>
 										<li><a href="#">Allergy Action Plan Form</a></li>
 										<li><a href="#">Drug Administration Record</a></li>
 										<li><a href="#">Unit Medication Release Form</a></li>
@@ -68,7 +68,7 @@
 							<tr>
 								<th>
 									<ul>
-										<li><a href="#">Annual BSA Health and Mediacal Record</a></li>
+										<li><a href="#">Annual BSA Health and Medical Record</a></li>
 										<li><a href="#">Allergy Action Plan Form</a></li>
 										<li><a href="#">Drug Administration Record</a></li>
 										<li><a href="#">Unit Medication Release Form</a></li>
@@ -82,7 +82,7 @@
 							<tr>
 								<th>
 									<ul>
-										<li><a href="#">Annual BSA Health and Mediacal Record</a></li>
+										<li><a href="#">Annual BSA Health and Medical Record</a></li>
 										<li><a href="#">Allergy Action Plan Form</a></li>
 										<li><a href="#">Drug Administration Record</a></li>
 										<li><a href="#">Unit Medication Release Form</a></li>
