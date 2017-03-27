@@ -24,13 +24,26 @@
 							<tr>
 								<th>
 									<ul>
-										<li><a href="#">2017 Resica Falls Leaders' Guide</a></li>
-										<li><a href="#">2017 Resica Falls Program Guide</a></li>
-										<li><a href="#">2017 Summer Camp Refund Request Form</a></li>
-										<li><a href="#">2017 Cradle of Liberty Campership Form</a></li>
-										<li><a href="#">Doubleknot Online Registration Form</a></li>
-										<li><a href="#">ATV Release Form</a></li>
-										<li><a href="#">Pre-Camp Swim Test Form</a></li>
+										<li><a download href="_files\summer\2017_Resica_Brochure.pdf">2017 Resica Brochure</a></li>
+										<li><a download href="_files\summer\2017_Program_Guide_V3.pdf">2017 Program Guide (Version 3)</a></li>
+										<li><a download href="_files\summer\2017_Leaders_Guide_V1.pdf">2017 Leaders Guide (Version 1)</a></li>
+										<li><a download href="_files\summer\2017_Campership_Application.pdf">2017 Campership Application</a></li>
+										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
+										<li><a download href="_files\summer\2016_Summer_Menu.pdf">2016 Summer Menu</a></li>
+										<li><a download href="_files\summer\Precamp_Questionnaire.docx">Precamp Questionnaire</a></li>
+									</ul>
+								</th>
+							</tr>
+							<tr class="table-highlight">
+								<th>Special Programs</th>
+							</tr>
+							<tr>
+								<th>
+									<ul>
+										<li><a download href="_files\special_programs\ATV_Participant_Release.pdf">ATV Participant Release</a></li>
+										<li><a download href="_files\special_programs\2015_Paddlerama_Brochure.pdf">2015 Paddlerama Brochure</a></li>
+										<li><a download href="_files\special_programs\2016_Paddlerama_Guide.pdf">2016 Paddlerama Guide</a></li>
+										<li><a download href="_files\special_programs\2016_Troop_One_Guide.pdf">2016 Troop One Guide</a></li>
 									</ul>
 								</th>
 							</tr>
@@ -40,59 +53,18 @@
 							<tr>
 								<th>
 									<ul>
-										<li><a href="#">Annual BSA Health and Medical Record</a></li>
-										<li><a href="#">Allergy Action Plan Form</a></li>
-										<li><a href="#">Drug Administration Record</a></li>
-										<li><a href="#">Unit Medication Release Form</a></li>
-										<li><a href="#">Adult Medication Storage Release</a></li>
-									</ul>
-								</th>
-							</tr>
-							<tr class="table-highlight">
-								<th>Troop One</th>
-							</tr>
-							<tr>
-								<th>
-									<ul>
-										<li><a href="#">Annual BSA Health and Medical Record</a></li>
-										<li><a href="#">Allergy Action Plan Form</a></li>
-										<li><a href="#">Drug Administration Record</a></li>
-										<li><a href="#">Unit Medication Release Form</a></li>
-										<li><a href="#">Adult Medication Storage Release</a></li>
-									</ul>
-								</th>
-							</tr>
-							<tr class="table-highlight">
-								<th>Paddlerama</th>
-							</tr>
-							<tr>
-								<th>
-									<ul>
-										<li><a href="#">Annual BSA Health and Medical Record</a></li>
-										<li><a href="#">Allergy Action Plan Form</a></li>
-										<li><a href="#">Drug Administration Record</a></li>
-										<li><a href="#">Unit Medication Release Form</a></li>
-										<li><a href="#">Adult Medication Storage Release</a></li>
-									</ul>
-								</th>
-							</tr>
-							<tr class="table-highlight">
-								<th>Camp Promotions</th>
-							</tr>
-							<tr>
-								<th>
-									<ul>
-										<li><a href="#">Annual BSA Health and Medical Record</a></li>
-										<li><a href="#">Allergy Action Plan Form</a></li>
-										<li><a href="#">Drug Administration Record</a></li>
-										<li><a href="#">Unit Medication Release Form</a></li>
-										<li><a href="#">Adult Medication Storage Release</a></li>
+										<li><a href="http://www.scouting.org/scoutsource/HealthandSafety/ahmr.aspx">Annual Health and Medical Record</a></li>
+										<li><a download href="_files\health\Unit_Medication_Storage_Release.pdf">Unit Medication Storage Release</a></li>
+										<li><a download href="_files\health\Adult_Medication_Storage_Release.pdf">Adult Medication Storage Release</a></li>
+										<li><a download href="_files\health\Allergy_Action_Plan.pdf">Allergy Action Plan</a></li>
+										<li><a download href="_files\health\Drug_Admin_Record.pdf">Drug Admin Record</a></li>
+										<li><a download href="_files\health\Medical_Record_FAQ.pdf">Medical Record FAQ</a></li>
 									</ul>
 								</th>
 							</tr>
 						</tbody>
 					</table>
-					<img class="img-fluid text-center" src="_img/important_documents-1.jpg" alt="">
+					<img class="img-fluid mx-auto d-block" src="_img/important_documents-1.jpg" alt="">
 				</div>
 			</div>
 		</div>
