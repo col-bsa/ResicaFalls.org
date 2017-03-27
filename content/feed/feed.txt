@@ -1,9 +1,0 @@
-Title: Feed
-
-----
-
-Description: Read the latest news about our company
-
-----
-
-Feed-title: Latest articles
