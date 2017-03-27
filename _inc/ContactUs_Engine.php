@@ -9,6 +9,11 @@
  * me@davidgibbons.me				*
  *************************************/
 
+require 'vendor/autoload.php';
+use Mailgun\Mailgun;
+
+require 'reCAPTCHA_Validator.php';
+
 $mailgun = array();
 
 /* * * * * * * * * * * * * * * * * * *
@@ -24,14 +29,6 @@ $mailgun['to'] = "dgibbons@unamilodge.org";
 $mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
- *         REQUIRED INCLUDES         *
- * * * * * * * * * * * * * * * * * * */
-
-require_once 'reCAPTCHA_Validator.php';
-require 'vendor/autoload.php';
-use Mailgun\Mailgun;
-
-/* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
  * * * * * * * * * * * * * * * * * * */
 
@@ -44,7 +41,7 @@ $user_data['message'] = trim($_POST['message']);
 $user_data['recaptcha'] = $_POST['g-recaptcha-response'];
 
 $user_data['address'] = $_SERVER['REMOTE_ADDR'];
-	
+
 date_default_timezone_set("America/New_York");
 $TimeStamp = date('l jS \of F Y h:i:s A');
 
@@ -103,27 +100,21 @@ if(!isset($error_text))
 	*/
 
 	/* * * * * * * * * * * * * * * * * * *
- 	*          EMAIL FORM DATA          *
- 	* * * * * * * * * * * * * * * * * * */
+	*          EMAIL FORM DATA          *
+	* * * * * * * * * * * * * * * * * * */
 
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
-	$mg = Mailgun::create($mailgun_key);
+	$mg = new Mailgun($mailgun['key']);
 
-	$mg->message()->send($mailgun['domain'], [
+	$mg->sendMessage($mailgun['domain'], array(
 		'from'			=> $mailgun['from'],
-		'h:Reply-To'	=> $user_data['name'] . " <" . $user_data['email'] . ">",
 		'to'			=> $mailgun['to'],
+		'h:Reply-To'	=> $user_data['name'] . " <" . $user_data['email'] . ">",
 		'subject'		=> $mailgun['subject'],
 		'text'			=> $send_text
-	]);
-
-	$dns = $mg->domains()->show($mailgun['domain'])->getInboundDNSRecords();
-
-	foreach ($dns as $record) {
-		echo $record->getType();
-	}
+	));
 
 }
 
@@ -136,7 +127,7 @@ if (empty($error_text))
 else
 {
 	$return_data['success'] = false;
-	$return_data['error']  = $error_text;
+	$return_data['error'] = $error_text;
 }
 
 echo json_encode($return_data);
