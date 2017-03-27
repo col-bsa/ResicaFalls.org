@@ -1,12 +1,12 @@
 <?php
 /*************************************
- * ResicaFalls.org				   *
- * Contact Us						*
- * Submission Processing Engine	  *
- *								   *
- * David Gibbons					 *
- * 3/15/17						   *
- * me@davidgibbons.me				*
+ * ResicaFalls.org                   *
+ * Contact Us                        *
+ * Submission Processing Engine      *
+ *                                   *
+ * David Gibbons                     *
+ * 3/15/17                           *
+ * me@davidgibbons.me                *
  *************************************/
 
 require 'vendor/autoload.php';
@@ -24,8 +24,8 @@ $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
 
 $mailgun['domain'] = "resicafalls.org";
 $mailgun['key'] = "key-7282acc75265f51c56d8f821956316e8";
-$mailgun['from'] = "ResicaFalls.org Contact Form <website@resicafalls.org>";
-$mailgun['to'] = "dgibbons@unamilodge.org";
+$mailgun['from'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
+$mailgun['to'] = "Contact Form Recipients <contact-form@resicafalls.org>";
 $mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
@@ -100,8 +100,8 @@ if(!isset($error_text))
 	*/
 
 	/* * * * * * * * * * * * * * * * * * *
-	*          EMAIL FORM DATA          *
-	* * * * * * * * * * * * * * * * * * */
+	 *          EMAIL FORM DATA          *
+	 * * * * * * * * * * * * * * * * * * */
 
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
