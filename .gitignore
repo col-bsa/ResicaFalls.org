@@ -1,6 +1,0 @@
-.DS_Store
-/site/accounts
-/assets/avatars
-/thumbs/*
-git_deploy.php
-.gitignore
