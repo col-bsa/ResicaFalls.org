@@ -29,6 +29,7 @@ $mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 require_once 'reCAPTCHA_Validator.php';
 require 'vendor/autoload.php';
+use Mailgun\Mailgun;
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -108,7 +109,6 @@ if(!isset($error_text))
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
-	use Mailgun\Mailgun;
 	$mg = Mailgun::create($mailgun_key);
 
 	$mg->message()->send($mailgun['domain'], [
