@@ -9,20 +9,26 @@
  * me@davidgibbons.me				*
  *************************************/
 
+$mailgun = array();
+
 /* * * * * * * * * * * * * * * * * * *
  *          ADMIN VARIABLES          *
  * * * * * * * * * * * * * * * * * * */
 
 $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
-// SMTP information: [web root]/_inc/php-smtp/src/config/config.php
+
+$mailgun['domain'] = "resicafalls.org";
+$mailgun['key'] = "key-7282acc75265f51c56d8f821956316e8";
+$mailgun['from'] = "ResicaFalls.org Contact Form <website@resicafalls.org>";
+$mailgun['to'] = "dgibbons@unamilodge.org";
+$mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
  *         REQUIRED INCLUDES         *
  * * * * * * * * * * * * * * * * * * */
 
 require_once 'reCAPTCHA_Validator.php';
-require_once 'php-smtp/vendor/travis/ex/src/ex.php';
-require_once 'php-smtp/src/models/Travis/SMTP.php';
+require 'vendor/autoload.php';
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -102,15 +108,22 @@ if(!isset($error_text))
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
-	$mail = new Travis\SMTP(require __DIR__ . '/php-smtp/src/config/config.php');
+	use Mailgun\Mailgun;
+	$mg = Mailgun::create($mailgun_key);
 
-	$mail->to('dgibbons@unamilodge.org');
-	$mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
-	$mail->reply($user_data['email'], $user_data['name']);
-	$mail->subject('ResicaFalls.org Contact Us Submission');
-	$mail->text($send_text);
-	$result = $mail->send_text();
-	$result = $mail->send();
+	$mg->message()->send($mailgun['domain'], [
+		'from'			=> $mailgun['from'],
+		'h:Reply-To'	=> "$user_data['name'] <$user_data['email']>",
+		'to'			=> $mailgun['to'],
+		'subject'		=> $mailgun['subject'],
+		'text'			=> $send_text
+	]);
+
+	$dns = $mg->domains()->show($mailgun['domain'])->getInboundDNSRecords();
+
+	foreach ($dns as $record) {
+		echo $record->getType();
+	}
 
 }
 
