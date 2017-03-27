@@ -38,9 +38,9 @@ use Mailgun\Mailgun;
 $user_data = array();
 $return_data = array();
 
-$user_data['name'] = $_POST['name'];
-$user_data['email'] = $_POST['email'];
-$user_data['message'] = $_POST['message'];
+$user_data['name'] = trim($_POST['name']);
+$user_data['email'] = trim($_POST['email']);
+$user_data['message'] = trim($_POST['message']);
 $user_data['recaptcha'] = $_POST['g-recaptcha-response'];
 
 $user_data['address'] = $_SERVER['REMOTE_ADDR'];
@@ -113,7 +113,7 @@ if(!isset($error_text))
 
 	$mg->message()->send($mailgun['domain'], [
 		'from'			=> $mailgun['from'],
-		'h:Reply-To'	=> "$user_data['name'] <$user_data['email']>",
+		'h:Reply-To'	=> $user_data['name'] . " <" . $user_data['email'] . ">",
 		'to'			=> $mailgun['to'],
 		'subject'		=> $mailgun['subject'],
 		'text'			=> $send_text
