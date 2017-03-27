@@ -22,7 +22,7 @@
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp<br class="hidden-md-down"> Leadership</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
-					<a class="dropdown-item" href="coming-soon">CIT Program</a>
+					<a class="dropdown-item" href="cit-program">CIT Program</a>
 					<a class="dropdown-item" href="work-at-resica">Work at Resica</a>
 				</div>
 			</li>

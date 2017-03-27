@@ -17,21 +17,21 @@
 			<div class="row">
 				<div class="col">
 					<p>
-						Is your troop going to camp a week you can't go with them?<br>
+						Is your troop going to camp for a week and you can't go with them?<br>
 						Do you want to do COPE, High 5, Paddlerama, and earn a lot of merit badges?<br>
 						Do you just want the week in camp to last a little longer even though your troop is leaving?
 					</p>
 					<p>
-						If you answered yes to any of the above, then Troop One is for you!
+						If you answered yes to any of these questions, then Troop One is for you!
 					</p>
 					<p>
-						Troop One is a group of scouts that just wanted to spend a week in camp even though their troop wasn't there. Every week a new group of scouts comes together and forms a temporary troop led by their Scoutmaster and an assistant. These scout leaders are members of our staff that have had many years at Resica Falls and know how to make the most of what camp has to offer.
+						Troop One is a temporary troop, formed by scouts who are in camp when their troops are not. Members of our staff serve as the Scoutmaster and an assistant for Troop One. These scout leaders have years of experience at Resica Falls and know how to make the most of the facilities. Scouts in Troop One have the same experience as scouts with their regular troops, with more time in camp.
 					</p>
 					<p>
-						Troop One is no different than any other week in camp except that if you are spending more than 1 week in camp (including any other camp), it is only half the normal price which can be found on our <a href="dates-and-rates">Dates and Rates</a> page.
+						Troop One is no different than any other week in camp except that if you are spending more than 1 week in camp, it is only half the normal price which can be found on our <a href="dates-and-rates">Dates and Rates</a> page. This deal includes stays at other camps.
 					</p>
 					<p>
-						To sign up, visit us at our <a href="dates-and-rates">Dates and Rates</a> page and find the week you want to spend a summer at Resica Falls!
+						Please visit our <a href="dates-and-rates">Dates and Rates</a> page for more information about pricing and to sign up!
 					</p>
 				</div>
 			</div>

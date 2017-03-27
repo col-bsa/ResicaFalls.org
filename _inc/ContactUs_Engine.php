@@ -1,28 +1,32 @@
 <?php
 /*************************************
- * ResicaFalls.org				   *
- * Contact Us						*
- * Submission Processing Engine	  *
- *								   *
- * David Gibbons					 *
- * 3/15/17						   *
- * me@davidgibbons.me				*
+ * ResicaFalls.org                   *
+ * Contact Us                        *
+ * Submission Processing Engine      *
+ *                                   *
+ * David Gibbons                     *
+ * 3/15/17                           *
+ * me@davidgibbons.me                *
  *************************************/
+
+require 'vendor/autoload.php';
+use Mailgun\Mailgun;
+
+require 'reCAPTCHA_Validator.php';
+
+$mailgun = array();
 
 /* * * * * * * * * * * * * * * * * * *
  *          ADMIN VARIABLES          *
  * * * * * * * * * * * * * * * * * * */
 
 $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
-// SMTP information: [web root]/_inc/php-smtp/src/config/config.php
 
-/* * * * * * * * * * * * * * * * * * *
- *         REQUIRED INCLUDES         *
- * * * * * * * * * * * * * * * * * * */
-
-require_once 'reCAPTCHA_Validator.php';
-require_once 'php-smtp/vendor/travis/ex/src/ex.php';
-require_once 'php-smtp/src/models/Travis/SMTP.php';
+$mailgun['domain'] = "resicafalls.org";
+$mailgun['key'] = "key-7282acc75265f51c56d8f821956316e8";
+$mailgun['from'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
+$mailgun['to'] = "Contact Form Recipients <contact-form@resicafalls.org>";
+$mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -31,13 +35,13 @@ require_once 'php-smtp/src/models/Travis/SMTP.php';
 $user_data = array();
 $return_data = array();
 
-$user_data['name'] = $_POST['name'];
-$user_data['email'] = $_POST['email'];
-$user_data['message'] = $_POST['message'];
+$user_data['name'] = trim($_POST['name']);
+$user_data['email'] = trim($_POST['email']);
+$user_data['message'] = trim($_POST['message']);
 $user_data['recaptcha'] = $_POST['g-recaptcha-response'];
 
 $user_data['address'] = $_SERVER['REMOTE_ADDR'];
-	
+
 date_default_timezone_set("America/New_York");
 $TimeStamp = date('l jS \of F Y h:i:s A');
 
@@ -96,21 +100,21 @@ if(!isset($error_text))
 	*/
 
 	/* * * * * * * * * * * * * * * * * * *
- 	*          EMAIL FORM DATA          *
- 	* * * * * * * * * * * * * * * * * * */
+	 *          EMAIL FORM DATA          *
+	 * * * * * * * * * * * * * * * * * * */
 
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
-	$mail = new Travis\SMTP(require __DIR__ . '/php-smtp/src/config/config.php');
+	$mg = new Mailgun($mailgun['key']);
 
-	$mail->to('dgibbons@unamilodge.org');
-	$mail->from('website@resicafalls.org', 'ResicaFalls.org'); // email is required, name is optional
-	$mail->reply($user_data['email'], $user_data['name']);
-	$mail->subject('ResicaFalls.org Contact Us Submission');
-	$mail->text($send_text);
-	$result = $mail->send_text();
-	$result = $mail->send();
+	$mg->sendMessage($mailgun['domain'], array(
+		'from'			=> $mailgun['from'],
+		'to'			=> $mailgun['to'],
+		'h:Reply-To'	=> $user_data['name'] . " <" . $user_data['email'] . ">",
+		'subject'		=> $mailgun['subject'],
+		'text'			=> $send_text
+	));
 
 }
 
@@ -123,7 +127,7 @@ if (empty($error_text))
 else
 {
 	$return_data['success'] = false;
-	$return_data['error']  = $error_text;
+	$return_data['error'] = $error_text;
 }
 
 echo json_encode($return_data);
