@@ -17,23 +17,29 @@
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Thank you for your interest in working at Resica Falls Scout Reservation! Working on our camp staff could be a fun and rewarding way to spend your summer.
+						Working on a campstaff is a fun way to spend your summer, and it gives you the opportunity to make a difference in the life of each and every scout that comes to camp. While being a counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
 					</p>
 					<p>
-						Camp staff members are needed for paid positions in programs including but not limited to aquatics, handicraft, cope and the stem center. Applicants must be at least 16 years old by June 1 and embody the spirit of the Scout Oath and Law to be considered.
+						Qualifications of a Staff Member:
+						<ul>
+							<li>Be at least 15 years old.</li>
+							<li>A positive attitude and a strong work ethic.</li>
+							<li>A willingness to live by the Scout Oath &amp; Law.</li>
+							<li>A desire to have fun and make a lasting impact on the life of a scout.</li>
+						</ul>
 					</p>
 					<p>
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
+					<p>
+						Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our <a href="cit-program">CIT Program</a>. We hope you consider applying, and are ready to have the time of your life at Resica Falls!
+					</p>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.org/campstaff">Apply Now</a>
 					</p>
-					<p>
-						Interested in working at Resica Falls but under 16? If you’ll be 14 or older before the end of July please check out our CIT Program. 
-					</p>
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/StaffPhoto2015.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
 				</div>
 			</div>
 		</div>
