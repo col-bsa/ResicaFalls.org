@@ -1,0 +1,138 @@
+html{
+	  height: 100%;
+}
+body{
+	background: url(../_img/bg.png) #eceef0;
+	position: relative;
+  	margin: 0;
+  	padding-bottom: 8rem;
+  	min-height: 100%;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	font-weight: 900;
+}
+.footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: .5rem;
+}
+/* Header */
+.header{
+	padding: 0.5rem 0px 0.3rem 0px;
+	text-align: center;
+}
+
+/* Navbar */
+.navbar{
+	padding: 0 1rem;
+}
+.nav-item {
+	text-transform: uppercase;
+}
+.dropdown-toggle:after{
+	display: none;
+}
+	/* Desktop Nav */
+	@media (min-width: 992px) {
+		.nav-item{
+			text-align: center;
+			width: 10rem;
+		}
+		.nav-item:hover{
+			background: #FFF200;
+		}
+		.nav-item:hover .nav-link{
+			color: #292b2c !important;
+		}
+		.nav-link{
+			line-height: 110%;
+			color: white !important;
+		}
+	}
+.navbar-toggler{
+	border: 0;
+}
+/* Footer */
+.footer{
+	background: #FFF200;
+}
+.footer a {
+	color: #292b2c;
+}
+.footer a:hover {
+	color: #696a6b;
+	text-decoration: none;
+}
+
+/* Content */
+.content{
+	padding-top: 1rem;
+}
+.split{
+	margin-bottom: 1rem;
+}
+
+/*Pages*/
+	/*Index*/
+		.slider{
+			background: url(../_img/slider/slide1.jpg);
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+			height: 32rem;
+		}
+		.divider{
+			background: #FFF200;
+			text-align: center;
+			padding: 1rem 0;
+			margin: 1rem 0;
+		}
+		/* Image/Link Grid */
+		.grid-item{
+			text-align: center;
+			padding-bottom: 1rem;
+		}
+		.grid-item img{
+			-webkit-transition: all 0.3s ease;
+			   -moz-transition: all 0.3s ease;
+			     -o-transition: all 0.3s ease;
+			    -ms-transition: all 0.3s ease;
+			        transition: all 0.3s ease;
+			-webkit-filter: blur(0px) grayscale(100%);
+			   -moz-filter: blur(0px) grayscale(100%);
+			     -o-filter: blur(0px) grayscale(100%);
+			    -ms-filter: blur(0px) grayscale(100%);
+			        filter: blur(0px) grayscale(100%);
+		}
+		.grid-item:hover img{
+			-webkit-filter: blur(2px) grayscale(0%);
+			   -moz-filter: blur(2px) grayscale(0%);
+			     -o-filter: blur(2px) grayscale(0%);
+			    -ms-filter: blur(2px) grayscale(0%);
+			        filter: blur(2px) grayscale(0%);
+		}
+		.grid-text{
+			left: 0;
+			top: 40%;
+	    	position:absolute;
+	    	text-align:center;
+	    	width: 100%;
+	    	color: #fff;
+		}
+	/* Dates and Costs */
+		.table-highlight,
+		.table-highlight > th,
+		.table-highlight > td {
+			background-color: #FFF200;
+			border-color: #FFF200;
+		}
+	/* 404 */
+		.slider-404{
+			background: url(../_img/trail-sign.jpg);
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+			height: 23rem;
+		}
