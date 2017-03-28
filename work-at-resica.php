@@ -31,11 +31,11 @@
 					<p>
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
-					<p>
-						Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our <a href="cit-program">CIT Program</a>. We hope you consider applying, and are ready to have the time of your life at Resica Falls!
-					</p>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.org/campstaff">Apply Now</a>
+					</p>
+					<p>
+						Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our <a href="cit-program">CIT Program</a>.
 					</p>
 				</div>
 				<div class="col-md-4">

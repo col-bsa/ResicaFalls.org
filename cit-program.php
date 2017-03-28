@@ -29,13 +29,13 @@
 						</ul>
 					</p>
 					<p>
-						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
-					</p>
-					<p>
-						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="work-at-resica">Working At Resica</a>. We hope you consider joining our CIT Program, and are ready to embark on a life changing journey at Resica Falls!
+						If you’re ready to join us for a summer of fun at Resica Falls, apply today! We hope you consider joining our CIT Program, and are ready to embark on a life changing journey at Resica Falls!
 					</p>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.org/campstaff">Apply Now</a>
+					</p>
+					<p>
+						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="work-at-resica">Working At Resica</a>.
 					</p>
 				</div>
 				<div class="col-md-4">

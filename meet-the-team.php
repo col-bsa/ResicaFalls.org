@@ -21,7 +21,7 @@
 				<div class="col-12 col-md-10">
 					<h2>Chris Brenner <div class="h5">Camp Director</div></h2>
 					<p>
-						This marks Chris’s 12 th summer as the Camp Director at Resica Falls. An Eagle Scout  and Vigil Honor member, Chris has many years of Scouting experience, including 15 years as a Scoutmaster, various work on district and council committees, and one  summer as Camp Director at Treasure Island (1998). A retired school teacher of 35  years, Chris’s expert leadership has become a standard of Resica Falls. Chris’s favorite  candy is Swedish Fish. Contact Chris at <a href="mailto:campdirector@resicafalls.org">campdirector@resicafalls.org</a>.
+						This marks Chris’s 12th summer as the Camp Director at Resica Falls. An Eagle Scout  and Vigil Honor member, Chris has many years of Scouting experience, including 15 years as a Scoutmaster, various work on district and council committees, and one  summer as Camp Director at Treasure Island (1998). A retired school teacher of 35  years, Chris’s expert leadership has become a standard of Resica Falls. Chris’s favorite  candy is Swedish Fish. Contact Chris at <a href="mailto:campdirector@resicafalls.org">campdirector@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>
@@ -32,7 +32,7 @@
 				<div class="col-12 col-md-10">
 					<h2>Steve Mach <div class="h5">Assistant Camp Director</div></h2>
 					<p>
-						Steve is in his 9 th summer at Resica Falls, and his second as Assistant Camp Director.  Previously, he has worked as Handicraft Director, Commissioner, and Program Director.  He is also an Eagle Scout and Vigil Honor member. A high school social studies  teacher, Steve is always looking for ways to make camp better. Steve’s favorite color is  green. Contact Steve at <a href="mailto:asstcampdirector@resicafalls.org">asstcampdirector@resicafalls.org</a>.
+						Steve is in his 9th summer at Resica Falls, and his second as Assistant Camp Director.  Previously, he has worked as Handicraft Director, Commissioner, and Program Director.  He is also an Eagle Scout and Vigil Honor member. A high school social studies  teacher, Steve is always looking for ways to make camp better. Steve’s favorite color is  green. Contact Steve at <a href="mailto:asstcampdirector@resicafalls.org">asstcampdirector@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>
