@@ -65,7 +65,7 @@
 				<div class="col-12 col-md-10">
 					<h2>Andy Schmidt <div class="h5">Council Program Director</div></h2>
 					<p>
-						Andy comes to the Cradle of Liberty Council after 20 years of camp experience at Heritage Scout Reservation and Goshen Scout Reservation. Over the years, he been a Scoutcraft Director, Shooting Sports Director, Program Director, Camp Director and Assistant Reservation Director. Before becoming a full-time professional scouter, Andy was a teacher in North Carolina. Andy’s favorite football team is the Pittsburgh Steelers. Contact Andy at <a href="mailto:andy.schmidt@scouting.org">andy.schmidt@scouting.org</a>.
+						Andy comes to the Cradle of Liberty Council after 20 years of camp experience at Heritage Scout Reservation and Goshen Scout Reservation. Over the years, he been a Scoutcraft Director, Shooting Sports Director, Program Director, Camp Director and Assistant Reservation Director. Before becoming a full-time professional scouter, Andy was a teacher in North Carolina. Andy’s favorite hockey team is the Pittsburgh Penguins. Contact Andy at <a href="mailto:andy.schmidt@scouting.org">andy.schmidt@scouting.org</a>.
 					</p>
 				</div>
 			</div>

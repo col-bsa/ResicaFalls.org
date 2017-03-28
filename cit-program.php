@@ -25,14 +25,14 @@
 							<li>Be either 14 or 15 years old by June 1st.</li>
 							<li>Commit to at least two weeks of campers and our staff set-up week.</li>
 							<li>A desire to have fun and make a lasting impact on the life of a scout.</li>
-							<li>A willingness to live by the Scout Oath &amp; Law</li>
+							<li>A willingness to live by the Scout Oath &amp; Law.</li>
 						</ul>
 					</p>
 					<p>
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
 					<p>
-						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="working-at-resica">Working At Resica</a>. We hope you consider joining our CIT Program, and are ready to embark on a life changing journey at Resica Falls!
+						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="work-at-resica">Working At Resica</a>. We hope you consider joining our CIT Program, and are ready to embark on a life changing journey at Resica Falls!
 					</p>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.org/campstaff">Apply Now</a>
