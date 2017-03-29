@@ -25,7 +25,7 @@ $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
 $mailgun['domain'] = "resicafalls.org";
 $mailgun['key'] = "key-7282acc75265f51c56d8f821956316e8";
 $mailgun['from'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
-$mailgun['to'] = "Contact Form Recipients <contact-form@resicafalls.org>";
+$mailgun['to'] = "David Gibbons <dgibbons@unamilodge.org>";
 $mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
