@@ -1,3 +1,8 @@
+<?php
+header('Location: http://unamilodge.org/contact.php?recip=communications');
+exit;
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
