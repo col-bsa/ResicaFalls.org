@@ -1,7 +1,5 @@
 User-agent: *
-Disallow: /_css
 Disallow: /_files
-Disallow: /_img
 Disallow: /_inc
 Disallow: /_js
 Disallow: /404
