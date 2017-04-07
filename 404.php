@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<base href="https://resicafalls.org">
 		<?php include '_inc/html_head.php'; ?>
 		<title>Page Not Found (404) <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
