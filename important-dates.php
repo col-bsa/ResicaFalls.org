@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Important Dates concerning your summer at Resica Falls Scout Reservation." />
 		<title>Important Dates <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

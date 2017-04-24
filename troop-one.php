@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Troop One is the place at Resica Falls Scout Reservation for the scouts that want to spend an extra week at camp." />
 		<title>Troop One <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

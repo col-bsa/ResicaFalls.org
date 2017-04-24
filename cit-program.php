@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Spend your summer doing something amazing at Resica Falls Scout Reservation." />
 		<title>CIT Program <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

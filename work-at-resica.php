@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Come work at Resica Falls Scout Reservation!" />
 		<title>Work At Resica <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

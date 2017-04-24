@@ -10,4 +10,3 @@
 <link rel="stylesheet" type="text/css" href="_css/site.css">
 
 <!-- Other Meta Data -->
-<meta name="description" content="Situated on 4600 acres in the beautiful Pocono Mountains, Resica Falls is a haven for Scouts looking for a top-notch Summer Camp or offseason experience!" />

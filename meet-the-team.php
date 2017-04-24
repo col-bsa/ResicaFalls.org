@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="The team at Resica Falls Scout Reservation is passionate about what they do!" />
 		<title>Meet The Team <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
