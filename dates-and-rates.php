@@ -30,7 +30,7 @@
 							<tr>
 								<td>Week 1</td>
 								<td>June 25 – July 1</td>
-								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1891460&OrgKey=1112#">Register Now!</a></td>
+								<td>Registration Full</td>
 								<td><a href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=1891460&OrgKey=1112#">Register Now!</a></td>
 								<td></td>									
 							</tr>
