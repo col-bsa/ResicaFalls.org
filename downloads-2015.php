@@ -16,7 +16,6 @@
 			</div>
 			<div class="row">
 				<div class="col">
-					<h2>Youth</h2>
 					<div id="accordion1" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion1-download1">
