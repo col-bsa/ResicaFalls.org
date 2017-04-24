@@ -3,6 +3,7 @@
 	<head>
 		<base href="https://resicafalls.org">
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Looks like you have lost your way at Resica Falls Scout Reservation." />
 		<title>Page Not Found (404) <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

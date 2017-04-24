@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Resica Falls Scout Reservation downloads from 2015." />
 		<title>Downloads (2015) <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

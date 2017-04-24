@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Come schedule a visit at Resica Falls Scout Reservation or from our staff at your event!" />
 		<title>Schedule A Visit <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

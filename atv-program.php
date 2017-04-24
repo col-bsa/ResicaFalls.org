@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="New to Resica Falls Scout Reservation is the ATV program!" />
 		<title>ATV Program <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

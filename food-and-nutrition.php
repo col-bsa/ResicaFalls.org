@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="The summer camp menu of Resica Falls Scout Reservation features a nutritional diet healthy for the outdoors." />
 		<title>Food &amp; Nutrition <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Contact the team at Resica Falls Scout Reservation to begin planning your next adventure!" />
 		<title>Contact Us <?php include '_inc/var/site_name.php'; ?></title>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 	</head>

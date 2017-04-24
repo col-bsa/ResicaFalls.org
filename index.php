@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Resica Falls Scout Reservation is a haven for Scouts looking for a top-notch Summer Camp or offseason experience!" />
 		<title>Home <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

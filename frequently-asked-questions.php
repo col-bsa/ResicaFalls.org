@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="Frequently Asked Questions (FAQ) about Resica Falls Scout Reservation." />
 		<title>Frequently Asked Questions <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>

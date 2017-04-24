@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
+		<meta name="description" content="What Paddlerama at Resica Falls Scout Reservation is all about." />
 		<title>Paddlerama <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
