@@ -85,7 +85,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Aquatics</h4>
 										<p class="card-text">
-											Aquatics at Resica is fun for everyone! The pool in camp is equipped with a three-story water slide that all scouts can enjoy. In addition to canoing, kayaking, and sailing on Lake Roger, campers have the chance to get wet on the Wibit attraction, that includes a blob and trampoline!
+											Aquatics at Resica is fun for everyone! The pool in camp is equipped with a three-story water slide that all scouts can enjoy. In addition to canoeing, kayaking, and sailing on Lake Roger, campers have the chance to get wet on the Wibit attraction, that includes a blob and trampoline!
 										</p>
 									</div>
 								</div>
