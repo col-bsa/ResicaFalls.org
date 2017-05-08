@@ -26,8 +26,14 @@
 								<th>
 									<ul>
 										<li><a download href="_files\summer\2017_Resica_Brochure.pdf">2017 Resica Brochure</a></li>
-										<li><a download href="_files\summer\2017_Program_Guide_V3.pdf">2017 Program Guide (Version 3)</a></li>
-										<li><a download href="_files\summer\2017_Leaders_Guide_V1.pdf">2017 Leaders Guide (Version 1)</a></li>
+										<li>
+											<a download href="_files\summer\2017_Program_Guide_V4.pdf">2017 Program Guide (Version 4)</a>
+											<ul><li><strong>Updated 5/1:</strong> to include updates for Cooking, Fire Safety, Hiking, Lifesaving, Radio, and Personal Fitness Merit Badges.</li></ul>
+										</li>
+										<li>
+											<a download href="_files\summer\2017_Leaders_Guide_V2.pdf">2017 Leaders Guide (Version 2)</a>
+											<ul><li><strong>Updated 5/1:</strong> to include new email addresses.</li></ul>
+										</li>
 										<li><a download href="_files\summer\2017_Campership_Application.pdf">2017 Campership Application</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 										<li><a download href="_files\summer\2016_Summer_Menu.pdf">2016 Summer Menu</a></li>
