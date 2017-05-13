@@ -65,11 +65,12 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 					<div class="col-12 col-md-4">
 						<button type="submit" class="btn btn-primary btn-block" id="forminput_update">Update</button>
 					</div>
-				</div>
-				<div class="form-group row">
 					<div class="col-12 col-md-4">
 						<button type="reset" class="btn btn-danger btn-block" id="forminput_send">Clear</button>
 					</div>
+				</div>
+				<div class="form-group row">
+					
 				</div>
 			</form>
 		</div>
@@ -77,5 +78,3 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 		<?php include '_inc/html_foot.php'; ?>
 	</body>
 </html>
-
-<!-- <button type="reset" class="btn btn-danger">Clear Form</button> -->
