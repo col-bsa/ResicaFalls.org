@@ -25,8 +25,8 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 			</div>
 			<div class="row">
 				<form id="tripplan-form">
-					<div class="col" style="overflow:auto">
-						<table class="table">
+					<div class="col">
+						<table class="table table-responsive">
 							<thead>
 								<tr>
 									<th>Time</th>
