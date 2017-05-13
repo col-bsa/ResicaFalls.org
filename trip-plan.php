@@ -29,11 +29,11 @@ $needs_array = array("Lifeguard", "PFDs", "Canoes", "Food", "Transport");
 						<table class="table">
 							<thead class="thead-inverse">
 								<tr>
-									<th class="align-center">Time</th>
+									<th class="text-center">Time</th>
 <?php
 	foreach($day_array as $day)
 	{
-		echo "<th class=\"align-center\">$day</th>\n";
+		echo "<th class=\"text-center\">$day</th>\n";
 	}
 ?>
 								</tr>
