@@ -23,8 +23,8 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 					<h1>Trip-Plan Scheduler</h1>
 				</div>
 			</div>
-			<div class="row">
-				<form id="tripplan-form">
+			<form id="tripplan-form">
+				<div class="row">
 					<div class="col">
 						<table class="table table-responsive">
 							<thead>
@@ -49,9 +49,9 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 			echo "<td>";
 			foreach($needs_array as $need)
 			{
-				echo "<input class=\"\" type=\"checkbox\" name=\"$day $need\" id=\"\"> $need<br>";
+				echo "<input class=\"\" type=\"checkbox\" name=\"$day-$time-$need\" id=\"\"> $need<br>";
 			}
-			echo "<input class=\"form-control\" type=\"text\" name=\"$day troop\" id=\"\">";
+			echo "<input class=\"form-control\" type=\"text\" name=\"$day-$time-troop\" id=\"\">";
 			echo "</td>";
 		}
 		echo "</tr>";
@@ -59,9 +59,19 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 ?>
 							</tbody>
 						</table>
+					</div>	
+				</div>
+				<div class="form-group row">
+					<div class="col-12 col-md-4">
+						<button type="submit" class="btn btn-primary btn-block" id="forminput_update">Update</button>
 					</div>
-				</form>
-			</div>
+				</div>
+				<div class="form-group row">
+					<div class="col-12 col-md-4">
+						<button type="reset" class="btn btn-danger btn-block" id="forminput_send">Clear</button>
+					</div>
+				</div>
+			</form>
 		</div>
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
