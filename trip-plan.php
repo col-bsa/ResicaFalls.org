@@ -27,7 +27,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 				<div class="row">
 					<div class="col">
 						<table class="table">
-							<thead class="thead-default">
+							<thead class="thead-inverse">
 								<tr class="align-center">
 									<th>Time</th>
 <?php
