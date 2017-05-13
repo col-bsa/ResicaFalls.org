@@ -43,7 +43,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 	foreach($time_array as $time)
 	{
 		echo "<tr>";
-		echo "<td class=\"align-middle\"">$time</td>";
+		echo "<td class=\"align-middle\">$time</td>";
 		foreach($day_array as $day)
 		{
 			echo "<td>";
