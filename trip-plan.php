@@ -11,7 +11,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<meta name="description" content="Schedule a trip-plan with the team at Resica Falls Scout Reservation!" />
-		<title>Trip-Plan Scheduler <?php include '_inc/var/site_name.php'; ?></title>
+		<title>Trip-Plan Schedule <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
@@ -20,7 +20,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>Trip-Plan Scheduler</h1>
+					<h1>Trip-Plan Schedule</h1>
 				</div>
 			</div>
 			<form id="tripplan-form">
