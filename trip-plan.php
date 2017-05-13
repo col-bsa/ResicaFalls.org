@@ -43,15 +43,15 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 	foreach($time_array as $time)
 	{
 		echo "<tr>";
+		echo "<td>$time</td>";
 		foreach($day_array as $day)
 		{
-			echo "<td>$time</td>";
 			echo "<td>";
 			foreach($needs_array as $need)
 			{
 				echo "<input class=\"\" type=\"checkbox\" name=\"$day $need\" id=\"\"> $need<br>";
 			}
-			echo "<input class=\"\" type=\"text\" name=\"$day troop\" id=\"\">";
+			echo "<input class=\"form-control\" type=\"text\" name=\"$day troop\" id=\"\">";
 			echo "</td>";
 		}
 		echo "</tr>";
