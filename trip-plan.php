@@ -1,6 +1,6 @@
 <?php
 
-$day_array = array("M", "T", "W", "R", "F");
+$day_array = array("Monday", "Tuesday", "Wednesday", "Thursday", "Friday");
 $time_array = array("9-12", "1-5", "5-7", "7-9");
 $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation");
 
@@ -25,7 +25,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 			</div>
 			<div class="row">
 				<form id="tripplan-form">
-					<div class="col">
+					<div class="col" style="overflow:auto">
 						<table class="table">
 							<thead>
 								<tr>
