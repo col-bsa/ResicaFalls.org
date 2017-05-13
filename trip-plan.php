@@ -26,7 +26,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 			<form id="tripplan-form">
 				<div class="row">
 					<div class="col">
-						<table class="table table-bordered table-responsive align-middle">
+						<table class="table table-bordered table-responsive">
 							<thead>
 								<tr>
 									<th>Time</th>
@@ -43,7 +43,7 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 	foreach($time_array as $time)
 	{
 		echo "<tr>";
-		echo "<td>$time</td>";
+		echo "<td class=\"align-middle\"">$time</td>";
 		foreach($day_array as $day)
 		{
 			echo "<td>";
