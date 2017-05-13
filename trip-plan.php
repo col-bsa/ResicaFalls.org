@@ -2,7 +2,7 @@
 
 $day_array = array("Monday", "Tuesday", "Wednesday", "Thursday", "Friday");
 $time_array = array("9-12", "1-5", "5-7", "7-9");
-$needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation");
+$needs_array = array("Lifeguard", "PFDs", "Canoes", "Food", "Transport");
 
 ?>
 
@@ -28,12 +28,12 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 					<div class="col">
 						<table class="table">
 							<thead class="thead-inverse">
-								<tr class="align-center">
-									<th>Time</th>
+								<tr>
+									<th class="align-center">Time</th>
 <?php
 	foreach($day_array as $day)
 	{
-		echo "<th>$day</th>\n";
+		echo "<th class=\"align-center\">$day</th>\n";
 	}
 ?>
 								</tr>
