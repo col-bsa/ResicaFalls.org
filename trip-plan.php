@@ -51,7 +51,7 @@ $needs_array = array("Lifeguard", "PFDs", "Canoes", "Food", "Transport");
 			{
 				echo "<input class=\"\" type=\"checkbox\" name=\"$day-$time-$need\" id=\"\"> $need<br>";
 			}
-			echo "<input class=\"form-control\" type=\"text\" name=\"$day-$time-troop\" id=\"\">";
+			echo "<input class=\"form-control\" type=\"text\" name=\"$day-$time-troop\" id=\"\" placeholder=\"Unit #\" value=\"\">";
 			echo "</td>\n";
 		}
 		echo "</tr>\n";
