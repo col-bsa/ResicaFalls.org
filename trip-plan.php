@@ -26,14 +26,14 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 			<form id="tripplan-form">
 				<div class="row">
 					<div class="col">
-						<table class="table table-bordered table-responsive">
-							<thead>
-								<tr>
+						<table class="table">
+							<thead class="thead-default">
+								<tr class="align-center">
 									<th>Time</th>
 <?php
 	foreach($day_array as $day)
 	{
-		echo "<th>$day</th>";
+		echo "<th>$day</th>\n";
 	}
 ?>
 								</tr>
@@ -42,8 +42,8 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 <?php
 	foreach($time_array as $time)
 	{
-		echo "<tr>";
-		echo "<td class=\"align-middle\">$time</td>";
+		echo "<tr>\n";
+		echo "<td class=\"align-middle\">$time</td>\n";
 		foreach($day_array as $day)
 		{
 			echo "<td>";
@@ -52,9 +52,9 @@ $needs_array = array("Lifeguard(s)", "PFDs", "Canoes", "Food", "Transportation")
 				echo "<input class=\"\" type=\"checkbox\" name=\"$day-$time-$need\" id=\"\"> $need<br>";
 			}
 			echo "<input class=\"form-control\" type=\"text\" name=\"$day-$time-troop\" id=\"\">";
-			echo "</td>";
+			echo "</td>\n";
 		}
-		echo "</tr>";
+		echo "</tr>\n";
 	}
 ?>
 							</tbody>
