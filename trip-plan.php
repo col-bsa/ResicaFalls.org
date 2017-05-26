@@ -26,7 +26,7 @@ $needs_array = array("Lifeguard", "PFDs", "Canoes", "Food", "Transport");
 			<form id="tripplan-form">
 				<div class="row">
 					<div class="col">
-						<table class="table">
+						<table class="table table-responsive">
 							<thead class="thead-inverse">
 								<tr>
 									<th class="text-center">Time</th>
