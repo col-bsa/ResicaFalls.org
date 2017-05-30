@@ -23,7 +23,7 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr class="table-highlight">
+							<tr>
 								<td>
 									<ul>
 										<li>January 1 to December 31, of current year</li>
