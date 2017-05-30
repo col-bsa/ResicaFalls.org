@@ -16,17 +16,25 @@
 					<p>
 						The Bushkill Creek at Resica Falls is one of the leading areas for fly fishing on the East Coast of the US.Cradle of Liberty Council, BSA offers anglers the opportunity to fish on a six mile stretch of the Bushkill Creek. (No fishing within 200 yards above and below the actual Falls), located on the Resica Falls Scout Reservation. A PA State fishing license is required and all state and local regulations must be followed. We suggest a donation of $30 for your fly fishing experience at Resica Falls. In addition, to this we also offer the opportunity to perpetuate the cooperative Nursery program for $40. This helps the council to cover the operating cost of the hatchery each year. The PA Fish and Boat Commission supply fish to Resica in April and May and they are typically released after the heat of the summer.
 					</p>
-					<p>
-						Fishing Permit
-						<br>
-						January 1 to December 31, of current year
-						<br>
-						Please note a PA State Fishing License is also required.
-						<br>
-						Valid only on 6 miles of Bushkill Creek; location on the Cradle of Liberty Council Property.
-						<br>
-						Permit not valid on non-regulated water adjacent to Main Falls. Consult PA Fishing Regulations for specifications.
-					</p>
+					<table class="table text-center">
+						<thead class="thead-inverse">
+							<tr>
+								<th class="text-center">Fishing Permit</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="table-highlight">
+								<td>
+									<ul>
+										<li>January 1 to December 31, of current year</li>
+										<li>PA State Fishing License is also required</li>
+										<li>Valid only on 6 miles of Bushkill Creek; location on the Cradle of Liberty Council Property.</li>
+										<li>Permit not valid on non-regulated water adjacent to Main Falls. Consult PA Fishing Regulations for specifications.</li>
+									</ul>
+								</td>
+							</tr>
+						</tbody>
+					</table>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.doubleknot.com/event/2017-fly-fishing-at-resica-falls-scout-reservation/2025486">Register Now</a>
 					</p>
