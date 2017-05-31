@@ -41,47 +41,31 @@
 									
 								</td>
 								<td> <!-- Monday -->
-									<ul>
-										<li>Pancakes</li>
-										<li>Sausage Link</li>
-									</ul>
+									Pancakes<br>
+									Sausage Link
 								</td>
 								<td> <!-- Tuesday -->
-									<ul>
-										<li>Scrambled Eggs</li>
-										<li>Sausage Patty</li>
-										<li>Hash Brown</li>
-									</ul>
+									Scrambled Eggs<br>
+									Sausage Patty<br>
+									Hash Brown
 								</td>
 								<td> <!-- Wednesday -->
-									<ul>
-										<li>Waffles with warm Syrup</li>
-										<li>Pork Roll</li>
-									</ul>
+									Waffles with warm Syrup<br>
+									Pork Roll
 								</td>
 								<td> <!-- Thursday -->
-									<ul>
-										<li>French Toast</li>
-										<li>Bacon</li>
-									</ul>
+									French Toast<br>
+									Bacon
 								</td>
 								<td> <!-- Friday -->
-									<ul>
-										<li>Scrambled Eggs</li>
-										<li>Sausage Link</li>
-									</ul>
+									Scrambled Eggs<br>
+									Sausage Link
 								</td>
 								<td> <!-- Saturday -->
-									<ul>
-										<li>Bagels <small>with</small></li>
-										<li><small>Butter</small></li>
-										<li><small>Cream Cheese</small></li>
-										<li><small>Jelly</small></li>
-										<li><small>Peanut Butter</small></li>
-										<li>Fruit Salad</li>
-										<li>Low-Fat Yogurt</li>
-										<li>Cottage Cheese</li>
-									</ul>
+									Bagels<br>
+									Fruit Salad<br>
+									Low-Fat Yogurt<br>
+									Cottage Cheese
 								</td>
 							</tr>
 							<tr>
@@ -90,29 +74,19 @@
 									
 								</td>
 								<td> <!-- Monday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Tuesday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Wednesday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Thursday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Friday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Saturday -->
 									
@@ -131,53 +105,41 @@
 							<tr>
 								<td>Dinner</td>
 								<td> <!-- Sunday -->
-									<ul>
-										<li>Roasted Turkey</li>
-										<li>Mashed Potatoes with Gravy</li>
-										<li>Stuffing</li>
-										<li>Steamed Carrots</li>
-										<li>Apple Cobbler</li>
-									</ul>
+									Roasted Turkey<br>
+									Mashed Potatoes with Gravy<br>
+									Stuffing<br>
+									Steamed Carrots<br>
+									Apple Cobbler
 								</td>
 								<td> <!-- Monday -->
-									<ul>
-										<li>BBQ Chicken</li>
-										<li>Mac &amp; Cheese</li>
-										<li>Summer Squash</li>
-										<li>Brownie</li>
-									</ul>
+									BBQ Chicken<br>
+									Mac &amp; Cheese<br>
+									Summer Squash<br>
+									Brownie
 								</td>
 								<td> <!-- Tuesday -->
-									<ul>
-										<li>Spaghetti with Meatballs</li>
-										<li>Roasted Broccoli</li>
-										<li>Breadsticks</li>
-										<li>Ice Cream Sandwich</li>
-									</ul>
+									Spaghetti with Meatballs<br>
+									Roasted Broccoli<br>
+									Breadsticks<br>
+									Ice Cream Sandwich
 								</td>
 								<td> <!-- Wednesday -->
-									<ul>
-										<li>Meatloaf</li>
-										<li>Rice Pilaf</li>
-										<li>Steamed Green Beans</li>
-										<li>Yellow Cake with Vanilla Frosting</li>
-									</ul>
+									Meatloaf<br>
+									Rice Pilaf<br>
+									Steamed Green Beans<br>
+									Yellow Cake with Vanilla Frosting
 								</td>
 								<td> <!-- Thursday -->
-									<ul>
-										<li>Chicken Parmesan</li>
-										<li>Rigatoni</li>
-										<li>Roasted Cauliflower</li>
-										<li>Ice Cream Cup</li>
-									</ul>
+									Chicken Parmesan<br>
+									Rigatoni<br>
+									Roasted Cauliflower<br>
+									Ice Cream Cup
 								</td>
 								<td> <!-- Friday -->
-									<ul>
-										<li>Roast Beef</li>
-										<li>Herbed Potatoes</li>
-										<li>Steamed Snap Peas</li>
-										<li>Chocolate Cake with Vanilla Frosting</li>
-									</ul>
+									Roast Beef<br>
+									Herbed Potatoes<br>
+									Steamed Snap Peas<br>
+									Chocolate Cake with Vanilla Frosting
 								</td>
 								<td> <!-- Saturday -->
 									
@@ -206,47 +168,31 @@
 									
 								</td>
 								<td> <!-- Monday -->
-									<ul>
-										<li>Pancakes</li>
-										<li>Sausage Link</li>
-									</ul>
+									Pancakes<br>
+									Sausage Link
 								</td>
 								<td> <!-- Tuesday -->
-									<ul>
-										<li>Scrambled Eggs</li>
-										<li>Sausage Patty</li>
-										<li>Hash Brown</li>
-									</ul>
+									Scrambled Eggs<br>
+									Sausage Patty<br>
+									Hash Brown
 								</td>
 								<td> <!-- Wednesday -->
-									<ul>
-										<li>Waffles with warm Syrup</li>
-										<li>Pork Roll</li>
-									</ul>
+									Waffles with warm Syrup<br>
+									Pork Roll
 								</td>
 								<td> <!-- Thursday -->
-									<ul>
-										<li>French Toast</li>
-										<li>Bacon</li>
-									</ul>
+									French Toast<br>
+									Bacon
 								</td>
 								<td> <!-- Friday -->
-									<ul>
-										<li>Scrambled Eggs</li>
-										<li>Sausage Link</li>
-									</ul>
+									Scrambled Eggs<br>
+									Sausage Link
 								</td>
 								<td> <!-- Saturday -->
-									<ul>
-										<li>Bagels <small>with</small></li>
-										<li><small>Butter</small></li>
-										<li><small>Cream Cheese</small></li>
-										<li><small>Jelly</small></li>
-										<li><small>Peanut Butter</small></li>
-										<li>Fruit Salad</li>
-										<li>Low-Fat Yogurt</li>
-										<li>Cottage Cheese</li>
-									</ul>
+									Bagels<br>
+									Fruit Salad<br>
+									Low-Fat Yogurt<br>
+									Cottage Cheese
 								</td>
 							</tr>
 							<tr>
@@ -255,29 +201,19 @@
 									
 								</td>
 								<td> <!-- Monday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Tuesday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Wednesday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Thursday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Friday -->
-									<ul>
-										<li></li>
-									</ul>
+									
 								</td>
 								<td> <!-- Saturday -->
 									
@@ -296,53 +232,41 @@
 							<tr>
 								<td>Dinner</td>
 								<td> <!-- Sunday -->
-									<ul>
-										<li>Roasted Turkey</li>
-										<li>Mashed Potatoes with Gravy</li>
-										<li>Stuffing</li>
-										<li>Steamed Carrots</li>
-										<li>Apple Cobbler</li>
-									</ul>
+									Roasted Turkey<br>
+									Mashed Potatoes with Gravy<br>
+									Stuffing<br>
+									Steamed Carrots<br>
+									Apple Cobbler
 								</td>
 								<td> <!-- Monday -->
-									<ul>
-										<li>BBQ Chicken</li>
-										<li>Mac &amp; Cheese</li>
-										<li>Summer Squash</li>
-										<li>Brownie</li>
-									</ul>
+									BBQ Chicken<br>
+									Mac &amp; Cheese<br>
+									Summer Squash<br>
+									Brownie
 								</td>
 								<td> <!-- Tuesday -->
-									<ul>
-										<li>Spaghetti with Meatballs</li>
-										<li>Roasted Broccoli</li>
-										<li>Breadsticks</li>
-										<li>Ice Cream Sandwich</li>
-									</ul>
+									Spaghetti with Meatballs<br>
+									Roasted Broccoli<br>
+									Breadsticks<br>
+									Ice Cream Sandwich
 								</td>
 								<td> <!-- Wednesday -->
-									<ul>
-										<li>Meatloaf</li>
-										<li>Rice Pilaf</li>
-										<li>Steamed Green Beans</li>
-										<li>Yellow Cake with Vanilla Frosting</li>
-									</ul>
+									Meatloaf<br>
+									Rice Pilaf<br>
+									Steamed Green Beans<br>
+									Yellow Cake with Vanilla Frosting
 								</td>
 								<td> <!-- Thursday -->
-									<ul>
-										<li>Chicken Parmesan</li>
-										<li>Rigatoni</li>
-										<li>Roasted Cauliflower</li>
-										<li>Ice Cream Cup</li>
-									</ul>
+									Chicken Parmesan<br>
+									Rigatoni<br>
+									Roasted Cauliflower<br>
+									Ice Cream Cup
 								</td>
 								<td> <!-- Friday -->
-									<ul>
-										<li>Roast Beef</li>
-										<li>Herbed Potatoes</li>
-										<li>Steamed Snap Peas</li>
-										<li>Chocolate Cake with Vanilla Frosting</li>
-									</ul>
+									Roast Beef<br>
+									Herbed Potatoes<br>
+									Steamed Snap Peas<br>
+									Chocolate Cake with Vanilla Frosting
 								</td>
 								<td> <!-- Saturday -->
 									
