@@ -53,6 +53,25 @@
 						<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649">July 26</a></li>
 						<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650">August 2</a></li>
 					</ul>
+					<table class="table text-center">
+						<tbody>
+							<tr>
+								<td><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223">July 5</a></td>
+							</tr>
+							<tr>
+								<td><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628">July 12</a></td>
+							</tr>
+							<tr>
+								<td><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648"></td>
+							</tr>
+							<tr>
+								<td><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649">July 26</a></td>
+							</tr>
+							<tr>
+								<td><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650">August 2</a></td>
+							</tr>
+						</tbody>
+					</table>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)
 					</p>
