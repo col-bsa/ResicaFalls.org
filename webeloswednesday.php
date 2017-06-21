@@ -19,18 +19,19 @@
 				<div class="col-md-8">
 					<p>
 						Have a taste of the Boy Scout resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore. We have:
-						<ul>
-							<li>BB Shooting</li>
-							<li>Archery</li>
-							<li>Wilderness Cooking</li>
-							<li>Native American Games</li>
-							<li>STEM Activities</li>
-							<li>Handicraft Projects</li>
-							<li>Pool &amp; Slide Activities</li>
-							<li>Closing Campfire</li>
-							<li>...and much, much more!</li>
-						</ul>
 					</p>
+					<h2>We Have</h2>
+					<ul>
+						<li>BB Shooting</li>
+						<li>Archery</li>
+						<li>Wilderness Cooking</li>
+						<li>Native American Games</li>
+						<li>STEM Activities</li>
+						<li>Handicraft Projects</li>
+						<li>Pool &amp; Slide Activities</li>
+						<li>Closing Campfire</li>
+						<li>...and much, much more!</li>
+					</ul>
 					<h2>General Information</h2>
 					<ul>
 						<li>Arrive at Camp: 9:30am</li>
