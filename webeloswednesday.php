@@ -45,9 +45,9 @@
 						<li>Cubs: $15</li>
 						<li>Adults: $10</li>
 					</ul>
-					<div class="alert alert-success">
+					<div class="alert alert-success text-center">
 						<h2>Register Now!</h2>
-						<ul>
+						<ul class="list-unstyled">
 							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223">July 5</a></li>
 							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628">July 12</a></li>
 							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648">July 19</a></li>
