@@ -18,7 +18,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Have a taste of the Boy Scout resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore. We have:
+						Have a taste of the Boy Scout resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore.
 					</p>
 					<h2>We Have</h2>
 					<ul>
@@ -38,7 +38,7 @@
 						<li>Depart Camp: 5:30pm</li>
 						<li>Lunch, Patch &amp; Camp Gift included</li>
 						<li>Participants must bring Parts A &amp; B of the BSA Medical</li>
-						<li>Questions? <a href="">Contact Us</a></li>
+						<li>Questions? <a href="contact-us">Contact Us</a></li>
 					</ul>
 					<h2>Prices</h2>
 					<ul>
@@ -58,11 +58,15 @@
 					</p>
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/food_nutrition-1.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/programs/_thumbnails/ShootingSports-250x250.jpg" alt="">
 					<br><br>
-					<img class="img-fluid rounded" src="_img/food_nutrition-2.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/programs/_thumbnails/DanBeard-250x250.jpg" alt="">
 					<br><br>
-					<img class="img-fluid rounded" src="_img/food_nutrition-3.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/programs/_thumbnails/NAV-250x250.jpg" alt="">
+					<br><br>
+					<img class="img-fluid rounded" src="_img/programs/_thumbnails/STEM-250x250.jpg" alt="">
+					<br><br>
+					<img class="img-fluid rounded" src="_img/programs/_thumbnails/Handicraft-250x250.jpg" alt="">
 				</div>
 			</div>
 		</div>
