@@ -45,17 +45,15 @@
 						<li>Cubs: $15</li>
 						<li>Adults: $10</li>
 					</ul>
-					<h2>Register Now!</h2>
-					<div class="row">
-						<div class="col-md-6">
-							<ul class="list-unstyled">
-								<li><a role="button" class="btn btn-secondary btn-lg btn-block" target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223">July 5</a></li>
-								<li><a role="button" class="btn btn-secondary btn-lg btn-block" target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628">July 12</a></li>
-								<li><a role="button" class="btn btn-secondary btn-lg btn-block" target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648">July 19</a></li>
-								<li><a role="button" class="btn btn-secondary btn-lg btn-block" target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649">July 26</a></li>
-								<li><a role="button" class="btn btn-secondary btn-lg btn-block" target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650">August 2</a></li>
-							</ul>
-						</div>
+					<div class="alert alert-success">
+						<h2>Register Now!</h2>
+						<ul>
+							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223">July 5</a></li>
+							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628">July 12</a></li>
+							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648">July 19</a></li>
+							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649">July 26</a></li>
+							<li><a target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650">August 2</a></li>
+						</ul>
 					</div>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)
