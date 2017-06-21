@@ -46,7 +46,7 @@
 						<li>Adults: $10</li>
 					</ul>
 					<h2>Register Now!</h2>
-					<div class="row justify-content-md-center">
+					<div class="row">
 						<div class="col-md-6">
 							<ul class="list-unstyled">
 								<li><a role="button" class="btn btn-secondary btn-lg btn-block" target="_blank" href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223">July 5</a></li>
