@@ -20,7 +20,7 @@
 					<p>
 						Have a taste of the Boy Scout resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore.
 					</p>
-					<h2>We Have</h2>
+					<h5>We Have</h5>
 					<ul>
 						<li>BB Shooting</li>
 						<li>Archery</li>
@@ -32,7 +32,7 @@
 						<li>Closing Campfire</li>
 						<li>...and much, much more!</li>
 					</ul>
-					<h2>General Information</h2>
+					<h5>General Information</h5>
 					<ul>
 						<li>Arrive at Camp: 9:30am</li>
 						<li>Depart Camp: 5:30pm</li>
@@ -40,7 +40,7 @@
 						<li>Participants must bring Parts A &amp; B of the BSA Medical</li>
 						<li>Questions? <a href="contact-us">Contact Us</a></li>
 					</ul>
-					<h2>Prices</h2>
+					<h5>Prices</h5>
 					<ul>
 						<li>Cubs: $15</li>
 						<li>Adults: $10</li>
@@ -59,10 +59,6 @@
 				</div>
 				<div class="col-md-4">
 					<img class="img-fluid rounded" src="_img/programs/_thumbnails/ShootingSports-250x250.jpg" alt="">
-					<br><br>
-					<img class="img-fluid rounded" src="_img/programs/_thumbnails/DanBeard-250x250.jpg" alt="">
-					<br><br>
-					<img class="img-fluid rounded" src="_img/programs/_thumbnails/NAV-250x250.jpg" alt="">
 					<br><br>
 					<img class="img-fluid rounded" src="_img/programs/_thumbnails/STEM-250x250.jpg" alt="">
 					<br><br>
