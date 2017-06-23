@@ -55,19 +55,25 @@
 							</div>
 						</div>
 					</div>
-					<div class="alert alert-success">
+					<div class="alert alert-warning">
 						<h2 class="text-center">Register Now!</h2>
-						<div class="row justify-content-md-center">
-							<div class="col-md-6">
-								<div class="list-group">
-									<a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223" target="_blank" class="list-group-item list-group-item-action">July 5</a>
-									<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628" target="_blank" class="list-group-item list-group-item-action">July 12</a>
-									<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648" target="_blank" class="list-group-item list-group-item-action">July 19</a>
-									<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649" target="_blank" class="list-group-item list-group-item-action">July 26</a>
-									<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650" target="_blank" class="list-group-item list-group-item-action">August 2</a>
-								</div>
-							</div>
-						</div>
+						<ul>
+							<li>
+								<a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223" target="_blank">July 5</a>
+							</li>
+							<li>
+								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628" target="_blank">July 12</a>
+							</li>
+							<li>
+								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648" target="_blank">July 19</a>
+							</li>
+							<li>
+								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649" target="_blank">July 26</a>
+							</li>
+							<li>
+								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650" target="_blank">August 2</a>
+							</li>
+						</ul>
 					</div>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)
