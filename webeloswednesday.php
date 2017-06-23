@@ -21,37 +21,41 @@
 						Have a taste of the Boy Scout resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore.
 					</p>
 					<div class="row">
-						<div class="col-md-6 alert alert-success">
-							<h4>Programs</h>
-							<ul>
-								<li>BB Shooting</li>
-								<li>Archery</li>
-								<li>Wilderness Cooking</li>
-								<li>Native American Games</li>
-								<li>STEM Activities</li>
-								<li>Handicraft Projects</li>
-								<li>Pool &amp; Slide Activities</li>
-								<li>Closing Campfire</li>
-								<li>...and much, much more!</li>
-							</ul>
+						<div class="col-md-6">
+							<div class="alert alert-success">
+								<h4>Programs</h4>
+								<ul>
+									<li>BB Shooting</li>
+									<li>Archery</li>
+									<li>Wilderness Cooking</li>
+									<li>Native American Games</li>
+									<li>STEM Activities</li>
+									<li>Handicraft Projects</li>
+									<li>Pool &amp; Slide Activities</li>
+									<li>Closing Campfire</li>
+									<li>...and much, much more!</li>
+								</ul>
+							</div>
 						</div>
-						<div class="col-md-6 alert alert-info">
-							<h4>Information</h4>
-							<ul>
-								<li>Arrive at Camp: 9:30am</li>
-								<li>Depart Camp: 5:30pm</li>
-								<li>Lunch, Patch &amp; Camp Gift included</li>
-								<li>Participants must bring Parts A &amp; B of the BSA Medical</li>
-								<li>Questions? <a href="contact-us">Contact Us</a></li>
-							</ul>
-							<h4>Prices</h4>
-							<ul>
-								<li>Cubs: $15</li>
-								<li>Adults: $10</li>
-							</ul>
+						<div class="col-md-6">
+							<div class="alert alert-info">
+								<h4>Information</h4>
+								<ul>
+									<li>Arrive at Camp: 9:30am</li>
+									<li>Depart Camp: 5:30pm</li>
+									<li>Lunch, Patch &amp; Camp Gift included</li>
+									<li>Participants must bring Parts A &amp; B of the BSA Medical</li>
+									<li>Questions? <a href="contact-us">Contact Us</a></li>
+								</ul>
+								<h4>Prices</h4>
+								<ul>
+									<li>Cubs: $15</li>
+									<li>Adults: $10</li>
+								</ul>
+							</div>
 						</div>
 					</div>
-\					<div class="alert alert-success">
+					<div class="alert alert-success">
 						<h2 class="text-center">Register Now!</h2>
 						<div class="row justify-content-md-center">
 							<div class="col-md-6">
