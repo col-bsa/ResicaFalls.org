@@ -15,7 +15,8 @@
 					<a class="dropdown-item" href="important-dates">Important Dates</a>
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
-					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>					
+					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
+					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>										
 				</div>
 			</li>
 			<li class="nav-item dropdown">
