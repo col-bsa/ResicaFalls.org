@@ -16,8 +16,8 @@
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
 					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
-					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>										
-				</div>
+					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>		
+					<a class="dropdown-item" href="birthdaybash">60th Birthday Bash</a>
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp;<br class="hidden-md-down"> Leadership</a>
