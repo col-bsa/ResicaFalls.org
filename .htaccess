@@ -23,6 +23,11 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^([^.]+)$ $1.php [NC,L]
 
 #####
+#Disable Case Sensitivity
+#####
+CheckSpelling on
+
+#####
 #Disable Directory Browsing
 #####
 Options All -Indexes
