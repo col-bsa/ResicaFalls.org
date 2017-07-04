@@ -26,6 +26,7 @@ RewriteRule ^([^.]+)$ $1.php [NC,L]
 #Disable Case Sensitivity
 #####
 CheckSpelling on
+CheckCaseOnly on
 
 #####
 #Disable Directory Browsing
