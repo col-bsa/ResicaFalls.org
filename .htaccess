@@ -26,7 +26,7 @@ RewriteRule ^([^.]+)$ $1.php [NC,L]
 #Disable Case Sensitivity
 #####
 RewriteCond %{REQUEST_URI} [A-Z]
-RewriteRule ^(.*\.aspx)$ ${lc:$1} [L,NC]
+RewriteRule ^(.*\.php)$ ${lc:$1} [L,NC]
 
 #####
 #Disable Directory Browsing
