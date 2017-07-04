@@ -72,4 +72,4 @@ Options All -Indexes
 #####
 ErrorDocument 404 /404.php
 
-BirthdayBash /birthdaybash.php
+Redirect BirthdayBash /birthdaybash.php
