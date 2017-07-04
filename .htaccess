@@ -23,12 +23,6 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^([^.]+)$ $1.php [NC,L]
 
 #####
-#Disable Case Sensitivity
-#####
-RewriteCond %{REQUEST_URI} [A-Z]
-RewriteRule ^(.*\.php)$ ${lc:$1} [L,NC]
-
-#####
 #Disable Directory Browsing
 #####
 Options All -Indexes
@@ -77,3 +71,5 @@ Options All -Indexes
 #Redirects
 #####
 ErrorDocument 404 /404.php
+
+BirthdayBash /birthdaybash.php
