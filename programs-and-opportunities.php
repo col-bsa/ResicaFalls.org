@@ -66,9 +66,9 @@
 										<p class="card-text">
 											Want to try something different in the afternoon? Join the High Five Adventure Club and be ready to explore the secrets that Resica Falls has to offer. Scouts aged 13 and up will be given the opportunity to go on a different adventure around Resica Falls each afternoon that you decide! Possible excursions include:
 											<ul>
-												<li>A hike to Look Out Point followed by a swim in the Bushkill Creek</li>
-												<li> A day shooting at our black powder, shotgun, sporting arrow and action archery ranges</li>
-												<li>A canoe trip on the Delaware River</li>
+												<li>A hike to Look Out Point followed by a swim in the Bushkill Creek.</li>
+												<li> A day shooting at our black powder, shotgun, sporting arrow and action archery ranges.</li>
+												<li>A canoe trip on the Delaware River.</li>
 											</ul>
 										</p>
 									</div>
