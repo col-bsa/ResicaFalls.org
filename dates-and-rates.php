@@ -12,75 +12,51 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>Dates &amp; Rates</h1>
+					<h1>2018 Dates &amp; Rates</h1>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-12 col-md-8">
-					<table class="table table-responsive text-center">
+				<div class="col-12 col-md-6">
+					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>
 								<th class="text-center">Session</th>
 								<th class="text-center">Dates</th>
-								<th class="text-center">Resident Camp</th>
-								<th class="text-center">Troop 1</th>
-								<th class="text-center">Specialty Camps</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
 								<td>Week 1</td>
 								<td>June 24 - June 30</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 							<tr>
 								<td>Week 2</td>
 								<td>July 1 - July 7</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 							<tr>
 								<td>Week 3</td>
 								<td>July 8 - July 14</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 							<tr>
 								<td>Week 4</td>
 								<td>July 15 - July 21</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 							<tr>
 								<td>Week 5</td>
 								<td>July 22 - July 28</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 							<tr>
 								<td>Week 6</td>
 								<td>July 29 - August 4</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 							<tr>
 								<td>Week 7</td>
 								<td>August 5 - August 11</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
-								<td>Coming Soon!</td>
 							</tr>
 						</tbody>
 					</table>
 				</div>
-				<div class="col-12 col-md-4">
+				<div class="col-12 col-md-6">
 					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>
@@ -98,7 +74,7 @@
 								<td>Tier 3: $445 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
-								<td>Recieve 1 Free Adult for every 10 Scouts!</td>
+								<td><strong>Recieve 1 Free Adult for every 10 Scouts!</strong></td>
 							</tr>
 					</table>
 				</div>
