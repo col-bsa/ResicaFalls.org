@@ -6,16 +6,22 @@
 	<div class="collapse navbar-collapse justify-content-md-center" id="navbar">
 		<ul class="navbar-nav">
 			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_AboutUs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<br class="hidden-md-down"> Us</a>
+				<div class="dropdown-menu" aria-labelledby="dropdown_AboutUs">
+					<a class="dropdown-item" href="camp-history">Camp History</a>
+					<!-- <a class="dropdown-item" href="camp-map">Camp Map</a> -->
+					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
+					<a class="dropdown-item" href="important-documents">Important Documents</a>
+					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
+			</li>
+			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Summer<br class="hidden-md-down"> Programs</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp; Rates</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp; Opportunities</a>
 					<a class="dropdown-item" href="food-and-nutrition">Food &amp; Nutrition</a>
-					<a class="dropdown-item" href="camp-history">Camp History</a>
 					<a class="dropdown-item" href="important-dates">Important Dates</a>
-					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
-					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
 					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>		
 					<a class="dropdown-item" href="birthdaybash">60th Birthday Bash</a>
 			</li>

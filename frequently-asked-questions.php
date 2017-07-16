@@ -17,15 +17,15 @@
 			</div>
 			<div class="row">
 				<div class="col">
-					<h2>Youth</h2>
+					<h4>Youth</h4>
 					<div id="accordion1" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion1-question1">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-collapse1" aria-expanded="true" aria-controls="accordion1-collapse1">
 										What should I bring to camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion1-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion1-question1">
 								<div class="card-block">
@@ -35,11 +35,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion1-question2">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-collapse2" aria-expanded="false" aria-controls="accordion1-collapse2">
 										What merit badges can I earn at camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion1-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion1-question2">
 								<div class="card-block">
@@ -54,11 +54,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion1-question3">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion1" href="#accordion1-collapse3" aria-expanded="false" aria-controls="accordion1-collapse3">
 										Should I bring extra money to camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion1-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion1-question3">
 								<div class="card-block">
@@ -67,15 +67,15 @@
 							</div>
 						</div>
 					</div>
-					<h2>Parents</h2>
+					<h4>Parents</h4>
 					<div id="accordion2" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question1">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse1" aria-expanded="true" aria-controls="accordion2-collapse1">
 										Why should I send my son to summer camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion2-question1">
 								<div class="card-block">
@@ -93,11 +93,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question2">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse2" aria-expanded="false" aria-controls="accordion2-collapse2">
 										Where do my camp fees go?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion2-question2">
 								<div class="card-block">
@@ -115,11 +115,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question3">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse3" aria-expanded="false" aria-controls="accordion2-collapse3">
 										Can I visit my son at camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion2-question3">
 								<div class="card-block">
@@ -129,11 +129,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question4">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse4" aria-expanded="false" aria-controls="accordion2-collapse4">
 										My son is leaving camp early. Do I need to do anything?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion2-question4">
 								<div class="card-block">
@@ -148,11 +148,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question5">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse5" aria-expanded="false" aria-controls="accordion2-collapse5">
 										Can I send my son mail?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse5" class="collapse" role="tabpanel" aria-labelledby="accordion2-question5">
 								<div class="card-block">
@@ -169,11 +169,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question6">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse6" aria-expanded="false" aria-controls="accordion2-collapse6">
 										My son takes prescription medication? Do I need to do anything?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse6" class="collapse" role="tabpanel" aria-labelledby="accordion2-question6">
 								<div class="card-block">
@@ -188,11 +188,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question7">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse7" aria-expanded="false" aria-controls="accordion2-collapse7">
 										Should my son bring a cellphone to camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse7" class="collapse" role="tabpanel" aria-labelledby="accordion2-question7">
 								<div class="card-block">
@@ -202,11 +202,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question8">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse8" aria-expanded="false" aria-controls="accordion2-collapse8">
 										What is the camp's refund policy for Scouts?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse8" class="collapse" role="tabpanel" aria-labelledby="accordion2-question8">
 								<div class="card-block">
@@ -252,11 +252,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question9">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse9" aria-expanded="false" aria-controls="accordion2-collapse9">
 										Are camperships or financial assistance available to Scouts?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion2-collapse9" class="collapse" role="tabpanel" aria-labelledby="accordion2-question9">
 								<div class="card-block">
@@ -265,15 +265,15 @@
 							</div>
 						</div>
 					</div>
-					<h2>Leaders</h2>
+					<h4>Leaders</h4>
 					<div id="accordion3" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion3-question1">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse1" aria-expanded="true" aria-controls="accordion3-collapse1">
 										What should I do before coming to camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion3-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion3-question1">
 								<div class="card-block">
@@ -283,11 +283,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion3-question2">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse2" aria-expanded="false" aria-controls="accordion3-collapse2">
 										Where will my troop be staying?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion3-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion3-question2">
 								<div class="card-block">
@@ -297,11 +297,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion3-question3">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse3" aria-expanded="false" aria-controls="accordion3-collapse3">
 										I have a special skill or interest, how can I share it with Scouts or staff?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion3-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion3-question3">
 								<div class="card-block">
@@ -311,11 +311,11 @@
 						</div>
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion3-question4">
-								<h5 class="mb-0">
+								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion3" href="#accordion3-collapse4" aria-expanded="false" aria-controls="accordion3-collapse4">
 										Can I get Internet access while at camp?
 									</a>
-								</h5>
+								</div>
 							</div>
 							<div id="accordion3-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion3-question4">
 								<div class="card-block">
