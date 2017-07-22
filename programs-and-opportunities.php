@@ -66,9 +66,9 @@
 										<p class="card-text">
 											Want to try something different in the afternoon? Join the High Five Adventure Club and be ready to explore the secrets that Resica Falls has to offer. Scouts aged 13 and up will be given the opportunity to go on a different adventure around Resica Falls each afternoon that you decide! Possible excursions include:
 											<ul>
-												<li>A hike to Look Out Point followed by a swim in the Bushkill Creek.</li>
-												<li> A day shooting at our black powder, shotgun, sporting arrow and action archery ranges.</li>
-												<li>A canoe trip on the Delaware River.</li>
+												<li>A hike to Look Out Point followed by a swim in the Bushkill Creek</li>
+												<li> A day shooting at our black powder, shotgun, sporting arrow and action archery ranges</li>
+												<li>A canoe trip on the Delaware River</li>
 											</ul>
 										</p>
 									</div>
@@ -117,7 +117,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">STEM</h4>
 										<p class="card-text">
-											In 2016, Big Springs Camp expanded its STEM Center unlike ever before! In order to maximize our science program, the STEM Center was relocated to The Great Bend Dining Hall, attached to The Great Bend Shower House. Badges offered include Chemistry, Digital Technology, Electricity, Electronics, Engineering, Movie Making, Photography, Radio, Robotics and Space Exploration! Make sure you stop by the STEM Center to earn a badge, or just find out more about the program!
+											In 2017, Big Springs Camp has expanded its STEM Center unlike ever before! In order to maximize our science program, the STEM Center is located in The Great Bend, by the Great Bend Shower House. Badges offered include Chemistry, Digital Technology, Electricity, Electronics, Engineering, Movie Making, Photography, Radio, Robotics and Space Exploration! Make sure you stop by the STEM Center to earn a badge, or just find out more information about the program!
 										</p>
 									</div>
 								</div>
