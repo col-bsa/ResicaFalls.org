@@ -36,7 +36,6 @@
 										</li>
 										<li><a download href="_files\summer\2017_Campership_Application.pdf">2017 Campership Application</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
-										<li><a download href="_files\summer\2016_Summer_Menu.pdf">2016 Summer Menu</a></li>
 										<li><a download href="_files\summer\Precamp_Questionnaire.docx">Precamp Questionnaire</a></li>
 									</ul>
 								</th>
