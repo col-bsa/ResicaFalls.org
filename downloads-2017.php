@@ -89,8 +89,7 @@
 							<div id="accordion1-collapse5" class="collapse" role="tabpanel" aria-labelledby="accordion1-download5">
 								<div class="card-block">
 									<ul>
-										<li><a href="" target="_blank">Slideshow</a></li></li>
-										<li><a href="" target="_blank">Imgur Album</a></li></li>
+										<li><a href="https://drive.google.com/folderview?id=0BzdLGqh-FGw1WC15dzF1bjlmOG8" target="_blank">Downloads</a></li>
 									</ul>
 								</div>
 							</div>
@@ -106,6 +105,7 @@
 							<div id="accordion1-collapse6" class="collapse" role="tabpanel" aria-labelledby="accordion1-download6">
 								<div class="card-block">
 									<ul>
+										<li><a href="https://drive.google.com/folderview?id=0BzdLGqh-FGw1WC15dzF1bjlmOG8" target="_blank">Downloads</a></li>
 									</ul>
 								</div>
 							</div>
@@ -121,6 +121,7 @@
 							<div id="accordion1-collapse7" class="collapse" role="tabpanel" aria-labelledby="accordion1-download7">
 								<div class="card-block">
 									<ul>
+										<li><a href="https://drive.google.com/folderview?id=0BzdLGqh-FGw1WC15dzF1bjlmOG8" target="_blank">Downloads</a></li>
 									</ul>
 								</div>
 							</div>
