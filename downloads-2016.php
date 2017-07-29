@@ -29,8 +29,8 @@
 							<div id="accordion1-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion1-download1">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/" download>Slideshow</a></li></li>
-										<li><a href="https://flic.kr/s/aHskEhfvm7" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/" download>Slideshow</a></li>
+										<li><a href="https://flic.kr/s/aHskEhfvm7" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/Troop103.JPG" download>Troop 103</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/Troop131.JPG" download>Troop 131</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/Troop414.JPG" download>Troop 414</a></li>
@@ -49,8 +49,8 @@
 							<div id="accordion1-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion1-download2">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week2/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li></li>
-										<li><a href="https://flic.kr/s/aHskA3odeD" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week2/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
+										<li><a href="https://flic.kr/s/aHskA3odeD" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week2/Troop18.JPG" download>Troop 18</a></li>
 									</ul>
 								</div>
@@ -67,8 +67,8 @@
 							<div id="accordion1-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion1-download3">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week3/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li></li>
-										<li><a href="https://www.flickr.com/gp/resicafalls/jmDtJz" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week3/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
+										<li><a href="https://www.flickr.com/gp/resicafalls/jmDtJz" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week3/Troop20.zip" download>Troop 20</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week3/Troop37.zip" download>Troop 37</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week3/Troop129.zip" download>Troop 129</a></li>
@@ -89,8 +89,8 @@
 							<div id="accordion1-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion1-download4">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week4/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li></li>
-										<li><a href="https://flic.kr/s/aHskE3je2W" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week4/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
+										<li><a href="https://flic.kr/s/aHskE3je2W" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week4/Troop1.zip" download>Troop 1</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week4/Troop6.zip" download>Troop 6</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week4/Troop129.zip" download>Troop 129</a></li>
@@ -112,8 +112,8 @@
 							<div id="accordion1-collapse5" class="collapse" role="tabpanel" aria-labelledby="accordion1-download5">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week5/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li></li>
-										<li><a href="https://flic.kr/s/aHskFyA5jj" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week5/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
+										<li><a href="https://flic.kr/s/aHskFyA5jj" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week5/Troop98.zip" download>Troop 98</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week5/Troop371.JPG" download>Troop 371</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week5/Troop555.zip" download>Troop 555</a></li>
@@ -134,8 +134,8 @@
 							<div id="accordion1-collapse6" class="collapse" role="tabpanel" aria-labelledby="accordion1-download6">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week6/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li></li>
-										<li><a href="https://flic.kr/s/aHskBN6T4K" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week6/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
+										<li><a href="https://flic.kr/s/aHskBN6T4K" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week6/Troop99.JPG" download>Troop 99</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week6/Troop303.zip" download>Troop 303</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week6/Troop427.JPG" download>Troop 427</a></li>
@@ -155,8 +155,8 @@
 							<div id="accordion1-collapse7" class="collapse" role="tabpanel" aria-labelledby="accordion1-download7">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week7/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li></li>
-										<li><a href="https://flic.kr/s/aHskF4SxdN" target="_blank">Flickr Album</a></li></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week7/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
+										<li><a href="https://flic.kr/s/aHskF4SxdN" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week7/Troop155.zip" download>Troop 155</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week7/Troop252.zip" download>Troop 252</a></li>
 									</ul>
