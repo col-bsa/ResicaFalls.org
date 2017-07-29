@@ -89,7 +89,7 @@
 							<div id="accordion1-collapse5" class="collapse" role="tabpanel" aria-labelledby="accordion1-download5">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://drive.google.com/folderview?id=0BzdLGqh-FGw1WC15dzF1bjlmOG8" target="_blank">Downloads</a></li>
+										<li><a href="https://drive.google.com/drive/folders/0BzdLGqh-FGw1VkljTmMxR09lT1U?usp=sharing" target="_blank">Downloads</a></li>
 									</ul>
 								</div>
 							</div>
