@@ -20,15 +20,17 @@
 				</div>
 			</div>
 			<div class="row">
-				<p>
-					<strong>Sorry,</strong> but it looks like you've wandered off the trail.
-				</p>
-				<p>
-					You can either use the menu above or join us back on our <a href="/index">homepage</a>.
-				</p>
-				<p>
-					If you think we made a mistake or you still need help, please let us know by <a href="/contact-us">contacting us</p>.
-				</p>
+				<div class="col">
+					<p>
+						<strong>Sorry,</strong> but it looks like you've wandered off the trail.
+					</p>
+					<p>
+						You can either use the menu above or join us back on our <a href="/index">homepage</a>.
+					</p>
+					<p>
+						If you think we made a mistake or you still need help, please let us know by <a href="/contact-us">contacting us</p>.
+					</p>
+				</div>
 			</div>
 		</div>
 
