@@ -22,8 +22,7 @@
 					<a class="dropdown-item" href="food-and-nutrition">Food &amp; Nutrition</a>
 					<a class="dropdown-item" href="important-dates">Important Dates</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
-					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>		
-					<a class="dropdown-item" href="birthdaybash">60th Birthday Bash</a>
+					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp;<br class="hidden-md-down"> Leadership</a>
