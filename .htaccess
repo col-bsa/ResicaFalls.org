@@ -71,5 +71,6 @@ Options All -Indexes
 #Redirects
 #####
 ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
 
 Redirect 301 /BirthdayBash /birthdaybash.php
