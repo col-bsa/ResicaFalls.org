@@ -18,8 +18,8 @@
 			<div class="row">
 				<div class="col">
 					<ul>
-						<li><a href="https://downloads.resicafalls.org/Closing-Report-Template.doc" download>Closing Report Template</a></li>
-						<li><a href="https://downloads.resicafalls.org/Closing-Inventory-Template.xlsx" download>Closing Inventory Template</a></li>
+						<li><a href="https://downloads.resicafalls.org/Staff/Closing-Report-Template.doc" download>Closing Report Template</a></li>
+						<li><a href="https://downloads.resicafalls.org/Staff/Closing-Inventory-Template.xlsx" download>Closing Inventory Template</a></li>
 					</ul>
 				</div>
 			</div>
