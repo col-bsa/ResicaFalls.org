@@ -33,7 +33,7 @@
 				</div>
 			</li>
 			<li class="nav-item">
-            	<a class="nav-link" href="coming-soon">Facilities<br class="hidden-md-down"> &amp; Rentals</a>
+            	<a class="nav-link" href="http://colbsa.doubleknot.com/facilitycalendar/2849">Facilities<br class="hidden-md-down"> &amp; Rentals</a>
             </li>
             <li class="nav-item">
             	<a class="nav-link" href="contact-us">Contact<br class="hidden-md-down"> Us</a>
