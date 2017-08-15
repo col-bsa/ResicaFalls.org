@@ -65,10 +65,10 @@
 						</thead>
 						<tbody>
 							<tr class="table-highlight">
-								<td>Tier 1: $395 per Youth / $190 per Adult</td>
+								<td>Tier 1 (September 15th): $395 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
-								<td>Tier 2: $420 per Youth / $190 per Adult</td>
+								<td>Tier 2 (December 15th): $420 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
 								<td>Tier 3: $445 per Youth / $190 per Adult</td>
@@ -77,6 +77,7 @@
 								<td><strong>Recieve 1 Free Adult for every 10 Scouts!</strong></td>
 							</tr>
 					</table>
+					<a class="btn btn-success btn-block" href="http://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationID=47136&orgkey=1112">Register Now!</a>
 				</div>
 			</div>
 		</div>
