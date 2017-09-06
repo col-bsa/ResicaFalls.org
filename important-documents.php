@@ -37,6 +37,8 @@
 										<li><a download href="_files\summer\2017_Campership_Application.pdf">2017 Campership Application</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 										<li><a download href="_files\summer\Precamp_Questionnaire.docx">Precamp Questionnaire</a></li>
+										<li><a download href="_files\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
+										<li><a download href="_files\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
 									</ul>
 								</th>
 							</tr>
