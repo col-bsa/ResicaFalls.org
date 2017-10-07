@@ -131,9 +131,11 @@
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
-										<h4 class="card-title">C.O.P.E</h4>
+										<h4 class="card-title">COPE</h4>
 										<p class="card-text">
-											Project C.O.P.E. (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group. 
+											Project COPE (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group.
+
+											COPE (Challenging Outdoor Personal Experience) is a program that offers opportunties through games and events to develop skills of a team and personal nature. The aims of COPE are communication, planning, trust, teamwork, leadership, decision-making, problem-solving, self-esteem, and fun. These goals are worked towards through the program in initiative games, trust events, and a high ropes course.
 										</p>
 									</div>
 								</div>
