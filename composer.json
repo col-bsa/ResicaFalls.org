@@ -1,7 +1,7 @@
 {
 	"config": {
 		"vendor-dir": "_inc/vendor"
-	}
+	},
 	"require": {
 		"mailgun/mailgun-php": "^2.1",
 		"php-http/curl-client": "^1.7",
