@@ -64,10 +64,10 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr class="table-highlight">
+							<tr>
 								<td>Tier 1 (September 15th): $395 per Youth / $190 per Adult</td>
 							</tr>
-							<tr>
+							<tr class="table-highlight">
 								<td>Tier 2 (December 15th): $420 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
@@ -81,7 +81,7 @@
 				</div>
 			</div>
 		</div>
-		<?php include '_inc/footer.php'; ?>	
+		<?php include '_inc/footer.php'; ?>
 		<?php include '_inc/html_foot.php'; ?>
 	</body>
 </html>
