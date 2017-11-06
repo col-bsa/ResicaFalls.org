@@ -57,23 +57,7 @@
 					</div>
 					<div class="alert alert-warning">
 						<h2 class="text-center">Register Now!</h2>
-						<ul>
-							<li>
-								<a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-july-5-2017/2126223" target="_blank">July 5</a>
-							</li>
-							<li>
-								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-12-2017/2127628" target="_blank">July 12</a>
-							</li>
-							<li>
-								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-19-2017/2127648" target="_blank">July 19</a>
-							</li>
-							<li>
-								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-july-26-2017/2127649" target="_blank">July 26</a>
-							</li>
-							<li>
-								<a href="http://colbsa.doubleknot.com/event/webelos-wednesday-at-resica-falls-august-2-2017/2127650" target="_blank">August 2</a>
-							</li>
-						</ul>
+						<p>Registration for 2018 has not yet opened. Please visit again soon!</p>
 					</div>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)
@@ -89,7 +73,7 @@
 			</div>
 		</div>
 
-		<?php include '_inc/footer.php'; ?>	
+		<?php include '_inc/footer.php'; ?>
 		<?php include '_inc/html_foot.php'; ?>
 	</body>
 </html>
