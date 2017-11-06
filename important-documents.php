@@ -37,8 +37,6 @@
 										<li><a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 										<li><a download href="_files\summer\Precamp_Questionnaire.docx">Precamp Questionnaire</a></li>
-										<li><a download href="_files\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
-										<li><a download href="_files\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
 									</ul>
 								</th>
 							</tr>
@@ -52,6 +50,18 @@
 										<li><a download href="_files\special_programs\2015_Paddlerama_Brochure.pdf">2015 Paddlerama Brochure</a></li>
 										<li><a download href="_files\special_programs\2016_Paddlerama_Guide.pdf">2016 Paddlerama Guide</a></li>
 										<li><a download href="_files\special_programs\2016_Troop_One_Guide.pdf">2016 Troop One Guide</a></li>
+									</ul>
+								</th>
+							</tr>
+              <tr class="table-highlight">
+								<th>General Information</th>
+							</tr>
+							<tr>
+								<th>
+									<ul>
+                    <li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
+                    <li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
+										<li><a download href="_files\general\COL_GuideToCampingOpportunities.pdf">COL Guide to Weekend Camping Opportunities</a></li>
 									</ul>
 								</th>
 							</tr>
