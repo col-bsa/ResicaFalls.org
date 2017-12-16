@@ -17,40 +17,62 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profile_chris.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/chris.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Chris Brenner <div class="h5">Camp Director</div></h2>
 					<p>
-						This marks Chris’s 12th summer as the Camp Director at Resica Falls. An Eagle Scout  and Vigil Honor member, Chris has many years of Scouting experience, including 15 years as a Scoutmaster, various work on district and council committees, and one  summer as Camp Director at Treasure Island (1998). A retired school teacher of 35  years, Chris’s expert leadership has become a standard of Resica Falls. Chris’s favorite  candy is Swedish Fish. Contact Chris at <a href="mailto:campdirector@resicafalls.org">campdirector@resicafalls.org</a>.
+						This marks Chris’s 13th summer as the Camp Director at Resica Falls. An Eagle Scout and Vigil Honor member of Unami Lodge, Chris has many years of Scouting experience, including 15 years as a Scoutmaster, various work on district and council committees, and one summer as Camp Director at Treasure Island. A retired school teacher of 35 years, Chris’s expert leadership has become a standard of Resica Falls. Chris’s favorite candy is Swedish Fish. Contact Chris at <a href="mailto:campdirector@resicafalls.org">campdirector@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profile_steve.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/steve.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Steve Mach <div class="h5">Assistant Camp Director</div></h2>
 					<p>
-						Steve is in his 9th summer at Resica Falls, and his second as Assistant Camp Director.  Previously, he has worked as Handicraft Director, Commissioner, and Program Director.  He is also an Eagle Scout and Vigil Honor member. A high school social studies  teacher, Steve is always looking for ways to make camp better. Steve’s favorite color is  green. Contact Steve at <a href="mailto:asstcampdirector@resicafalls.org">asstcampdirector@resicafalls.org</a>.
+						Steve is in his 10th summer at Resica Falls, and his third as Assistant Camp Director. Previously, he has worked as Handicraft Director, Commissioner, and Program Director. He is also an Eagle Scout and Vigil Honor member of Unami Lodge, One. A high school social studies teacher, Steve is always looking for ways to make camp better. Steve’s favorite color is green. Contact Steve at <a href="mailto:asstcampdirector@resicafalls.org">asstcampdirector@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profile_pat.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/pat.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Pat Campbell <div class="h5">Program Director</div></h2>
 					<p>
-						Pat brings 7 years of camp staff experience to the table as Program Director. He is an Eagle Scout and Vigil Honor member who has worked as Ecology Director, Program Commissioner, and Assistant Program Director. Pat is an integral part of the success of Resica Falls. Pat’s favorite hobby is taking long walks in the woods. Contact Pat at <a href="mailto:programdirector@resicafalls.org">programdirector@resicafalls.org</a>.
+						Pat brings 8 years of camp staff experience to the table in his second summer as Program Director. He is an Eagle Scout and Vigil Honor member of Unami Lodge, One who has worked as Ecology Director, Program Commissioner, and Assistant Program Director. Pat is an integral part of the success of Resica Falls. Contact Pat at <a href="mailto:programdirector@resicafalls.org">programdirector@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profile_nick.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/kyle.jpg" alt="">
+				</div>
+				<div class="col-12 col-md-10">
+					<h2>Kyle Jorstad <div class="h5">Assistant Program Director</div></h2>
+					<p>
+						Kyle is returning for his second summer as the Assistant Program Director, and his 9th summer overall at Resica Falls. This Eagle Scout has previously worked as First Year Camper Director, Scoutcraft Director, and Commissioner. Kyle is filled with energy and enthusiasm for camp. Contact Kyle at <a href="mailto:asstprogramdirector@resicafalls.org">asstprogramdirector@resicafalls.org</a>.
+					</p>
+				</div>
+			</div>
+			<div class="row split">
+				<div class="hidden-sm-down col-md-2">
+					<img class="img-fluid rounded" src="_img/profiles/jerry.jpg" alt="">
+				</div>
+				<div class="col-12 col-md-10">
+					<h2>Jerry Reed <div class="h5">Business Manager</div></h2>
+					<p>
+						Jerry brings over 40 years of camp experience to the table as he oversees the administrative operations of camp. Previously, this Vigil Honor member of Unami Lodge, One has worked as a Program Commissioner, Evening Program Coordinator, Program Director, COPE Director, Assistant Camp Director and Camp Director at three different camps – Tri-Mount, Barton, and Resica Falls. Jerry’s favorite spice is salt. Contact Jerry at <a href="mailto:businessmanager@resicafalls.org">businessmanager@resicafalls.org</a>.
+					</p>
+				</div>
+			</div>
+			<div class="row split">
+				<div class="hidden-sm-down col-md-2">
+					<img class="img-fluid rounded" src="_img/profiles/nick.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Nick McKee <div class="h5">Ranger</div></h2>
@@ -61,7 +83,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profile_andy.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/andy.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Andy Schmidt <div class="h5">Council Program Director</div></h2>
