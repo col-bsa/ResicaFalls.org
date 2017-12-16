@@ -80,11 +80,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 /*Pages*/
 	/*Index*/
 		.slider{
-			background: url(../_img/slider/slide1.jpg);
+			background: url(../_img/slider/slide.jpg);
 			background-size: cover;
 			background-position: center;
 			background-repeat: no-repeat;
-			height: 32rem;
+			height: 16rem;
 		}
 		.divider{
 			background: #FFF200;
