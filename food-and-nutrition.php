@@ -30,11 +30,11 @@
 					</p>
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/food_nutrition-1.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/food/food_nutrition-1.jpg" alt="">
 					<br><br>
-					<img class="img-fluid rounded" src="_img/food_nutrition-2.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/food/food_nutrition-2.jpg" alt="">
 					<br><br>
-					<img class="img-fluid rounded" src="_img/food_nutrition-3.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/food/food_nutrition-3.jpg" alt="">
 				</div>
 			</div>
 		</div>
