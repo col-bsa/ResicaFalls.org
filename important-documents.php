@@ -61,6 +61,7 @@
 									<ul>
                     <li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
                     <li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
+					<li><a download href="_files\general\Firestone_Map.pdf">Firestone Camp Map</a></li>
 										<li><a download href="_files\general\COL_GuideToCampingOpportunities.pdf">COL Guide to Weekend Camping Opportunities</a></li>
 									</ul>
 								</th>
