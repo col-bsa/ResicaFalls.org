@@ -67,10 +67,10 @@
 							<tr>
 								<td>Tier 1 (September 15th): $395 per Youth / $190 per Adult</td>
 							</tr>
-							<tr class="table-highlight">
+							<tr>
 								<td>Tier 2 (December 15th): $420 per Youth / $190 per Adult</td>
 							</tr>
-							<tr>
+							<tr class="table-highlight">
 								<td>Tier 3: $445 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
