@@ -9,10 +9,11 @@
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_AboutUs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<br class="hidden-md-down"> Us</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_AboutUs">
 					<a class="dropdown-item" href="camp-history">Camp History</a>
-					<!-- <a class="dropdown-item" href="camp-map">Camp Map</a> -->
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
 					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
+					<a class="dropdown-item" href="fly-fishing">Fishing</a>
+					<a class="dropdown-item" href="hunting">Hunting</a>
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Summer<br class="hidden-md-down"> Programs</a>
