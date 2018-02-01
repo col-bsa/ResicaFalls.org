@@ -12,8 +12,7 @@
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
 					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
-					<a class="dropdown-item" href="fly-fishing">Fishing</a>
-					<a class="dropdown-item" href="hunting">Hunting</a>
+					<a class="dropdown-item" href="hunting-fishing">Hunting &amp; Fishing</a>
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Summer<br class="hidden-md-down"> Programs</a>
