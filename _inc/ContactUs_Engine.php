@@ -11,6 +11,7 @@
 
 require 'vendor/autoload.php';
 use Mailgun\Mailgun;
+use Medoo\Medoo;
 
 require 'reCAPTCHA_Validator.php';
 
@@ -42,9 +43,6 @@ $user_data['recaptcha'] = $_POST['g-recaptcha-response'];
 
 $user_data['address'] = $_SERVER['REMOTE_ADDR'];
 
-date_default_timezone_set("America/New_York");
-$TimeStamp = date('l jS \of F Y h:i:s A');
-
 /* * * * * * * * * * * * * * * * * * *
  *           VALIDATE DATA           *
  * * * * * * * * * * * * * * * * * * */
@@ -59,22 +57,15 @@ if(!isset($error_text))
 		$error_text = "reCAPTCHA was not verified.";
 }
 
-if(!isset($error_text))
-{
-	if (empty($user_data['name']))
-		$error_text = "Name was not received.";
-}
+$inputs = ['name', 'email', 'message'];
 
-if(!isset($error_text))
+foreach ($inputs as $input)
 {
-	if (empty($user_data['email']))
-		$error_text = "Email was not received.";
-}
-
-if(!isset($error_text))
-{
-	if (empty($user_data['message']))
-		$error_text = "Message was not received.";
+	if(!isset($error_text))
+	{
+		if (empty($user_data[$input]))
+			$error_text = ucfirst($input) . " was not received.";
+	}
 }
 
 if(!isset($error_text))
@@ -84,20 +75,17 @@ if(!isset($error_text))
 	 *          DATABASE INSERT          *
 	 * * * * * * * * * * * * * * * * * * */
 
-	/*
-	require_once 'Medoo/medoo.php';
-	$return_database_connection = new medoo();
+	$database = new Medoo([
+		'database_type' => 'sqlite',
+		'database_file' => '../../database.sqlite'
+	]);
 
-	$Reference_Num = $return_database_connection->insert("arc_contactfrm", array(
-		"recipient" => $Recip,
-		"name" => $user_data['name'],
-		"email" => $user_data['email'],
-		"subject" => $Subject,
-		"message" => $user_data['message'],
-		"orig_IP" => $IP,
-		"timestamp" => $TimeStamp
-	));
-	*/
+	$database->insert('arc_contactfrm', [
+		'name' => $user_data['name'],
+		'email' => $user_data['email'],
+		'message' => $user_data['message'],
+		'orig_IP' => $user_data['address'],
+	]);
 
 	/* * * * * * * * * * * * * * * * * * *
 	 *          EMAIL FORM DATA          *

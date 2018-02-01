@@ -12,7 +12,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-8">
-					<h1>Hunting &amp; Fishing</h1>
+					<h1>Fishing</h1>
 					<p>
 						The Bushkill Creek at Resica Falls is one of the leading areas for fly fishing on the East Coast of the US. Cradle of Liberty Council, BSA offers anglers the opportunity to fish on a six mile stretch of the Bushkill Creek. (No fishing within 200 yards above and below the actual Falls), located on the Resica Falls Scout Reservation. A PA State fishing license is required and all state and local regulations must be followed. We suggest a donation of $30 for your fly fishing experience at Resica Falls. In addition, to this we also offer: the opportunity to perpetuate the cooperative Nursery program for $40. This helps the council to cover the operating cost of the hatchery each year. The PA Fish and Boat Commission supply fish to Resica in April and May and they are typically released after the heat of the summer.
 					</p>
@@ -25,9 +25,13 @@
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.doubleknot.com/registration/calendardetail.aspx?ActivityKey=2252476&OrgKey=2849" target="_blank">Register Now</a>
 					</p>
+					<h1>Hunting</h1>
+					<p>
+						More info coming soon. For now let us know you're interested on our <a href="contact-us">contact form</a> and we'll get back to you shortly.
+					</p>
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/coming_soon.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/generic/fly_fishing.jpg" alt="">
 				</div>
 			</div>
 		</div>
