@@ -80,11 +80,11 @@ if(!isset($error_text))
 		'database_file' => '../../database.sqlite'
 	]);
 
-	$database->insert('arc_contactfrm', [
+	$database->insert('arc_contactform', [
 		'name' => $user_data['name'],
 		'email' => $user_data['email'],
 		'message' => $user_data['message'],
-		'orig_IP' => $user_data['address'],
+		'orig_ip' => $user_data['address'],
 	]);
 
 	/* * * * * * * * * * * * * * * * * * *
