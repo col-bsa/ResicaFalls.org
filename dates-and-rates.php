@@ -74,10 +74,14 @@
 								<td>Tier 3: $445 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
+								<td><strong>Second Week: $225 per Youth</strong></td>
+							</tr>
+							<tr>
 								<td><strong>Recieve 1 Free Adult for every 10 Scouts!</strong></td>
 							</tr>
 					</table>
 					<a class="btn btn-success btn-block" href="http://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationID=47136&orgkey=1112">Register Now!</a>
+					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
 				</div>
 			</div>
 		</div>

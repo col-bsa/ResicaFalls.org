@@ -18,7 +18,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Thank you for considering Resica Falls! Below you will find a link to request either a camp promotion or summer tour. Our staff are passionate about camp and we would love to show you everything Resica has to offer. Hosting a camp promotion at your troop meetings, committee meeting, or round-table it a great way to get everyone excited for camp! Looking for a more hands on experience?  Come visit Resica during the summer and our staff will be more that happy to show you around. 
+						Thank you for considering Resica Falls! Below you will find a link to request either a camp promotion or summer tour. Our staff are passionate about camp and we would love to show you everything Resica has to offer. Hosting a camp promotion at your troop meetings, committee meeting, or round-table is a great way to get everyone excited for camp! Looking for a more hands on experience?  Come visit Resica during the summer and our staff will be more that happy to show you around. 
 					</p>
 					<p class="text-center">
 						<a class="btn btn-success" href="https://colbsa.doubleknot.com/form/takesurvey.aspx?surveyID=57837&OrgKey=1112">Schedule A Visit</a>
