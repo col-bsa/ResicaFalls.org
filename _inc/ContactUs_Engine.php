@@ -114,7 +114,7 @@ if (empty($error_text))
 	$return_data['success'] = true;
 else
 {
-	$return_data['success'] = false;
+	$return_data['success'] = true;
 	$return_data['error'] = $error_text;
 }
 
