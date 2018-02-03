@@ -87,7 +87,7 @@ if(!isset($error_text))
 		'text'			=> $send_text
 	));
 
-	$error_text =  var_dump($mg);
+	$error_text = var_export($mg);
 
 	/* * * * * * * * * * * * * * * * * * *
 	 *          DATABASE INSERT          *
