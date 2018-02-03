@@ -70,23 +70,6 @@ foreach ($inputs as $input)
 
 if(!isset($error_text))
 {
-
-	/* * * * * * * * * * * * * * * * * * *
-	 *          DATABASE INSERT          *
-	 * * * * * * * * * * * * * * * * * * */
-
-	$database = new Medoo([
-		'database_type' => 'sqlite',
-		'database_file' => '../../database.sqlite'
-	]);
-
-	$database->insert('arc_contactform', [
-		'name' => $user_data['name'],
-		'email' => $user_data['email'],
-		'message' => $user_data['message'],
-		'orig_ip' => $user_data['address'],
-	]);
-
 	/* * * * * * * * * * * * * * * * * * *
 	 *          EMAIL FORM DATA          *
 	 * * * * * * * * * * * * * * * * * * */
@@ -104,6 +87,23 @@ if(!isset($error_text))
 		'text'			=> $send_text
 	));
 
+	echo var_dump($mg);
+
+	/* * * * * * * * * * * * * * * * * * *
+	 *          DATABASE INSERT          *
+	 * * * * * * * * * * * * * * * * * * */
+
+	$database = new Medoo([
+		'database_type' => 'sqlite',
+		'database_file' => '../../database.sqlite'
+	]);
+
+	$database->insert('arc_contactform', [
+		'name' => $user_data['name'],
+		'email' => $user_data['email'],
+		'message' => $user_data['message'],
+		'orig_ip' => $user_data['address'],
+	]);
 }
 
 /* * * * * * * * * * * * * * * * * * *
