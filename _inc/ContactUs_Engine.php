@@ -79,7 +79,7 @@ if(!isset($error_text))
 
 	$mg = new Mailgun($mailgun['key']);
 
-	$mg->sendMessage($mailgun['domain'], array(
+	$response = $mg->sendMessage($mailgun['domain'], array(
 		'from'			=> $mailgun['from'],
 		'to'			=> $mailgun['to'],
 		'h:Reply-To'	=> $user_data['name'] . " <" . $user_data['email'] . ">",
@@ -87,7 +87,7 @@ if(!isset($error_text))
 		'text'			=> $send_text
 	));
 
-	$error_text = var_export($mg);
+	$error_text = var_export($response);
 
 	/* * * * * * * * * * * * * * * * * * *
 	 *          DATABASE INSERT          *
@@ -114,7 +114,7 @@ if (empty($error_text))
 	$return_data['success'] = true;
 else
 {
-	$return_data['success'] = true;
+	$return_data['success'] = false;
 	$return_data['error'] = $error_text;
 }
 
