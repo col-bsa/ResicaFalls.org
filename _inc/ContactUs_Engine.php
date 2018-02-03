@@ -87,8 +87,6 @@ if(!isset($error_text))
 		'text'			=> $send_text
 	));
 
-	$error_text = var_export($response);
-
 	/* * * * * * * * * * * * * * * * * * *
 	 *          DATABASE INSERT          *
 	 * * * * * * * * * * * * * * * * * * */
