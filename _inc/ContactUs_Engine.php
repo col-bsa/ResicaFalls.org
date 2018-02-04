@@ -5,7 +5,7 @@
  * Submission Processing Engine      *
  *                                   *
  * David Gibbons                     *
- * 3/15/17                           *
+ * 2/3/18                            *
  * me@davidgibbons.me                *
  *************************************/
 
@@ -79,7 +79,7 @@ if(!isset($error_text))
 
 	$mg = new Mailgun($mailgun['key']);
 
-	$response = $mg->sendMessage($mailgun['domain'], array(
+	$mg->sendMessage($mailgun['domain'], array(
 		'from'			=> $mailgun['from'],
 		'to'			=> $mailgun['to'],
 		'h:Reply-To'	=> $user_data['name'] . " <" . $user_data['email'] . ">",
