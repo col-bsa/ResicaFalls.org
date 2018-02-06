@@ -19,10 +19,14 @@
 				<div class="col">
 					<p>
 						<dl>
-							<dt>Friday, September 15th</dt>
-								<dd>Deposit deadline to lock in Tier 1 pricing</dd>
-							<dt>Friday, December 15th</dt>
-								<dd>Deposit deadline to lock in Tier 2 pricing</dd>
+							<dt>Thursday, March 1st</dt>
+								<dd>$50 per scout deposit due</dd>
+							<dt>Thursday, March 15th</dt>
+								<dd>Merit Badge registration opens</dd>
+							<dt>Monday, May 7th</dt>
+								<dd>Pre-Camp Leaders Meeting</dd>
+							<dt>Tuesday, May 15th</dt>
+								<dd>Remaining troop balance due</dd>
 							<dt>Sunday, June 24th</dt>
 								<dd>First day of camp!</dd>
 						</dl>
