@@ -5,7 +5,7 @@
  * Submission Processing Engine      *
  *                                   *
  * David Gibbons                     *
- * 3/15/17                           *
+ * 2/3/18                            *
  * me@davidgibbons.me                *
  *************************************/
 
@@ -26,7 +26,7 @@ $recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
 $mailgun['domain'] = "resicafalls.org";
 $mailgun['key'] = "key-7282acc75265f51c56d8f821956316e8";
 $mailgun['from'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
-$mailgun['to'] = "David Gibbons <dgibbons@unamilodge.org>";
+$mailgun['to'] = "David Gibbons <david.gibbons@resicafalls.org>";
 $mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
@@ -70,23 +70,6 @@ foreach ($inputs as $input)
 
 if(!isset($error_text))
 {
-
-	/* * * * * * * * * * * * * * * * * * *
-	 *          DATABASE INSERT          *
-	 * * * * * * * * * * * * * * * * * * */
-
-	$database = new Medoo([
-		'database_type' => 'sqlite',
-		'database_file' => '../../database.sqlite'
-	]);
-
-	$database->insert('arc_contactform', [
-		'name' => $user_data['name'],
-		'email' => $user_data['email'],
-		'message' => $user_data['message'],
-		'orig_ip' => $user_data['address'],
-	]);
-
 	/* * * * * * * * * * * * * * * * * * *
 	 *          EMAIL FORM DATA          *
 	 * * * * * * * * * * * * * * * * * * */
@@ -104,6 +87,21 @@ if(!isset($error_text))
 		'text'			=> $send_text
 	));
 
+	/* * * * * * * * * * * * * * * * * * *
+	 *          DATABASE INSERT          *
+	 * * * * * * * * * * * * * * * * * * */
+
+	$database = new Medoo([
+		'database_type' => 'sqlite',
+		'database_file' => '../../database.sqlite'
+	]);
+
+	$database->insert('arc_contactform', [
+		'name' => $user_data['name'],
+		'email' => $user_data['email'],
+		'message' => $user_data['message'],
+		'orig_ip' => $user_data['address'],
+	]);
 }
 
 /* * * * * * * * * * * * * * * * * * *
