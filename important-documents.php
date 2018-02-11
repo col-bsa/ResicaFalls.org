@@ -46,10 +46,10 @@
 									<div class="container">
 										<div class="card">
 											<div class="row">
-												<div class="col-md-3">
+												<div class="col-md-2">
 												<a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf"><img src="_img/updates/RFU_Cover_2018-1_155x200.jpg"></a>
 												</div>
-												<div class="col-md-9">
+												<div class="col-md-10">
 													<div class="card-block">
 														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf">Resica Falls Update &ndash; 2018 &#35;1</a></h5>
 														<ul>
