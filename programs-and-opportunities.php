@@ -117,7 +117,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">STEM</h4>
 										<p class="card-text">
-											In 2017, Big Springs Camp expanded its STEM Center unlike ever before! In order to maximize our science program, the STEM Center is located in The Great Bend, by the Great Bend Shower House. Badges offered include Chemistry, Digital Technology, Electricity, Electronics, Engineering, Movie Making, Photography, Radio, Robotics and Space Exploration! Make sure you stop by the STEM Center to earn a badge, or just find out more information about the program!
+											In 2016, Big Springs Camp expanded its STEM Center unlike ever before! In order to maximize our science program, the STEM Center is located in The Great Bend, by the Great Bend Shower House. Badges offered include Chemistry, Digital Technology, Electricity, Electronics, Engineering, Movie Making, Photography, Radio, Robotics and Space Exploration! Make sure you stop by the STEM Center to earn a badge, or just find out more information about the program!
 										</p>
 									</div>
 								</div>
