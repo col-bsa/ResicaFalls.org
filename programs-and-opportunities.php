@@ -30,9 +30,9 @@
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
-										<h4 class="card-title">Dan Beard</h4>
+										<h4 class="card-title">Resica Rangers</h4>
 										<p class="card-text">
-											Resica Falls is proud to continue our Dan Beard First Year Camper Program. This program focuses on teaching the skills necessary for Scout through First Class. Skill sessions focus on scout skills, first aid, citizenship, and swimming. Scouts also have the opportunity to participate in a 5 mile hike and overnighter.  The program is designed to allow scouts to focus on the skills they need and supplement the rest of the day with merit badges.
+											Resica Falls is proud to continue our Dan Beard First Year Camper Program. This program focuses on teaching the skills necessary for Scout through First Class. Skill sessions focus on scout skills, first aid, citizenship, and swimming. Scouts also have the opportunity to participate in a 5 mile hike and overnighter.
 										</p>
 									</div>
 								</div>
