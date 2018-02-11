@@ -20,7 +20,7 @@
 					<table class="table">
 						<tbody>
 							<tr class="table-highlight">
-								<th >Summer Forms</th>
+								<th><h4>Summer Forms</h4></th>
 							</tr>
 							<tr>
 								<th>
@@ -39,7 +39,35 @@
 								</th>
 							</tr>
 							<tr class="table-highlight">
-								<th>Special Programs</th>
+								<th><h4>Resica Falls Update</h4></th>
+							</tr>
+							<tr>
+								<th>
+									<div class="container">
+										<div class="card">
+											<div class="row">
+												<div class="col-md-2">
+												<a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf"><img src="_img/updates/RFU_Cover_2018-1_155x200.jpg"></a>
+												</div>
+												<div class="col-md-10">
+													<div class="card-block">
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf">Resica Falls Update &ndash; 2018 &#35;1</a></h5>
+														<ul>
+															<li>Leader and Program Guides Available</li>
+															<li>Check out our 2018 theme and events</li>
+															<li>AMAZING 2nd week discount offer!</li>
+															<li>All new Resica Ranger program (First Year Camper)</li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica </li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</th>
+							</tr>
+							<tr class="table-highlight">
+								<th><h4>Special Programs</h4></th>
 							</tr>
 							<tr>
 								<th>
@@ -52,7 +80,7 @@
 								</th>
 							</tr>
               <tr class="table-highlight">
-								<th>General Information</th>
+								<th><h4>General Information</h4></th>
 							</tr>
 							<tr>
 								<th>
@@ -65,7 +93,7 @@
 								</th>
 							</tr>
 							<tr class="table-highlight">
-								<th>Health And Safety Forms</th>
+								<th><h4>Health And Safety Forms</h4></th>
 							</tr>
 							<tr>
 								<th>

@@ -30,9 +30,9 @@
 								</div>
 								<div class="col-md-9 px-3">
 									<div class="card-block px-3">
-										<h4 class="card-title">Dan Beard</h4>
+										<h4 class="card-title">Resica Rangers</h4>
 										<p class="card-text">
-											Resica Falls is proud to continue our Dan Beard First Year Camper Program. This program focuses on teaching the skills necessary for Scout through First Class. Skill sessions focus on scout skills, first aid, citizenship, and swimming. Scouts also have the opportunity to participate in a 5 mile hike and overnighter.  The program is designed to allow scouts to focus on the skills they need and supplement the rest of the day with merit badges.
+											Resica Falls is proud to continue our Dan Beard First Year Camper Program. This program focuses on teaching the skills necessary for Scout through First Class. Skill sessions focus on scout skills, first aid, citizenship, and swimming. Scouts also have the opportunity to participate in a 5 mile hike and overnighter.
 										</p>
 									</div>
 								</div>
@@ -117,7 +117,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">STEM</h4>
 										<p class="card-text">
-											In 2017, Big Springs Camp expanded its STEM Center unlike ever before! In order to maximize our science program, the STEM Center is located in The Great Bend, by the Great Bend Shower House. Badges offered include Chemistry, Digital Technology, Electricity, Electronics, Engineering, Movie Making, Photography, Radio, Robotics and Space Exploration! Make sure you stop by the STEM Center to earn a badge, or just find out more information about the program!
+											In 2016, Big Springs Camp expanded its STEM Center unlike ever before! In order to maximize our science program, the STEM Center is located in The Great Bend, by the Great Bend Shower House. Badges offered include Chemistry, Digital Technology, Electricity, Electronics, Engineering, Movie Making, Photography, Radio, Robotics and Space Exploration! Make sure you stop by the STEM Center to earn a badge, or just find out more information about the program!
 										</p>
 									</div>
 								</div>
@@ -133,9 +133,7 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">COPE</h4>
 										<p class="card-text">
-											Project COPE (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group.
-
-											COPE (Challenging Outdoor Personal Experience) is a program that offers opportunties through games and events to develop skills of a team and personal nature. The aims of COPE are communication, planning, trust, teamwork, leadership, decision-making, problem-solving, self-esteem, and fun. These goals are worked towards through the program in initiative games, trust events, and a high ropes course.
+											Project COPE (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group. The aims of COPE are communication, planning, trust, teamwork, leadership, decision-making, problem-solving, self-esteem, and fun. These goals are worked towards through the program in initiative games, trust events, and a high ropes course.
 										</p>
 									</div>
 								</div>
