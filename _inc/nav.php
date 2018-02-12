@@ -35,6 +35,7 @@
 			<li class="nav-item dropdown">
 				<div class="btn-group navbar-btn">
 					<a class="nav-link" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp;<br class="hidden-md-down"> Leadership</a>
+					<a class="nav-link dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span class="sr-only"></span></a>
 					<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 						<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
 						<a class="dropdown-item" href="cit-program">CIT Program</a>
