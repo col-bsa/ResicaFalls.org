@@ -77,7 +77,7 @@
 				<div class="col-12 col-md-10">
 					<h2>Nick McKee <div class="h5">Ranger</div></h2>
 					<p>
-						This is Nick’s third summer as the Ranger at Resica Falls. An Eagle Scout and Vigil Honor member, Nick has worked in many different areas of camp over the past 14 years, including Handicraft, Dining Hall, QM, and spending two years as the Assistant Ranger at Musser Scout Reservation. Nick’s work ethic has been vital to camp since his return to Resica in 2015. Nick’s favorite food is bear meat. Contact Nick at <a href="mailto:nicholas.mckee@scouting.org">nicholas.mckee@scouting.org</a>. 
+						This is Nick’s fourth summer as the Ranger at Resica Falls. An Eagle Scout and Vigil Honor member, Nick has worked in many different areas of camp over the past 15 years, including Handicraft, Dining Hall, QM, and spending two years as the Assistant Ranger at Musser Scout Reservation. Nick’s work ethic has been vital to camp since his return to Resica in 2015. Nick’s favorite food is bear meat. Contact Nick at <a href="mailto:nicholas.mckee@scouting.org">nicholas.mckee@scouting.org</a>. 
 					</p>
 				</div>
 			</div>
