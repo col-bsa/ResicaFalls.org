@@ -31,10 +31,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .nav-item {
 	text-transform: uppercase;
 }
-.navbar-btn > .dropdown-toggle-split{
-	padding: 0;
-}
 .navbar-btn > .dropdown-toggle-split:after{
+	padding: 0;
 	vertical-align: bottom;
 }
 	/* Desktop Nav */
