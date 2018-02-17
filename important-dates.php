@@ -23,6 +23,8 @@
 								<dd>$50 per scout deposit due</dd>
 							<dt>Thursday, March 15th</dt>
 								<dd>Merit Badge registration opens</dd>
+							<dt>Sunday, April 1st</dt>
+								<dd>Campership application due</dd>
 							<dt>Monday, May 7th</dt>
 								<dd>Pre-Camp Leaders Meeting</dd>
 							<dt>Tuesday, May 15th</dt>
