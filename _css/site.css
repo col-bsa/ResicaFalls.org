@@ -31,9 +31,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .nav-item {
 	text-transform: uppercase;
 }
-.dropdown-toggle:after{
-	display: none;
-}
 	/* Desktop Nav */
 	@media (min-width: 992px) {
 		.nav-item{
