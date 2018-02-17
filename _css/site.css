@@ -31,21 +31,6 @@ padding: 0 1rem;
 .nav-item {
 text-transform: uppercase;
 }
-.dropdown-toggle:after{
-display: none;
-}
-.caret {
-	display: inline-block;
-	width: 0;
-	height: 0;
-	margin-left: 0.255em;
-	vertical-align: 0.255em;
-	content: "";
-	border-top: 0.3em solid;
-	border-right: 0.3em solid transparent;
-	border-bottom: 0;
-	border-left: 0.3em solid transparent;
-}
 /* Desktop Nav */
 @media (min-width: 992px) {
 	.nav-item{
@@ -61,6 +46,9 @@ display: none;
 	.nav-link{
 		line-height: 110%;
 		color: white !important;
+	}
+	.dropdown-toggle:after{
+		display: none;
 	}
 }
 .navbar-toggler{
