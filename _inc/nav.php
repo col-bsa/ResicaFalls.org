@@ -24,9 +24,9 @@
 			<li class="nav-item dropdown">
 				<a class="nav-link" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Summer
-					<span class="caret bottom hidden-md-down"></span>
 					<br class="hidden-md-down"> 
 					Programs
+					<span class="caret top hidden-md-down"></span>
 					<span class="caret hidden-lg-up"></span>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
@@ -41,9 +41,9 @@
 			<li class="nav-item dropdown">
 				<a class="nav-link" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Staff &amp;
-					<span class="caret bottom hidden-md-down"></span>
 					<br class="hidden-md-down"> 
 					Leadership
+					<span class="caret top hidden-md-down"></span>
 					<span class="caret hidden-lg-up"></span>
 				</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
