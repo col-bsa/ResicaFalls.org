@@ -31,10 +31,17 @@
 										<li>
 											<a download href="_files\summer\2018_Leaders_Guide_V1.pdf">2018 Leaders Guide</a>
 										</li>
-										<li><a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a></li>
+										<li>
+											<a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a>
+											<ul><li><strong>Due: April 1st</strong></li></ul>
+										</li>
 										<li><a download href="_files\summer\2017_Resica_Brochure.pdf">2017 Resica Brochure</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
-										<li><a download href="_files\summer\Precamp_Questionnaire.docx">Precamp Questionnaire</a></li>
+										<li>
+											<a href="http://colbsa.doubleknot.com/survey/2018-troop-precamp-survey/60810">Precamp Questionnaire</a>
+											<ul><li>Link to online survey</li></ul>
+										</li>
+										<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
 									</ul>
 								</th>
 							</tr>
@@ -73,6 +80,7 @@
 								<th>
 									<ul>
 										<li><a download href="_files\special_programs\ATV_Participant_Release.pdf">ATV Participant Release</a></li>
+										<li><a download href="_files\special_programs\COPE_Application.pdf">COPE Application</a></li>
 										<li><a download href="_files\special_programs\2015_Paddlerama_Brochure.pdf">2015 Paddlerama Brochure</a></li>
 										<li><a download href="_files\special_programs\2016_Paddlerama_Guide.pdf">2016 Paddlerama Guide</a></li>
 										<li><a download href="_files\special_programs\2016_Troop_One_Guide.pdf">2016 Troop One Guide</a></li>
@@ -85,10 +93,11 @@
 							<tr>
 								<th>
 									<ul>
-                    <li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
-                    <li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
-					<li><a download href="_files\general\Firestone_Map.pdf">Firestone Camp Map</a></li>
-										<li><a download href="_files\general\COL_GuideToCampingOpportunities.pdf">COL Guide to Weekend Camping Opportunities</a></li>
+										<li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
+										<li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
+										<li><a download href="_files\general\Firestone_Map.pdf">Firestone Camp Map</a></li>
+										<li><a download href="_files\general\ResicaFalls_OrienteeringMaps.pdf">Orienteering Maps</a></li>
+										<li><a download href="_files\general\ResicaFalls_GeocacheCourse.pdf">Geocache Course</a></li>
 									</ul>
 								</th>
 							</tr>
