@@ -35,7 +35,7 @@
 											<a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a>
 											<ul><li><strong>Due: April 1st</strong></li></ul>
 										</li>
-										<li><a download href="_files\summer\2017_Resica_Brochure.pdf">2017 Resica Brochure</a></li>
+										<li><a download href="_files\summer\2018_Resica_Brochure.pdf">2018 Resica Brochure</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 										<li>
 											<a href="http://colbsa.doubleknot.com/survey/2018-troop-precamp-survey/60810">Precamp Questionnaire</a>
