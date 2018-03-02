@@ -43,6 +43,7 @@
 										</li>
 										<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
 										<li><a download href="_files\summer\2018_Refund_Request.pdf">2018 Refund Request</a></li>
+										<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
 									</ul>
 								</th>
 							</tr>
