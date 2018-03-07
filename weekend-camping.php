@@ -18,10 +18,10 @@
 				</div>
 				<div class="col-md-4">
 					<div class="card">
-						<img class="card-img-top" src="_img/coming_soon.jpg" alt="">
-						<div class="card-body">
+						<img class="card-img-top img-fluid" src="_img/coming_soon.jpg" alt="">
+						<div class="card-block">
 							<h5 class="card-title">Facilities &amp; Rentals</h5>
-							<p class="card-text">Cabins and tent sites available year round for weekend camping.</p>
+							<p class="card-text">Cabins, campsites and backpacking sites available year round for weekend camping.</p>
 							<a href="http://colbsa.doubleknot.com/facilitycalendar/2849" class="btn btn-primary">Check Availability</a>
 						</div>
 					</div>
