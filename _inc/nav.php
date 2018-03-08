@@ -46,3 +46,6 @@
 		</ul>
 	</div>
 </nav>
+<div class="alert alert-brand text-center" role="alert">
+    <strong>We're Sorry!</strong> We will be closed this weekend, March 9-11. <a href="weather-closing">Click here for more information</a>
+</div>
