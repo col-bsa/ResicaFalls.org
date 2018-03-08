@@ -35,7 +35,7 @@
 				</div>
 			</li>
 			<li class="nav-item">
-            	<a class="nav-link" href="http://colbsa.doubleknot.com/facilitycalendar/2849">Facilities<br class="hidden-md-down"> &amp; Rentals</a>
+            	<a class="nav-link" href="weekend-camping">Weekend<br class="hidden-md-down"> Camping</a>
             </li>
             <li class="nav-item">
             	<a class="nav-link" href="contact-us">Contact<br class="hidden-md-down"> Us</a>
@@ -46,3 +46,6 @@
 		</ul>
 	</div>
 </nav>
+<div class="alert alert-brand text-center" role="alert">
+    <strong>We're Sorry!</strong> We will be closed this weekend, March 9-11. <a class="alert-link" href="weather-closing">Click here for more information.</a>
+</div>
