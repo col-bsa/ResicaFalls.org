@@ -18,7 +18,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="card">
-						<img class="card-img-top img-fluid" src="_img/coming_soon.jpg" alt="">
+						<img class="card-img-top img-fluid" src="_img/generic/unami.jpg" alt="">
 						<div class="card-block">
 							<h5 class="card-title">Facilities &amp; Rentals</h5>
 							<p class="card-text">Cabins, campsites and backpacking sites available year-round for weekend camping.</p>

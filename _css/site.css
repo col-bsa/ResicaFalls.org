@@ -82,15 +82,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 }
 .alert-brand {
 	background-color: #FFF200;
-	border-color: #000000;
-	color: #000000;
-	border: 0;
+	border-color: #eceef0;
 }
-  
 .alert-brand hr {
 	border-top-color: #f7ecb5;
 }
-  
 .alert-brand .alert-link {
 	color: #66512c;
 }
