@@ -12,7 +12,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-8">
-					<h1>Campig Update due to Recent Storms</h1>
+					<h1>Camping Update due to Recent Storms</h1>
 					<p>Resica Falls Scout Reservation remains closed through the weekend of March 9-11 with numerous downed trees and power lines.</p>
 					<p>Please contact the camping department at camping@colbsa.org or on (484) 654-9218 to rebook another weekend or request a full refund. We apologize for the inconvenience. The safety of our Scouts and Scouters is paramount.</p>
 					<p>Reopening of the property for future weekends will be reviewed again next week with an update shared on Wednesday.</p>
