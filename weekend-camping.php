@@ -28,108 +28,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6">
-					<h2>Lodges</h2>
-					<div class="table-responsive">
-						<table class="table table-sm text-center">
-							<thead class="thead-inverse">
-								<tr>
-									<th class="text-center">Name</th>
-									<th class="text-center">Capacity</th>
-									<th class="text-center">Heat</th>
-									<th class="text-center">Water</th>
-									<th class="text-center">Fireplace</th>
-									<th class="text-center">Woodstove</th>
-									<th class="text-center">Fire Ring</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>Bear</td>
-									<td>24</td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-								<tr>
-									<td>Brooks</td>
-									<td>14</td>
-									<td></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-								<tr>
-									<td>Bushkill</td>
-									<td>32</td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Cox</td>
-									<td>14</td>
-									<td></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-								<tr>
-									<td>Family Cabin</td>
-									<td>4</td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-								<tr>
-									<td>Firestone</td>
-									<td>40</td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-								<tr>
-									<td>Nuneville</td>
-									<td>20</td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Trooper</td>
-									<td>20</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Unami</td>
-									<td>26</td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-				<div class="col-md-6">
+				<div class="col-xl-6">
 					<h2>Campsites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
@@ -144,62 +43,6 @@
 								</tr>
 							</thead>
 							<tbody>
-								<tr>
-									<td>Little Falls - North</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Little Falls - South</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Sportsman Field</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Big Trout</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Blueberry Point</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
-								<tr>
-									<td>Lake Roger</td>
-									<td>25</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td><i class="fa fa-check"></td>
-								</tr>
-								<tr>
-									<td>Pine Grove</td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-									<td></td>
-								</tr>
 								<tr>
 									<td>Bear Hollow</td>
 									<td>35</td>
@@ -399,6 +242,148 @@
 									<td></td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<h2>Lodges</h2>
+					<div class="table-responsive">
+						<table class="table table-sm text-center">
+							<thead class="thead-inverse">
+								<tr>
+									<th class="text-center">Name</th>
+									<th class="text-center">Capacity</th>
+									<th class="text-center">Heat</th>
+									<th class="text-center">Water</th>
+									<th class="text-center">Fireplace</th>
+									<th class="text-center">Woodstove</th>
+									<th class="text-center">Fire Ring</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Bear</td>
+									<td>24</td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+								</tr>
+								<tr>
+									<td>Brooks</td>
+									<td>14</td>
+									<td></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+								</tr>
+								<tr>
+									<td>Bushkill</td>
+									<td>32</td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr>
+									<td>Cox</td>
+									<td>14</td>
+									<td></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+								</tr>
+								<tr>
+									<td>Family Cabin</td>
+									<td>4</td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+								</tr>
+								<tr>
+									<td>Firestone</td>
+									<td>40</td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+								</tr>
+								<tr>
+									<td>Nuneville</td>
+									<td>20</td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr>
+									<td>Trooper</td>
+									<td>20</td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+								</tr>
+								<tr>
+									<td>Unami</td>
+									<td>26</td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td><i class="fa fa-check"></td>
+									<td></td>
+									<td><i class="fa fa-check"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<h2>Backpacking Sites</h2>
+					<div class="table-responsive">
+						<table class="table table-sm text-center">
+							<thead class="thead-inverse">
+								<tr>
+									<th class="text-center">Name</th>
+									<th class="text-center">Description</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Little Falls - North</td>
+									<td>Near Little Falls and Cool Dip, two of Resica's most popular swimming holes.</td>
+								</tr>
+								<tr>
+									<td>Little Falls - South</td>
+									<td>Near Little Falls and Cool Dip, two of Resica's most popular swimming holes.</td>
+								</tr>
+								<tr>
+									<td>Sportsman Field</td>
+									<td>Near Camp Firestone and Bushkill Creek.</td>
+								</tr>
+								<tr>
+									<td>Big Trout</td>
+									<td>On the shore of Bushkill Creek near Chapel Pool.</td>
+								</tr>
+								<tr>
+									<td>Blueberry Point</td>
+									<td>On shore of Lake Roger.</td>
+								</tr>
+								<tr>
+									<td>Lake Roger</td>
+									<td>Across the lake from the boathouse and latrine.</td>
+								</tr>
+								<tr>
+									<td>Pine Grove</td>
+									<td>On the shore of Bushkill Creek near Piano Pool</td>
 								</tr>
 							</tbody>
 						</table>
