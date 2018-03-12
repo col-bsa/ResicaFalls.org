@@ -34,7 +34,7 @@
 						<table class="table table-sm text-center">
 							<thead class="thead-inverse">
 								<tr>
-									<th class="text-center">Name</th>
+									<th class="text-left">Name</th>
 									<th class="text-center">Capacity</th>
 									<th class="text-center">Tent Platforms</th>
 									<th class="text-center">Adirondacks</th>
@@ -47,7 +47,7 @@
 									<th scope="row" colspan="6" class="table-active text-center">Big Springs</th>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Bear Paw</th>
+									<th scope="row" class="text-nowrap">Bear Paw</th>
 									<td>40</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -55,7 +55,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Cayuga</th>
+									<th scope="row" class="text-nowrap">Cayuga</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -63,7 +63,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Cherokee</th>
+									<th scope="row" class="text-nowrap">Cherokee</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -71,7 +71,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Cheyenne</th>
+									<th scope="row" class="text-nowrap">Cheyenne</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -79,7 +79,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Chinook</th>
+									<th scope="row" class="text-nowrap">Chinook</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -87,7 +87,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Chippewa</th>
+									<th scope="row" class="text-nowrap">Chippewa</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -95,7 +95,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Comanche</th>
+									<th scope="row" class="text-nowrap">Comanche</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -103,7 +103,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Deer Run</th>
+									<th scope="row" class="text-nowrap">Deer Run</th>
 									<td>40</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -111,7 +111,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Mohawk</th>
+									<th scope="row" class="text-nowrap">Mohawk</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -119,7 +119,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Navajo</th>
+									<th scope="row" class="text-nowrap">Navajo</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -127,7 +127,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">North Wind</th>
+									<th scope="row" class="text-nowrap">North Wind</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -135,7 +135,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Pueblo</th>
+									<th scope="row" class="text-nowrap">Pueblo</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -143,7 +143,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Running Fox</th>
+									<th scope="row" class="text-nowrap">Running Fox</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -151,7 +151,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Shenandoah</th>
+									<th scope="row" class="text-nowrap">Shenandoah</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -159,7 +159,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Shoshone</th>
+									<th scope="row" class="text-nowrap">Shoshone</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -167,7 +167,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Twin Hill 1</th>
+									<th scope="row" class="text-nowrap">Twin Hill 1</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -175,7 +175,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Twin Hill 2</th>
+									<th scope="row" class="text-nowrap">Twin Hill 2</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -183,7 +183,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Two Feathers</th>
+									<th scope="row" class="text-nowrap">Two Feathers</th>
 									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -191,10 +191,10 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center" colspan="6" class="table-active">Firestone</th>
+									<th scope="row" colspan="6" class="table-active text-center">Firestone</th>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Bear Hollow</th>
+									<th scope="row" class="text-nowrap">Bear Hollow</th>
 									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -202,15 +202,15 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Eagle's Crest</th>
+									<th scope="row" class="text-nowrap">Eagle's Crest</th>
 									<td></td>
-									<td><i class="fa fa-check"></td>
+									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Falcons Roost</th>
+									<th scope="row" class="text-nowrap">Falcons Roost</th>
 									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -218,7 +218,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Hillside</th>
+									<th scope="row" class="text-nowrap">Hillside</th>
 									<td>35</td>
 									<td></td>
 									<td></td>
@@ -226,7 +226,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Porcupine Ridge</th>
+									<th scope="row" class="text-nowrap">Porcupine Ridge</th>
 									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -234,7 +234,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Ruffed Grouse</th>
+									<th scope="row" class="text-nowrap">Ruffed Grouse</th>
 									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -242,7 +242,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Staff Area</th>
+									<th scope="row" class="text-nowrap">Staff Area</th>
 									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -259,7 +259,7 @@
 						<table class="table table-sm text-center">
 							<thead class="thead-inverse">
 								<tr>
-									<th class="text-center">Name</th>
+									<th>Name</th>
 									<th class="text-center">Capacity</th>
 									<th class="text-center">Heat</th>
 									<th class="text-center">Water</th>
@@ -270,7 +270,7 @@
 							</thead>
 							<tbody>
 								<tr>
-									<th scope="row" class="text-center">Bear</th>
+									<th scope="row">Bear</th>
 									<td>24</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -279,7 +279,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Brooks</th>
+									<th scope="row">Brooks</th>
 									<td>14</td>
 									<td></td>
 									<td></td>
@@ -288,7 +288,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Bushkill</th>
+									<th scope="row">Bushkill</th>
 									<td>32</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -297,7 +297,7 @@
 									<td></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Cox</th>
+									<th scope="row">Cox</th>
 									<td>14</td>
 									<td></td>
 									<td></td>
@@ -306,7 +306,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Family Cabin</th>
+									<th scope="row">Family Cabin</th>
 									<td>4</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -315,7 +315,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Firestone</th>
+									<th scope="row">Firestone</th>
 									<td>40</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -324,7 +324,7 @@
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Nuneville</th>
+									<th scope="row">Nuneville</th>
 									<td>20</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -333,7 +333,7 @@
 									<td></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Trooper</th>
+									<th scope="row">Trooper</th>
 									<td>20</td>
 									<td></td>
 									<td></td>
@@ -342,7 +342,7 @@
 									<td></td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Unami</th>
+									<th scope="row">Unami</th>
 									<td>26</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -355,40 +355,40 @@
 					</div>
 					<h2>Backpacking Sites</h2>
 					<div class="table-responsive">
-						<table class="table table-sm text-center">
+						<table class="table table-sm">
 							<thead class="thead-inverse">
 								<tr>
-									<th class="text-center">Name</th>
-									<th class="text-center">Description</th>
+									<th>Name</th>
+									<th>Description</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<th scope="row" class="text-center">Big Trout</th>
+									<th scope="row" class="text-nowrap">Big Trout</th>
 									<td>On the shore of Bushkill Creek near Chapel Pool.</td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Blueberry Point</th>
+									<th scope="row" class="text-nowrap">Blueberry Point</th>
 									<td>On shore of Lake Roger.</td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Lake Roger</th>
+									<th scope="row" class="text-nowrap">Lake Roger</th>
 									<td>Across the lake from the boathouse and latrine.</td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Little Falls - North</th>
+									<th scope="row" class="text-nowrap">Little Falls - North</th>
 									<td>Near Little Falls and Cool Dip, two of Resica's most popular swimming holes.</td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Little Falls - South</th>
+									<th scope="row" class="text-nowrap">Little Falls - South</th>
 									<td>Near Little Falls and Cool Dip, two of Resica's most popular swimming holes.</td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Pine Grove</th>
+									<th scope="row" class="text-nowrap">Pine Grove</th>
 									<td>On the shore of Bushkill Creek near Piano Pool</td>
 								</tr>
 								<tr>
-									<th scope="row" class="text-center">Sportsman Field</th>
+									<th scope="row" class="text-nowrap">Sportsman Field</th>
 									<td>Near Camp Firestone and Bushkill Creek.</td>
 								</tr>
 							</tbody>
