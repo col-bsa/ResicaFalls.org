@@ -1,19 +1,11 @@
 <?php
-/*************************************
- * ResicaFalls.org                   *
- * Contact Us                        *
- * Submission Processing Engine      *
- *                                   *
- * David Gibbons                     *
- * 2/3/18                            *
- * me@davidgibbons.me                *
- *************************************/
 
 require 'vendor/autoload.php';
 use Mailgun\Mailgun;
 use Medoo\Medoo;
 
 require 'reCAPTCHA_Validator.php';
+require 'var/secrets.php';
 
 $mailgun = array();
 
@@ -21,12 +13,9 @@ $mailgun = array();
  *          ADMIN VARIABLES          *
  * * * * * * * * * * * * * * * * * * */
 
-$recaptcha_secret = "6LeqLRkUAAAAAPWWBtUnxxJO2j841Sw6FRvbP2-E";
-
 $mailgun['domain'] = "resicafalls.org";
-$mailgun['key'] = "key-7282acc75265f51c56d8f821956316e8";
 $mailgun['from'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
-$mailgun['to'] = "David Gibbons <david.gibbons@resicafalls.org>";
+$mailgun['to'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
 $mailgun['subject'] = "ResicaFalls.org Received a Message";
 
 /* * * * * * * * * * * * * * * * * * *
@@ -52,7 +41,7 @@ if (empty($user_data['recaptcha']))
 
 if(!isset($error_text))
 {
-	$recaptcha_status   = isreCAPTCHAValid($recaptcha_secret, $user_data['recaptcha'], $user_data['address']);
+	$recaptcha_status   = isreCAPTCHAValid($SECRET_recaptcha, $user_data['recaptcha'], $user_data['address']);
 	if ($recaptcha_status != true)
 		$error_text = "reCAPTCHA was not verified.";
 }
@@ -77,7 +66,7 @@ if(!isset($error_text))
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
 
-	$mg = new Mailgun($mailgun['key']);
+	$mg = new Mailgun($SECRET_mailgun);
 
 	$mg->sendMessage($mailgun['domain'], array(
 		'from'			=> $mailgun['from'],
