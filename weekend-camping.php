@@ -32,6 +32,7 @@
 					<h2>Campsites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
+							<caption>All campsites have a fire ring and latrine in-site as well as water in close proximity.</caption>
 							<thead class="thead-inverse">
 								<tr>
 									<th class="text-left">Name</th>
@@ -39,7 +40,6 @@
 									<th class="text-center">Tent Platforms</th>
 									<th class="text-center">Adirondacks</th>
 									<th class="text-center">Pavilion</th>
-									<th class="text-center">Latrine</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -52,7 +52,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Cayuga</th>
@@ -60,7 +59,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Cherokee</th>
@@ -68,7 +66,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Cheyenne</th>
@@ -76,7 +73,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Chinook</th>
@@ -84,7 +80,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Chippewa</th>
@@ -92,7 +87,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Comanche</th>
@@ -100,14 +94,12 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Deer Run</th>
 									<td>40</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
@@ -116,7 +108,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Navajo</th>
@@ -124,7 +115,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">North Wind</th>
@@ -132,7 +122,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Pueblo</th>
@@ -140,7 +129,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Running Fox</th>
@@ -148,7 +136,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Shenandoah</th>
@@ -156,7 +143,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Shoshone</th>
@@ -164,7 +150,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Twin Hill 1</th>
@@ -172,7 +157,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Twin Hill 2</th>
@@ -180,7 +164,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Two Feathers</th>
@@ -188,7 +171,6 @@
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" colspan="6" class="table-active text-center">Firestone</th>
@@ -199,13 +181,11 @@
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Eagle's Crest</th>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
@@ -215,7 +195,6 @@
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Hillside</th>
@@ -223,13 +202,11 @@
 									<td></td>
 									<td></td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Porcupine Ridge</th>
 									<td>35</td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
@@ -239,13 +216,11 @@
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
-									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Staff Area</th>
 									<td>35</td>
 									<td></td>
-									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
@@ -257,6 +232,7 @@
 					<h2>Lodges</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
+							<caption>All lodges have electricity, refrigerators and stoves. Lodges with water have kitchen sinks and full bathrooms.</caption>
 							<thead class="thead-inverse">
 								<tr>
 									<th>Name</th>
@@ -264,7 +240,7 @@
 									<th class="text-center">Heat</th>
 									<th class="text-center">Water</th>
 									<th class="text-center">Fireplace</th>
-									<th class="text-center">Woodstove</th>
+									<th class="text-center">Wood Stove</th>
 									<th class="text-center">Fire Ring</th>
 								</tr>
 							</thead>
