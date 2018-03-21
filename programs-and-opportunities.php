@@ -23,7 +23,7 @@
 			<div class="row">
 				<section>
 					<div class="col">
-						<div class="card">
+						<div class="card" id="Rangers">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/DanBeard-250x250.jpg" class="w-100">
@@ -39,7 +39,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="ATV">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/ATV-250x250.jpg" class="w-100">
@@ -55,7 +55,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="High5">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/High5-250x250.jpg" class="w-100">
@@ -76,7 +76,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="Aquatics">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/Aquatics-250x250.jpg" class="w-100">
@@ -92,7 +92,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="Handicraft">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/Handicraft-250x250.jpg" class="w-100">
@@ -108,7 +108,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="STEM">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/STEM-250x250.jpg" class="w-100">
@@ -124,7 +124,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="COPE">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/COPE-250x250.jpg" class="w-100">
@@ -133,14 +133,14 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">COPE</h4>
 										<p class="card-text">
-											Project COPE (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. C.O.P.E. is unique to the participants and tests them individually and as part of a group. The aims of COPE are communication, planning, trust, teamwork, leadership, decision-making, problem-solving, self-esteem, and fun. These goals are worked towards through the program in initiative games, trust events, and a high ropes course.
+											Project COPE (Challenging Outdoor Personal Experience) is a unique personal development program composed of climbing, rappelling, and problem solving in both low-course and high-course settings. COPE is unique to the participants and tests them individually and as part of a group. The aims of COPE are communication, planning, trust, teamwork, leadership, decision-making, problem-solving, self-esteem, and fun. These goals are worked towards through the program in initiative games, trust events, and a high ropes course.
 										</p>
 									</div>
 								</div>
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="NAV">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/NAV-250x250.jpg" class="w-100">
@@ -156,7 +156,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="Scoutcraft">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/Scoutcraft-250x250.jpg" class="w-100">
@@ -172,7 +172,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="Shooting">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/ShootingSports-250x250.jpg" class="w-100">
@@ -188,7 +188,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="Ecology">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/Ecology-250x250.jpg" class="w-100">
@@ -204,7 +204,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card">
+						<div class="card" id="Sports">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/programs/_thumbnails/Sports-250x250.jpg" class="w-100">
