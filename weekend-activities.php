@@ -34,7 +34,7 @@
 										<h4 class="card-title">Hiking &amp; Orienteering</h4>
 										<p class="card-text">
 											Resica Falls Scout Reservation is home to dozens of miles of trails to explore in the valley of Bushkill Creek and with Delaware State Forest to our North, it does not stop there. Come spend a weeking exploring our little patch of Pennsylvania wilderness. Additionally, we offer a number of orienteering courses as well as a geocache course. You can find those printouts on our <a href="important-documents">Important Documents page</a>.
-										</p
+										</p>
 									</div>
 								</div>
 							</div>
