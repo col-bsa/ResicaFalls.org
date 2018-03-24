@@ -15,7 +15,7 @@
 					<h1>Field Day</h1>
                     <h3>April 20-22, 2018</h3>
                     <p>The program will include a comprehensive shooting sports program, fly fishing and fly tying, COPE, and climbing, "Iron Chef" cooking competition, orienteering, and mountain man events. Tent camping sites are included in the registration fee.</p>
-            	    <h4>Includes</h4>
+            	    <h5>Includes:</h5>
                     <ul>
                         <li>Rifle / Shotgun / Pistol</li>
                         <li>Fly Fishing</li>
@@ -24,10 +24,10 @@
                         <li>Orienteering</li>
                         <li>Mountain Man Events</li>
                     </ul>
-                    <p>Tent camping included for the weekend.</p>
+                    <h5>Tent camping included for the weekend.</h5>
                     <ul>
-                        <li>Register Now</li>
-                        <li>Staff Registration</li>
+                        <li><a href="http://colbsa.doubleknot.com/event/resica-falls-field-event/2160681">Register Now</a></li>
+                        <li><a href="http://colbsa.doubleknot.com/event/2018-resica-falls-field-day-staff-sign-up-only/2295388">Staff Registration</a></li>
                     </ul>
                     <p><a href="_files/special_programs/FieldDay.pdf">Download Flyer</a></p>
                 </div>
