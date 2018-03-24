@@ -34,9 +34,13 @@
 					<a class="dropdown-item" href="work-at-resica">Work at Resica</a>
 				</div>
 			</li>
-			<li class="nav-item">
-            	<a class="nav-link" href="weekend-camping">Weekend<br class="hidden-md-down"> Camping</a>
-            </li>
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_WeekendCamping" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Weekend<br class="hidden-md-down"> Camping</a>
+				<div class="dropdown-menu" aria-labelledby="dropdown_WeekendCamping">
+					<a class="dropdown-item" href="weekend-activities">Activities</a>
+					<a class="dropdown-item" href="facilities-and-rentals">Facilities &amp; Rentals</a>
+				</div>
+			</li>
             <li class="nav-item">
             	<a class="nav-link" href="contact-us">Contact<br class="hidden-md-down"> Us</a>
             </li>

@@ -71,7 +71,7 @@
 										<p class="card-text">
 											The Delaware River is only a few miles away from Resica Falls and with that comes a great opportunity for a canoeing trip. Resica Falls offers canoes to rent throughout the year to troops interested in either a day or weekend trip on the River.
 										</p>
-										<a class="btn btn-primary pull-right" href="canoeing">Learn More</a>
+										<a class="btn btn-primary" href="canoeing">Learn More</a>
 									</div>
 								</div>
 							</div>
@@ -88,7 +88,7 @@
 										<p class="card-text">
 											COPE is an acronym for Challenging Outdoor Personal Experience. It is comprised of a series of outdoor challenges, beginning with basic group initiative games, and progressing to more complicated low-course and high-course activities. Some of these events involve a group effort, while others test individual skills and agility. Participants climb, swing, balance, jump, rappel and think through solutions to a variety of challenges...
 										</p>
-										<a class="btn btn-primary pull-right" href="cope">Learn More</a>
+										<a class="btn btn-primary" href="cope">Learn More</a>
 									</div>
 								</div>
 							</div>
