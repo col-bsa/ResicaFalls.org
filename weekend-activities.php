@@ -60,7 +60,7 @@
 							</div>
 						</div>
 						<br>
-						<div class="card" id="COPE">
+						<div class="card" id="Canoeing">
 							<div class="row">
 								<div class="col-md-3">
 									<img src="_img/activities/_thumbnails/Canoeing-250x250.jpg" class="w-100">
@@ -69,40 +69,9 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">Canoeing</h4>
 										<p class="card-text">
-											The Delaware River is only a few miles away from Resica Falls and with that comes a great opportunity for a canoeing trip. With this, we offer canoes to rent. Prices are listed below. <a href="contact-us">Contact us</a> for more information or to schedule a trip!
+											The Delaware River is only a few miles away from Resica Falls and with that comes a great opportunity for a canoeing trip. Resica Falls offers canoes to rent throughout the year to troops interested in either a day or weekend trip on the River.
 										</p>
-										<table class="table table-sm text-center">
-											<caption>Paddles &amp; PFDs inncluded with our canoes. Trailer holds 6 canoes. We will deliver and pickup canoes for $50</caption>
-											<thead class="thead-inverse">
-												<tr>
-													<th class="text-left">Item</th>
-													<th class="text-center">Day</th>
-													<th class="text-center">Weekend</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Canoe</td>
-													<td>$15</td>
-													<td>$25</td>
-												</tr>
-												<tr>
-													<td>Trailer</td>
-													<td>$20</td>
-													<td>$30</td>
-												</tr>
-												<tr>
-													<td>PFD or Paddle</td>
-													<td>$3</td>
-													<td>$3</td>
-												</tr>
-												<tr>
-													<td>PFD &amp; Paddle</td>
-													<td>$5</td>
-													<td>$5</td>
-												</tr>
-											</tbody>
-										</table>
+										<a class="btn btn-primary pull-right" href="canoeing">Learn More</a>
 									</div>
 								</div>
 							</div>
@@ -117,22 +86,9 @@
 									<div class="card-block px-3">
 										<h4 class="card-title">COPE</h4>
 										<p class="card-text">
-											COPE is an acronym for Challenging Outdoor Personal Experience. It is comprised of a series of outdoor challenges, beginning with basic group initiative games, and progressing to more complicated low-course and high-course activities. Some of these events involve a group effort, while others test individual skills and agility. Participants climb, swing, balance, jump, rappel and think through solutions to a variety of challenges.
+											COPE is an acronym for Challenging Outdoor Personal Experience. It is comprised of a series of outdoor challenges, beginning with basic group initiative games, and progressing to more complicated low-course and high-course activities. Some of these events involve a group effort, while others test individual skills and agility. Participants climb, swing, balance, jump, rappel and think through solutions to a variety of challenges...
 										</p>
-										<p>
-											The course provides an opportunity for each participant to achieve success as an individual and as a member of a group. The objectives of Project COPE include building confidence, developing leadership skills, and attaining a sense of common cooperation among group members. The course is designed to build more self-confidence in a shorter length of time than anything most people have experienced.
-										</p>
-										<p>
-											Currently we are offering programs on the following weekends
-											<ul>
-												<li><a href="https://colbsa.org/activities-2/fieldday/" target="_blank">April 20-22, 2018 (Part of Resica Field Day Event)</a></li>
-												<li><a href="http://colbsa.doubleknot.com/event/cope-weekend-at-resica-falls-september-21-23-2018/2228954" target="_blank">September 21-23, 2018</a></li>
-												<li><a href="http://colbsa.doubleknot.com/event/cope-weekend-at-resica-falls-october-19-21-2018/2228955" target="_blank">October 20-21, 2018</a></li>
-											</ul>
-										</p>
-										<p>
-											For more information or to schedule another weekend for your group, please <a href="contact-us">Contact Us</a>.
-										</p>
+										<a class="btn btn-primary pull-right" href="cope">Learn More</a>
 									</div>
 								</div>
 							</div>
