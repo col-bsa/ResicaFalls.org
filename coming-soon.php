@@ -16,7 +16,7 @@
 					Sorry about that! This site is currently under construction. While we're working on making an awesome tool for all our Scouts and Scouters some things may be out of place. Don't hesitate to contact us with any questions you may have. We want to hear from you!
 				</div>
 				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/generic/unami.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/coming_soon.jpg" alt="">
 				</div>
 			</div>
 		</div>
