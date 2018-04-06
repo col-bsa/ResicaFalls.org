@@ -90,6 +90,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .alert-brand .alert-link {
 	color: #66512c;
 }
+/* List Groups */
+.list-group > a {
+	color: #0275d8;
+}
+.list-group > a:hover {
+	background: #FFF200;
+}
 
 /*Pages*/
 	/*Index*/
