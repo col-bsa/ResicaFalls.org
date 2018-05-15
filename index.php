@@ -22,7 +22,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="list-group">
-						<a href="field-day" class="list-group-item list-group-item-action h5">Field Day</a>
+						<a href="rendezvous" class="list-group-item list-group-item-action h5">Rendezvous - <br class="hidden-xl-up">Visit This Summer</a>
 						<a href="important-documents" class="list-group-item list-group-item-action h5">Important Documents</a>
 						<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Programs &amp; Opportunities</a>
 						<a href="weekend-activities" class="list-group-item list-group-item-action h5">Weekend Activities</a>
