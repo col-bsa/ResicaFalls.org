@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<meta name="description" content="Resica Falls Scout Reservation is home to one of the most exciting portions of the premier Bushkill Creek." />
+		<meta name="description" content="Canoeing is available on either Resica Falls' lakes or on the mighty Delaware River." />
 		<title>Canoeing <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
