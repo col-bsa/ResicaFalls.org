@@ -31,6 +31,8 @@
 								<dd>Remaining troop balance due</dd>
 							<dt>Sunday, June 24th</dt>
 								<dd>First day of camp!</dd>
+							<dt>Monday, June 25th</dt>
+								<dd>Troop shirts order form</dd>
 						</dl>
 					</p>
 				</div>

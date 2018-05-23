@@ -57,7 +57,15 @@
 					</div>
 					<div class="alert alert-warning">
 						<h2 class="text-center">Register Now!</h2>
-						<p>Registration for 2018 has not yet opened. Please visit again soon!</p>
+						<ul>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk1-june-27-2018/2375479" target="_blank">Week 1 - June 27</a></li>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk2-july-4-2018/2375512" target="_blank">Week 2 - July 4</a></li>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk3-july-11-2018/2375513" target="_blank">Week 3 - July 11</a></li>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk4-july-18-2018/2375514" target="_blank">Week 4 - July 18</a></li>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk5-july-25-2018/2375515" target="_blank">Week 5 - July 25</a></li>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk6-august-1-2018/2375516" target="_blank">Week 6 - August 1</a></li>
+							<li><a href="http://colbsa.doubleknot.com/event/webelos-wednesdays-at-resica-falls-wk7-august-8-2018/2375517" target="_blank">Week 7 - August 8</a></li>
+						</ul>
 					</div>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)

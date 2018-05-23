@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<meta name="description" content="Resica Falls Scout Reservation is home to one of the most exciting portions of the premier Bushkill Creek." />
+		<meta name="description" content="Come visit Resica Falls this summer!" />
 		<title>Rendezvous <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
