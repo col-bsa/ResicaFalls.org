@@ -83,7 +83,7 @@
 												</div>
 												<div class="col-md-10">
 													<div class="card-block">
-														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf">Resica Falls Update &ndash; 2018 &#35;2</a></h5>
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf">Resica Falls Update &ndash; 2018 &#35;2</a></h5>
 														<ul>
 															<li>Troop T-shirt Program details</li>
 															<li>Cowboy Action Shooting</li>
