@@ -69,7 +69,28 @@
 															<li>Check out our 2018 theme and events</li>
 															<li>AMAZING 2nd week discount offer!</li>
 															<li>All new Resica Ranger program (First Year Camper)</li>
-															<li>Bits &amp; Pieces &ndash; Your location for links about Resica </li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+										<br>
+										<div class="card">
+											<div class="row">
+												<div class="hidden-sm-down col-md-2">
+													<a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf"><img src="_img/updates/RFU_Cover_2018-2_155x200.jpg"></a>
+												</div>
+												<div class="col-md-10">
+													<div class="card-block">
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf">Resica Falls Update &ndash; 2018 &#35;2</a></h5>
+														<ul>
+															<li>Troop T-shirt Program details</li>
+															<li>Cowboy Action Shooting</li>
+															<li>AMAZING 2nd week discount offer!</li>
+															<li>Webelos Wednesdays</li>
+															<li>Archery Range construction begins</li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica</li>
 														</ul>
 													</div>
 												</div>
