@@ -29,6 +29,9 @@
 											<a download href="_files\summer\2018_Program_Guide_V1.pdf">2018 Program Guide</a>
 										</li>
 										<li>
+											<a download href="_files\summer\2018_MB_Prerequisites.pdf">2018 Merit Badge Prerequisites</a>
+										</li>
+										<li>
 											<a download href="_files\summer\2018_Leaders_Guide_V1.pdf">2018 Leaders Guide</a>
 										</li>
 										<li>
