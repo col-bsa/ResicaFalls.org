@@ -64,7 +64,7 @@
 								<div class="col-md-6">
 									<ul>
 										<li>Second week discount</li>
-										<li>Themed shirts</li>
+										<li><a href="troop-shirts">Troop themed shirts</a></li>
 									</ul>
 								</div>
 							</div>
