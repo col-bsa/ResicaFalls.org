@@ -22,10 +22,10 @@
 				</div>
 				<div class="col-md-4">
 					<div class="list-group">
-						<a href="rendezvous" class="list-group-item list-group-item-action h5">Rendezvous - <br class="hidden-xl-up">Visit This Summer</a>
+						<a href="leaders-meeting" class="list-group-item list-group-item-action h5">Leaders Meeting &ndash; Online</a>
+						<a href="rendezvous" class="list-group-item list-group-item-action h5">Rendezvous &ndash; <br class="hidden-xl-up">Visit This Summer</a>
 						<a href="troop-shirts" class="list-group-item list-group-item-action h5">Troop Shirts</a>
 						<a href="webeloswednesday" class="list-group-item list-group-item-action h5">Webelos Wednesday</a>
-						<a href="important-documents" class="list-group-item list-group-item-action h5">Important Documents</a>
 					</div>
 				</div>
 			</div>
