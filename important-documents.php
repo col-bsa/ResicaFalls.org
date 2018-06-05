@@ -41,10 +41,6 @@
 										<li><a href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
 										<li><a download href="_files\summer\2018_Resica_Brochure.pdf">2018 Resica Brochure</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
-										<li>
-											<a href="http://colbsa.doubleknot.com/survey/2018-troop-precamp-survey/60810">Precamp Questionnaire</a>
-											<ul><li>Link to online survey</li></ul>
-										</li>
 										<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
 										<li><a download href="_files\summer\2018_Refund_Request.pdf">2018 Refund Request</a></li>
 										<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
