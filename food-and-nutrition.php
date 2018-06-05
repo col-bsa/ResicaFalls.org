@@ -24,14 +24,11 @@
 					<ul>
 						<li><a target="_blank" href="_files/summer/2018_Summer_Menu-OddWeeks.pdf">Weeks 1,3,5,7</a></li>
 						<li><a target="_blank" href="_files/summer/2018_Summer_Menu-EvenWeeks.pdf">Weeks 2,4,6</a></li>
+						<li><a target="_blank" href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
 					</ul>
 					<p>
 						Campers and adult leaders with dietary restrictions can note their individual restrictions with the camp’s FLIK food service manager before they come to camp. FLIK is more than happy to accommodate any dietary restrictions to ensure that campers and leaders have the best dining experience possible. For more information, or to discuss dietary restrictions, please contact Marco Morales, FLIK regional manager, at <a href="mailto:MARCO.MORALES@COMPASS-USA.COM">marco.morales@compass-usa.com</a>.
 					</p>
-					<h2>Menu</h2>
-					<ul>
-						<li><a target="_blank" href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
-					</ul>
 				</div>
 				<div class="col-md-4">
 					<img class="img-fluid rounded" src="_img/food/food_nutrition-1.jpg" alt="">
