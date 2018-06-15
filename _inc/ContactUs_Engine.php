@@ -16,7 +16,7 @@ $mailgun = array();
 $mailgun['domain'] = "resicafalls.org";
 $mailgun['from'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
 $mailgun['to'] = "ResicaFalls.org Contact Form <contact-form@resicafalls.org>";
-$mailgun['subject'] = "ResicaFalls.org Received a Message";
+$mailgun['subject'] = "ResicaFalls.org Message From: "; // Is added to later in script
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -62,6 +62,8 @@ if(!isset($error_text))
 	/* * * * * * * * * * * * * * * * * * *
 	 *          EMAIL FORM DATA          *
 	 * * * * * * * * * * * * * * * * * * */
+
+	$mailgun['subject'] .= $user_data['name'];
 
 	$send_text = "The following was submitted to ResicaFalls.org/contact-us." . 
 		PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
