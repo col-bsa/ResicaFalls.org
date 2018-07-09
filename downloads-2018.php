@@ -29,7 +29,11 @@
 							<div id="accordion1-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion1-download1">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop55.zip" download>Troop 55</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop88.zip" download>Troop 88</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop456.zip" download>Troop 456</a></li>
 									</ul>
 								</div>
 							</div>
@@ -45,7 +49,9 @@
 							<div id="accordion1-collapse2" class="collapse" role="tabpanel" aria-labelledby="accordion1-download2">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week2/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
+										<li><em>Troop pictures coming soon!</em></li>
 									</ul>
 								</div>
 							</div>

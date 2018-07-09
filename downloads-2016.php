@@ -29,7 +29,7 @@
 							<div id="accordion1-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion1-download1">
 								<div class="card-block">
 									<ul>
-										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/" download>Slideshow</a></li>
+										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/ResicaFalls2016_Slideshow.mp4" download>Slideshow</a></li>
 										<li><a href="https://flic.kr/s/aHskEhfvm7" target="_blank">Flickr Album</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/Troop103.JPG" download>Troop 103</a></li>
 										<li><a href="https://downloads.resicafalls.org/2016_Summer/Week1/Troop131.JPG" download>Troop 131</a></li>
