@@ -26,6 +26,9 @@
 								<th>
 									<ul>
 										<li>
+											<a download href="_files\summer\2019_Declaration_of_Intent.pdf">2019 Declaration of Intent</a>
+										</li>
+										<li>
 											<a download href="_files\summer\2018_Program_Guide_V1.pdf">2018 Program Guide</a>
 										</li>
 										<li>
