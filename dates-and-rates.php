@@ -12,7 +12,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>2018 Dates &amp; Rates</h1>
+					<h1>2019 Dates &amp; Rates</h1>
 				</div>
 			</div>
 			<div class="row">
@@ -27,31 +27,31 @@
 						<tbody>
 							<tr>
 								<td>Week 1</td>
-								<td>June 24 - June 30</td>
+								<td>June 23 - June 29</td>
 							</tr>
 							<tr>
 								<td>Week 2</td>
-								<td>July 1 - July 7</td>
+								<td>June 30 - July 6</td>
 							</tr>
 							<tr>
 								<td>Week 3</td>
-								<td>July 8 - July 14</td>
+								<td>July 7 - July 13</td>
 							</tr>
 							<tr>
 								<td>Week 4</td>
-								<td>July 15 - July 21</td>
+								<td>July 14 - July 20</td>
 							</tr>
 							<tr>
 								<td>Week 5</td>
-								<td>July 22 - July 28</td>
+								<td>July 21 - July 27</td>
 							</tr>
 							<tr>
 								<td>Week 6</td>
-								<td>July 29 - August 4</td>
+								<td>July 28 - August 3</td>
 							</tr>
 							<tr>
 								<td>Week 7</td>
-								<td>August 5 - August 11</td>
+								<td>August 4 - August 10</td>
 							</tr>
 						</tbody>
 					</table>
@@ -64,24 +64,25 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr>
-								<td>Tier 1 (September 15th): $395 per Youth / $190 per Adult</td>
-							</tr>
-							<tr>
-								<td>Tier 2 (December 15th): $420 per Youth / $190 per Adult</td>
-							</tr>
 							<tr class="table-highlight">
-								<td>Tier 3: $445 per Youth / $190 per Adult</td>
+								<td>Tier 1 (September 30th): $415 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
-								<td><strong>Second Week: $225 per Youth</strong></td>
+								<td>Tier 2 (December 15th): $440 per Youth / $190 per Adult</td>
+							</tr>
+							<tr>
+								<td>Tier 3: $465 per Youth / $190 per Adult</td>
+							</tr>
+							<tr>
+								<td><strong>Second Week: $235 per Youth</strong></td>
 							</tr>
 							<tr>
 								<td><strong>Recieve 1 Free Adult for every 10 Scouts!</strong></td>
 							</tr>
 					</table>
-					<a class="btn btn-success btn-block" href="http://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationID=47136&orgkey=1112">Register Now!</a>
-					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
+					<p>Registration is unavailable at the moment. Please check back soon.</p>
+					<a class="btn btn-success btn-block" href="#" disabled>Register Now!</a>
+					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541" disabled>View Your Current Registration</a>
 				</div>
 			</div>
 			<div class="row">

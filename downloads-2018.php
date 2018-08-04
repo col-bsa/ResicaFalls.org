@@ -67,7 +67,10 @@
 							<div id="accordion1-collapse3" class="collapse" role="tabpanel" aria-labelledby="accordion1-download3">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week3/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop334.zip" download>Troop 334</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop363.zip" download>Troop 363</a></li>
 									</ul>
 								</div>
 							</div>
