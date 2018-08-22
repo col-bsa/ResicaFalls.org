@@ -34,6 +34,7 @@
 					</p>
 					<p class="text-center">
 						<a role="button" class="btn btn-secondary btn-lg disabled" href="#">Apply Now</a>
+						<br>
 						Thank you for your interest! Please bear with us as we prepare the 2019 summer camp season applications.
 					</p>
 					<p>
