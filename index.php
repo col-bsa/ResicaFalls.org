@@ -17,19 +17,19 @@
 				<div class="col-md-6">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/HCi2JrsP7mk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
-				<div class="col-md-2 text-right">
-					<h5>Quick Links:</h5>
-				</div>
-				<div class="col-md-4">
-					<div class="list-group">
-						<a href="dates-and-rates" class="list-group-item list-group-item-action h5">Summer Registration</a>
-						<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Summer Programs</a>
-						<a href="facilities-and-rentals" class="list-group-item list-group-item-action h5">Facilities and Rentals</a>
-						<a href="weekend-activities" class="list-group-item list-group-item-action h5">Weekend Activities</a>
+				<div class="col-md-6">
+					<div class="col-md-2 text-right">
+						<h5>Quick Links:</h5>
 					</div>
-				</div>
-				<div class="col-md-12">
-				Situated in the beautiful Pocono Mountains, Resica Falls Scout Reservation is a 4200 acre Scouting Paradise. Set in an endless track of mountain trails, clear streams and waterfalls, Resica has an amazing program of activities for Scouts to enjoy during their summer camp experience. This paradise is the home to hundreds of different trees, plants and animals, and to over 3000 Scouts each summer.
+					<div class="col-md-4">
+						<div class="list-group">
+							<a href="dates-and-rates" class="list-group-item list-group-item-action h5">Summer Registration</a>
+							<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Summer Programs</a>
+							<a href="facilities-and-rentals" class="list-group-item list-group-item-action h5">Facilities and Rentals</a>
+							<a href="weekend-activities" class="list-group-item list-group-item-action h5">Weekend Activities</a>
+						</div>
+					</div>
+					Situated in the beautiful Pocono Mountains, Resica Falls Scout Reservation is a 4200 acre Scouting Paradise. Set in an endless track of mountain trails, clear streams and waterfalls, Resica has an amazing program of activities for Scouts to enjoy during their summer camp experience. This paradise is the home to hundreds of different trees, plants and animals, and to over 3000 Scouts each summer.
 				</div>
 			</div>
 		</div>
