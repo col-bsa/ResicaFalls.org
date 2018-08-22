@@ -17,6 +17,7 @@
 			</div>
 			<div class="row">
 				<div class="col">
+					<p><em>We're still working on the list of important dates for 2019. Please check back again soon! You can also use the list from the 2018 camping season below as a reference.</em></p>
 					<p>
 						<dl>
 							<dt>Thursday, March 1st</dt>
