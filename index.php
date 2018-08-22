@@ -15,7 +15,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col-md-6">
-				<iframe width="100%" height="100%" min-height="300" src="https://www.youtube.com/embed/HCi2JrsP7mk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<iframe width="100%" height="100%" min-height="315" src="https://www.youtube.com/embed/HCi2JrsP7mk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
 				<div class="col-md-6">
 					<div class="row">
