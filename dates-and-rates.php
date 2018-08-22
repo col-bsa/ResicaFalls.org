@@ -80,9 +80,8 @@
 								<td><strong>Recieve 1 Free Adult for every 10 Scouts!</strong></td>
 							</tr>
 					</table>
-					<p>Registration is unavailable at the moment. Please check back soon.</p>
-					<a class="btn btn-success btn-block disabled" href="#">Register Now!</a>
-					<a class="btn btn-primary btn-block disabled" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
+					<a class="btn btn-success btn-block" href="http://colbsa.doubleknot.com/event/space-available/2019-resica-falls-summer-camp/52840">Register Now!</a>
+					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
 				</div>
 			</div>
 			<div class="row">
