@@ -58,7 +58,7 @@
 					<div class="alert alert-warning">
 						<h2 class="text-center">Register Now!</h2>
 						<ul>
-							<li><em>Registration for webelos wednesday is not open yet. Please check back again in the spring.</em></li>
+							<p><em>Registration for Webelos Wednesday is not open yet. Please check back again in the spring.</em></p>
 							<!--
 							<li><a href="#" target="_blank">Week 1 - June 26</a></li>
 							<li><a href="#" target="_blank">Week 2 - July 3</a></li>
