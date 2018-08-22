@@ -18,10 +18,10 @@
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/HCi2JrsP7mk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
 				<div class="col-md-6">
-					<div class="col-md-2 text-right">
+					<div class="col-md-4 text-right">
 						<h5>Quick Links:</h5>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-8">
 						<div class="list-group">
 							<a href="dates-and-rates" class="list-group-item list-group-item-action h5">Summer Registration</a>
 							<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Summer Programs</a>
