@@ -69,8 +69,8 @@
 									<ul>
 										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week3/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
 										<li><em>Photo album coming soon!</em></li>
-										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop334.zip" download>Troop 334</a></li>
-										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week1/Troop363.zip" download>Troop 363</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week3/Troop334.zip" download>Troop 334</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week3/Troop363.zip" download>Troop 363</a></li>
 									</ul>
 								</div>
 							</div>
@@ -86,7 +86,12 @@
 							<div id="accordion1-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion1-download4">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week4/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week4/Troop157.zip" download>Troop 157</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week4/Troop251.zip" download>Troop 251</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week4/Troop267.zip" download>Troop 267</a></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week4/Troop354.zip" download>Troop 354</a></li>
 									</ul>
 								</div>
 							</div>
@@ -102,7 +107,8 @@
 							<div id="accordion1-collapse5" class="collapse" role="tabpanel" aria-labelledby="accordion1-download5">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week5/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
 									</ul>
 								</div>
 							</div>
@@ -118,7 +124,8 @@
 							<div id="accordion1-collapse6" class="collapse" role="tabpanel" aria-labelledby="accordion1-download6">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week6/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
 									</ul>
 								</div>
 							</div>
@@ -134,7 +141,8 @@
 							<div id="accordion1-collapse7" class="collapse" role="tabpanel" aria-labelledby="accordion1-download7">
 								<div class="card-block">
 									<ul>
-										<li><em>Coming Soon!</em></li>
+										<li><a href="https://downloads.resicafalls.org/2018_Summer/Week7/ResicaFalls2018_Slideshow.mp4" download>Slideshow</a></li>
+										<li><em>Photo album coming soon!</em></li>
 									</ul>
 								</div>
 							</div>

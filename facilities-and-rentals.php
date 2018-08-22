@@ -301,7 +301,7 @@
 								</tr>
 								<tr>
 									<th scope="row">Nuneville</th>
-									<td>20</td>
+									<td>24</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
