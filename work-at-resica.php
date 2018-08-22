@@ -33,7 +33,8 @@
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
 					<p class="text-center">
-						<a role="button" class="btn btn-secondary btn-lg" href="http://colbsa.doubleknot.com/survey/2018-camp-staff-application/58224">Apply Now</a>
+						<a role="button" class="btn btn-secondary btn-lg disabled" href="#">Apply Now</a>
+						Thank you for your interest! Please bear with us as we prepare the 2019 summer camp season applications.
 					</p>
 					<p>
 						Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our <a href="cit-program">CIT Program</a>.
