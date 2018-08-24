@@ -44,7 +44,7 @@
 							</thead>
 							<tbody>
 								<tr>
-									<th scope="row" colspan="5" class="table-active text-center">Big Springs</th>
+									<th scope="row" colspan="4" class="table-active text-center">Big Springs</th>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Bear Paw</th>
@@ -155,7 +155,7 @@
 									<td></td>
 								</tr>
 								<tr>
-									<th scope="row" colspan="5" class="table-active text-center">Firestone</th>
+									<th scope="row" colspan="4" class="table-active text-center">Firestone</th>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Bear Hollow</th>
