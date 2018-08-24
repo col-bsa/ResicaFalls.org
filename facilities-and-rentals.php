@@ -28,17 +28,15 @@
 				</div>
 			</div>
 			<h2>Costs</h2>
-			<p>All costs are on a per weekend basis except for family cabins which can be rented per night. All campsites are $50, and lodges are listed below. We invite scouts and scouters from any council to stay at Resica Falls for the same prices. Some additional costs may be associated with <a href="weekend-activities">weekend activities</a>. We encourage campers to bring spending money for the trading post where snacks, memorabilia, and some camping essentials are sold.</p>
+			<p>All costs are on a per weekend basis except for family cabins which can be rented per night. All campsites are &dollar;50, and lodges are listed below. We invite scouts and scouters from any council to stay at Resica Falls for the same prices. Some additional costs may be associated with <a href="weekend-activities">weekend activities</a>. We encourage campers to bring spending money for the trading post where snacks, memorabilia, and some camping essentials are sold.</p>
 			<div class="row">
-				<div class="col-xl-6">
+				<div class="col-xl-4">
 					<h2>Campsites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
-							<caption>All campsites have a fire ring and latrine in-site as well as water in close proximity.</caption>
 							<thead class="thead-inverse">
 								<tr>
 									<th class="text-left">Name</th>
-									<th class="text-center">Capacity</th>
 									<th class="text-center">Tent Platforms</th>
 									<th class="text-center">Adirondacks</th>
 									<th class="text-center">Pavilion</th>
@@ -50,126 +48,108 @@
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Bear Paw</th>
-									<td>40</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Cayuga</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Cherokee</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Cheyenne</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Chinook</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Chippewa</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Comanche</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Deer Run</th>
-									<td>40</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Mohawk</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Navajo</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">North Wind</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Pueblo</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Running Fox</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Shenandoah</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Shoshone</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Twin Hill 1</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Twin Hill 2</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Two Feathers</th>
-									<td>35</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
@@ -179,7 +159,6 @@
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Bear Hollow</th>
-									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -193,48 +172,43 @@
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Falcons Roost</th>
-									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Hillside</th>
-									<td>35</td>
 									<td></td>
 									<td></td>
 									<td></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Porcupine Ridge</th>
-									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Ruffed Grouse</th>
-									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row" class="text-nowrap">Staff Area</th>
-									<td>35</td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
 							</tbody>
 						</table>
+						<p>All campsites comfortably hold 35 campers, have a fire ring and latrine in-site as well as water in close proximity.</p>
 					</div>
 				</div>
-				<div class="col-xl-6">
+				<div class="col-xl-8">
 					<h2>Lodges</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
-							<caption>All lodges have electricity, refrigerators and stoves. Lodges with water have kitchen sinks and full bathrooms.</caption>
 							<thead class="thead-inverse">
 								<tr>
 									<th>Name</th>
@@ -251,7 +225,7 @@
 								<tr>
 									<th scope="row">Bear</th>
 									<td>24</td>
-									<td>250</td>
+									<td>&dollar;250</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -261,7 +235,7 @@
 								<tr>
 									<th scope="row">Brooks</th>
 									<td>14</td>
-									<td>100</td>
+									<td>&dollar;100</td>
 									<td></td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -271,7 +245,7 @@
 								<tr>
 									<th scope="row">Bushkill</th>
 									<td>32</td>
-									<td>300</td>
+									<td>&dollar;300</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -281,7 +255,7 @@
 								<tr>
 									<th scope="row">Cox</th>
 									<td>14</td>
-									<td>100</td>
+									<td>&dollar;100</td>
 									<td></td>
 									<td></td>
 									<td><i class="fa fa-check"></td>
@@ -291,7 +265,7 @@
 								<tr>
 									<th scope="row">Family Cabin</th>
 									<td>4</td>
-									<td>50*</td>
+									<td>&dollar;50*</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
@@ -301,7 +275,7 @@
 								<tr>
 									<th scope="row">Firestone</th>
 									<td>40</td>
-									<td>300</td>
+									<td>&dollar;300</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -311,17 +285,17 @@
 								<tr>
 									<th scope="row">Nuneville</th>
 									<td>24</td>
-									<td>100</td>
+									<td>&dollar;100</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
 									<td></td>
-									<td></td>
+									<td><i class="fa fa-check"></td>
 								</tr>
 								<tr>
 									<th scope="row">Trooper</th>
 									<td>20</td>
-									<td>100</td>
+									<td>&dollar;100</td>
 									<td></td>
 									<td></td>
 									<td></td>
@@ -331,7 +305,7 @@
 								<tr>
 									<th scope="row">Unami</th>
 									<td>26</td>
-									<td>300</td>
+									<td>&dollar;300</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -340,6 +314,7 @@
 								</tr>
 							</tbody>
 						</table>
+						<p>All lodges have electricity, refrigerators and stoves. Lodges with water have kitchen sinks and full bathrooms.</p>
 					</div>
 					<h2>Backpacking Sites</h2>
 					<div class="table-responsive">
