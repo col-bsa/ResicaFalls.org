@@ -30,7 +30,7 @@
 			<h2>Costs</h2>
 			<p>All costs are on a per weekend basis except for family cabins which can be rented per night. All campsites are &dollar;50, and lodges are listed below. We invite scouts and scouters from any council to stay at Resica Falls for the same prices. Some additional costs may be associated with <a href="weekend-activities">weekend activities</a>. We encourage campers to bring spending money for the trading post where snacks, memorabilia, and some camping essentials are sold.</p>
 			<div class="row">
-				<div class="col-xl-4">
+				<div class="col-xl-5">
 					<h2>Campsites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
@@ -205,7 +205,7 @@
 						<p>All campsites comfortably hold 35 campers, have a fire ring and latrine in-site as well as water in close proximity.</p>
 					</div>
 				</div>
-				<div class="col-xl-8">
+				<div class="col-xl-7">
 					<h2>Lodges</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
