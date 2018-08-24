@@ -201,8 +201,8 @@
 								</tr>
 							</tbody>
 						</table>
-						<p>All campsites comfortably hold 35 campers, have a fire ring and latrine in-site as well as water in close proximity.</p>
 					</div>
+					<p>All campsites comfortably hold 35 campers, have a fire ring and latrine in-site as well as water in close proximity.</p>
 				</div>
 				<div class="col-xl-7">
 					<h2>Lodges</h2>
@@ -313,8 +313,8 @@
 								</tr>
 							</tbody>
 						</table>
-						<p>All lodges have electricity, refrigerators and stoves. Lodges with water have kitchen sinks and full bathrooms.</p>
 					</div>
+					<p>All lodges have electricity, refrigerators and stoves. Lodges with water have kitchen sinks and full bathrooms.</p>
 					<h2>Backpacking Sites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm">
