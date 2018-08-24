@@ -166,7 +166,6 @@
 								<tr>
 									<th scope="row" class="text-nowrap">Eagle's Crest</th>
 									<td></td>
-									<td></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 								</tr>
