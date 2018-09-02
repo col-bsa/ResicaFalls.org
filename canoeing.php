@@ -18,7 +18,7 @@
                     </p>
                     <table class="table text-center">
                         <caption>Paddles &amp; PFDs inncluded with our canoes. Trailer holds 6 canoes. $50 for canoe delivery and pickup.</caption>
-                        <thead class="thead-inverse">
+                        <thead class="thead-dark">
                             <tr>
                                 <th class="text-center">Item</th>
                                 <th class="text-center">Day</th>

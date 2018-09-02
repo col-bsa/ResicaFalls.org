@@ -34,7 +34,7 @@
 					<h2>Campsites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
-							<thead class="thead-inverse">
+							<thead class="thead-dark">
 								<tr>
 									<th class="text-left">Name</th>
 									<th class="text-center">Tent Platforms</th>
@@ -208,7 +208,7 @@
 					<h2>Lodges</h2>
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
-							<thead class="thead-inverse">
+							<thead class="thead-dark">
 								<tr>
 									<th>Name</th>
 									<th class="text-center">Capacity</th>
@@ -318,7 +318,7 @@
 					<h2>Backpacking Sites</h2>
 					<div class="table-responsive">
 						<table class="table table-sm">
-							<thead class="thead-inverse">
+							<thead class="thead-dark">
 								<tr>
 									<th>Name</th>
 									<th>Description</th>
