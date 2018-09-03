@@ -52,8 +52,8 @@
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="paddlerama">
 					<img class="img-fluid" src="_img/programs/_thumbnails/Paddlerama-250x250.jpg" alt="">
-					<div class="grid-text h2 hidden-xs-down">Paddlerama</div>
-					<div class="grid-text h2 hidden-sm-up">Paddle <br> rama</div>
+					<div class="grid-text h2 d-xs-none">Paddlerama</div>
+					<div class="grid-text h2 d-block d-sm-none">Paddle <br> rama</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="nylt">
 					<img class="img-fluid" src="_img/programs/_thumbnails/NYLT-250x250.jpg" alt="">
