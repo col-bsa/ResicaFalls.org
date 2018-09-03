@@ -18,7 +18,7 @@
 			<div class="row">
 				<div class="col-12 col-md-6">
 					<table class="table text-center">
-						<thead class="thead-dark">
+						<thead class="thead-inverse">
 							<tr>
 								<th class="text-center">Session</th>
 								<th class="text-center">Dates</th>
@@ -58,7 +58,7 @@
 				</div>
 				<div class="col-12 col-md-6">
 					<table class="table text-center">
-						<thead class="thead-dark">
+						<thead class="thead-inverse">
 							<tr>
 								<th class="text-center">Pricing</th>
 							</tr>
@@ -90,7 +90,7 @@
 					<div class="table-responsive">
 						<table class="table table-sm text-center">
 							<caption>All campsites have a fire ring, picnic tables, tarp, flagpole, and latrine with water in-site.</caption>
-							<thead class="thead-dark">
+							<thead class="thead-inverse">
 								<tr>
 									<th class="text-left">Name</th>
 									<th class="text-center">Capacity</th>
