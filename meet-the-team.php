@@ -39,7 +39,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profiles/pat.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/bobby.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Bobby Burkhart <div class="h5">Program Director</div></h2>
@@ -50,7 +50,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-2">
-					<img class="img-fluid rounded" src="_img/profiles/kyle.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/andy.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-10">
 					<h2>Andy Connell <div class="h5">Assistant Program Director</div></h2>
