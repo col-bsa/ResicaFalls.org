@@ -96,6 +96,26 @@
 												</div>
 											</div>
 										</div>
+										<br>
+										<div class="card">
+											<div class="row">
+												<div class="hidden-sm-down col-md-2">
+													<a download href="_files\updates\ResicaFallsUpdate_2018-3.pdf"><img src="_img/updates/RFU_Cover_2018-3_155x200.jpg"></a>
+												</div>
+												<div class="col-md-10">
+													<div class="card-block">
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-3.pdf">Resica Falls Update &ndash; 2018 &#35;3</a></h5>
+														<ul>
+															<li>Don't Miss the Savings!</li>
+															<li>Camp by the Numbers</li>
+															<li>2018 in Photos</li>
+															<li>Hunting Program at Resica</li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
 									</div>
 								</th>
 							</tr>
