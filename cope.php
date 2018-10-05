@@ -22,7 +22,6 @@
                     <p>
                         Currently we are offering programs on the following weekends
                         <ul>
-                            <li><a href="http://colbsa.doubleknot.com/event/cope-weekend-at-resica-falls-september-21-23-2018/2228954" target="_blank">September 21-23, 2018</a></li>
                             <li><a href="http://colbsa.doubleknot.com/event/cope-weekend-at-resica-falls-october-19-21-2018/2228955" target="_blank">October 20-21, 2018</a></li>
                         </ul>
                     </p>

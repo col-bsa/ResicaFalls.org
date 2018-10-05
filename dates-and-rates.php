@@ -64,10 +64,10 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr class="table-highlight">
+							<tr>
 								<td>Tier 1 (September 30th): $415 per Youth / $190 per Adult</td>
 							</tr>
-							<tr>
+							<tr class="table-highlight">
 								<td>Tier 2 (December 15th): $440 per Youth / $190 per Adult</td>
 							</tr>
 							<tr>
