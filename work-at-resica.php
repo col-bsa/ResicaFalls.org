@@ -11,13 +11,9 @@
 
 		<div class="container content">
 			<div class="row">
-				<div class="col">
-					<h4>CREATE LIFETIME MEMEORIES AND EARN A SALARY</h4>
-					<h1>Join Camp Staff</h1>
-				</div>
-			</div>
-			<div class="row">
 				<div class="col-md-7">
+					<h4>CREATE LIFETIME MEMORIES AND EARN A SALARY</h4>
+					<h1>Join Camp Staff</h1>
 					<p>
 						Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:
 						<ul>
@@ -50,7 +46,7 @@
 					<br>
 				</div>
 				<div class="col-md-12 alert alert-brand">
-					STAFF ON THE STAFF
+					<h5>STAFF ON THE STAFF</h5>
 				</div>
 				<div class="col-md-6">
 					<p><strong>“I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students.”</strong></p>
@@ -64,7 +60,7 @@
 					<p><strong>“I met my wife working on camp staff.”</strong></p>
 				</div>
 				<div class="col-md-12 alert alert-brand">
-					COME JOIN THE FUN
+					<h5>COME JOIN THE FUN</h5>
 				</div>
 				<div class="col-md-12">
 					<img class="img-fluid rounded" src="_img/programs/staff/JoinStaff-Photo6Pack.png" alt="">
