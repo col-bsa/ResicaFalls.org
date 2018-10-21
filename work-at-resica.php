@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-8">
+				<div class="col-md-7">
 					<p>
 						Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:
 						<ul>
@@ -33,37 +33,37 @@
 						<ul>
 							<li>Be at least 15 years old.</li>
 							<li>A positive attitude and a strong work ethic.</li>
-							<li> A willingness to live by the Scout Oath &amp; Law.</li>
+							<li>A willingness to live by the Scout Oath &amp; Law.</li>
 							<li>A desire to have fun and make a lasting impact on the life of a scout.</li>
 						</ul>
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
-				</div>
-				<div class="col-md-4">
-					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/dve--MwFTNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<a class="btn btn-primary" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
-					<a class="btn btn-primary" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
 					<p>Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our CIT Program.</p>
 				</div>
-				<div class="col-xs-12 alert alert-warning">
+				<div class="col-md-5">
+					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
+					<iframe width="100%" height="300" src="https://www.youtube.com/embed/dve--MwFTNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<a class="btn btn-primary btn-block" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
+					<a class="btn btn-primary btn-block" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
+				</div>
+				<div class="col-xs-12 alert alert-brand">
 					STAFF ON THE STAFF
 				</div>
 				<div class="col-md-6">
-					<p>“I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students.”</p>
-					<p>“I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff.”</p>
+					<p><strong>“I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students.”</strong></p>
+					<p><strong>“I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff.”</strong></p>
 				</div>
 				<div class="col-md-6">
-					<p>“Spent a Summer teaching COPE. More fun than working at McDonald’s”</p>
-					<p>“30 years later and my best friends are still the guys I was on camp staff with.”</p>
-					<p>“My time on staff helped me decide to become a school teacher.”</p>
-					<p>“I wasn’t in a Boy Scout Troop but I sure had a great time working two Summers at Resica Falls.”</p>
-					<p>“I met my wife working on camp staff.”</p>
+					<p><strong>“Spent a Summer teaching COPE. More fun than working at McDonald’s”</strong></p>
+					<p><strong>“30 years later and my best friends are still the guys I was on camp staff with.”</strong></p>
+					<p><strong>“My time on staff helped me decide to become a school teacher.”</strong></p>
+					<p><strong>“I wasn’t in a Boy Scout Troop but I sure had a great time working two Summers at Resica Falls.”</strong></p>
+					<p><strong>“I met my wife working on camp staff.”</strong></p>
 				</div>
-				<div class="col-xs-12 alert alert-warning">
+				<div class="col-md-12 alert alert-brand">
 					COME JOIN THE FUN
 				</div>
-				<div class="col-xs-12">
+				<div class="col-md-12">
 					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
 				</div>
 			</div>
