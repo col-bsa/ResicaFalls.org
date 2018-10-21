@@ -41,7 +41,7 @@
 					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
 					<br><br>
 					<iframe width="100%" height="300" src="https://www.youtube.com/embed/dve--MwFTNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<a class="btn btn-primary btn-block" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
+					<a class="btn btn-success btn-block" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
 					<a class="btn btn-primary btn-block" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
 					<br>
 				</div>
@@ -63,7 +63,7 @@
 					<h5>COME JOIN THE FUN</h5>
 				</div>
 				<div class="col-md-12">
-					<img class="img-fluid rounded" src="_img/programs/staff/JoinStaff-Photo6Pack.png" alt="">
+					<img class="img-fluid" src="_img/programs/staff/JoinStaff-Photo6Pack.png" alt="">
 				</div>
 			</div>
 		</div>
