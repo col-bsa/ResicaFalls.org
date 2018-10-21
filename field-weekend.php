@@ -10,14 +10,10 @@
 		<?php include '_inc/nav.php'; ?>
 
 		<div class="container content">
-			<div class="row">
-				<div class="col">
-                    <h4>SPICE UP YOUR SPRING PROGRAM</h4>
-                    <h1>A Resica Weekend of Skills, Competition and Fun!!!</h1>
-				</div>
-            </div>
             <div class="row">
                 <div class="col-md-8">
+                    <h4>SPICE UP YOUR SPRING PROGRAM</h4>
+                    <h1>A Resica Weekend of Skills, Competition and Fun!!!</h1>
                     <p>Set aside the date, inspect your gear, get your recipes ready and plan to have lots of fun when you join us for the 2nd Annual Resica Field Weekend on April 26-28, 2019.</p>
                     <p>The Field Weekend allows your Troop to hone their tent camping skills while taking advantage of the great activities and facilities at Resica Falls Scout Reservation.</p>
                     <p>Some of the events include the older Scout Cowboy Action Shooting as well as traditional Boy Scout activities like lashing, orienteering, Dutch Oven cooking, fishing, and climbing.</p>
