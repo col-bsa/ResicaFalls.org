@@ -38,7 +38,7 @@
 						Thank you for your interest! Please bear with us as we prepare the 2019 summer camp season applications.
 					</p>
 					<p>
-						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="work-at-resica">Working At Resica</a>.
+						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="join-camp-staff">Working At Resica</a>.
 					</p>
 				</div>
 				<div class="col-md-4">

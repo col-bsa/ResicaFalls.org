@@ -45,9 +45,13 @@
 					<a class="btn btn-primary btn-block" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
 					<br>
 				</div>
-				<div class="col-md-12 alert alert-brand">
+			</div>
+			<div class="row">
+				<div class="col alert alert-brand">
 					<h5>STAFF ON THE STAFF</h5>
 				</div>
+			</div>
+			<div class="row">
 				<div class="col-md-6">
 					<p><strong>“I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students.”</strong></p>
 					<p><strong>“I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff.”</strong></p>
@@ -59,10 +63,14 @@
 					<p><strong>“I wasn’t in a Boy Scout Troop but I sure had a great time working two Summers at Resica Falls.”</strong></p>
 					<p><strong>“I met my wife working on camp staff.”</strong></p>
 				</div>
-				<div class="col-md-12 alert alert-brand">
+			</div>
+			<div class="row">
+				<div class="col alert alert-brand">
 					<h5>COME JOIN THE FUN</h5>
 				</div>
-				<div class="col-md-12">
+			</div>
+			<div class="row">
+				<div class="col">
 					<img class="img-fluid" src="_img/programs/staff/JoinStaff-Photo6Pack.png" alt="">
 				</div>
 			</div>
