@@ -3,7 +3,7 @@
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<meta name="description" content="Come work at Resica Falls Scout Reservation!" />
-		<title>Work At Resica <?php include '_inc/var/site_name.php'; ?></title>
+		<title>Join Camp Staff <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
