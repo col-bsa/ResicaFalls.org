@@ -33,9 +33,7 @@
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today! We hope you consider joining our CIT Program, and are ready to embark on a life changing journey at Resica Falls!
 					</p>
 					<p class="text-center">
-						<a role="button" class="btn btn-secondary btn-lg disabled" href="#">Apply Now</a>
-						<br>
-						Thank you for your interest! Please bear with us as we prepare the 2019 summer camp season applications.
+						<a role="button" class="btn btn-secondary btn-lg" href="https://colbsa.workbrightats.com/jobs/">Apply Now</a>
 					</p>
 					<p>
 						Are you 16 years old and looking for an exciting way to spend your whole summer? Find out more about <a href="join-camp-staff">Working At Resica</a>.
