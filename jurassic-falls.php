@@ -35,16 +35,16 @@
 			</div>
             <div class="row">
 				<div class="col text-center">
-                    <h5>
+                    <h4>
                         Find out more details in January 2019
                         <br>
                         when our Program Guide is released!
-                    </h5>
+                    </h4>
                 </div>
             </div>
             <div class="row">
                 <div class="col alert alert-brand">
-					<h4>Celebrations from the 2018 Theme &ndash; Space Odyssey</h4>
+					<h5>Celebrations from the 2018 Theme &ndash; Space Odyssey</h5>
 				</div>
             </div>
             <div class="row">
