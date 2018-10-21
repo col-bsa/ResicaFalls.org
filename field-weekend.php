@@ -27,7 +27,7 @@
 					<a class="btn btn-success btn-block" href="#" disabled>Check Back for the active Signup Link</a>
                 </div>
 				<div class="col-md-4">
-                    <img class="img-fluid center" src="_img/programs/theme/Field-SideGraphic.png" alt="">
+                    <img class="img-fluid center" src="_img/programs/field/Field-SideGraphic.png" alt="">
 				</div>
 			</div>
             <div class="row">
