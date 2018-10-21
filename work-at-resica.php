@@ -12,36 +12,58 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>Work At Resica</h1>
+					<h1>Join Camp Staff</h1>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Working on a campstaff is a fun way to spend your summer, and it gives you the opportunity to make a difference in the life of each and every scout that comes to camp. While being a counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
+						Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:
+						<ul>
+							<li>Make lots of new friends in your area and from other states</li>
+							<li>Spend a summer in the great outdoors where nature prevails</li>
+							<li>Acquire experiential education (learning by doing) and new skills that will last a lifetime</li>
+							<li>Learn how to lead others and to apply leadership skills</li>
+							<li>Be part of an effective team and cooperate with others to get things done</li>
+						</ul>
 					</p>
+					<p>Working on a campstaff is a fun way to spend your summer, and it gives you the opportunity to make a difference in the life of each and every Scout that comes to camp. While being a counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.</p>
 					<p>
 						Qualifications of a Staff Member:
 						<ul>
 							<li>Be at least 15 years old.</li>
 							<li>A positive attitude and a strong work ethic.</li>
-							<li>A willingness to live by the Scout Oath &amp; Law.</li>
+							<li> A willingness to live by the Scout Oath &amp; Law.</li>
 							<li>A desire to have fun and make a lasting impact on the life of a scout.</li>
 						</ul>
-					</p>
-					<p>
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
-					</p>
-					<p class="text-center">
-						<a role="button" class="btn btn-secondary btn-lg disabled" href="#">Apply Now</a>
-						<br>
-						Thank you for your interest! Please bear with us as we prepare the 2019 summer camp season applications.
-					</p>
-					<p>
-						Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our <a href="cit-program">CIT Program</a>.
 					</p>
 				</div>
 				<div class="col-md-4">
+					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/dve--MwFTNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<a class="btn btn-primary" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
+					<a class="btn btn-primary" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
+					<p>Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our CIT Program.</p>
+				</div>
+				<div class="col-xs-12 alert alert-warning">
+					STAFF ON THE STAFF
+				</div>
+				<div class="col-md-6">
+					<p>“I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students.”</p>
+					<p>“I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff.”</p>
+				</div>
+				<div class="col-md-6">
+					<p>“Spent a Summer teaching COPE. More fun than working at McDonald’s”</p>
+					<p>“30 years later and my best friends are still the guys I was on camp staff with.”</p>
+					<p>“My time on staff helped me decide to become a school teacher.”</p>
+					<p>“I wasn’t in a Boy Scout Troop but I sure had a great time working two Summers at Resica Falls.”</p>
+					<p>“I met my wife working on camp staff.”</p>
+				</div>
+				<div class="col-xs-12 alert alert-warning">
+					COME JOIN THE FUN
+				</div>
+				<div class="col-xs-12">
 					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
 				</div>
 			</div>
