@@ -12,6 +12,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
+					<h4>CREATE LIFETIME MEMEORIES AND EARN A SALARY</h4>
 					<h1>Join Camp Staff</h1>
 				</div>
 			</div>
@@ -42,9 +43,11 @@
 				</div>
 				<div class="col-md-5">
 					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
+					<br><br>
 					<iframe width="100%" height="300" src="https://www.youtube.com/embed/dve--MwFTNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<a class="btn btn-primary btn-block" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
 					<a class="btn btn-primary btn-block" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
+					<br>
 				</div>
 				<div class="col-md-12 alert alert-brand">
 					STAFF ON THE STAFF
