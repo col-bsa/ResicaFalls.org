@@ -31,7 +31,7 @@
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
 					<a class="dropdown-item" href="cit-program">CIT Program</a>
-					<a class="dropdown-item" href="work-at-resica">Work at Resica</a>
+					<a class="dropdown-item" href="join-camp-staff">Join Camp Staff</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown">
