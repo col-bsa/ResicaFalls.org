@@ -46,7 +46,7 @@
 					<a class="btn btn-primary btn-block" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
 					<a class="btn btn-primary btn-block" href="https://resicafalls.org/cit-program">I want to be a CIT</a>
 				</div>
-				<div class="col-xs-12 alert alert-brand">
+				<div class="col-md-12 alert alert-brand">
 					STAFF ON THE STAFF
 				</div>
 				<div class="col-md-6">
@@ -64,7 +64,7 @@
 					COME JOIN THE FUN
 				</div>
 				<div class="col-md-12">
-					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/programs/staff/JoinStaff-Photo6Pack.png" alt="">
 				</div>
 			</div>
 		</div>
