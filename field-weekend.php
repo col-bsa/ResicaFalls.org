@@ -25,7 +25,8 @@
                 </div>
 				<div class="col-md-4">
                     <img class="img-fluid" src="_img/programs/field/Field-SideGraphic.png" alt="">
-				</div>
+                    <br><br>
+                </div>
 			</div>
             <div class="row">
                 <div class="col alert alert-brand">
