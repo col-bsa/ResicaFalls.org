@@ -30,7 +30,7 @@
                     <p>For leaders, we’ll be hosting a <strong>Caveman Golf Tournament,</strong> and the whole troop can get involved in the week-long <strong>Dinosaur Deep Dig.</strong></p>
 				</div>
 				<div class="col-md-4">
-                    <img class="img-fluid center" src="_img/programs/theme/Jurassic-MainGraphic.png" alt="">
+                    <img class="img-fluid" src="_img/programs/theme/Jurassic-MainGraphic.png" alt="">
 				</div>
 			</div>
             <div class="row">
