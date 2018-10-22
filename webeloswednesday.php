@@ -57,7 +57,18 @@
 					</div>
 					<div class="alert alert-warning">
 						<h2 class="text-center">Register Now!</h2>
-						<p>Registration for 2018 has not yet opened. Please visit again soon!</p>
+						<ul>
+							<p><em>Registration for Webelos Wednesday is not open yet. Please check back again in the spring.</em></p>
+							<!--
+							<li><a href="#" target="_blank">Week 1 - June 26</a></li>
+							<li><a href="#" target="_blank">Week 2 - July 3</a></li>
+							<li><a href="#" target="_blank">Week 3 - July 10</a></li>
+							<li><a href="#" target="_blank">Week 4 - July 17</a></li>
+							<li><a href="#" target="_blank">Week 5 - July 24</a></li>
+							<li><a href="#" target="_blank">Week 6 - July 31</a></li>
+							<li><a href="#" target="_blank">Week 7 - August 7</a></li>
+							-->
+						</ul>
 					</div>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)

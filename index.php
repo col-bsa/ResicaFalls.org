@@ -14,12 +14,23 @@
 
 		<div class="container content">
 			<div class="row">
-				<div class="col-md-4">
-					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="//www.youtube.com/embed/z7g9fRFGUqE?rel=0" allowfullscreen></iframe>
-					</div>
+				<div class="col-md-6">
+				<iframe width="100%" height="100%" src="https://www.youtube.com/embed/HCi2JrsP7mk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-md-4 text-right">
+							<h5>Quick Links:</h5>
+						</div>
+						<div class="col-md-8">
+							<div class="list-group">
+								<a href="dates-and-rates" class="list-group-item list-group-item-action h5">Summer Registration</a>
+								<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Summer Programs</a>
+								<a href="facilities-and-rentals" class="list-group-item list-group-item-action h5">Facilities and Rentals</a>
+								<a href="weekend-activities" class="list-group-item list-group-item-action h5">Weekend Activities</a>
+							</div>
+						</div>
+					</div>
 					Situated in the beautiful Pocono Mountains, Resica Falls Scout Reservation is a 4200 acre Scouting Paradise. Set in an endless track of mountain trails, clear streams and waterfalls, Resica has an amazing program of activities for Scouts to enjoy during their summer camp experience. This paradise is the home to hundreds of different trees, plants and animals, and to over 3000 Scouts each summer.
 				</div>
 			</div>
@@ -41,7 +52,8 @@
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="paddlerama">
 					<img class="img-fluid" src="_img/programs/_thumbnails/Paddlerama-250x250.jpg" alt="">
-					<div class="grid-text h2">Paddlerama</div>
+					<div class="grid-text h2 hidden-xs-down">Paddlerama</div>
+					<div class="grid-text h2 hidden-sm-up">Paddle <br> rama</div>
 				</a>
 				<a class="col-6 col-md-auto grid-item" href="nylt">
 					<img class="img-fluid" src="_img/programs/_thumbnails/NYLT-250x250.jpg" alt="">

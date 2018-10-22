@@ -43,7 +43,7 @@
 							</div>
 						</div>
 						<div class="g-recaptcha"
-							data-sitekey="6LeqLRkUAAAAAH3FDqKPmDdl1ejBaKH0ouQeU_LE"
+							data-sitekey="<?php require '_inc/var/secrets.php'; echo $PUBLIC_recaptcha; ?>"
 							data-callback="ContactUs"
 							data-size="invisible">
 						</div>

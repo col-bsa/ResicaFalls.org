@@ -10,5 +10,5 @@
 </script>
 
 <div class="header">
-	<a href="index"><span class="logo"><?php echo file_get_contents("_img/logo_60th.svg"); ?></span></a>
+	<a href="index"><span class="logo"><?php echo file_get_contents("_img/logo.svg"); ?></span></a>
 </div>

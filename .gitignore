@@ -1,3 +1,4 @@
 composer.lock
 _inc/vendor/
+_inc/var/secrets.php
 git_deploy.php

@@ -20,53 +20,136 @@
 					<table class="table">
 						<tbody>
 							<tr class="table-highlight">
-								<th >Summer Forms</th>
+								<th><h4>Summer Forms</h4></th>
 							</tr>
 							<tr>
 								<th>
 									<ul>
-										<li><a download href="_files\summer\2017_Resica_Brochure.pdf">2017 Resica Brochure</a></li>
 										<li>
-											<a download href="_files\summer\2017_Program_Guide_V4.pdf">2017 Program Guide (Version 4)</a>
-											<ul><li><strong>Updated 5/1:</strong> to include updates for Cooking, Fire Safety, Hiking, Lifesaving, Radio, and Personal Fitness Merit Badges.</li></ul>
+											<a download href="_files\summer\2019_Declaration_of_Intent.pdf">2019 Declaration of Intent</a>
 										</li>
 										<li>
-											<a download href="_files\summer\2017_Leaders_Guide_V2.pdf">2017 Leaders Guide (Version 2)</a>
-											<ul><li><strong>Updated 5/1:</strong> to include new email addresses.</li></ul>
+											<a download href="_files\summer\2018_Program_Guide_V1.pdf">2018 Program Guide</a>
 										</li>
-										<li><a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a></li>
+										<li>
+											<a download href="_files\summer\2018_MB_Prerequisites.pdf">2018 Merit Badge Prerequisites</a>
+										</li>
+										<li>
+											<a download href="_files\summer\2018_Leaders_Guide_V1.pdf">2018 Leaders Guide</a>
+										</li>
+										<li>
+											<a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a>
+											<ul><li><strong>Due: April 1st</strong></li></ul>
+										</li>
+										<li><a href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
+										<li><a download href="_files\summer\2018_Resica_Brochure.pdf">2018 Resica Brochure</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
-										<li><a download href="_files\summer\Precamp_Questionnaire.docx">Precamp Questionnaire</a></li>
+										<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
+										<li><a download href="_files\summer\2018_Refund_Request.pdf">2018 Refund Request</a></li>
+										<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
 									</ul>
 								</th>
 							</tr>
 							<tr class="table-highlight">
-								<th>Special Programs</th>
+								<th><h4>Resica Falls Update</h4></th>
+							</tr>
+							<tr>
+								<th>
+									<div class="container">
+										<div class="card">
+											<div class="row">
+												<div class="hidden-sm-down col-md-2">
+													<a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf"><img src="_img/updates/RFU_Cover_2018-1_155x200.jpg"></a>
+												</div>
+												<div class="col-md-10">
+													<div class="card-block">
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf">Resica Falls Update &ndash; 2018 &#35;1</a></h5>
+														<ul>
+															<li>Leader and Program Guides Available</li>
+															<li>Check out our 2018 theme and events</li>
+															<li>AMAZING 2nd week discount offer!</li>
+															<li>All new Resica Ranger program (First Year Camper)</li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+										<br>
+										<div class="card">
+											<div class="row">
+												<div class="hidden-sm-down col-md-2">
+													<a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf"><img src="_img/updates/RFU_Cover_2018-2_155x200.jpg"></a>
+												</div>
+												<div class="col-md-10">
+													<div class="card-block">
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf">Resica Falls Update &ndash; 2018 &#35;2</a></h5>
+														<ul>
+															<li>Troop T-shirt Program details</li>
+															<li>Cowboy Action Shooting</li>
+															<li>AMAZING 2nd week discount offer!</li>
+															<li>Webelos Wednesdays</li>
+															<li>Archery Range construction begins</li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+										<br>
+										<div class="card">
+											<div class="row">
+												<div class="hidden-sm-down col-md-2">
+													<a download href="_files\updates\ResicaFallsUpdate_2018-3.pdf"><img src="_img/updates/RFU_Cover_2018-3_155x200.jpg"></a>
+												</div>
+												<div class="col-md-10">
+													<div class="card-block">
+														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-3.pdf">Resica Falls Update &ndash; 2018 &#35;3</a></h5>
+														<ul>
+															<li>Don't Miss the Savings!</li>
+															<li>Camp by the Numbers</li>
+															<li>2018 in Photos</li>
+															<li>Hunting Program at Resica</li>
+															<li>Bits &amp; Pieces &ndash; Your location for links about Resica</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</th>
+							</tr>
+							<tr class="table-highlight">
+								<th><h4>Special Programs</h4></th>
 							</tr>
 							<tr>
 								<th>
 									<ul>
 										<li><a download href="_files\special_programs\ATV_Participant_Release.pdf">ATV Participant Release</a></li>
+										<li><a download href="_files\special_programs\COPE_Application.pdf">COPE Application</a></li>
+										<li><a download href="_files\special_programs\CowboyActionFlyer-Permission.pdf">Cowboy Action Flyer</a></li>
 										<li><a download href="_files\special_programs\2015_Paddlerama_Brochure.pdf">2015 Paddlerama Brochure</a></li>
 										<li><a download href="_files\special_programs\2016_Paddlerama_Guide.pdf">2016 Paddlerama Guide</a></li>
 										<li><a download href="_files\special_programs\2016_Troop_One_Guide.pdf">2016 Troop One Guide</a></li>
 									</ul>
 								</th>
 							</tr>
-              <tr class="table-highlight">
-								<th>General Information</th>
+							<tr class="table-highlight">
+								<th><h4>General Information</h4></th>
 							</tr>
 							<tr>
 								<th>
 									<ul>
-                    <li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
-                    <li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
-										<li><a download href="_files\general\COL_GuideToCampingOpportunities.pdf">COL Guide to Weekend Camping Opportunities</a></li>
+										<li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
+										<li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
+										<li><a download href="_files\general\Firestone_Map.pdf">Firestone Camp Map</a></li>
+										<li><a download href="_files\general\ResicaFalls_OrienteeringMaps.pdf">Orienteering Maps</a></li>
+										<li><a download href="_files\general\ResicaFalls_GeocacheCourse.pdf">Geocache Course</a></li>
 									</ul>
 								</th>
 							</tr>
 							<tr class="table-highlight">
-								<th>Health And Safety Forms</th>
+								<th><h4>Health And Safety Forms</h4></th>
 							</tr>
 							<tr>
 								<th>

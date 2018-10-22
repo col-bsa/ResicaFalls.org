@@ -17,14 +17,23 @@
 			</div>
 			<div class="row">
 				<div class="col">
+					<p><em>We're still working on the list of important dates for 2019. Please check back again soon! You can also use the list from the 2018 camping season below as a reference.</em></p>
 					<p>
 						<dl>
-							<dt>Friday, September 15th</dt>
-								<dd>Deposit deadline to lock in Tier 1 pricing</dd>
-							<dt>Friday, December 15th</dt>
-								<dd>Deposit deadline to lock in Tier 2 pricing</dd>
+							<dt>Thursday, March 1st</dt>
+								<dd>$50 per scout deposit due</dd>
+							<dt>Thursday, March 15th</dt>
+								<dd>Merit Badge registration opens</dd>
+							<dt>Sunday, April 1st</dt>
+								<dd>Campership application due</dd>
+							<dt>Monday, May 14th</dt>
+								<dd>Pre-Camp Leaders Meeting</dd>
+							<dt>Tuesday, May 15th</dt>
+								<dd>Remaining troop balance due</dd>
 							<dt>Sunday, June 24th</dt>
 								<dd>First day of camp!</dd>
+							<dt>Monday, June 25th</dt>
+								<dd>Troop shirts order form</dd>
 						</dl>
 					</p>
 				</div>
