@@ -11,9 +11,13 @@
 
 		<div class="container content">
 			<div class="row">
-				<div class="col-md-7">
+				<div class="col">
 					<h4>CREATE LIFETIME MEMORIES AND EARN A SALARY</h4>
 					<h1>Join Camp Staff</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-7">
 					<p>
 						Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:
 						<ul>
