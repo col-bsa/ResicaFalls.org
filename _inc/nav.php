@@ -20,7 +20,7 @@
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp; Rates</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp; Opportunities</a>
-					<a class="dropdown-item" href="jurassic-falls">2019 Theme</a>
+					<a class="dropdown-item" href="jurassic-falls">Summer 2019 Theme</a>
 					<a class="dropdown-item" href="food-and-nutrition">Food &amp; Nutrition</a>
 					<a class="dropdown-item" href="important-dates">Important Dates</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
