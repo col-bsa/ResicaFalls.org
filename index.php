@@ -26,8 +26,8 @@
 							<div class="list-group">
 								<a href="dates-and-rates" class="list-group-item list-group-item-action h5">Summer Registration</a>
 								<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Summer Programs</a>
-								<a href="facilities-and-rentals" class="list-group-item list-group-item-action h5">Facilities and Rentals</a>
-								<a href="weekend-activities" class="list-group-item list-group-item-action h5">Weekend Activities</a>
+								<a href="jurassic-falls" class="list-group-item list-group-item-action h5">Jurassic Falls</a>
+								<a href="join-camp-staff" class="list-group-item list-group-item-action h5">Join Camp Staff</a>
 							</div>
 						</div>
 					</div>
