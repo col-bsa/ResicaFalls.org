@@ -77,7 +77,7 @@
 										<div class="card">
 											<div class="row">
 												<div class="hidden-sm-down col-md-2">
-													<a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf"><img src="_img/updates/RFU_Cover_2018-10_155x200.jpg"></a>
+													<a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf"><img src="_img/updates/RFU_Cover_2018-1_155x200.jpg"></a>
 												</div>
 												<div class="col-md-10">
 													<div class="card-block">
