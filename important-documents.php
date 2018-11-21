@@ -58,10 +58,28 @@
 									<div class="container">
 										<div class="card">
 											<div class="row">
-												<div class="hidden-sm-down col-md-2">
+												<div class="hidden-sm-down col-md-3 col-lg-2">
+													<a href="https://conta.cc/2EEdQWj" target="_blank"><img src="_img/updates/Spark_Cover_2018-10_155x200.jpg"></a>
+												</div>
+												<div class="col-md-9 col-lg-10">
+													<div class="card-block">
+														<h5 class="card-title"><a href="https://conta.cc/2EEdQWj" target="_blank">Resica Falls Spark &ndash; October 2018</a></h5>
+														<ul>
+															<li><a href="jurassic-falls">Check out our 2019 theme and events</a></li>
+															<li><a href="join-camp-staff">Join the Resica Falls Camp Staff</a></li>
+															<li><a href="field-weekend">2nd Annual Field Weekend</a></li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+										<br>
+										<div class="card">
+											<div class="row">
+												<div class="hidden-sm-down col-md-3 col-lg-2">
 													<a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf"><img src="_img/updates/RFU_Cover_2018-1_155x200.jpg"></a>
 												</div>
-												<div class="col-md-10">
+												<div class="col-md-9 col-lg-10">
 													<div class="card-block">
 														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-1.pdf">Resica Falls Update &ndash; 2018 &#35;1</a></h5>
 														<ul>
@@ -78,10 +96,10 @@
 										<br>
 										<div class="card">
 											<div class="row">
-												<div class="hidden-sm-down col-md-2">
+												<div class="hidden-sm-down col-md-3 col-lg-2">
 													<a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf"><img src="_img/updates/RFU_Cover_2018-2_155x200.jpg"></a>
 												</div>
-												<div class="col-md-10">
+												<div class="col-md-9 col-lg-10">
 													<div class="card-block">
 														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-2.pdf">Resica Falls Update &ndash; 2018 &#35;2</a></h5>
 														<ul>
@@ -99,10 +117,10 @@
 										<br>
 										<div class="card">
 											<div class="row">
-												<div class="hidden-sm-down col-md-2">
+												<div class="hidden-sm-down col-md-3 col-lg-2">
 													<a download href="_files\updates\ResicaFallsUpdate_2018-3.pdf"><img src="_img/updates/RFU_Cover_2018-3_155x200.jpg"></a>
 												</div>
-												<div class="col-md-10">
+												<div class="col-md-9 col-lg-10">
 													<div class="card-block">
 														<h5 class="card-title"><a download href="_files\updates\ResicaFallsUpdate_2018-3.pdf">Resica Falls Update &ndash; 2018 &#35;3</a></h5>
 														<ul>
