@@ -16,22 +16,19 @@
 				</div>
             </div>
             <div class="row">
-				<div class="col">
-                <img class="img-fluid" src="_img/programs/theme/RF-JurassicFalls.png" alt="">
-				</div>
-            </div>
-            <div class="row">
-                <div class="col-md-6">
-                    <p>Adventure Awaits as we travel back in time to bring you our 2019 theme “Jurassic Falls,” for your unit’s stay at Resica Falls. From T-Rex and Triceratops to The Flintstones and beyond there are many opportunities to join in the fun!</p>
+                <div class="col-md-8">
+					<h1>Coming Soon</h1>
+					<p>Adventure Awaits as we travel back in time to bring you our 2019 theme “Jurassic Falls,” for your unit’s stay at Resica Falls. From T-Rex and Triceratops to The Flintstones and beyond there are many opportunities to join in the fun!</p>
                     <p>This summer, the Jurassic Falls theme will be part of more campwide activities than you could ever imagine. From the Opening Campfire on Sunday until the Closing Ceremony on Friday we will be walking with dinosaurs.</p>
-                </div>
-				<div class="col-md-6">
                     <p>
                         Build a creative troop gateway and wear your awesome costumes to help bring the adventure alive. Here are some of the exciting events:
                         <br>
                         The Monday evening games will include exciting NEW activities like the <strong>Raptor Race, Stone Breaking,</strong> and the <strong>Yabba Dabba Doo Bowling Tournament.</strong>
                     </p>
                     <p>For leaders, we’ll be hosting a <strong>Caveman Golf Tournament,</strong> and the whole troop can get involved in the week-long <strong>Dinosaur Deep Dig.</strong></p>
+				</div>
+				<div class="col-md-4">
+					<img class="img-fluid rounded" src="_img/programs/theme/RF-JurassicFalls.png" alt="">
 				</div>
 			</div>
             <div class="row">
