@@ -30,8 +30,8 @@
 					</p>
 				</div>
 				<div class="col-md-5">
-					<img class="img-fluid rounded" src="generic/female-staff.jpg" alt="">
-                    <div class="alert alert-brand">
+					<img class="img-fluid rounded" src="_img/generic/female-staff.jpg" alt="">
+                    <div class="alert alert-brand text-center">
 					    <h5>Don't Miss Out!</h5>
                         <p>All new female units will receive Tier 1 ($415) pricing for the 2019 season.</p>
 				    </div>
@@ -39,7 +39,7 @@
 			</div>
 			<div class="row">
 				<div class="col alert alert-brand">
-					<h5 class="text-center">Here are the ways Girls can attend Summer Camp at Resica</h5>
+					<h5>Here are the ways Girls can attend Summer Camp at Resica</h5>
 				</div>
 			</div>
 			<div class="row">
