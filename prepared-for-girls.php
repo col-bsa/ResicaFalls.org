@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-7">
+				<div class="col-md-8">
 					<p>
 						A few of the ways we have been prepared for girls, and how we continue to work towards the future:
                         <ul>
@@ -29,8 +29,9 @@
 						</ul>
 					</p>
 				</div>
-				<div class="col-md-5">
+				<div class="col-md-4">
 					<img class="img-fluid rounded" src="_img/generic/female-staff.jpg" alt="">
+                    <br>
                     <div class="alert alert-brand text-center">
 					    <h5>Don't Miss Out!</h5>
                         <p>All new female units will receive Tier 1 ($415) pricing for the 2019 season.</p>
