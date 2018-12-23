@@ -21,13 +21,13 @@
 					<p>Situated in the beautiful Pocono Mountains, Resica Falls Scout Reservation is a 4200 acre Scouting Paradise. Set in an endless track of mountain trails, clear streams and waterfalls, Resica has an amazing program of activities for Scouts to enjoy during their summer camp experience. This paradise is the home to hundreds of different trees, plants and animals, and to over 3000 Scouts each summer.</p>
 					<div class="row">
 						<div class="col-md-4 text-right">
-							<h5>Quick Links:</h5>
+							<h5>New Links:</h5>
 						</div>
 						<div class="col-md-8">
 							<div class="list-group">
-								<a href="dates-and-rates" class="list-group-item list-group-item-action h5">Summer Registration</a>
-								<a href="programs-and-opportunities" class="list-group-item list-group-item-action h5">Summer Programs</a>
-								<a href="jurassic-falls" class="list-group-item list-group-item-action h5">Jurassic Falls</a>
+								<a href="prepared-for-girls" class="list-group-item list-group-item-action h5">Prepared for Girls</a>
+								<a href="videos" class="list-group-item list-group-item-action h5">Videos in Camp</a>
+								<a href="bring-smore-scouts" class="list-group-item list-group-item-action h5">Bring S'more Scouts</a>
 								<a href="join-camp-staff" class="list-group-item list-group-item-action h5">Join Camp Staff</a>
 							</div>
 						</div>
