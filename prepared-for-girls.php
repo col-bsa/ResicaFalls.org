@@ -35,6 +35,7 @@
 				</div>
 				<div class="col-md-4">
 					<img class="img-fluid rounded" src="_img/generic/female-staff.jpg" alt="">
+                    <br><br>
 				</div>
 			</div>
 			<div class="row">
@@ -47,7 +48,7 @@
 					<div class="card">
 						<img class="card-img-top img-fluid" src="_img/activities/canoeing-2.jpg" alt="">
 						<div class="card-block">
-							<h5 class="card-title">UNIT CAMPING</h5>
+							<h5 class="card-title text-center">UNIT CAMPING</h5>
 							<p class="card-text">Your Scout Unit goes through the regular process of registering to attend Summer Camp at Resica. You will need to meet the two-deep adult leadership requirement, with at least one of those leaders being female.</p>
 						</div>
 					</div>
@@ -56,9 +57,9 @@
 					<div class="card">
 						<img class="card-img-top img-fluid" src="_img/activities/shotgun.jpg" alt="">
 						<div class="card-block">
-							<h5 class="card-title">NOT ENOUGH LEADERS? NO PROBLEM!</h5>
+							<h5 class="card-title text-center">NOT ENOUGH LEADERS? NO PROBLEM!</h5>
 							<p class="card-text">If your Scout Unit is unable to secure two adult leaders for their stay in camp, the first option would be to pair with another Scout Unit already attending Resica. Again, one of the leaders of the combined group would still need to be female.</p>
-                            <p class="card-text">The second option would be to have your girls and available leaders join our provisional program 'Resica Troop 1' for their week. The camp will provide qualified two-deep leadership with one being female.</p>
+                            <p class="card-text">The second option would be to have your girls and available leaders join our provisional program '<a href="troop-one">Resica Troop 1</a>' for their week. The camp will provide qualified two-deep leadership with one being female.</p>
 						</div>
 					</div>
 				</div>
@@ -66,8 +67,8 @@
 					<div class="card">
 						<img class="card-img-top img-fluid" src="_img/activities/rangers.jpg" alt="">
 						<div class="card-block">
-							<h5 class="card-title">TROOP ONE PROVISIONAL</h5>
-							<p class="card-text">If you can’t come to Summer Camp as a Scout Unit, there is still the opportunity for individual girls to attend Resica. They can also join our provisional program 'Resica Troop 1' for their Summer Camp Stay. The camp will provide qualified two-deep leadership with one being female.</p>
+							<h5 class="card-title text-center">TROOP ONE PROVISIONAL</h5>
+							<p class="card-text">If you can’t come to Summer Camp as a Scout Unit, there is still the opportunity for individual girls to attend Resica. They can also join our provisional program '<a href="troop-one">Resica Troop 1</a>' for their Summer Camp Stay. The camp will provide qualified two-deep leadership with one being female.</p>
 						</div>
 					</div>
 				</div>
