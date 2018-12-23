@@ -9,6 +9,7 @@
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_AboutUs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<br class="hidden-md-down"> Us</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_AboutUs">
 					<a class="dropdown-item" href="camp-history">Camp History</a>
+					<a class="dropdown-item" href="videos">Videos in Camp</a>
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
 					<a class="dropdown-item" href="schedule-a-visit">Schedule a Visit</a>
@@ -21,6 +22,8 @@
 					<a class="dropdown-item" href="dates-and-rates">Dates &amp; Rates</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp; Opportunities</a>
 					<a class="dropdown-item" href="jurassic-falls">Summer 2019 Theme</a>
+					<a class="dropdown-item" href="bring-smore-scouts">Bring S'more Scouts</a>
+					<a class="dropdown-item" href="prepared-for-girls">Prepared for Girls</a>
 					<a class="dropdown-item" href="food-and-nutrition">Food &amp; Nutrition</a>
 					<a class="dropdown-item" href="important-dates">Important Dates</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
