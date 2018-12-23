@@ -38,8 +38,7 @@
 											<a download href="_files\summer\2018_Leaders_Guide_V1.pdf">2018 Leaders Guide</a>
 										</li>
 										<li>
-											<a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a>
-											<ul><li><strong>Due: April 1st</strong></li></ul>
+											<a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a> <strong>Due: April 1st</strong>
 										</li>
 										<li><a href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
 										<li><a download href="_files\summer\2018_Resica_Brochure.pdf">2018 Resica Brochure</a></li>
