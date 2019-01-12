@@ -29,22 +29,16 @@
 											<a download href="_files\summer\2019_Declaration_of_Intent.pdf">2019 Declaration of Intent</a>
 										</li>
 										<li>
+											<a download href="_files\summer\2019_Leaders_Guide.pdf">2019 Leaders Guide</a>
+										</li>
+										<li>
 											<a download href="_files\summer\2018_Program_Guide_V1.pdf">2018 Program Guide</a>
 										</li>
 										<li>
 											<a download href="_files\summer\2018_MB_Prerequisites.pdf">2018 Merit Badge Prerequisites</a>
 										</li>
-										<li>
-											<a download href="_files\summer\2018_Leaders_Guide_V1.pdf">2018 Leaders Guide</a>
-										</li>
-										<li>
-											<a download href="_files\summer\2018_Campership_Application.pdf">2018 Campership Application</a> - Due April 1ˢᵗ
-										</li>
-										<li><a href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
-										<li><a download href="_files\summer\2018_Resica_Brochure.pdf">2018 Resica Brochure</a></li>
 										<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 										<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
-										<li><a download href="_files\summer\2018_Refund_Request.pdf">2018 Refund Request</a></li>
 										<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
 									</ul>
 								</th>
