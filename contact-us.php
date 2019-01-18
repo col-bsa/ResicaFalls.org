@@ -68,6 +68,16 @@
 						<a href="index" target="_blank">ResicaFalls.org</a><br>
 						<a href="mailto:hello@resicafalls.org">hello@ResicaFalls.org</a>
 					</address>
+					<em>Outside of summer camp operation, most phone calls are best answered at the Cradle of Liberty Council Office.</em>
+					<address>
+						<strong>Cradle of Liberty Council Camping Department</strong><br>
+						1485 Valley Forge Road<br>
+						Wayne, PA 19087<br>
+						<abbr title="Phone">P:</abbr> (484) 654-9218<br>
+						<abbr title="Fax">F:</abbr> (610) 668-2951<br>
+						<a href="https://colbsa.org" target="_blank">colbsa.org</a><br>
+						<a href="mailto:camping@colbsa.org">camping@colbsa.org</a>
+					</address>
 					<h5><a href="meet-the-team">Meet the Team!</a></h5>
 				</div>
 			</div>
