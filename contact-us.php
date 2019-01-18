@@ -68,7 +68,6 @@
 						<a href="index" target="_blank">ResicaFalls.org</a><br>
 						<a href="mailto:hello@resicafalls.org">hello@ResicaFalls.org</a>
 					</address>
-					<em>Outside of summer camp operation, most phone calls are best answered at the Cradle of Liberty Council Office.</em>
 					<address>
 						<strong>Cradle of Liberty Council Camping Department</strong><br>
 						1485 Valley Forge Road<br>
