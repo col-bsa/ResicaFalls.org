@@ -76,3 +76,4 @@ ErrorDocument 403 /403.php
 Redirect 301 /downloads /downloads-2018
 Redirect 301 /closingreport /staff-downloads
 Redirect 301 /work-at-resica /join-camp-staff
+Redirect 301 /joincampstaff /join-camp-staff
