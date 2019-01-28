@@ -63,21 +63,17 @@
 						<strong>Resica Falls Scout Reservation</strong><br>
 						1200 Resica Falls Road<br>
 						East Stroudsburg, PA 18302<br>
-						<abbr title="Phone">P:</abbr> (570) 223-8312<br>
-						<abbr title="Fax">F:</abbr> (570) 223-7263<br>
 						<a href="index" target="_blank">ResicaFalls.org</a><br>
 						<a href="mailto:hello@resicafalls.org">hello@ResicaFalls.org</a>
 					</address>
+					<h4>Phone Numbers</h4>
 					<address>
-						<strong>Cradle of Liberty Council Camping Department</strong><br>
-						1485 Valley Forge Road<br>
-						Wayne, PA 19087<br>
-						<abbr title="Phone">P:</abbr> (484) 654-9218<br>
-						<abbr title="Fax">F:</abbr> (610) 668-2951<br>
-						<a href="https://colbsa.org" target="_blank">colbsa.org</a><br>
-						<a href="mailto:camping@colbsa.org">camping@colbsa.org</a>
+						Summer Office: (570) 223-8312<br>
+						Summer Fax: (570) 223-7263<br>
+						Year Round Phone: (484) 654-9218<br>
+						Year Round Fax: (610) 668-2951
 					</address>
-					<h5><a href="meet-the-team">Meet the Team!</a></h5>
+					<h4><a href="meet-the-team">Meet the Team!</a></h4>
 				</div>
 			</div>
 		</div>
