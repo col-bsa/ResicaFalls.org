@@ -28,7 +28,7 @@
 				</div>
 			</div>
 			<h2>Costs</h2>
-			<p>All costs are on a per weekend basis except for family cabins which can be rented per night. All campsites are &dollar;50, and lodges are listed below. We invite scouts and scouters from any council to stay at Resica Falls for the same prices. Some additional costs may be associated with <a href="weekend-activities">weekend activities</a>. We encourage campers to bring spending money for the trading post where snacks, memorabilia, and some camping essentials are sold.</p>
+			<p>All costs are on a per weekend basis except for family cabins which can be rented per night. All campsites are &dollar;50, and lodges are listed below. All lodges excluding family cabins have a $25 discount for in-council units. Some additional costs may be associated with <a href="weekend-activities">weekend activities</a>. We encourage campers to bring spending money for the trading post where snacks, memorabilia, and some camping essentials are sold.</p>
 			<div class="row">
 				<div class="col-xl-5">
 					<h2>Campsites</h2>
@@ -224,7 +224,7 @@
 								<tr>
 									<th scope="row">Bear</th>
 									<td>24</td>
-									<td>&dollar;250</td>
+									<td>&dollar;300</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -244,7 +244,7 @@
 								<tr>
 									<th scope="row">Bushkill</th>
 									<td>32</td>
-									<td>&dollar;300</td>
+									<td>&dollar;325</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -274,7 +274,7 @@
 								<tr>
 									<th scope="row">Firestone</th>
 									<td>40</td>
-									<td>&dollar;300</td>
+									<td>&dollar;325</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
@@ -284,7 +284,7 @@
 								<tr>
 									<th scope="row">Nuneville</th>
 									<td>24</td>
-									<td>&dollar;100</td>
+									<td>&dollar;125</td>
 									<td><i class="fa fa-check"></td>
 									<td></td>
 									<td></td>
@@ -294,7 +294,7 @@
 								<tr>
 									<th scope="row">Trooper</th>
 									<td>20</td>
-									<td>&dollar;100</td>
+									<td>&dollar;125</td>
 									<td></td>
 									<td></td>
 									<td></td>
@@ -304,7 +304,7 @@
 								<tr>
 									<th scope="row">Unami</th>
 									<td>26</td>
-									<td>&dollar;300</td>
+									<td>&dollar;325</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
