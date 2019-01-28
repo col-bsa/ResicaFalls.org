@@ -29,7 +29,7 @@
 											<a download href="_files\summer\2019_Declaration_of_Intent.pdf">2019 Declaration of Intent</a>
 										</li>
 										<li>
-											<a download href="_files\summer\2019_Leaders_Guide.pdf">2019 Leaders Guide</a>
+											<a download href="_files\summer\2019_Leaders_Guide.pdf">2019 Leaders' Guide</a>
 										</li>
 										<li><em>2019 Program Guide Coming February 15.</em></li>
 										<li>
