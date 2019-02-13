@@ -159,6 +159,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 		.faq-tablist {
 			margin-bottom: 0.75rem;
 		}
+	/* Spark */
+		.spark-card {
+			width: 12rem;
+			padding-top: 1.25rem;
+		}
+		.spark-card h5 {
+			margin: 0;
+		}
 	/* 404 */
 		.slider-404{
 			background: url(../_img/trail-sign.jpg);
