@@ -41,6 +41,9 @@
 						</div>
 					</div>
 				</div>
+				<div class="col hidden-md-down"></div>
+				<div class="col hidden-md-down"></div>
+				<div class="col hidden-md-down"></div>
 			</div>
 		</div>
 		<?php include '_inc/footer.php'; ?>
