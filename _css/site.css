@@ -155,6 +155,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 			background-color: #FFF200;
 			border-color: #FFF200;
 		}
+	/* FAQ */
+		.faq-tablist {
+			margin-bottom: 0.75rem;
+		}
 	/* 404 */
 		.slider-404{
 			background: url(../_img/trail-sign.jpg);
