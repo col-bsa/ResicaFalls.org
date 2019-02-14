@@ -24,7 +24,7 @@
 							<dd>Merit Badge registration opens</dd>
 						<dt>Sunday - April 1, 2019</dt>
 							<dd>Campership application due</dd>
-						<dt>Monday - April 28, 2019</dt>
+						<dt>Sunday - April 28, 2019</dt>
 							<dd>Pre-Camp Leaders Meeting at <em><a href="https://goo.gl/maps/4KDuEfcnQN42">Resica Falls Scout Reservation</a></em></dd>
 						<dt>Monday - April 29, 2019</dt>
 							<dd>Pre-Camp Leaders Meeting at <em><a href="https://goo.gl/maps/MHz8G3VvLX12">Valley Forge Middle School</a></em></dd>
