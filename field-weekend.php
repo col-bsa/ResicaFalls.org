@@ -33,7 +33,7 @@
                 </div>
 			</div>
             <div class="row">
-                <div class="col alert alert-brand">
+                <div class="col alert alert-highlight">
 					<h4>PHOTOS FROM THE 2018 FIELD WEEKEND</h4>
 				</div>
             </div>

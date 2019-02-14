@@ -83,14 +83,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .alert > h1, .alert > h2, .alert > h3, .alert > h4, .alert > h5, .alert > h6 {
 	margin: 0;
 }
-.alert-brand {
+.alert-highlight {
 	background-color: #FFF200;
 	border-color: #eceef0;
 }
-.alert-brand hr {
+.alert-highlight hr {
 	border-top-color: #f7ecb5;
 }
-.alert-brand .alert-link {
+.alert-highlight .alert-link {
 	color: #66512c;
 }
 /* List Groups */

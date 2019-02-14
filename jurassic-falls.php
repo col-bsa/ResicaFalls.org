@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col alert alert-brand">
+                <div class="col alert alert-highlight">
 					<h5>Celebrations from the 2018 Theme &ndash; Space Odyssey</h5>
 				</div>
             </div>
