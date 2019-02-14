@@ -20,7 +20,7 @@
 					<div class="alert alert-highlight heading">
 						<h4>Summer Forms</h4>
 					</div>
-					<ul>
+					<ul class="link-list">
 						<li>
 							<a download href="_files\summer\2019_Declaration_of_Intent.pdf">2019 Declaration of Intent</a>
 						</li>
@@ -49,7 +49,7 @@
 					<div class="alert alert-highlight heading">
 						<h4>Special Programs</h4>
 					</div>
-					<ul>
+					<ul class="link-list">
 						<li><a download href="_files\special_programs\ATV_Participant_Release.pdf">ATV Participant Release</a></li>
 						<li><a download href="_files\special_programs\COPE_Application.pdf">COPE Application</a></li>
 						<li><a download href="_files\special_programs\CowboyActionFlyer-Permission.pdf">Cowboy Action Flyer</a></li>
@@ -64,7 +64,7 @@
 					<div class="alert alert-highlight heading">
 						<h4>General Information</h4>
 					</div>
-					<ul>
+					<ul class="link-list">
 						<li><a download href="_files\general\ResicaFalls_TrailsMap.pdf">Trail Map</a></li>
 						<li><a download href="_files\general\BigSprings_Map.pdf">Big Springs Camp Map</a></li>
 						<li><a download href="_files\general\Firestone_Map.pdf">Firestone Camp Map</a></li>
@@ -76,7 +76,7 @@
 					<div class="alert alert-highlight heading">
 						<h4>Health And Safety Forms</h4>
 					</div>
-					<ul>
+					<ul class="link-list">
 						<li><a href="http://www.scouting.org/scoutsource/HealthandSafety/ahmr.aspx">Annual Health and Medical Record</a></li>
 						<li><a download href="_files\health\Unit_Medication_Storage_Release.pdf">Unit Medication Storage Release</a></li>
 						<li><a download href="_files\health\Adult_Medication_Storage_Release.pdf">Adult Medication Storage Release</a></li>
