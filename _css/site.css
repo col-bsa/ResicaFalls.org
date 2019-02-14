@@ -161,9 +161,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 		}
 	/* Spark */
 		.spark-card {
-			width: 12rem;
-			padding-top: 1.25rem;
-			margin-bottom: 1.25rem;
+			padding-top: 1rem;
+			margin-bottom: 1rem;
 		}
 		.spark-card h5 {
 			margin: 0;

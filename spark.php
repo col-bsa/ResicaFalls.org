@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col">
+				<div class="col-xs-12 col-sm-6 col-lg-3">
 					<div class="card spark-card text-center">
 						<a href="https://conta.cc/2DSdRn7" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon2-9-19.png"></a>
 						<div class="card-block">
@@ -25,7 +25,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col">
+				<div class="col-xs-12 col-sm-6 col-lg-3">
 					<div class="card spark-card text-center">
 						<a href="https://conta.cc/2QITMnk" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon11-16-18.png"></a>
 						<div class="card-block">
@@ -33,7 +33,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col">
+				<div class="col-xs-12 col-sm-6 col-lg-3">
 					<div class="card spark-card text-center">
 						<a href="https://conta.cc/2EEdQWj" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon10-22-18.png"></a>
 						<div class="card-block">
@@ -41,9 +41,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="col hidden-md-down"></div>
-				<div class="col hidden-md-down"></div>
-				<div class="col hidden-md-down"></div>
 			</div>
 		</div>
 		<?php include '_inc/footer.php'; ?>
