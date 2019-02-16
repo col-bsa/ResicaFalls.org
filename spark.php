@@ -17,7 +17,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-6 col-lg-9">
+				<div class="col-sm-6 col-lg-9">
 					<div class="row">
 						<div class="col-lg-4">
 							<div class="card spark-card text-center">
@@ -45,7 +45,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-12 col-6 col-lg-3">
+				<div class="col-sm-6 col-lg-3">
 					<!-- Begin Constant Contact Inline Form Code -->
 					<div class="ctct-inline-form" data-form-id="7af678a8-b49f-406d-bdfd-d8f7dc37a7f0"></div>
 					<!-- End Constant Contact Inline Form Code -->
