@@ -180,6 +180,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 		.spark-card h5 {
 			margin: 0;
 		}
+		.ctct-form-defaults {
+			background-color: #FFFFFF !important;
+			border: 1px solid rgba(0,0,0,.125) !important;
+			border-radius: 0.25rem !important;
+		}
 	/* 404 */
 		.slider-404{
 			background: url(../_img/trail-sign.jpg);
