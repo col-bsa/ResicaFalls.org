@@ -17,31 +17,35 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-sm-6 col-lg-3">
-					<div class="card spark-card text-center">
-						<a href="https://conta.cc/2DSdRn7" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon2-9-19.png"></a>
-						<div class="card-block">
-							<h5 class="card-title"><a href="https://conta.cc/2DSdRn7" target="_blank">Feb 4, 2018</a></h5>
+				<div class="col-xs-12 col-6 col-lg-9">
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="card spark-card text-center">
+								<a href="https://conta.cc/2DSdRn7" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon2-9-19.png"></a>
+								<div class="card-block">
+									<h5 class="card-title"><a href="https://conta.cc/2DSdRn7" target="_blank">Feb 4, 2018</a></h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="card spark-card text-center">
+								<a href="https://conta.cc/2QITMnk" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon11-16-18.png"></a>
+								<div class="card-block">
+									<h5 class="card-title"><a href="https://conta.cc/2QITMnk" target="_blank">Nov 16, 2018</a></h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="card spark-card text-center">
+								<a href="https://conta.cc/2EEdQWj" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon10-22-18.png"></a>
+								<div class="card-block">
+									<h5 class="card-title"><a href="https://conta.cc/2EEdQWj" target="_blank">Oct 22, 2018</a></h5>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-6 col-lg-3">
-					<div class="card spark-card text-center">
-						<a href="https://conta.cc/2QITMnk" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon11-16-18.png"></a>
-						<div class="card-block">
-							<h5 class="card-title"><a href="https://conta.cc/2QITMnk" target="_blank">Nov 16, 2018</a></h5>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-lg-3">
-					<div class="card spark-card text-center">
-						<a href="https://conta.cc/2EEdQWj" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon10-22-18.png"></a>
-						<div class="card-block">
-							<h5 class="card-title"><a href="https://conta.cc/2EEdQWj" target="_blank">Oct 22, 2018</a></h5>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-6 col-lg-3">
+				<div class="col-xs-12 col-6 col-lg-3">
 					<!-- Begin Constant Contact Inline Form Code -->
 					<div class="ctct-inline-form" data-form-id="7af678a8-b49f-406d-bdfd-d8f7dc37a7f0"></div>
 					<!-- End Constant Contact Inline Form Code -->
