@@ -9,6 +9,7 @@
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_AboutUs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About<br class="hidden-md-down"> Us</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_AboutUs">
 					<a class="dropdown-item" href="camp-history">Camp History</a>
+					<a class="dropdown-item" href="spark">News</a>
 					<a class="dropdown-item" href="videos">Videos in Camp</a>
 					<a class="dropdown-item" href="frequently-asked-questions">Frequently Asked Questions</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>

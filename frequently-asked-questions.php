@@ -18,7 +18,7 @@
 			<div class="row">
 				<div class="col">
 					<h4>Youth</h4>
-					<div id="accordion1" role="tablist" aria-multiselectable="true">
+					<div class="faq-tablist" id="accordion1" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion1-question1">
 								<div class="mb-0">
@@ -68,7 +68,7 @@
 						</div>
 					</div>
 					<h4>Parents</h4>
-					<div id="accordion2" role="tablist" aria-multiselectable="true">
+					<div class="faq-tablist" id="accordion2" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion2-question1">
 								<div class="mb-0">
@@ -266,7 +266,7 @@
 						</div>
 					</div>
 					<h4>Leaders</h4>
-					<div id="accordion3" role="tablist" aria-multiselectable="true">
+					<div class="faq-tablist" id="accordion3" role="tablist" aria-multiselectable="true">
 						<div class="card">
 							<div class="card-header" role="tab" id="accordion3-question1">
 								<div class="mb-0">

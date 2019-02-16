@@ -51,7 +51,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col alert alert-brand">
+				<div class="col  alert-highlight">
 					<h5>STAFF ON THE STAFF</h5>
 				</div>
 			</div>
@@ -69,7 +69,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col alert alert-brand">
+				<div class="col alert alert-highlight">
 					<h5>COME JOIN THE FUN</h5>
 				</div>
 			</div>

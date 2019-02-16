@@ -39,7 +39,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col alert alert-brand">
+				<div class="col alert alert-highlight">
 					<h5>Here are the ways Girls can attend Summer Camp at Resica</h5>
 				</div>
 			</div>
