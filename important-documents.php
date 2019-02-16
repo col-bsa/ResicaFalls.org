@@ -27,9 +27,8 @@
 						<li>
 							<a download href="_files\summer\2019_Leaders_Guide.pdf">2019 Leaders' Guide</a>
 						</li>
-						<li><em>2019 Program Guide Coming February 15.</em></li>
 						<li>
-							<a download href="_files\summer\2018_Program_Guide_V1.pdf">2018 Program Guide</a>
+							<a download href="_files\summer\2019_Program_Guide_V1.pdf">2019 Program Guide</a>
 						</li>
 						<li>
 							<a download href="_files\summer\2019_Resica_Brochure.pdf">2019 Brochure</a>
@@ -38,7 +37,7 @@
 							<a download href="_files/summer/2019_Resica_Specialty_Programs.pdf">2019 Specialty Programs Brochure</a>
 						</li>
 						<li>
-							<a download href="_files\summer\2018_MB_Prerequisites.pdf">2018 Merit Badge Prerequisites</a>
+							<a download href="_files\summer\2019_MeritBadge_Prerequisites.pdf">2019 Merit Badge Prerequisites</a>
 						</li>
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
