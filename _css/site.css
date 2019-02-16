@@ -183,6 +183,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 		.ctct-form-defaults {
 			background-color: #FFFFFF !important;
 		}
+		.ctct-form-defaults {
+			border-radius: 0.25rem !important;
+		}
 	/* 404 */
 		.slider-404{
 			background: url(../_img/trail-sign.jpg);
