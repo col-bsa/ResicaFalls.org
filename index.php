@@ -25,10 +25,10 @@
 						</div>
 						<div class="col-md-8">
 							<div class="list-group">
+								<a href="guidebooks" class="list-group-item list-group-item-action h5">Guide Books</a>
 								<a href="prepared-for-girls" class="list-group-item list-group-item-action h5">Prepared for Girls</a>
 								<a href="videos" class="list-group-item list-group-item-action h5">Videos in Camp</a>
 								<a href="bring-smore-scouts" class="list-group-item list-group-item-action h5">Bring S'more Scouts</a>
-								<a href="join-camp-staff" class="list-group-item list-group-item-action h5">Join Camp Staff</a>
 							</div>
 						</div>
 					</div>
