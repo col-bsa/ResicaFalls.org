@@ -39,6 +39,9 @@
 						<li>
 							<a download href="_files\summer\2019_MeritBadge_Prerequisites.pdf">2019 Merit Badge Prerequisites</a>
 						</li>
+						<li>
+							<a href="campership">2019 Campership Applications</a>
+						</li>
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
 						<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>

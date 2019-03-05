@@ -27,7 +27,7 @@
 					<p>Current 5th graders who are crossing over to Scouts BSA units should be advised to make arrangements to attend summer camp with the troop they intend to join. Being new to a troop is NOT a valid reason to apply for financial aid, and the troop may be going to an out of council camp which would not qualify them for financial assistance from Cradle of Liberty Council.</p>
 					<h2>Questions</h2>
 					<p>Contact the Camping Department at <a href="mailto:camping@colbsa.org?subject=Campership%20Application">camping@colbsa.org</a> or 484-654-9218. It is highly recommended that all applications from a unit be submitted together.</p>
-					<p>Submit completed applications to:</p>
+					Submit completed applications to:
 					<address>
 						<strong>Cradle of Liberty Council, BSA Financial Aid Fund</strong><br>
 						1485 Valley Forge Rd<br>
@@ -36,6 +36,7 @@
 				</div>
 				<div class="col-md-4">
 					<img class="img-fluid" src="_img/generic/flag-raising.jpg" alt="">
+					<br><br>
 					<h2>Downloads</h2>
 					<a class="btn btn-primary btn-block" href="_files/summer/CampFinancialAidApplication2019.pdf" download>Campership Application</a>
 					<a class="btn btn-primary btn-block" href="_files/summer/CampFinancialAidApplication2019(fillable).pdf" download>Campership Application (Fillable)</a>
