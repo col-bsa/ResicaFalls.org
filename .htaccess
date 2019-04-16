@@ -73,7 +73,8 @@ Options All -Indexes
 ErrorDocument 404 /404.php
 ErrorDocument 403 /403.php
 
-Redirect 301 /downloads /downloads-2018
+Redirect 301 /staffapparel http://colbsa.doubleknot.com/event/2019-resica-falls-staff-merchandise/2511652
 Redirect 301 /closingreport /staff-downloads
 Redirect 301 /work-at-resica /join-camp-staff
+Redirect 301 /joincampstaff /join-camp-staff
 Redirect 301 /joincampstaff /join-camp-staff
