@@ -44,6 +44,7 @@
 						</li>
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
+						<li><a download href="_files\summer\2019_Refund_Request.pdf">2019 Refund Request Form</a></li>
 						<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
 					</ul>
 				</div>
