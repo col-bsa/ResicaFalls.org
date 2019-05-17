@@ -21,6 +21,22 @@
 					<div class="row">
 						<div class="col-md-6 col-lg-4">
 							<div class="card spark-card text-center">
+								<a href="https://conta.cc/2VACaAy" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon5-14-19.png"></a>
+								<div class="card-block">
+									<h5 class="card-title"><a href="https://conta.cc/2VACaAy" target="_blank">May 14, 2019</a></h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4">
+							<div class="card spark-card text-center">
+								<a href="https://conta.cc/2GPzpBg" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon4-20-19.png"></a>
+								<div class="card-block">
+									<h5 class="card-title"><a href="https://conta.cc/2GPzpBg" target="_blank">Apr 20, 2019</a></h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-4">
+							<div class="card spark-card text-center">
 								<a href="https://conta.cc/2EIQZ8P" target="_blank"><img class="card-img-top" src="_img/updates/SparkIcon3-8-19.png"></a>
 								<div class="card-block">
 									<h5 class="card-title"><a href="https://conta.cc/2EIQZ8P" target="_blank">Mar 8, 2019</a></h5>
