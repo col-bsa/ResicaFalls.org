@@ -18,7 +18,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Resica Falls has partnered with a food service management company to provide Scouts and Scouters with a well-balanced and nutritious meal plan- approved by a certified nutritionist- for the duration of their stay in camp, beginning with dinner on Sunday. Each meal includes a hot entr&eacute;e with at least one side; lunch and dinner also include a vegetable. There is a fruit and yogurt bar available at breakfast, and a salad bar at both lunch and dinner, along with daily specialty salad bars at lunch. Peanut butter and jelly with multiple types of bread are also available at both lunch and dinner. Hot and cold drinks are available at twin juice bars located on either side of the dining hall.
+						Resica Falls has partnered with a food service management company to provide Scouts and Scouters with a well-balanced and nutritious meal plan - approved by an approved dietician - for the duration of their stay in camp, beginning with dinner on Sunday. Each meal includes a hot entr&eacute;e with at least one side; lunch and dinner also include a vegetable. There is a fruit and yogurt bar available at breakfast, and a salad bar at both lunch and dinner, along with daily specialty salad bars at lunch. Peanut butter and jelly with multiple types of bread are also available at both lunch and dinner. Hot and cold drinks are available at twin juice bars located on either side of the dining hall.
 					</p>
 					<!-- <h2>Menu</h2>
 					<ul>
@@ -27,7 +27,7 @@
 						<li><a target="_blank" href="http://colbsa.doubleknot.com/survey/2018-summer-camp-special-diet-request/48849">2018 Summer Camp Special Diet Request</a></li>
 					</ul> -->
 					<p>
-						Campers and adult leaders with dietary restrictions can note their individual restrictions with the camp's food service manager before they come to camp. We are more than happy to accommodate any dietary restrictions to ensure that campers and leaders have the best dining experience possible.
+						Campers and adult leaders with dietary restrictions can note their individual restrictions with the camp's food service manager before they come to camp. We are more than happy to accommodate any dietary restrictions to ensure that campers and leaders have the best dining experience possible. For more information, or to discuss dietary restrictions, please contact Kyle Earling at <a href="mailto:Earling-Kyle@aramark.com?subject=Resica%20Falls%20Dietary%20Question">Earling-Kyle@aramark.com</a>.
 					</p>
 				</div>
 				<div class="col-md-4">
