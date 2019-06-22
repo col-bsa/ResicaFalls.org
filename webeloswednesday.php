@@ -55,7 +55,9 @@
 							</div>
 						</div>
 					</div>
-						<a class="btn btn-success center" href="https://colbsa.doubleknot.com/event/capacity-available/webelos-wednesdays-at-resica-falls-summer-camp-not-offered-week-3-july-10th/58367" target="_blank">Register Online - Unavailable July 10 (Week 3)</a>
+					<p class="text-center">
+						<a class="btn btn-success btn-lg" href="https://colbsa.doubleknot.com/event/capacity-available/webelos-wednesdays-at-resica-falls-summer-camp-not-offered-week-3-july-10th/58367" target="_blank">Register Online - Unavailable July 10 (Week 3)</a>
+					</p>
 					<p>
 						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)
 					</p>
