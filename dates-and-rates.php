@@ -78,14 +78,12 @@
 							</tr>
 							<tr>
 								<td>
-									<strong>
-										Every unit receives 2 free adults!<br>
-										You’ll also earn 1 free adult for every 10 scouts after your first 20 scouts!
-									</strong>
+									<strong>Every unit receives 2 free adults!</strong><br>
+									You will also earn 1 free adult for every 10 scouts after your first 20 scouts!
 								</td>
 							</tr>
 					</table>
-					<a class="btn btn-success btn-block" href="#" disabled>Online Registration Coming Soon!</a>
+					<a class="btn btn-success btn-block disabled" href="#" aria-disabled="true">Online Registration Coming Soon!</a>
 					<a class="btn btn-success btn-block" href="_files\summer\2020_Declaration_of_Intent.pdf" download>Download Declaration of Intent</a>
 					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
 				</div>

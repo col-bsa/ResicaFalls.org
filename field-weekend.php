@@ -24,7 +24,7 @@
                     <p>One of the highlight competitions will be the Iron Chef Event, a Dutch Oven cooking event centered around a “secret ingredient”. We will provide the “secret ingredient” to each team. The event will run the last 3.5 hours of the day and conclude when the competing troops/crews/patrols provides 2 dishes to the Council Executives for judging.</p>
                     <p>Check back here as details are finalized.</p>
                     <a class="btn btn-primary btn-block" href="_files/special_programs/2018_FieldDay_LeadersGuide.pdf" download>Download the 2018 Leaders' Guide</a>
-					<a class="btn btn-success btn-block" href="#" disabled>Registration Coming Soon</a>
+					<a class="btn btn-success btn-block disabled" href="#" aria-disabled="true">Registration Coming Soon</a>
                     <br>
                 </div>
 				<div class="col-md-4">
