@@ -22,7 +22,7 @@
 					</div>
 					<ul class="link-list">
 						<li>
-							<a download href="_files\summer\2019_Declaration_of_Intent.pdf">2019 Declaration of Intent</a>
+							<a download href="_files\summer\2020_Declaration_of_Intent.pdf">2020 Declaration of Intent</a>
 						</li>
 						<li>
 							<a download href="_files\summer\2019_Leaders_Guide.pdf">2019 Leaders' Guide</a>
