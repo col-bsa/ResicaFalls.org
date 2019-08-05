@@ -64,7 +64,7 @@
 					<p><strong>“Spent a Summer teaching COPE. More fun than working at McDonald’s”</strong></p>
 					<p><strong>“30 years later and my best friends are still the guys I was on camp staff with.”</strong></p>
 					<p><strong>“My time on staff helped me decide to become a school teacher.”</strong></p>
-					<p><strong>“I wasn’t in a Boy Scout Troop but I sure had a great time working two Summers at Resica Falls.”</strong></p>
+					<p><strong>“I wasn’t in a Scouts BSA Troop but I sure had a great time working two Summers at Resica Falls.”</strong></p>
 					<p><strong>“I met my wife working on camp staff.”</strong></p>
 				</div>
 			</div>

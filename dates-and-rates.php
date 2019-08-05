@@ -12,7 +12,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>2019 Dates &amp; Rates</h1>
+					<h1>2020 Dates &amp; Rates</h1>
 				</div>
 			</div>
 			<div class="row">
@@ -27,31 +27,31 @@
 						<tbody>
 							<tr>
 								<td>Week 1</td>
-								<td>June 23 - June 29</td>
+								<td>June 21 - June 27</td>
 							</tr>
 							<tr>
 								<td>Week 2</td>
-								<td>June 30 - July 6</td>
+								<td>June 28 - July 4</td>
 							</tr>
 							<tr>
 								<td>Week 3</td>
-								<td>July 7 - July 13</td>
+								<td>July 5 - July 11</td>
 							</tr>
 							<tr>
 								<td>Week 4</td>
-								<td>July 14 - July 20</td>
+								<td>July 12 - July 18</td>
 							</tr>
 							<tr>
 								<td>Week 5</td>
-								<td>July 21 - July 27</td>
+								<td>July 19 - July 25</td>
 							</tr>
 							<tr>
 								<td>Week 6</td>
-								<td>July 28 - August 3</td>
+								<td>July 26 - August 1</td>
 							</tr>
 							<tr>
 								<td>Week 7</td>
-								<td>August 4 - August 10</td>
+								<td>August 2 - August 8</td>
 							</tr>
 						</tbody>
 					</table>
@@ -64,23 +64,29 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr>
-								<td>Tier 1 (September 30th): $415 per Youth / $190 per Adult</td>
-							</tr>
 							<tr class="table-highlight">
-								<td>Tier 2 <em>Extended</em>: $440 per Youth / $190 per Adult</td>
+								<td>Early Bird: $430 per Youth / $200 per Adult</td>
 							</tr>
 							<tr>
-								<td><s>Tier 3: $465 per Youth / $190 per Adult</s></td>
+								<td>Regular: $455 per Youth / $200 per Adult</td>
+							</tr>
+							<tr>
+								<td><em>Early bird offer ends February 1</em></td>
 							</tr>
 							<tr>
 								<td><strong>Second Week: $235 per Youth</strong></td>
 							</tr>
 							<tr>
-								<td><strong>Recieve 1 Free Adult for every 10 Scouts!</strong></td>
+								<td>
+									<strong>
+										Every unit receives 2 free adults!<br>
+										You’ll also earn 1 free adult for every 10 scouts after your first 20 scouts!
+									</strong>
+								</td>
 							</tr>
 					</table>
-					<a class="btn btn-success btn-block" href="http://colbsa.doubleknot.com/event/space-available/2019-resica-falls-summer-camp/52840">Register Now!</a>
+					<a class="btn btn-success btn-block" href="#" disabled>Online Registration Coming Soon!</a>
+					<a class="btn btn-success btn-block" href="_files\summer\2020_Declaration_of_Intent.pdf" download>Download Declaration of Intent</a>
 					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
 				</div>
 			</div>
