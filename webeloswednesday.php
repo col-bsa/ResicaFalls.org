@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<meta name="description" content="An opportunity for Webelos to spend a day of Boy Scout resident camping at Resica Falls Scout Reservation!" />
+		<meta name="description" content="An opportunity for Webelos to spend a day of Scouts BSA resident camping at Resica Falls Scout Reservation!" />
 		<title>Webelos Wednesday <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
@@ -18,7 +18,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<p>
-						Have a taste of the Boy Scout resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore.
+						Have a taste of the Scouts BSA resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore.
 					</p>
 					<div class="row">
 						<div class="col-md-6">
@@ -59,7 +59,7 @@
 						<a class="btn btn-success btn-lg" href="https://colbsa.doubleknot.com/event/capacity-available/webelos-wednesdays-at-resica-falls-summer-camp-not-offered-week-3-july-10th/58367" target="_blank">Register Now</a>
 					</p>
 					<p>
-						Make sure to bring Parts A &amp; B of the Boy Scout Medical form for this event! (These are the parts that do not require a doctor's signature.)
+						Make sure to bring Parts A &amp; B of the Scouts BSA Medical form for this event! (These are the parts that do not require a doctor's signature.)
 					</p>
 				</div>
 				<div class="col-md-4">

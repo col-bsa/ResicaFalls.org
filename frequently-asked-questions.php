@@ -80,10 +80,10 @@
 							<div id="accordion2-collapse1" class="collapse" role="tabpanel" aria-labelledby="accordion2-question1">
 								<div class="card-block">
 									<p>
-										A study performed by Harris Interactive, in conjunction with the Boy Scouts of America, shows that within the typical six days of Boy Scout summer camp, boys are "in an environment that comprehensively provides them with critical elements of healthy youth development."
+										A study performed by Harris Interactive, in conjunction with the Boy Scouts of America, shows that within the typical six days of Scouts BSA summer camp, scouts are "in an environment that comprehensively provides them with critical elements of healthy youth development."
 									</p>
 									<p>
-										At camp, boys have time to consider and reflect on their place in life. Strong personal values and character are shaped as young boys are encouraged to take a part in decisions that impact others, contemplate their relationship with God, reflect on personal values, and participate in patriotic activities regarding American citizenship. Boys gain a positive sense of self-worth and usefulness through serving others. Scouts are productive and creative at camp.
+										At camp, scouts have time to consider and reflect on their place in life. Strong personal values and character are shaped as young scouts are encouraged to take a part in decisions that impact others, contemplate their relationship with God, reflect on personal values, and participate in patriotic activities regarding American citizenship. Scouts gain a positive sense of self-worth and usefulness through serving others. Scouts are productive and creative at camp.
 									</p>
 									<p>
 										<a target="_blank" href="http://www.scouting.org/FILESTORE/marketing/pdf/02-448-3.pdf">Results of the full study can be found here.</a>
