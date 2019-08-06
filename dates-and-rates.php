@@ -74,7 +74,7 @@
 								<td><em>Early bird offer ends February 1</em></td>
 							</tr>
 							<tr>
-								<td><strong>Second Week: $235 per Youth</strong></td>
+								<td><strong>Second Week: $250 per Youth</strong></td>
 							</tr>
 							<tr>
 								<td>
