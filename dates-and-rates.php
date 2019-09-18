@@ -83,8 +83,20 @@
 								</td>
 							</tr>
 					</table>
-					<a class="btn btn-success btn-block disabled" href="#" aria-disabled="true">Online Registration Coming Soon!</a>
-					<a class="btn btn-success btn-block" href="_files\summer\2020_Declaration_of_Intent.pdf" download>Download Declaration of Intent</a>
+					<div class="dropdown">
+						<button class="btn btn-success btn-block dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						Register Now!
+						</button>
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-1-june-21-27-2020/2539417"><strong>Week 1:</strong> June 21 - June 27</a>
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-2-june-28-july-4-2020/2540014"><strong>Week 2:</strong> June 28 - July 4</a>
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-3-july-5-11-2020/2540023"><strong>Week 3:</strong> July 5 - July 11</a>
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-4-july-12-18-2020/2540024"><strong>Week 4:</strong> July 12 - July 18</a>
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-5-july-19-25-2020/2540027"><strong>Week 5:</strong> July 19 - July 25</a>
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-6-july-26-august-1-2020/2540029"><strong>Week 6:</strong> July 26 - August 1</a>
+							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-7-august-2-8-2020/2540031"><strong>Week 7:</strong> August 2 - August 8</a>
+						</div>
+					</div>
 					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
 				</div>
 			</div>
