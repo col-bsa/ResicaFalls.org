@@ -83,7 +83,7 @@
 								</td>
 							</tr>
 					</table>
-					<div class="dropdown">
+					<div class="dropdown btn-block">
 						<button class="btn btn-success btn-block dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						Register Now!
 						</button>
