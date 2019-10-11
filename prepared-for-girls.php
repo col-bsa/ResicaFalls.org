@@ -23,7 +23,9 @@
 							<li>Female British Scouts and Japanese Venturers, as well as local Sea Scout Ships and Venturing Crews have camped at Resica Falls.</li>
                             <li>Resica has hired an increasing number of female staff, in both junior staff and camp leadership positions.</li>
                             <li>Camp improvements that have been made in recent years are female friendly, particularly the 2015 Great Bend Showerhouse &ndash; an entire facility comprised of 10 individual showers/bathrooms.</li>
-                            <li>The camp leadership has developed a well-rounded, action-packed program designed to meet a variety of individual needs.</li>
+                            <li>Positive experiences and lasting memories were noted by the over 100 female campers at Resica Falls in 2019.</li>
+							<li><strong>NEW for 2020!</strong> &mdash; An additional 7 new individual showers / bathrooms located at the Big Springs Pool to accommodate the needs of all our campers.</li>
+							<li>The camp leadership has developed a well-rounded, action-packed program designed to meet a variety of individual needs.</li>
                             <li>Check out our Leaders' Guide, and Program Guide to get an idea of the broad range of activities available at Resica Falls. The 2019 editions will be published in January &amp; February.</li>
 						</ul>
 					</p>
@@ -45,7 +47,7 @@
 			<div class="row">
                 <div class="col-md-4">
 					<div class="card">
-						<img class="card-img-top img-fluid" src="_img/activities/canoeing-2.jpg" alt="">
+						<img class="card-img-top img-fluid" src="_img/activities/handicraft-1.jpg" alt="">
 						<div class="card-block">
 							<h5 class="card-title text-center">UNIT CAMPING</h5>
 							<p class="card-text">Your Scout Unit goes through the regular process of registering to attend Summer Camp at Resica. You will need to meet the two-deep adult leadership requirement, with at least one of those leaders being female.</p>
@@ -64,7 +66,7 @@
 				</div>
                 <div class="col-md-4">
 					<div class="card">
-						<img class="card-img-top img-fluid" src="_img/activities/rangers.jpg" alt="">
+						<img class="card-img-top img-fluid" src="_img/activities/handicraft-2.jpg" alt="">
 						<div class="card-block">
 							<h5 class="card-title text-center">TROOP ONE PROVISIONAL</h5>
 							<p class="card-text">If you can’t come to Summer Camp as a Scout Unit, there is still the opportunity for individual girls to attend Resica. They can also join our provisional program '<a href="troop-one">Resica Troop 1</a>' for their Summer Camp Stay. The camp will provide qualified two-deep leadership with one being female.</p>
