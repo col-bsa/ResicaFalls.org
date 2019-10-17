@@ -31,7 +31,7 @@
 					</p>
                     <div class="alert alert-success text-center">
 					    <h5>Don't Miss Out!</h5>
-                        <p>All new female units will receive Tier 1 ($415) pricing for the 2019 season.</p>
+                        <p>All new units will receive the early bird rate of $430 pricing for the 2020 season.</p>
 				    </div>
 				</div>
 				<div class="col-md-4">
