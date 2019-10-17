@@ -74,7 +74,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xl-6 flex-last">
+				<div class="col-xl-6">
 					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>
