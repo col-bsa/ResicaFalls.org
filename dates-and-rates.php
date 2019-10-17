@@ -16,47 +16,65 @@
 				</div>
 			</div>
 			<div class="row">
+				<div class="col-12 col-md-6 flex-last">
+					<h2>Special Sign-up Deal</h2>
+					<p>Make a deposit for you unit by Thanksgiving – 11/28/2019 – and receive the following bonus offers as a Thank You from us!</p>
+					<ul>
+						<li><strong>Early Merit Badge Registration Option:</strong> for your unit, merit badge sign-up opportunities will be available a whole month earlier – 2/15/2020! Get a head-start on registering your Scouts for classes and don’t miss out on a chance to enjoy some of the unique programs Resica has to offer.</li>
+						<li><strong>Free Groundsite Rental:</strong> receive a voucher to come back to Resica Falls during the off-season and camp in a groundsite – on us!</li>
+					</ul>
+				</div>
 				<div class="col-12 col-md-6">
-					<table class="table text-center">
+					<table class="table text-center table-sessions">
 						<thead class="thead-inverse">
 							<tr>
 								<th class="text-center">Session</th>
 								<th class="text-center">Dates</th>
+								<th class="text-center">Registration</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
 								<td>Week 1</td>
 								<td>June 21 - June 27</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-1-june-21-27-2020/2539417">Register</a></td>
 							</tr>
 							<tr>
 								<td>Week 2</td>
 								<td>June 28 - July 4</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-2-june-28-july-4-2020/2540014">Register</a></td>
 							</tr>
 							<tr>
 								<td>Week 3</td>
 								<td>July 5 - July 11</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-3-july-5-11-2020/2540023">Register</a></td>
 							</tr>
 							<tr>
 								<td>Week 4</td>
 								<td>July 12 - July 18</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-4-july-12-18-2020/2540024">Register</a></td>
 							</tr>
 							<tr>
 								<td>Week 5</td>
 								<td>July 19 - July 25</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-5-july-19-25-2020/2540027">Register</a></td>
 							</tr>
 							<tr>
 								<td>Week 6</td>
 								<td>July 26 - August 1</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-6-july-26-august-1-2020/2540029">Register</a></td>
 							</tr>
 							<tr>
 								<td>Week 7</td>
 								<td>August 2 - August 8</td>
+								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-7-august-2-8-2020/2540031">Register</a></td>
 							</tr>
 						</tbody>
 					</table>
 				</div>
-				<div class="col-12 col-md-6">
+			</div>
+			<div class="row">
+				<div class="col-xl-6 flex-last">
 					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>
@@ -82,32 +100,9 @@
 									You will also earn 1 free adult for every 10 scouts after your first 20 scouts!
 								</td>
 							</tr>
+						</tbody>
 					</table>
-					<div class="dropdown btn-block">
-						<button class="btn btn-success btn-block dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						Register Now!
-						</button>
-						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-1-june-21-27-2020/2539417"><strong>Week 1:</strong> June 21 - June 27</a>
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-2-june-28-july-4-2020/2540014"><strong>Week 2:</strong> June 28 - July 4</a>
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-3-july-5-11-2020/2540023"><strong>Week 3:</strong> July 5 - July 11</a>
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-4-july-12-18-2020/2540024"><strong>Week 4:</strong> July 12 - July 18</a>
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-5-july-19-25-2020/2540027"><strong>Week 5:</strong> July 19 - July 25</a>
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-6-july-26-august-1-2020/2540029"><strong>Week 6:</strong> July 26 - August 1</a>
-							<a class="dropdown-item" href="https://colbsa.doubleknot.com/event/week-7-august-2-8-2020/2540031"><strong>Week 7:</strong> August 2 - August 8</a>
-						</div>
-					</div>
 					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-xl-6 flex-last">
-					<h2>Special Sign-up Deal</h2>
-					<p>Make a deposit for you unit by Thanksgiving – 11/28/2019 – and receive the following bonus offers as a Thank You from us!</p>
-					<ul>
-						<li><strong>Early Merit Badge Registration Option:</strong> for your unit, merit badge sign-up opportunities will be available a whole month earlier – 2/15/2020! Get a head-start on registering your Scouts for classes and don’t miss out on a chance to enjoy some of the unique programs Resica has to offer.</li>
-						<li><strong>Free Groundsite Rental:</strong> receive a voucher to come back to Resica Falls during the off-season and camp in a groundsite – on us!</li>
-					</ul>
 				</div>
 				<div class="col-xl-6">
 					<h2>Campsites</h2>
