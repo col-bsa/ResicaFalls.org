@@ -101,6 +101,14 @@
 				</div>
 			</div>
 			<div class="row">
+				<div class="col-xl-6 flex-last">
+					<h2>Special Sign-up Deal</h2>
+					<p>Make a deposit for you unit by Thanksgiving – 11/28/2019 – and receive the following bonus offers as a Thank You from us!</p>
+					<ul>
+						<li><strong>Early Merit Badge Registration Option:</strong> for your unit, merit badge sign-up opportunities will be available a whole month earlier – 2/15/2020! Get a head-start on registering your Scouts for classes and don’t miss out on a chance to enjoy some of the unique programs Resica has to offer.</li>
+						<li><strong>Free Groundsite Rental:</strong> receive a voucher to come back to Resica Falls during the off-season and camp in a groundsite – on us!</li>
+					</ul>
+				</div>
 				<div class="col-xl-6">
 					<h2>Campsites</h2>
 					<div class="table-responsive">
