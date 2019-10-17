@@ -22,17 +22,17 @@
                 <div class="col-md-8">
 					<ul>
 						<li>Our 2019 theme of "Jurassic Falls" brought the past into the present as dinosaurs, cavemen, and other prehistoric party animals joined over 2,800 Scouts in a summer of fun and exciting opportunities. The Dino Deep Dig, Caveman Crawl, and Bedrock Blast rounded out a week of prehistoric proportions!</li>
-						<li>Merit Badge Stats:
+						<li><strong>Merit Badge Stats:</strong>
 							<ul>
-								<li>&num; of Merit Badges
+								<li><strong>&num; of Merit Badges</strong>
 									<ul>
-										<li>Partial: 1,829</li>
-										<li>Complete: 7,994</li>
-										<li>Total: 9,823</li>
+										<li><strong>Partial:</strong> 1,829</li>
+										<li><strong>Complete:</strong> 7,994</li>
+										<li><strong>Total:</strong> 9,823</li>
 									</ul>
 								</li>
-								<li>Merit Badge Completion Rate: 81.4&percnt;</li>
-								<li>Top 10 Merit Badges
+								<li><strong>Merit Badge Completion Rate:</strong> 81.4&percnt;</li>
+								<li><strong>Top 10 Merit Badges</strong>
 									<ul>
 										<li>Swimming</li>
 										<li>Nature</li>
@@ -48,9 +48,9 @@
 								</li>
 							</ul>
 						</li>
-						<li>Staff Member of the Year: Patrick White</li>
-						<li>Counselor in Training of the Year: Dax Lyon</li>
-						<li>Camp Improvements for 2019
+						<li><strong>Staff Member of the Year:</strong> Patrick White</li>
+						<li><strong>Counselor in Training of the Year:</strong> Dax Lyon</li>
+						<li><strong>Camp Improvements for 2019</strong>
 							<ul>
 								<li>Two new merit badge offerings &mdash; Law (Civics) and Nuclear Science (STEM), as well as drone racing and VR equipment at STEM</li>
 								<li>Three campsites &ndash; Shenandoah, Shoshone, and Pueblo &ndash; received new tents and platforms</li>
@@ -68,13 +68,13 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-					<p><strong>"Best camp staff – knowledgeable, helpful, and committeed."</strong> - Troop 150, Patriot’s Path Council</p>
-					<p><strong>"The staff and the facility are the prime reasons for out troop’s continued attendance at RFSR. It is the premier example of how a camp should run – exceptional!"</strong> – Troop 315, Cradle of Liberty Council</p>
+					<p><strong>"Best camp staff – knowledgeable, helpful, and committeed."</strong> - <em>Troop 150, Patriot’s Path Council</em></p>
+					<p><strong>"The staff and the facility are the prime reasons for out troop’s continued attendance at RFSR. It is the premier example of how a camp should run – exceptional!"</strong> – <em>Troop 315, Cradle of Liberty Council</em></p>
+					<p><strong>"Program was best run this year. Chris Brenner his a home run and cleared the bases. His staff and Steve Mach were incredible!"</strong> – <em>Troop 320, Cradle of Liberty Council</em></p>
 				</div>
 				<div class="col-md-6">
-					<p><strong>"Program was best run this year. Chris Brenner his a home run and cleared the bases. His staff and Steve Mach were incredible!"</strong> – Troop 320, Cradle of Liberty Council</p>
-					<p><strong>"First time here and thoroughly impressed; staff very good."</strong> – Troop 545, Hawk Mountain Council</p>
-					<p><strong>"Kids are sweaty, stinky, tired, and happy. Overall a good experience; Resica never disappoints!"</strong> – Troop 577, Cradle of Liberty Council</p>
+					<p><strong>"First time here and thoroughly impressed; staff very good."</strong> – <em>Troop 545, Hawk Mountain Council</em></p>
+					<p><strong>"Kids are sweaty, stinky, tired, and happy. Overall a good experience; Resica never disappoints!"</strong> – <em>Troop 577, Cradle of Liberty Council</em></p>
 				</div>
 			</div>
             <div class="row">
