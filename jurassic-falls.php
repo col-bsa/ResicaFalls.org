@@ -70,10 +70,10 @@
 				<div class="col-md-6">
 					<p><strong>"Best camp staff – knowledgeable, helpful, and committeed."</strong> - <em>Troop 150, Patriot’s Path Council</em></p>
 					<p><strong>"The staff and the facility are the prime reasons for out troop’s continued attendance at RFSR. It is the premier example of how a camp should run – exceptional!"</strong> – <em>Troop 315, Cradle of Liberty Council</em></p>
-					<p><strong>"Program was best run this year. Chris Brenner his a home run and cleared the bases. His staff and Steve Mach were incredible!"</strong> – <em>Troop 320, Cradle of Liberty Council</em></p>
+					<p><strong>"First time here and thoroughly impressed; staff very good."</strong> – <em>Troop 545, Hawk Mountain Council</em></p>
 				</div>
 				<div class="col-md-6">
-					<p><strong>"First time here and thoroughly impressed; staff very good."</strong> – <em>Troop 545, Hawk Mountain Council</em></p>
+					<p><strong>"Program was best run this year. Chris Brenner his a home run and cleared the bases. His staff and Steve Mach were incredible!"</strong> – <em>Troop 320, Cradle of Liberty Council</em></p>
 					<p><strong>"Kids are sweaty, stinky, tired, and happy. Overall a good experience; Resica never disappoints!"</strong> – <em>Troop 577, Cradle of Liberty Council</em></p>
 				</div>
 			</div>
