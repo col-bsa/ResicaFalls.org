@@ -20,7 +20,7 @@
 				<div class="col-md-4 flex-last">
 					<img class="img-fluid rounded" src="_img/programs/theme/RF-UnderTheBigTop.jpg" alt="">
 					<br><br>
-					<a class="btn btn-success" href="dates-and-rates">See Dates &amp; Rates</a>
+					<a class="btn btn-block btn-success" href="dates-and-rates">See Dates &amp; Rates</a><br>
 				</div>
                 <div class="col-md-8">
 					<p>The house lights are up and the circus is in town for the adventure that awaits with our 2020 theme, "Under the Big Top!" Your unit will be treated to a display of marvels during your stay at Resica Falls.</p>
