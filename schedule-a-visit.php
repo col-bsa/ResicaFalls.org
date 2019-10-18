@@ -21,7 +21,7 @@
 						Thank you for considering Resica Falls! Below you will find links to request a camp promotion or tour. Our staff are passionate about camp and we would love to show you everything Resica has to offer. Hosting a camp promotion at your troop meetings, committee meeting, or round-table is a great way to get everyone excited for camp! Looking for a more hands on experience? Come visit Resica during the summer and our staff will be more that happy to show you around.
 					</p>
 					<p class="text-center">
-						<a class="btn btn-success" href="https://colbsa.doubleknot.com/form/takesurvey.aspx?surveyID=57837&OrgKey=1112">Schedule A Promotion</a>
+						<a class="btn btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSd575kCyB8eyjUEvq7IVKlZ48EfaQCae1pVFuuhVCwRxM7U9g/viewform?fbclid=IwAR3VtCkorauOqT1PNYlVBmJ76jUpybBW_mT_kK2MzB7RDF1QaxuIgWZee2M">Schedule A Promotion</a>
 					</p>
 					<p>
 						If you would like to take a tour of camp at any point over the summer or during any weekend, let us know on <a href="contact-us">our contact page</a>, and we'll be happy to schedule something with you! 
