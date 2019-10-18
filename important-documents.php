@@ -22,16 +22,16 @@
 					</div>
 					<ul class="link-list">
 						<li>
-							<a download href="_files\summer\2020_Declaration_of_Intent.pdf">2020 Declaration of Intent</a>
+							<a download href="_files\summer\2020-Single-Sheet-Promo.pdf">2020 Single Sheet Promo</a>
+						</li>
+						<li>
+							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
 						</li>
 						<li>
 							<a download href="_files\summer\2019_Leaders_Guide.pdf">2019 Leaders' Guide</a>
 						</li>
 						<li>
 							<a download href="_files\summer\2019_Program_Guide.pdf">2019 Program Guide</a>
-						</li>
-						<li>
-							<a download href="_files\summer\2019_Resica_Brochure.pdf">2019 Brochure</a>
 						</li>
 						<li>
 							<a download href="_files/summer/2019_Resica_Specialty_Programs.pdf">2019 Specialty Programs Brochure</a>
@@ -56,9 +56,6 @@
 						<li><a download href="_files\special_programs\ATV_Participant_Release.pdf">ATV Participant Release</a></li>
 						<li><a download href="_files\special_programs\COPE_Application.pdf">COPE Application</a></li>
 						<li><a download href="_files\special_programs\CowboyActionFlyer-Permission.pdf">Cowboy Action Flyer</a></li>
-						<li><a download href="_files\special_programs\2015_Paddlerama_Brochure.pdf">2015 Paddlerama Brochure</a></li>
-						<li><a download href="_files\special_programs\2016_Paddlerama_Guide.pdf">2016 Paddlerama Guide</a></li>
-						<li><a download href="_files\special_programs\2016_Troop_One_Guide.pdf">2016 Troop One Guide</a></li>
 					</ul>
 				</div>
 			</div>
