@@ -73,7 +73,7 @@
 							<div class="card-header" role="tab" id="accordion2-question1">
 								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse1" aria-expanded="true" aria-controls="accordion2-collapse1">
-										Why should I send my son to summer camp?
+										Why should I send my Scout to summer camp?
 									</a>
 								</div>
 							</div>
@@ -117,7 +117,7 @@
 							<div class="card-header" role="tab" id="accordion2-question3">
 								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse3" aria-expanded="false" aria-controls="accordion2-collapse3">
-										Can I visit my son at camp?
+										Can I visit my Scout at camp?
 									</a>
 								</div>
 							</div>
@@ -131,7 +131,7 @@
 							<div class="card-header" role="tab" id="accordion2-question4">
 								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse4" aria-expanded="false" aria-controls="accordion2-collapse4">
-										My son is leaving camp early. Do I need to do anything?
+										My Scout is leaving camp early. Do I need to do anything?
 									</a>
 								</div>
 							</div>
@@ -141,7 +141,7 @@
 										To ensure the safety of all campers, the Cradle of Liberty Council, BSA has enacted the following policy.
 									</p>
 									<p>
-										Any Scout who leaves camp prior to the normal departure time on Saturday morning with their unit, will only be permitted to leave under the auspices of an adult approved by the parents of the Scout. A Camper Release Authorization form, signed by the parents of the Scout, must be on file in the Camp Office in these cases. This form will list all adults, who are authorized by the parents, with whom their son may leave camp. Scout leader should escort Scout to the Camp Office to sign out. An up to date version of the Camper Release Authorization form can be found on our <a href="important-documents">Important Documents</a> page.
+										Any Scout who leaves camp prior to the normal departure time on Saturday morning with their unit, will only be permitted to leave under the auspices of an adult approved by the parents of the Scout. A Camper Release Authorization form, signed by the parents of the Scout, must be on file in the Camp Office in these cases. This form will list all adults, who are authorized by the parents, with whom their Scout may leave camp. Scout leader should escort Scout to the Camp Office to sign out. An up to date version of the Camper Release Authorization form can be found on our <a href="important-documents">Important Documents</a> page.
 									</p>
 								</div>
 							</div>
@@ -150,7 +150,7 @@
 							<div class="card-header" role="tab" id="accordion2-question5">
 								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse5" aria-expanded="false" aria-controls="accordion2-collapse5">
-										Can I send my son mail?
+										Can I send my Scout mail?
 									</a>
 								</div>
 							</div>
@@ -171,14 +171,14 @@
 							<div class="card-header" role="tab" id="accordion2-question6">
 								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse6" aria-expanded="false" aria-controls="accordion2-collapse6">
-										My son takes prescription medication? Do I need to do anything?
+										My Scout takes prescription medication? Do I need to do anything?
 									</a>
 								</div>
 							</div>
 							<div id="accordion2-collapse6" class="collapse" role="tabpanel" aria-labelledby="accordion2-question6">
 								<div class="card-block">
 									<p>
-										Yes. Please fill out the Drug Administration Record. Send that and the medications with your son to camp. Each troop handles their medication process a little differently. Some collect all the forms and medications before going to camp. Contact your troop leader for the exact details.
+										Yes. Please fill out the Drug Administration Record. Send that and the medications with your Scout to camp. Each troop handles their medication process a little differently. Some collect all the forms and medications before going to camp. Contact your troop leader for the exact details.
 									</p>
 									<p>
 										While at camp, if the medication is needed during an emergency such as an asthma attack or allergic reaction, the camper may keep the medication on themselves. If it is only needed at planned occasions such as every morning or every evening, your unit leaders or our health lodge staff will keep it and dispense it as you describe in accordance with the prescription.
@@ -190,13 +190,13 @@
 							<div class="card-header" role="tab" id="accordion2-question7">
 								<div class="mb-0">
 									<a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse7" aria-expanded="false" aria-controls="accordion2-collapse7">
-										Should my son bring a cellphone to camp?
+										Should my Scout bring a cellphone to camp?
 									</a>
 								</div>
 							</div>
 							<div id="accordion2-collapse7" class="collapse" role="tabpanel" aria-labelledby="accordion2-question7">
 								<div class="card-block">
-									While we cannot keep a Scout from having a phone in camp, it is highly discouraged you send your son with one. Scouts with cellphones are less likely to take full advantage of our multifaceted program and are at a greater risk of becoming homesick. <strong>Resica Falls is not responsible for the loss or damage of any personal devices.</strong>
+									While we cannot keep a Scout from having a phone in camp, it is highly discouraged you send your Scout with one. Scouts with cellphones are less likely to take full advantage of our multifaceted program and are at a greater risk of becoming homesick. <strong>Resica Falls is not responsible for the loss or damage of any personal devices.</strong>
 								</div>
 							</div>
 						</div>
