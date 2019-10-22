@@ -141,8 +141,7 @@
 										To ensure the safety of all campers, the Cradle of Liberty Council, BSA has enacted the following policy.
 									</p>
 									<p>
-										Any Scout who leaves camp prior to the normal departure time on Saturday morning with their unit, will only be permitted to leave under the auspices of an adult approved by the parents of the Scout. A Camper Release Authorization form, signed by the parents of the Scout, must be on file in the Camp Office in these cases. This form will list all adults, who are authorized by the parents, with whom their Scout
-										 may leave camp. Scout leader should escort Scout to the Camp Office to sign out. An up to date version of the Camper Release Authorization form can be found on our <a href="important-documents">Important Documents</a> page.
+										Any Scout who leaves camp prior to the normal departure time on Saturday morning with their unit, will only be permitted to leave under the auspices of an adult approved by the parents of the Scout. A Camper Release Authorization form, signed by the parents of the Scout, must be on file in the Camp Office in these cases. This form will list all adults, who are authorized by the parents, with whom their Scout may leave camp. Scout leader should escort Scout to the Camp Office to sign out. An up to date version of the Camper Release Authorization form can be found on our <a href="important-documents">Important Documents</a> page.
 									</p>
 								</div>
 							</div>
