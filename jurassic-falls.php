@@ -73,7 +73,7 @@
 					<p><strong>"First time here and thoroughly impressed; staff very good."</strong> – <em>Troop 545, Hawk Mountain Council</em></p>
 				</div>
 				<div class="col-md-6">
-					<p><strong>"Program was best run this year. Chris Brenner his a home run and cleared the bases. His staff and Steve Mach were incredible!"</strong> – <em>Troop 320, Cradle of Liberty Council</em></p>
+					<p><strong>"Program was best run this year. Chris Brenner hits a home run and cleared the bases. His staff and Steve Mach were incredible!"</strong> – <em>Troop 320, Cradle of Liberty Council</em></p>
 					<p><strong>"Kids are sweaty, stinky, tired, and happy. Overall a good experience; Resica never disappoints!"</strong> – <em>Troop 577, Cradle of Liberty Council</em></p>
 				</div>
 			</div>
