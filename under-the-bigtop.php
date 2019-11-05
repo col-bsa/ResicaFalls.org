@@ -2,8 +2,8 @@
 <html lang="en">
 	<head>
 		<?php include '_inc/html_head.php'; ?>
-		<meta name="description" content="Make your own Jarassic Adventure this summer at Resica Falls Scout Reservation." />
-		<title>Jurassic Falls <?php include '_inc/var/site_name.php'; ?></title>
+		<meta name="description" content="Join us Under the Big Top this summer at Resica Falls Scout Reservation." />
+		<title>Under the Big Top <?php include '_inc/var/site_name.php'; ?></title>
 	</head>
 	<body>
 		<?php include '_inc/header.php'; ?>
