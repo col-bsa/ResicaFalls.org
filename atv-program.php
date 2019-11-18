@@ -21,7 +21,7 @@
 						In the summer of 2016 Resica Falls premiered its newest and most exciting program area: the ATV course! Presented through a partnership between the Boy Scouts of America and Polaris Industries Inc., Scouts can spend a week learning the fundamentals of riding under the supervision of an ATV Safety Institute-certified instructor. Scouts begin riding on day one, and by Friday they’ll be riding the reservation like pros! Scouts who successfully complete the program will receive a certificate and an ATV <em>RiderCourse</em>&trade; certification card from the ATV Safety Institute.
 					</p>
 					<p>
-						In order to participate in the ATV program, Scouts must be over the age of 14, weigh 225 lbs or less, and have a parent’s permission. Scouts must also have a current BSA Annual Health & Medical Record signed by a physician within the last 12 months. The program costs an additional $25 beyond the normal summer camp fee.
+						In order to participate in the ATV program, Scouts must be 16 and older, weigh 225 lbs or less, and have a parent's permission. Scouts must also have a current BSA Annual Health & Medical Record signed by a physician within the last 12 months. The program costs an additional $25 beyond the normal summer camp fee.
 					</p>
 				</div>
 			</div>
