@@ -47,6 +47,10 @@ function ContactUs() {
 		method: 'POST',
 		dataType: 'json',
 		data: $("#contact-form :input"),
+		cache: false,
+		headers: {
+			"cache-control": "no-cache"
+		},
 		success: function(data) {
 			if(data['success'] == true)
 			{
