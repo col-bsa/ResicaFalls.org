@@ -68,8 +68,7 @@
 					</address>
 					<h4>Phone Numbers</h4>
 					<address>
-						Summer Phone: (570) 223-8312<br>
-						Year Round Phone: (484) 654-9218<br>
+						Phone: (570) 223-8312<br>
 						Summer Fax: (570) 223-7263<br>
 						Year Round Fax: (610) 668-2951
 					</address>
