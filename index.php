@@ -25,10 +25,10 @@
 						</div>
 						<div class="col-md-8">
 							<div class="list-group">
+								<a href="field-weekend" class="list-group-item list-group-item-action h5">2020 Field Weekend</a>
 								<a href="under-the-bigtop" class="list-group-item list-group-item-action h5">2020 Theme</a>
 								<a href="prepared-for-girls" class="list-group-item list-group-item-action h5">Prepared for Girls</a>
 								<a href="videos" class="list-group-item list-group-item-action h5">Videos in Camp</a>
-								<a href="jurassic-falls" class="list-group-item list-group-item-action h5">Jurassic Falls Recap</a>
 							</div>
 						</div>
 					</div>
