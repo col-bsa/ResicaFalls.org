@@ -77,7 +77,7 @@
 						<h4>Health And Safety Forms</h4>
 					</div>
 					<ul class="link-list">
-						<li><a href="http://www.scouting.org/scoutsource/HealthandSafety/ahmr.aspx">Annual Health and Medical Record</a></li>
+						<li><a href="http://www.scouting.org/scoutsource/HealthandSafety/ahmr.aspx">Annual Health and Medical Record</a> <em>- New 2019</em></li>
 						<li><a download href="_files\health\Unit_Medication_Storage_Release.pdf">Unit Medication Storage Release</a></li>
 						<li><a download href="_files\health\Adult_Medication_Storage_Release.pdf">Adult Medication Storage Release</a></li>
 						<li><a download href="_files\health\Allergy_Action_Plan.pdf">Allergy Action Plan</a></li>
