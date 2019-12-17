@@ -12,7 +12,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col alert text-center alert-highlight">
-					<h2>Camping Reservation Website Maintenance Scheduled</h2>
+					<h4>Camping Reservation Website Maintenance Scheduled</h4>
 					<p>As we work to improve our facility rental experience and bring new rental opportunities online, we need to close the facility rental portal in DoubleKnot from December 6-31. This means you will not be able to book a cabin or campsite during that time, so we encourage you to make your bookings starting on January 1.</p>
 					<p>We appreciate your patience so we can provide the most accurate online rental experience possible. If you have any questions, please contact our Director of Outdoor Adventures, John Bickel directly at <a href="mailto:john.bickel@scouting.org">john.bickel@scouting.org</a>. Have a great day, and a blessed holiday season!</p>
 				</div>
