@@ -10,13 +10,6 @@
 		<?php include '_inc/nav.php'; ?>
 
 		<div class="container content">
-			<div class="row">
-				<div class="col alert text-center alert-highlight">
-					<h4>Camping Reservation Website Maintenance Scheduled</h4>
-					<p>As we work to improve our facility rental experience and bring new rental opportunities online, we need to close the facility rental portal in DoubleKnot from December 6-31. This means you will not be able to book a cabin or campsite during that time, so we encourage you to make your bookings starting on January 1.</p>
-					<p>We appreciate your patience so we can provide the most accurate online rental experience possible. If you have any questions, please contact our Director of Outdoor Adventures, John Bickel directly at <a href="mailto:john.bickel@scouting.org">john.bickel@scouting.org</a>. Have a great day, and a blessed holiday season!</p>
-				</div>
-			</div>
 			<h1>Weekend Camping</h1>
 			<div class="row">
 				<div class="col-md-8">
@@ -29,7 +22,7 @@
 						<div class="card-block">
 							<h5 class="card-title">Book a Stay</h5>
 							<p class="card-text">Campsites, lodges and backpacking sites available year-round for weekend camping.</p>
-							<a href="http://colbsa.doubleknot.com/facilitycalendar/2849" class="btn btn-primary">Check Availability</a>
+							<a href="https://colbsa.doubleknot.com/facilitysearch/2849" class="btn btn-primary">Check Availability</a>
 						</div>
 					</div>
 				</div>
