@@ -25,6 +25,12 @@
 							<a download href="_files\summer\2020-Single-Sheet-Promo.pdf">2020 Single Sheet Promo</a>
 						</li>
 						<li>
+							<a download href="_files\summer\2020-RFSR-Brochure.pdf">2020 Summer Camp Brochure</a>
+						</li>
+						<li>
+							<a download href="_files\summer\2020-Merit-Badge-Offerings.pdf">2020 Merit Badge Offerings</a>
+						</li>
+						<li>
 							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
 						</li>
 						<li>
