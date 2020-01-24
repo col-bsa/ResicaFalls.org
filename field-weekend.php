@@ -25,7 +25,7 @@
                     <p>Check back here as details are finalized.</p>
                     <p>Stay tund for the 2020 Leaders' Guide!</p>
 					<a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-field-event-weekend-resica-falls/2600939" target="_blank">Register Now</a>
-                    <a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-resica-falls-field-day-staff-sign-up-only/2616651" target="_blank">Sign up for Staff</a>
+                    <a class="btn btn-warning btn-block" href="https://colbsa.doubleknot.com/event/2020-resica-falls-field-day-staff-sign-up-only/2616651" target="_blank">Sign up for Staff</a>
                     <br>
                 </div>
 				<div class="col-md-4">
