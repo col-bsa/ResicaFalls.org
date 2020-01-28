@@ -31,6 +31,9 @@
 							<a download href="_files\summer\2020-Merit-Badge-Offerings.pdf">2020 Merit Badge Offerings</a>
 						</li>
 						<li>
+							<a href="https://colbsa.org/camperships/" target="_blank">2020 Campership Applications</a>
+						</li>
+						<li>
 							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
 						</li>
 						<li>
@@ -45,9 +48,7 @@
 						<li>
 							<a download href="_files\summer\2019_MeritBadge_Prerequisites.pdf">2019 Merit Badge Prerequisites</a>
 						</li>
-						<li>
-							<a href="campership">2019 Campership Applications</a>
-						</li>
+						
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
 						<li><a download href="_files\summer\2019_Refund_Request.pdf">2019 Refund Request Form</a></li>
