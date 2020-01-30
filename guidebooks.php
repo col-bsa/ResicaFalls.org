@@ -14,7 +14,7 @@
 				<div class="col-md-8">
 					<h1>Leaders' Guide &amp; Program Guide</h1>
 					<p>These two guides will serve as your primary resources for planning your stay at camp. They contain valuable information and should be reviewed thoroughly by Scoutmasters, Senior Patrol Leaders, and interested Parents. Many questions can be answered by reading these thorough guides.</p>
-					The <a download href="_files\summer\2019_Leaders_Guide.pdf">Leaders' Guide</a> includes:
+					The <a download href="_files\summer\2020_Leaders_Guide.pdf">Leaders' Guide</a> includes:
 					<ul>
 						<li>Important dates, fees, and times for planning your troop’s stay.</li>
 						<li>Information about camp policies and operations.</li>
@@ -33,7 +33,7 @@
 				</div>
 				<div class="col-md-4">
 					<img class="img-fluid rounded" src="_img/generic/2019_ResicaGuides.png" alt="">
-					<a download class="btn btn-success btn-block" href="_files\summer\2019_Leaders_Guide.pdf">Download Leaders' Guide</a>
+					<a download class="btn btn-success btn-block" href="_files\summer\2020_Leaders_Guide.pdf">Download Leaders' Guide</a>
 					<a download class="btn btn-success btn-block" href="_files\summer\2019_Program_Guide.pdf">Download Program Guide</a>
 					<a class="btn btn-primary btn-block" href="important-documents">See All Important Documents</a>
 				</div>
