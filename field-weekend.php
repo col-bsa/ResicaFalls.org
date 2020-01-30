@@ -23,7 +23,7 @@
                     <p>Some of the events include the older Scout Cowboy Action Shooting as well as traditional Scouts BSA activities like lashing, orienteering, Dutch Oven cooking, fishing, and climbing.</p>
                     <p>One of the highlight competitions will be the Iron Chef Event, a Dutch Oven cooking event centered around a “secret ingredient”. We will provide the "secret ingredient" to each team. The event will run the last 3.5 hours of the day and conclude when the competing troops/crews/patrols provides 2 dishes to the Council Executives for judging.</p>
                     <p>Check back here as details are finalized.</p>
-                    <p>Stay tund for the 2020 Leaders' Guide!</p>
+                    <p>Stay tuned for the 2020 Leaders' Guide!</p>
 					<a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-field-event-weekend-resica-falls/2600939" target="_blank">Register Now</a>
                     <a class="btn btn-warning btn-block" href="https://colbsa.doubleknot.com/event/2020-resica-falls-field-day-staff-sign-up-only/2616651" target="_blank">Sign up for Staff</a>
                     <br>
