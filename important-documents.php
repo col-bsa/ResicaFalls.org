@@ -40,6 +40,9 @@
 							<a download href="_files\summer\2020-MeritBadge-Schedule.pdf">2020 Merit Badge Schedule</a>
 						</li>
 						<li>
+							<a download href="_files\summer\2020-MeritBadge-Requirements.pdf">2020 Merit Badge Requirements</a> <em>(with Prerequisites)</em>
+						</li>
+						<li>
 							<a href="https://colbsa.org/camperships/" target="_blank">2020 Campership Applications</a>
 						</li>
 						<li>
