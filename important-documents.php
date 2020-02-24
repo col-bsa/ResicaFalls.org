@@ -54,9 +54,6 @@
 						<li>
 							<a download href="_files/summer/2019_Resica_Specialty_Programs.pdf">2019 Specialty Programs Brochure</a>
 						</li>
-						<li>
-							<a download href="_files\summer\2019_MeritBadge_Prerequisites.pdf">2019 Merit Badge Prerequisites</a>
-						</li>
 						
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
