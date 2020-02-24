@@ -40,6 +40,9 @@
 							<a download href="_files\summer\2020-MeritBadge-Schedule.pdf">2020 Merit Badge Schedule</a>
 						</li>
 						<li>
+							<a download href="_files\summer\2020-MeritBadge-Requirements.pdf">2020 Merit Badge Requirements</a> <em>(with Prerequisites)</em>
+						</li>
+						<li>
 							<a href="https://colbsa.org/camperships/" target="_blank">2020 Campership Applications</a>
 						</li>
 						<li>
@@ -50,9 +53,6 @@
 						</li>
 						<li>
 							<a download href="_files/summer/2019_Resica_Specialty_Programs.pdf">2019 Specialty Programs Brochure</a>
-						</li>
-						<li>
-							<a download href="_files\summer\2019_MeritBadge_Prerequisites.pdf">2019 Merit Badge Prerequisites</a>
 						</li>
 						
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
