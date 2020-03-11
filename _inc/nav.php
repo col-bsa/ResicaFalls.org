@@ -55,3 +55,6 @@
 		</ul>
 	</div>
 </nav>
+<div class="alert alert-brand text-center" role="alert">
+Please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a> for the most up-to-date weekend and summer guidance regarding Coronavirus.
+</div>
