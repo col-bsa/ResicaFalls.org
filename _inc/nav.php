@@ -56,5 +56,5 @@
 	</div>
 </nav>
 <div class="alert alert-highlight text-center" role="alert">
-	Please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a> for the most up-to-date weekend and summer guidance regarding Coronavirus.
+	For the safety of our members, Cradle of Liberty Council-level events and camps will be closed until Thursday, April 30th. Summer Camp is still proceeding as planned! For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
 </div>
