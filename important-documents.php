@@ -34,6 +34,9 @@
 							<a download href="_files\summer\2020_Leaders_Guide.pdf">2020 Leaders' Guide</a>
 						</li>
 						<li>
+							<a download href="_files\summer\2020_Program_Guide.pdf">2020 Program Guide</a>
+						</li>
+						<li>
 							<a download href="_files\summer\2020-Merit-Badge-Offerings.pdf">2020 Merit Badge Offerings</a>
 						</li>
 						<li>
@@ -47,9 +50,6 @@
 						</li>
 						<li>
 							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
-						</li>
-						<li>
-							<a download href="_files\summer\2019_Program_Guide.pdf">2019 Program Guide</a>
 						</li>
 						<li>
 							<a download href="_files/summer/2019_Resica_Specialty_Programs.pdf">2019 Specialty Programs Brochure</a>
