@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="alert alert-highlight">
-                        For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
+                        This event has been postponed indefinitely because of Coronavirus. For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
                     </div>
                     <p>Set aside the date, inspect your gear, get your recipes ready and plan to have lots of fun when you join us for the 3rd Annual Resica Field Weekend on April 24-26, 2020.</p>
                     <p>The Field Weekend allows your Troop to hone their tent camping skills while taking advantage of the great activities and facilities at Resica Falls Scout Reservation.</p>
@@ -41,7 +41,7 @@
                 </div>
 			</div>
             <div class="row">
-                <div class="col alert alert-highlight">
+                <div class="col alert alert-highlight mb-3">
 					<h4>PHOTOS FROM THE 2018 FIELD WEEKEND</h4>
 				</div>
             </div>
