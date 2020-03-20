@@ -25,6 +25,9 @@
 					</div>
 					<ul class="link-list">
 						<li>
+							<a href="/_files\summer\2020.03.20_Covid-19-Update.pdf" target="_blank">Response to COVID-19</a>
+						</li>
+						<li>
 							<a download href="_files\summer\2020-Single-Sheet-Promo.pdf">2020 Single Sheet Promo</a>
 						</li>
 						<li>
