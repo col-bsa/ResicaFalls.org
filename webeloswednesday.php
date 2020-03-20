@@ -23,7 +23,7 @@
 					<p>
 						Have a taste of the Scouts BSA resident camping experience by joining us on Webelos Wednesday at Resica Falls! A wide assortment of program areas have opened their doors to Cub Scouts to explore.
 					</p>
-					<div class="row">
+					<div class="row mb-3">
 						<div class="col-md-6">
 							<div class="alert alert-success">
 								<h4>Programs</h4>
@@ -35,7 +35,6 @@
 									<li>STEM Activities</li>
 									<li>Handicraft Projects</li>
 									<li>Pool &amp; Slide Activities</li>
-									<li>Closing Campfire</li>
 									<li>...and much, much more!</li>
 								</ul>
 							</div>
@@ -62,7 +61,7 @@
 						<a class="btn btn-success btn-lg" href="https://colbsa.doubleknot.com/event/capacity-available/webelos-wednesdays-at-resica-falls-summer-camp-not-offered-week-3-july-10th/58367" target="_blank">Register Now</a>
 					</p>
 					<p>
-						Make sure to bring Parts A &amp; B of the Scouts BSA Medical form for this event! (These are the parts that do not require a doctor's signature.)
+						Make sure to bring Parts A &amp; B of the BSA Medical form for this event! (These are the parts that do not require a doctor's signature.)
 					</p>
 				</div>
 				<div class="col-md-4">
