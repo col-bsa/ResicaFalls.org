@@ -49,7 +49,7 @@
 							<a download href="_files\summer\2020-MeritBadge-Requirements.pdf">2020 Merit Badge Requirements</a> <em>(with Prerequisites)</em>
 						</li>
 						<li>
-							<a href="https://colbsa.org/camperships/" target="_blank">2020 Campership Applications</a>
+							<a href="/campership" target="_blank">2020 Campership Applications</a>
 						</li>
 						<li>
 							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
