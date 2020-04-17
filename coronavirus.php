@@ -99,6 +99,7 @@
 				</div>
 				<div class="col-md-4">
                     <a class="btn btn-success btn-block" href="/_files\summer\2020.04.06_Covid-19-Update.pdf" download>Download this Letter</a>
+                    <a class="btn btn-success btn-block" href="/_files\summer\2020.03.20_Covid-19-Update.pdf" download>March 20, 2020 Update</a>
 					<a class="btn btn-primary btn-block" href="https://colbsa.org/coronavirus" target="_blank">Cradle of Liberty Council Response</a>
 				</div>
 			</div>
