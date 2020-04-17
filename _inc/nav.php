@@ -56,5 +56,5 @@
 	</div>
 </nav>
 <div class="alert alert-highlight text-center" role="alert">
-	This property is closed to all events and activities (including fishing and visits to the falls area) until <strong>Sunday, May 31st</strong>. Summer Camp is still proceeding as planned!<br>For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
+	This property is closed to all events and activities (including fishing and visits to the falls area) until <strong>Monday, June 1st</strong>. Summer Camp is still proceeding as planned!<br>For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
 </div>
