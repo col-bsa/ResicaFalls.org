@@ -60,8 +60,8 @@
                     Yours in Scouting,
                     </p>
                     <p>
-                    Dan Templar
-                    Scout Executive & CEO
+                    Dan Templar<br>
+                    Scout Executive & CEO<br>
                     Cradle of Liberty Council, BSA
                     </p>
 				</div>
