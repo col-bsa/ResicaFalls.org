@@ -30,7 +30,8 @@
 						</div>
 						<div class="col-md-8">
 							<div class="list-group">
-								<a href="coronavirus" target="_blank" class="list-group-item list-group-item-action h5">Response to COVID-19</a>
+								<a href="https://us02web.zoom.us/rec/share/tMFccOjU-H5JBYH19HngBrI9MbnsX6a82yZK_PtYxUtUuZFVwu6RlMracXEwog8X" target="_blank" class="list-group-item list-group-item-action h5">2020 Pre-Camp Leaders Meeting</a>
+								<a href="coronavirus" class="list-group-item list-group-item-action h5">Response to COVID-19</a>
 								<a href="under-the-bigtop" class="list-group-item list-group-item-action h5">2020 Theme</a>
 								<a href="prepared-for-girls" class="list-group-item list-group-item-action h5">Prepared for Girls</a>
 								<a href="videos" class="list-group-item list-group-item-action h5">Videos in Camp</a>
