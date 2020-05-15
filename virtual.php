@@ -225,7 +225,6 @@
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card">
                         <div class="card-header" role="tab" id="accordion2-question12">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse12" aria-expanded="false" aria-controls="accordion2-collapse12">
