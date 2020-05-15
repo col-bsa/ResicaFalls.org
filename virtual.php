@@ -44,7 +44,7 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr class="table-highlight">
+							<tr>
 								<td>Youth: $175</td>
 							</tr>
 							<tr>
@@ -225,9 +225,9 @@
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-header" role="tab" id="accordion2-12">
+                        <div class="card-header" role="tab" id="accordion2-collapse12">
                             <div class="mb-0">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-12" aria-expanded="false" aria-controls="accordion2-12">
+                                <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse12" aria-expanded="false" aria-controls="accordion2-collapse12">
                                 At the end of Virtual Camp, how do I know if a Scout earned or didn’t earn a particular merit badge?
                                 </a>
                             </div>
