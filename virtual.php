@@ -225,7 +225,8 @@
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-header" role="tab" id="accordion2-collapse12">
+                        <div class="card">
+                        <div class="card-header" role="tab" id="accordion2-question12">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse12" aria-expanded="false" aria-controls="accordion2-collapse12">
                                 At the end of Virtual Camp, how do I know if a Scout earned or didn’t earn a particular merit badge?
@@ -234,7 +235,7 @@
                         </div>
                         <div id="accordion2-collapse12" class="collapse" role="tabpanel" aria-labelledby="accordion2-question12">
                             <div class="card-block">
-                            At the end of each week, a Scout’s progress on merit badges will be recorded in Scoutbook. This will allow Scouts, parents, and unit leaders to have access to the Scout’s performance following the completion of Virtual Camp. As part of the registration process, parents will need to log-in to connect our counselors and your Scouts in Scoutbook for this completion or partial recording to happen. A short guide to help with this process will be available in early June.
+                            <p>At the end of each week, a Scout’s progress on merit badges will be recorded in Scoutbook. This will allow Scouts, parents, and unit leaders to have access to the Scout’s performance following the completion of Virtual Camp. As part of the registration process, parents will need to log-in to connect our counselors and your Scouts in Scoutbook for this completion or partial recording to happen. A short guide to help with this process will be available in early June.</p>
                             </div>
                         </div>
                     </div>
