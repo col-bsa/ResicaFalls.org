@@ -20,7 +20,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-7">
-                    <img class="img-fluid mb-2" src="_img/virtualcamp_8bit.png" alt="">
+                    <img class="img-fluid mb-4" src="_img/virtualcamp_8bit.png" alt="">
                     <h4>What is Virtual Camp?</h4>
 					<p>When the coronavirus crisis began, one of the first questions we asked was, “How is this going to impact summer camp?” As time went on, the reality of providing a traditional summer camp experience became less and less likely. For us, the question had now become, “How can we continue to provide a safe program to our Scouts and leaders?” With careful thought and planning over a few weeks’ time, <strong>2020 Virtual Camp @ Resica Falls</strong> was born.</p>
                     <p>While we will not be able to experience the pristine Pocono mountain wilderness of 4,200 acres that is Resica Falls Scout Reservation this summer, our virtual program will still provide what we do each and every summer at Resica Falls, and the thing that matters most: a strong, Scout-oriented program. In 2020, this program will take place for each Scout and leader in the comfort and safety of their own home. Virtual merit badge sessions, interactive camp-wide activities, entertaining campfires, and engaging adult leader programs are just some of the opportunities that await this summer.</p>
@@ -35,8 +35,8 @@
                 </div>
 				<div class="col-md-5">
 					<a class="btn btn-primary btn-block disabled" href="#" disabled>Leaders' Guide Coming Soon!</a>
-                    <a class="btn btn-primary btn-block" href="/_files/summer/2020-Virtual-MB-Schedule" download>Download Merit Badge Schedule</a>
-					<a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
+                    <a class="btn btn-primary btn-block" href="/_files/summer/2020-Virtual-MB-Schedule.pdf" download>Download Merit Badge Schedule</a>
+					<a class="btn btn-success btn-block mb-4" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
 					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>
