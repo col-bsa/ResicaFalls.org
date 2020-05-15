@@ -20,7 +20,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-7">
-                    <div class="embed-responsive embed-responsive-16by9">
+                    <div class="embed-responsive embed-responsive-16by9 mb-2">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ckwYl5r6Wy0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>
                     <h4>What is Virtual Camp?</h4>
@@ -36,14 +36,15 @@
                     <p>Attending Scout camp is the greatest experience that any troop or scout will have during the year; it is our belief that Virtual Camp will serve as a suitable substitute for a traditional program and continue to foster a strong relationship of fun and learning between your troop and Resica Falls. </p>
                 </div>
 				<div class="col-md-5">
-					<img class="img-fluid rounded" src="_img/virtualcamp_8bit.png" alt="">
+					<img class="img-fluid rounded mb-2" src="_img/virtualcamp_8bit.png" alt="">
+                    <img class="img-fluid rounded mb-2" src="_img/virtualcamp_leadersguide.jpg" alt="">
 					<a class="btn btn-primary btn-block disabled" href="#" disabled>Leaders' Guide Coming Soon!</a>
                     <a class="btn btn-primary btn-block" href="/_files/summer/2020-Virtual-MB-Schedule" download>Download Merit Badge Schedule</a>
 					<a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
 					<br>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row mb-2">
 				<div class="col alert alert-highlight">
 					<h5>FREQUENTLY ASKED QUESTIONS</h5>
 				</div>
@@ -123,7 +124,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card">
+                    <div class="card mb-2">
                         <div class="card-header" role="tab" id="accordion2-question6">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse6" aria-expanded="false" aria-controls="accordion2-collapse6">

@@ -20,7 +20,7 @@
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_FutureCampers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Summer<br class="hidden-md-down"> Programs</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_FutureCampers">
-					<a class="dropdown-item" href="dates-and-rates">Dates &amp; Rates</a>
+					<a class="dropdown-item" href="virtual">2020 Virtual Camp</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp; Opportunities</a>
 					<a class="dropdown-item" href="under-the-bigtop">Summer 2020 Theme</a>
 					<a class="dropdown-item" href="jurassic-falls">Summer 2019 Recap</a>
@@ -50,7 +50,7 @@
             	<a class="nav-link" href="contact-us">Contact<br class="hidden-md-down"> Us</a>
             </li>
             <li class="nav-item">
-            	<a class="nav-link" href="dates-and-rates">Register<br class="hidden-md-down"> For Camp</a>
+            	<a class="nav-link" href="virtual">Register<br class="hidden-md-down"> For Camp</a>
             </li>
 		</ul>
 	</div>
