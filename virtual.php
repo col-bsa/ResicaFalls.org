@@ -34,7 +34,7 @@
                     <p>Attending Scout camp is the greatest experience that any troop or scout will have during the year; it is our belief that Virtual Camp will serve as a suitable substitute for a traditional program and continue to foster a strong relationship of fun and learning between your troop and Resica Falls. </p>
                 </div>
 				<div class="col-md-5">
-					<a class="btn btn-primary btn-block disabled" href="#" disabled>Leaders' Guide Coming Soon!</a>
+					<a class="btn btn-primary btn-block disabled" href="#" disabled>Virtual Camp Guide Coming Soon!</a>
                     <a class="btn btn-primary btn-block" href="/_files/summer/2020-Virtual-MB-Schedule.pdf" download>Download Merit Badge Schedule</a>
 					<a class="btn btn-success btn-block mb-4" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
 					<table class="table text-center">
@@ -130,7 +130,7 @@
                         <div id="accordion2-collapse4" class="collapse" role="tabpanel" aria-labelledby="accordion2-question4">
                             <div class="card-block">
                                 <p>
-                                Much like our traditional summer camp program, the program for Virtual Camp will involve multiple camp-wide activities throughout the week. These activities will be conducted both online and offline. Both online and offline activities will combine the fun of camp with the skills of Scouting, and will include such things as a weeklong riddle challenge, a scavenger hunt, at-home projects, cooking challenges, and campfires. Descriptions of each are available in the Virtual Camp Guide and a master schedule can be found at www.resicafalls.org/virtual. Activities of the day and links to participate will be provided in the daily digital newsletter each morning.
+                                Much like our traditional summer camp program, the program for Virtual Camp will involve multiple camp-wide activities throughout the week. These activities will be conducted both online and offline. Both online and offline activities will combine the fun of camp with the skills of Scouting, and will include such things as a weeklong riddle challenge, a scavenger hunt, at-home projects, cooking challenges, and campfires. Descriptions of each are available in the Virtual Camp Guide and a master schedule can be found at <a href="#">ResicaFalls.org/virtual</a>. Activities of the day and links to participate will be provided in the daily digital newsletter each morning.
                                 </p>
                             </div>
                         </div>
@@ -232,14 +232,14 @@
                                 </a>
                             </div>
                         </div>
-                        <div id="accordion2-12" class="collapse" role="tabpanel" aria-labelledby="accordion2-12">
+                        <div id="accordion2-collapse12" class="collapse" role="tabpanel" aria-labelledby="accordion2-question12">
                             <div class="card-block">
                             At the end of each week, a Scout’s progress on merit badges will be recorded in Scoutbook. This will allow Scouts, parents, and unit leaders to have access to the Scout’s performance following the completion of Virtual Camp. As part of the registration process, parents will need to log-in to connect our counselors and your Scouts in Scoutbook for this completion or partial recording to happen. A short guide to help with this process will be available in early June.
                             </div>
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-header" role="tab" id="accordion2-question13">
+                        <div class="card-header" role="tab" id="accordion2-collapse13">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse13" aria-expanded="false" aria-controls="accordion2-collapse13">
                                 What kind of technology will my Scout need to participate in Virtual Camp?
