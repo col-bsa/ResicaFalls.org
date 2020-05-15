@@ -3,7 +3,7 @@
 	<head>
 		<?php include '_inc/html_head.php'; ?>
 		<meta name="description" content="Get ready for camping virtually this year in an effort to curb Coronavirus." />
-		<title>Join Camp Staff <?php include '_inc/var/site_name.php'; ?></title>
+		<title>2020 Virtual Camp <?php include '_inc/var/site_name.php'; ?></title>
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5R8JMMS');</script>
 		<!-- End Google Tag Manager -->
@@ -20,13 +20,11 @@
 			</div>
 			<div class="row">
 				<div class="col-md-7">
-                    <div class="embed-responsive embed-responsive-16by9 mb-4">
-						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ckwYl5r6Wy0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					</div>
+                    <img class="img-fluid mb-2" src="_img/virtualcamp_8bit.png" alt="">
                     <h4>What is Virtual Camp?</h4>
 					<p>When the coronavirus crisis began, one of the first questions we asked was, “How is this going to impact summer camp?” As time went on, the reality of providing a traditional summer camp experience became less and less likely. For us, the question had now become, “How can we continue to provide a safe program to our Scouts and leaders?” With careful thought and planning over a few weeks’ time, <strong>2020 Virtual Camp @ Resica Falls</strong> was born.</p>
                     <p>While we will not be able to experience the pristine Pocono mountain wilderness of 4,200 acres that is Resica Falls Scout Reservation this summer, our virtual program will still provide what we do each and every summer at Resica Falls, and the thing that matters most: a strong, Scout-oriented program. In 2020, this program will take place for each Scout and leader in the comfort and safety of their own home. Virtual merit badge sessions, interactive camp-wide activities, entertaining campfires, and engaging adult leader programs are just some of the opportunities that await this summer.</p>
-                    <p>Be sure to review our Virtual Camp Guide to learn all the important details about registration and program. Check out our FAQ sheet to review the answers to some commonly asked questions. If you have any other questions concerning the 2020 Virtual Camp @ Resica Falls, please do not hesitate to contact us. We are here to serve you. Contact a member of the camp leadership team at help@resicafalls.org.</p>
+                    <p>Be sure to review our Virtual Camp Guide <em>(Coming Soon)</em> to learn all the important details about registration and program. Check out our FAQ sheet to review the answers to some commonly asked questions. If you have any other questions concerning the 2020 Virtual Camp @ Resica Falls, please do not hesitate to contact us. We are here to serve you. Contact a member of the camp leadership team at <a href="contact-us" taget="_blank">help@resicafalls.org</a>.</p>
                     <p>We are glad that you will be joining us for this new adventure during the summer of 2020. See you in virtual camp!</p>
                     <h4>Program Overview</h4>
                     <p>With our 2020 Virtual Camp @ Resica Falls, we are proud to continue to offer the same high-quality, Scout-oriented program that we have since 1957, albeit in a different atmosphere than we are all used to. Our theme for 2020 is Under the Big Top and many of our camp-wide programs will center around the fun and excitement of a carnival and circus. </p>
@@ -36,12 +34,39 @@
                     <p>Attending Scout camp is the greatest experience that any troop or scout will have during the year; it is our belief that Virtual Camp will serve as a suitable substitute for a traditional program and continue to foster a strong relationship of fun and learning between your troop and Resica Falls. </p>
                 </div>
 				<div class="col-md-5">
-					<img class="img-fluid rounded mb-2" src="_img/virtualcamp_8bit.png" alt="">
-                    <img class="img-fluid rounded mb-2" src="_img/virtualcamp_leadersguide.jpg" alt="">
 					<a class="btn btn-primary btn-block disabled" href="#" disabled>Leaders' Guide Coming Soon!</a>
                     <a class="btn btn-primary btn-block" href="/_files/summer/2020-Virtual-MB-Schedule" download>Download Merit Badge Schedule</a>
 					<a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
-					<br>
+					<table class="table text-center">
+						<thead class="thead-inverse">
+							<tr>
+								<th class="text-center">Pricing</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="table-highlight">
+								<td>Youth: $175</td>
+							</tr>
+							<tr>
+								<td>Adults:$15</td>
+							</tr>
+						</tbody>
+					</table>
+                    <table class="table text-center">
+						<thead class="thead-inverse">
+							<tr>
+								<th class="text-center">Weeks Available (Monday - Friday)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr><td>June 29 - July 3</td></tr>
+                            <tr><td>July 6 - 10</td></tr>
+                            <tr><td>July 13 - 17</td></tr>
+                            <tr><td>July 20 - 24</td></tr>
+                            <tr><td>July 27 - 31</td></tr>
+                            <tr><td>August 3 - 7</td></tr>
+						</tbody>
+					</table>
 				</div>
 			</div>
 			<div class="row mb-4">
