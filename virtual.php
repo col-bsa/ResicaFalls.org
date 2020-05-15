@@ -20,11 +20,11 @@
 			</div>
 			<div class="row">
 				<div class="col-md-7">
-                    <div class="embed-responsive embed-responsive-16by9 mb-2">
+                    <div class="embed-responsive embed-responsive-16by9 mb-4">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ckwYl5r6Wy0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</div>
                     <h4>What is Virtual Camp?</h4>
-					<p>When the coronavirus crisis began, one of the first questions we asked was, “How is this going to impact summer camp?” As time went on, the reality of providing a traditional summer camp experience became less and less likely. For us, the question had now become, “How can we continue to provide a safe program to our Scouts and leaders?” With careful thought and planning over a few weeks’ time, 2020 Virtual Camp @ Resica Falls was born.</p>
+					<p>When the coronavirus crisis began, one of the first questions we asked was, “How is this going to impact summer camp?” As time went on, the reality of providing a traditional summer camp experience became less and less likely. For us, the question had now become, “How can we continue to provide a safe program to our Scouts and leaders?” With careful thought and planning over a few weeks’ time, <strong>2020 Virtual Camp @ Resica Falls</strong> was born.</p>
                     <p>While we will not be able to experience the pristine Pocono mountain wilderness of 4,200 acres that is Resica Falls Scout Reservation this summer, our virtual program will still provide what we do each and every summer at Resica Falls, and the thing that matters most: a strong, Scout-oriented program. In 2020, this program will take place for each Scout and leader in the comfort and safety of their own home. Virtual merit badge sessions, interactive camp-wide activities, entertaining campfires, and engaging adult leader programs are just some of the opportunities that await this summer.</p>
                     <p>Be sure to review our Virtual Camp Guide to learn all the important details about registration and program. Check out our FAQ sheet to review the answers to some commonly asked questions. If you have any other questions concerning the 2020 Virtual Camp @ Resica Falls, please do not hesitate to contact us. We are here to serve you. Contact a member of the camp leadership team at help@resicafalls.org.</p>
                     <p>We are glad that you will be joining us for this new adventure during the summer of 2020. See you in virtual camp!</p>
@@ -44,7 +44,7 @@
 					<br>
 				</div>
 			</div>
-			<div class="row mb-2">
+			<div class="row mb-4">
 				<div class="col alert alert-highlight">
 					<h5>FREQUENTLY ASKED QUESTIONS</h5>
 				</div>
@@ -124,7 +124,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card mb-2">
+                    <div class="card mb-4">
                         <div class="card-header" role="tab" id="accordion2-question6">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse6" aria-expanded="false" aria-controls="accordion2-collapse6">
