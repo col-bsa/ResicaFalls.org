@@ -239,7 +239,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-header" role="tab" id="accordion2-collapse13">
+                        <div class="card-header" role="tab" id="accordion2-question13">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse13" aria-expanded="false" aria-controls="accordion2-collapse13">
                                 What kind of technology will my Scout need to participate in Virtual Camp?
