@@ -239,14 +239,14 @@
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-header" role="tab" id="accordion2-13">
+                        <div class="card-header" role="tab" id="accordion2-question13">
                             <div class="mb-0">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion2" href="#accordion2-collapse13" aria-expanded="false" aria-controls="accordion2-collapse13">
                                 What kind of technology will my Scout need to participate in Virtual Camp?
                                 </a>
                             </div>
                         </div>
-                        <div id="accordion2-collapse13" class="collapse" role="tabpanel" aria-labelledby="accordion2-13">
+                        <div id="accordion2-collapse13" class="collapse" role="tabpanel" aria-labelledby="accordion2-question13">
                             <div class="card-block">
                             <p>Scouts will need to have access to the internet in order to participate in the Virtual Camp program. Merit badge classes will be conducted via Zoom and camp-wide activities in a variety of other mediums. In order to ensure collaboration in merit badge sessions, Scouts will need to participate on a device (computer, laptop, tablet, phone, etc.) where they can have face-to-face interaction with the counselor and fellow participants. Using a device that does not have video capabilities could prove challenging for a Scout to do or show knowledge of a requirement in order to complete a merit badge.</p>
                             <p>Scouts can team-up to work on badges together if technology limitations are a factor. However, they each must be registered to participate in Virtual Camp, they must comply with all social distancing policies that are in place for their local area, and each Scout will need to complete the requirements on their own as individual participants.</p>
