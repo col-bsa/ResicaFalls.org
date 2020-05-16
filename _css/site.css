@@ -99,6 +99,18 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .alert-highlight .alert-link {
 	color: #66512c;
 }
+/* Buttons */
+.btn-brand {
+	color: #000000;
+	background-color: #FFF200;
+	border-color: #FFF200;
+}
+.btn-brand:active,
+.btn-brand:hover {
+	color: #000000;
+	background-color: #d6cb00;
+	border-color: #d6cb00;
+}
 /* Heading */
 .heading {
 	border-bottom-color: #000000;
