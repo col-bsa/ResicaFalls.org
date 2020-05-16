@@ -66,6 +66,8 @@
                     </p>
 				</div>
 				<div class="col-md-4">
+                    <img class="img-fluid mb-2" src="_img/virtualcamp_8bit.png" alt="">
+                    <a class="btn btn-brand btn-block mb-4" href="virtual">Learn About Virtual Capm</a>
                     <a class="btn btn-success btn-block" href="https://us02web.zoom.us/rec/share/tMFccOjU-H5JBYH19HngBrI9MbnsX6a82yZK_PtYxUtUuZFVwu6RlMracXEwog8X" target="_blank">Leaders Meeting Webinar</a>
                     <a class="btn btn-success btn-block" href="/_files\summer\2020.05.04_SummerCamps_ProgramsCancellation_FAQ.pdf" target="_blank">Summer Camp Cancellation FAQ</a>
                     <a class="btn btn-primary btn-block" href="/_files\summer\2020.04.06_Covid-19-Update.pdf" target="_blank">April 6, 2020 Update</a>
