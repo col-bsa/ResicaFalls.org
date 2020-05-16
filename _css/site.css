@@ -102,8 +102,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 /* Buttons */
 .btn-brand {
 	color: #000000;
-	background-color: #FFF200;
-	border-color: #66512c;
+	background-color: rgb(221, 210, 0);
+	border-color: rgb(221, 210, 0);
+}
+.btn-brand:active {
+	color: #fff;
+    background-color: #449d44;
+    background-image: none;
+    border-color: #419641;
 }
 /* Heading */
 .heading {
