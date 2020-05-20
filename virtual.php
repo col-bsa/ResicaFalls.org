@@ -34,7 +34,7 @@
                     <p>Attending Scout camp is the greatest experience that any troop or scout will have during the year; it is our belief that Virtual Camp will serve as a suitable substitute for a traditional program and continue to foster a strong relationship of fun and learning between your troop and Resica Falls. </p>
                 </div>
 				<div class="col-md-5">
-					<a class="btn btn-primary btn-block disabled" href="#" disabled>Virtual Camp Guide Coming Soon!</a>
+					<a class="btn btn-primary btn-block" href="/_files/summer/2020_Virtual_Camp_Guide.pdf" download>Virtual Camp Guide</a>
                     <a class="btn btn-primary btn-block" href="/_files/summer/2020-Virtual-MB-Schedule.pdf" download>Download Merit Badge Schedule</a>
 					<a class="btn btn-success btn-block mb-4" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
 					<table class="table text-center">
