@@ -108,8 +108,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 .btn-brand:active,
 .btn-brand:hover {
 	color: #000000;
-	background-color: #d6cb00;
-	border-color: #d6cb00;
+	background-color: #ded200;
+	border-color: #ded200;
 }
 /* Heading */
 .heading {
