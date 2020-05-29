@@ -57,6 +57,6 @@
 </nav>
 <div class="alert alert-highlight text-center" role="alert">
 	<a class="alert-link" href="/coronavirus">Click here for an important update about 2020 Summer Camp at Resica Falls.</a><br>
-	This property is closed to all events and activities (including fishing and visits to the falls area) until <strong>as we continue to evaluate state regulations for reopening.</strong><br>
+	This property is closed to all events and activities (including fishing and visits to the falls area) <strong>as we continue to evaluate state regulations for reopening.</strong><br>
 	For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
 </div>
