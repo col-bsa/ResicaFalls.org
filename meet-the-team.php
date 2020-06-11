@@ -36,7 +36,7 @@
 				<div class="col-12 col-md-10">
 					<h2>Steve Mach <div class="h5">Assistant Camp Director</div></h2>
 					<p>
-					Steve is in his 12th summer at Resica Falls, and his fifth as Assistant Camp Director. Previously, he has worked as Handicraft Director, Commissioner, and Program Director. He is also an Eagle Scout and Vigil Honor member of Unami Lodge, One. A high school social studies teacher and the main architect of Virtual Camp, Steve is always looking for ways to make camp better. Steve’s favorite color is green. Contact Steve at <a href="mailto:steve.mach@resicafalls.org">steve.mach@resicafalls.org</a>
+					Steve is in his 12th summer at Resica Falls, and his fifth as Assistant Camp Director. Previously, he has worked as Handicraft Director, Commissioner, and Program Director. He is also an Eagle Scout and Vigil Honor member of Unami Lodge, One. A high school social studies teacher and the main architect of Virtual Camp, Steve is always looking for ways to make camp better. Steve’s favorite color is green. Contact Steve at <a href="mailto:steve.mach@resicafalls.org">steve.mach@resicafalls.org</a>.
 					</p>
 				</div>
 			</div>
