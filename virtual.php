@@ -68,6 +68,17 @@
                             <tr><td>August 3 - 7</td></tr>
 						</tbody>
 					</table>
+                    <img class="img-fluid mb-4" src="_img/today_tomorrow.jpg" alt="">
+                    <p>
+                    Need an added incentive to register now for virtual camp? How about possibility of a free week of summer camp in 2021?!!
+                    </p>
+                    <p>
+                    Our first set of winners has been decided, we still have two more drawings:
+                    <br>
+                    All Scouts who register for Virtual Camp by Friday, June 12 will be entered to win one of an additional 5 "free week of camp" coupons.
+                    <br>
+                    All Scouts who register for Virtual Camp by Friday, June 19 will be entered to win one of an additional 5 "free week of camp" coupons.
+                    </p>
 				</div>
 			</div>
 			<div class="row mb-4">
