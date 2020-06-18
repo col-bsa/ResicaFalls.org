@@ -30,7 +30,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="list-group">
-								<a href="tradingpost" class="list-group-item list-group-item-action h5">Online Trading Post</a>
+								<a href="tradingpost" class="list-group-item list-group-item-action h5" target="_blank">Online Trading Post</a>
 								<a href="virtual" class="list-group-item list-group-item-action h5">2020 Virtual Camp</a>
 								<a href="https://us02web.zoom.us/rec/share/tMFccOjU-H5JBYH19HngBrI9MbnsX6a82yZK_PtYxUtUuZFVwu6RlMracXEwog8X" target="_blank" class="list-group-item list-group-item-action h5">2020 Pre-Camp Leaders Meeting</a>
 								<a href="coronavirus" class="list-group-item list-group-item-action h5">Response to COVID-19</a>
