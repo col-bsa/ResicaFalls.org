@@ -57,8 +57,8 @@
 							</div>
 						</div>
 					</div>
-					<p class="text-center">
-						<a class="btn btn-success btn-lg" href="https://colbsa.doubleknot.com/event/capacity-available/2020-webelos-wednesdays-at-resica-falls-summer-camp/63493" target="_blank">Register Now</a>
+					<p class="text-center alert-warning">
+						Registration information will be made available in the Spring of 2021.
 					</p>
 					<p>
 						Make sure to bring Parts A &amp; B of the BSA Medical form for this event! (These are the parts that do not require a doctor's signature.)
