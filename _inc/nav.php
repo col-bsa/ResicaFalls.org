@@ -23,6 +23,7 @@
 					<a class="dropdown-item" href="virtual">2020 Virtual Camp</a>
 					<a class="dropdown-item" href="programs-and-opportunities">Programs &amp; Opportunities</a>
 					<a class="dropdown-item" href="under-the-bigtop">Summer 2020 Theme</a>
+					<a class="dropdown-item" href="tradingpost" target="_blank">Online Trading Post</a>
 					<a class="dropdown-item" href="jurassic-falls">Summer 2019 Recap</a>
 					<a class="dropdown-item" href="prepared-for-girls">Prepared for Girls</a>
 					<a class="dropdown-item" href="food-and-nutrition">Food &amp; Nutrition</a>
