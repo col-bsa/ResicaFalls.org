@@ -15,7 +15,7 @@
 		<div class="container content">
 			<div class="row">
 				<div class="col">
-					<h1>2020 Dates &amp; Rates</h1>
+					<h1>2021 Dates &amp; Rates</h1>
 				</div>
 			</div>
 			<div class="row">
@@ -31,38 +31,38 @@
 						<tbody>
 							<tr>
 								<td>Week 1</td>
-								<td>June 21 - June 27</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-1-june-21-27-2020/2539417">Register</a></td>
+								<td>June 27 - July 3</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 							<tr>
 								<td>Week 2</td>
-								<td>June 28 - July 4</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-2-june-28-july-4-2020/2540014">Register</a></td>
+								<td>July 4 - July 10</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 							<tr>
 								<td>Week 3</td>
-								<td>July 5 - July 11</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-3-july-5-11-2020/2540023">Register</a></td>
+								<td>July 11 - July 17</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 							<tr>
 								<td>Week 4</td>
-								<td>July 12 - July 18</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-4-july-12-18-2020/2540024">Register</a></td>
+								<td>July 18 - July 24</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 							<tr>
 								<td>Week 5</td>
-								<td>July 19 - July 25</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-5-july-19-25-2020/2540027">Register</a></td>
+								<td>July 25 - July 31</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 							<tr>
 								<td>Week 6</td>
-								<td>July 26 - August 1</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-6-july-26-august-1-2020/2540029">Register</a></td>
+								<td>August 1 - August 7</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 							<tr>
 								<td>Week 7</td>
-								<td>August 2 - August 8</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/week-7-august-2-8-2020/2540031">Register</a></td>
+								<td>August 8 - August 14</td>
+								<td><em>Coming Soon!</em></td>
 							</tr>
 						</tbody>
 					</table>
@@ -76,13 +76,13 @@
 						</thead>
 						<tbody>
 							<tr class="table-highlight">
-								<td>Early Bird: $430 per Youth / $200 per Adult</td>
+								<td>Early Bird: $440 per Youth / $200 per Adult</td>
 							</tr>
 							<tr>
-								<td>Regular: $455 per Youth / $200 per Adult</td>
+								<td>Regular: $465 per Youth / $200 per Adult</td>
 							</tr>
 							<tr>
-								<td><em>Early bird offer ends February 1</em></td>
+								<td><em>Early bird offer ends December 15</em></td>
 							</tr>
 							<tr>
 								<td><strong>Second Week: $250 per Youth</strong></td>
