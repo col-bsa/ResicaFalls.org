@@ -81,6 +81,9 @@ Redirect 301 /underthebigtop /under-the-bigtop
 Redirect 301 /covid19 /coronavirus
 Redirect 301 /covid-19 /coronavirus
 Redirect 301 /dkstatus https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=64244&sf=f&orgkey=1112
+Redirect 301 /2021 /dates-and-rates
+Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
+Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 
 Redirect /Trading-Post https://resicatradingpost.square.site/
 Redirect /trading-post https://resicatradingpost.square.site/
