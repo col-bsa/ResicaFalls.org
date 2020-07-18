@@ -20,6 +20,9 @@
         <a href="https://www.instagram.com/resicafalls" target="_blank">
             <i style="line-height: 38px;" class="fa fa-instagram circle" aria-hidden="true"></i>
         </a>
+        <a href="https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg" target="_blank">
+            <i style="line-height: 38px;" class="fa fa-youtube circle" aria-hidden="true"></i>
+        </a>
         <a href="https://www.resicafalls.org/" target="_blank">
             <i style="line-height: 38px;" class="fa fa-link circle" aria-hidden="true"></i>
         </a>
@@ -29,6 +32,7 @@
         <a class="link link-highlight" href="https://resicafalls.org/virtual" target="_blank">Virtual Camp @ Resica Falls</a>
         <a class="link" href="https://resicafalls.org/coronavirus" target="_blank">Resica Falls COVID-19 Updates</a>
         <a class="link" href="https://resicafalls.org/field-weekend" target="_blank">Field Weekend Registration</a>
+        <a class="link" href="https://resicafalls.org/dates-and-rates" target="_blank">2021 Dates and Rates</a>
     </div>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -15,7 +15,7 @@
 				<a href="https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg">
 					<span class="fa-stack fa-lg">
   						<i class="fa fa-circle fa-stack-2x"></i>
-						<i class="fa fa-stack-1x fa-inverse fa-youtube" aria-hidden="true"></i>
+						<i class="fa fa-stack-1x fa-inverse fa-youtube-play" aria-hidden="true"></i>
 					</span>
 				</a>
 				<a href="http://instagram.com/resicafalls">
