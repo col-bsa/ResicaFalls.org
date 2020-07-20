@@ -58,6 +58,6 @@
 </nav>
 <div class="alert alert-highlight text-center" role="alert">
 	Resica Falls is closed to all events and activities <strong>including visits to the falls area</strong> as we continue to evaluate state regulations for reopening.<br>
-	<strong>Fly fishing</strong> along the Bushkill is <strong>only</strong> available on Firestone Road.
+	<strong>Fly fishing</strong> is now <strong>available</strong> along Firestone Road for <a href="hunting-and-fishing">registered fishermen</a>!<br>
 	For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
 </div>
