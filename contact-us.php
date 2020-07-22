@@ -72,8 +72,7 @@
 					<h4>Phone Numbers</h4>
 					<address>
 						Phone: (570) 223-8312<br>
-						Summer Fax: (570) 223-7263<br>
-						Year Round Fax: (610) 668-2951
+						Fax: (610) 668-2951
 					</address>
 					<h4><a href="meet-the-team">Meet the Team!</a></h4>
 				</div>
