@@ -30,10 +30,10 @@
 						</div>
 						<div class="col-md-8">
 							<div class="list-group">
+								<a href="dates-and-rates" target="_blank" class="list-group-item list-group-item-action h5">2021 Registration Open</a>
 								<a href="https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg" class="list-group-item list-group-item-action h5" target="_blank">New Videos</a>
 								<a href="tradingpost" class="list-group-item list-group-item-action h5" target="_blank">Online Trading Post</a>
 								<a href="virtual" class="list-group-item list-group-item-action h5">2020 Virtual Camp</a>
-								<a href="https://us02web.zoom.us/rec/share/tMFccOjU-H5JBYH19HngBrI9MbnsX6a82yZK_PtYxUtUuZFVwu6RlMracXEwog8X" target="_blank" class="list-group-item list-group-item-action h5">2020 Pre-Camp Leaders Meeting</a>
 								<a href="coronavirus" class="list-group-item list-group-item-action h5">Response to COVID-19</a>
 							</div>
 						</div>
