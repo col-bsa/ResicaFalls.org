@@ -39,7 +39,7 @@
                     <a class="btn btn-primary btn-block" href="/_files/summer/Scoutbook_MBConfirmation_Instructions.pdf" download>Download Scoutbook Instructions</a>
                     <a class="btn btn-primary btn-block" href="/tradingpost" target="_blank">Online Trading Post</a>
                     <a class="btn btn-warning btn-block" href="https://www.scouting.org/health-and-safety/safety-moments/digital-safety-and-online-scouting-activities" target="_blank">BSA Digital Safety</a>
-					<a class="btn btn-success btn-block mb-4" href="https://colbsa.doubleknot.com/event/2020-virtual-camp-resica-falls-camp-wide-program-first-6-merit-badges-total-6/2675433" target="_blank">Register Now</a>
+					<a class="btn btn-success btn-block mb-4 disabled" href="#" target="_blank">Registration Closed</a>
 					<table class="table text-center">
 						<thead class="thead-inverse">
 							<tr>

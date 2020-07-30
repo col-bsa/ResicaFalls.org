@@ -51,7 +51,7 @@
             	<a class="nav-link" href="contact-us">Contact<br class="hidden-md-down"> Us</a>
             </li>
             <li class="nav-item">
-            	<a class="nav-link" href="virtual">Register<br class="hidden-md-down"> For Camp</a>
+            	<a class="nav-link" href="dates-and-rates">Register<br class="hidden-md-down"> For Camp</a>
             </li>
 		</ul>
 	</div>
