@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="alert alert-highlight">
-                        This event has been postponed to September 11-13 because of Coronavirus. For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
+                        This event has been <strong>cancelled</strong>. For the latest updates regarding council events and camps, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
                     </div>
                     <p>Set aside the date, inspect your gear, get your recipes ready and plan to have lots of fun when you join us for the 3rd Annual Resica Field Weekend on September 11-13, 2020.</p>
                     <p>The Field Weekend allows your Troop to hone their tent camping skills while taking advantage of the great activities and facilities at Resica Falls Scout Reservation.</p>
@@ -30,7 +30,7 @@
                     <p>One of the highlight competitions will be the Iron Chef Event, a Dutch Oven cooking event centered around a “secret ingredient”. We will provide the "secret ingredient" to each team. The event will run the last 3.5 hours of the day and conclude when the competing troops/crews/patrols provides 2 dishes to the Council Executives for judging.</p>
                     <p>Check back here as details are finalized.</p>
                     <p>Stay tuned for the 2020 Leaders' Guide!</p>
-					<a class="btn btn-success btn-block" href="https://colbsa.doubleknot.com/event/2020-field-event-weekend-resica-falls/2600939" target="_blank">Register Now</a>
+					<a class="btn btn-success btn-block disabled" href="#" target="_blank">Registration Closed</a>
                     <br>
                 </div>
 				<div class="col-md-4">
