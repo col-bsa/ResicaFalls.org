@@ -57,5 +57,5 @@
 	</div>
 </nav>
 <div class="alert alert-highlight text-center" role="alert">
-	For Coronavirus related updates, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
+	For coronavirus related updates, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
 </div>
