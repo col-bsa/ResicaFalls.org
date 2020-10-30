@@ -96,7 +96,7 @@
 						</tbody>
 					</table>
 					<a class="btn btn-primary btn-block mb-4" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
-					<p>Because of current COVID-19 guidelines from the Commonwealth of Pennsylvania, each week of camp has a current capacity of 300 Scouts. As we get closer to the summer, we hope that this number changes so we can offer more opportunities to more Scouts while continuing to ruin a safe program.</p>
+					<p>Because of current COVID-19 guidelines from the Commonwealth of Pennsylvania, each week of camp has a current capacity of 300 Scouts. As we get closer to the summer, we hope that this number changes so we can offer more opportunities to more Scouts while continuing to run a safe program.</p>
 				</div>
 			</div>
 		</div>
