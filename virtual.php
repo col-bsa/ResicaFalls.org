@@ -36,18 +36,16 @@
                             </ul>
                             <li>Merit Badge Completion Rate: 78.3%</li>
                             <li>Top 8 Merit Badges</li>
-                            <li>
-                                <ul>
-                                    <li>Cooking</li>
-                                    <li>Citizenship in the Community</li>
-                                    <li>Citizenship in the World</li>
-                                    <li>Game Design</li>
-                                    <li>Communications</li>
-                                    <li>Environmental Science</li>
-                                    <li>Art</li>
-                                    <li>Citizenship in the Nation</li>
-                                </ul>
-                            </li>
+                            <ul>
+                                <li>Cooking</li>
+                                <li>Citizenship in the Community</li>
+                                <li>Citizenship in the World</li>
+                                <li>Game Design</li>
+                                <li>Communications</li>
+                                <li>Environmental Science</li>
+                                <li>Art</li>
+                                <li>Citizenship in the Nation</li>
+                            </ul>
                         </ul>
                         <li>Number of Virtual Rangers: 142</li>
                         <li>Number of Scouts that earned the Virtual Scout Award: 31</li>
