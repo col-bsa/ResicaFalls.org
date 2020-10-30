@@ -53,6 +53,7 @@
                 </div>
 				<div class="col-md-5">
                     <img class="img-fluid mb-4" src="_img/virtualcamp_8bit.png" alt="">
+                    <img class="img-fluid rounded" src="_img/programs/theme/RF-UnderTheBigTop.jpg" alt="">
 				</div>
 			</div>
             <div class="row">
