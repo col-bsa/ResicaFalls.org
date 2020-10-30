@@ -19,7 +19,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-7">
+				<div class="col-md-8">
                     <ul>
                         <li>Our 2020 theme of “Under the Big Top” had a unique spin on a traditional circus theme</li>
                         <li>this circus was all virtual! Clowns and circus hands made the magic happen and joined
@@ -51,7 +51,7 @@
                         <li>Number of Scouts that earned the Virtual Scout Award: 31</li>
                     </ul>
                 </div>
-				<div class="col-md-5">
+				<div class="col-md-4">
                     <img class="img-fluid mb-4" src="_img/virtualcamp_8bit.png" alt="">
                     <img class="img-fluid rounded" src="_img/programs/theme/RF-UnderTheBigTop.jpg" alt="">
 				</div>
