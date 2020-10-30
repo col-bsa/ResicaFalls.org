@@ -20,8 +20,6 @@
 			</div>
 			<div class="row">
 				<div class="col-md-7">
-                    
-                    <h4>What is Virtual Camp?</h4>
                     <ul>
                         <li>Our 2020 theme of “Under the Big Top” had a unique spin on a traditional circus theme</li>
                         <li>this circus was all virtual! Clowns and circus hands made the magic happen and joined
@@ -63,24 +61,24 @@
                     <img class="img-fluid mb-4" src="_img/virtualcamp_8bit.png" alt="">
 				</div>
 			</div>
+            <div class="row">
+                <div class="col alert alert-highlight">
+                    <h5>What Scouts &amp; Leaders are Saying</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <p><strong>“I enjoyed making kettle corn, corn dogs, doing a TikTok skit and I’ve gotten 9 merit badges from camp.”</strong></p>
+                    <p><strong>“Overall I had a really good time. It was really good for the first year of Virtual Camp. Thank you to everyone who made it happen.”</strong></p>
+                    <p><strong>“I loved it! I wish I could sneak in another week. Eagle Scout brother who has been to camp said it was great!</strong></p>
+                    <p><strong>“The counselors did an amazing job trying to act like we were at the actual camp.”</strong></p>
+                </div>
+                <div class="col-md-6">
+                    <p><strong>“Y’all did a good job of capturing the spirit of going to camp. Having the stuff in the evening as well as the skill instruction really reminded me of just hanging out at camp.”</strong></p>
+                    <p><strong>“I am a parent, but have been listening to my daughter’s classes. I wanted you to know I am so impressed with the quality of the classes. I’m really thrilled with how much my daughter learned and accomplished. We’re looking forward to next week, too. Thanks so much for keeping the kids engaged and safe during this unusual summer!”</strong></p>
+                </div>
+            </div>
 		</div>
-        <div class="row">
-            <div class="col alert alert-highlight">
-                <h5>What Scouts &amp; Leaders are Saying</h5>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <p><strong>“I enjoyed making kettle corn, corn dogs, doing a TikTok skit and I’ve gotten 9 merit badges from camp.”</strong></p>
-                <p><strong>“Overall I had a really good time. It was really good for the first year of Virtual Camp. Thank you to everyone who made it happen.”</strong></p>
-                <p><strong>“I loved it! I wish I could sneak in another week. Eagle Scout brother who has been to camp said it was great!</strong></p>
-                <p><strong>“The counselors did an amazing job trying to act like we were at the actual camp.”</strong></p>
-            </div>
-            <div class="col-md-6">
-                <p><strong>“Y’all did a good job of capturing the spirit of going to camp. Having the stuff in the evening as well as the skill instruction really reminded me of just hanging out at camp.”</strong></p>
-                <p><strong>“I am a parent, but have been listening to my daughter’s classes. I wanted you to know I am so impressed with the quality of the classes. I’m really thrilled with how much my daughter learned and accomplished. We’re looking forward to next week, too. Thanks so much for keeping the kids engaged and safe during this unusual summer!”</strong></p>
-            </div>
-        </div>
 
 		<?php include '_inc/footer.php'; ?>	
 		<?php include '_inc/html_foot.php'; ?>
