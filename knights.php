@@ -35,6 +35,7 @@
                 </div>
 				<div class="col-md-5">
                     <img class="img-fluid mb-4" src="_img/KnightsOfTheBushkill.jpg" alt="">
+                    <a class="btn btn-block btn-success mb-2" href="dates-and-rates">See Dates &amp; Rates</a>
 				</div>
 			</div>
 		</div>
