@@ -28,14 +28,12 @@
 					<a class="dropdown-item" href="prepared-for-girls">Prepared for Girls</a>
 					<a class="dropdown-item" href="food-and-nutrition">Food &amp; Nutrition</a>
 					<a class="dropdown-item" href="important-documents">Important Documents</a>
-					<a class="dropdown-item" href="webeloswednesday">Webelos Wednesday</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="coming-soon" id="dropdown_StaffAndLeadership" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Staff &amp;<br class="hidden-md-down"> Leadership</a>
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
-					<a class="dropdown-item" href="cit-program">CIT Program</a>
 					<a class="dropdown-item" href="join-camp-staff">Join Camp Staff</a>
 				</div>
 			</li>

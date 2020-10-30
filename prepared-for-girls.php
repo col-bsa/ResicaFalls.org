@@ -27,14 +27,15 @@
                             <li>Resica has hired an increasing number of female staff, in both junior staff and camp leadership positions.</li>
                             <li>Camp improvements that have been made in recent years are female friendly, particularly the 2015 Great Bend Showerhouse &ndash; an entire facility comprised of 10 individual showers/bathrooms.</li>
                             <li>Positive experiences and lasting memories were noted by the over 100 female campers at Resica Falls in 2019.</li>
-							<li><strong>NEW for 2020!</strong> &mdash; An additional 7 new individual showers / bathrooms located at the Big Springs Pool to accommodate the needs of all our campers.</li>
+							<li><strong>NEW for 2021!</strong> &mdash; An additional 7 new individual showers / bathrooms located at the Big Springs Pool to accommodate the needs of all our campers.</li>
 							<li>The camp leadership has developed a well-rounded, action-packed program designed to meet a variety of individual needs.</li>
-                            <li>Check out our Leaders' Guide, and Program Guide to get an idea of the broad range of activities available at Resica Falls. The 2019 editions will be published in January &amp; February.</li>
+                            <li>Check out our Leaders' Guide, and Program Guide to get an idea of the broad range of activities available at Resica Falls. The 2021 editions will be published in January &amp; February.</li>
 						</ul>
 					</p>
                     <div class="alert alert-success text-center">
 					    <h5>Don't Miss Out!</h5>
-                        <p>All new units will receive the early bird rate of $430 pricing for the 2020 season.</p>
+                        <p>All new units will receive the early bird rate of $440 pricing for the 2021 season.</p>
+                        <a class="btn btn-block btn-primary mb-2" href="dates-and-rates">See Dates &amp; Rates</a>
 				    </div>
 				</div>
 				<div class="col-md-4">

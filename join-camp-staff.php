@@ -42,14 +42,12 @@
 						</ul>
 						If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 					</p>
-					<p>Are you 14 years old, or 15 and can’t commit for the whole summer? Check out our CIT Program.</p>
 				</div>
 				<div class="col-md-5">
 					<img class="img-fluid rounded" src="_img/staff.jpg" alt="">
 					<br><br>
 					<iframe width="100%" height="300" src="https://www.youtube.com/embed/dve--MwFTNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					<a class="btn btn-success btn-block" href="https://colbsa.workbrightats.com/jobs/">Click Here to Submit an Application</a>
-					<a class="btn btn-primary btn-block" href="cit-program">I want to be a CIT</a>
 					<br>
 				</div>
 			</div>
