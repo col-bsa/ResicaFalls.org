@@ -32,7 +32,7 @@
 							<tr>
 								<td>Week 1</td>
 								<td>June 27 - July 3</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-1/2678053">Register</a></td>
+								<td>Closed (Full)</td>
 							</tr>
 							<tr>
 								<td>Week 2</td>
@@ -42,7 +42,7 @@
 							<tr>
 								<td>Week 3</td>
 								<td>July 11 - July 17</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-3/2693059">Register</a></td>
+								<td>Closed (Full)</td>
 							</tr>
 							<tr>
 								<td>Week 4</td>
@@ -96,6 +96,7 @@
 						</tbody>
 					</table>
 					<a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
+					<p>Because of current COVID-19 guidelines from the Commonwealth of Pennsylvania, each week of camp has a current capacity of 300 Scouts. As we get closer to the summer, we hope that this number changes so we can offer more opportunities to more Scouts while continuing to ruin a safe program.</p>
 				</div>
 			</div>
 		</div>
