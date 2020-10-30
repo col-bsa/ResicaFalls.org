@@ -16,7 +16,7 @@
 			<div class="row">
 				<div class="col">
                     <h4>TRAVEL BACK IN TIME FOR THE WONDER AND MYSTERY</h4>
-					<h1>Summer 2020: Virtual Camp</h1>
+					<h1>Summer 2021: Knights of the Bushkill</h1>
 				</div>
 			</div>
 			<div class="row">
