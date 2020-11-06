@@ -43,6 +43,7 @@
 					<a class="dropdown-item" href="weekend-activities">Activities</a>
 					<a class="dropdown-item" href="facilities-and-rentals">Facilities &amp; Rentals</a>
 					<a class="dropdown-item" href="field-weekend">Field Weekend</a>
+					<a class="dropdown-item" href="service">Service Day</a>
 				</div>
 			</li>
             <li class="nav-item">
