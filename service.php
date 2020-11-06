@@ -46,7 +46,7 @@
                 </div>
 				<div class="col-md-4">
                     <img class="img-fluid mb-2" src="_img/programs/Camp-Service-Day-1.png" alt="">
-                    <a class="btn btn-success btn-block" href="/files/special_programs/Camp-Service-Day-Flyer.pdf">Download Flyer</a>
+                    <a class="btn btn-success btn-block" href="/_files/special_programs/Camp-Service-Day-Flyer.pdf">Download Flyer</a>
                 </div>
 			</div>
 		</div>
