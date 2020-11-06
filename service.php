@@ -42,7 +42,7 @@
                         <li>Tent platform placement</li>
                         <li>Cabin renovations</li>
                     </ul>
-                    <br>
+                    <p>Contact Ranger Nick McKee at nicholas.mckee@scouting.org to sign up for this event.</p>
                 </div>
 				<div class="col-md-4">
                     <img class="img-fluid mb-2" src="_img/programs/Camp-Service-Day-1.png" alt="">
