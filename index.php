@@ -31,10 +31,10 @@
 						<div class="col-md-8">
 							<div class="list-group">
 								<a href="dates-and-rates" target="_blank" class="list-group-item list-group-item-action h5">2021 Registration Open</a>
+								<a href="service" class="list-group-item list-group-item-action h5">Service Day</a>
 								<a href="https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg" class="list-group-item list-group-item-action h5" target="_blank">New Videos</a>
 								<a href="tradingpost" class="list-group-item list-group-item-action h5" target="_blank">Online Trading Post</a>
 								<a href="virtual" class="list-group-item list-group-item-action h5">2020 Virtual Camp</a>
-								<a href="coronavirus" class="list-group-item list-group-item-action h5">Response to COVID-19</a>
 							</div>
 						</div>
 					</div>
