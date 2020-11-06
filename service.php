@@ -42,12 +42,11 @@
                         <li>Tent platform placement</li>
                         <li>Cabin renovations</li>
                     </ul>
-					<a class="btn btn-success btn-block" href="/files/special_programs/Camp-Service-Day-Flyer.pdf">Download Flyer</a>
                     <br>
                 </div>
 				<div class="col-md-4">
-                    <img class="img-fluid" src="_img/programs/field/Camp-Service-Day-1.png" alt="">
-                    <br><br>
+                    <img class="img-fluid mb-2" src="_img/programs/Camp-Service-Day-1.png" alt="">
+                    <a class="btn btn-success btn-block" href="/files/special_programs/Camp-Service-Day-Flyer.pdf">Download Flyer</a>
                 </div>
 			</div>
 		</div>
