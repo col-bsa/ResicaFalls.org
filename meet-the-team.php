@@ -78,7 +78,7 @@
 					<img class="img-fluid rounded" src="_img/profiles/chris.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-9">
-					<h2>Chris Brenner <div class="h5">Camp Director</div></h2>
+					<h2>Chris Brenner <div class="h5">Camp Director Emeritus</div></h2>
 					<p>
 					Chris served as Camp Director at Resica Falls from 2006-2020. During his tenure, innovative programs were implemented, outstanding facilities were built, and camper attendance doubled. An Eagle Scout and Vigil Honor member of Unami Lodge, One, Chris served as Scoutmaster of Troop 226 in Philadelphia for 15 years, has sat on numerous district and council committees, and served as the Camp Director at Treasure Island in 1998. A retired elementary school teacher of 35 years, Chris continues to serve as a wise and valued mentor to the entire camp leadership team and will be spending lots of time in camp. Contact him at <a href="mailto:chris.brenner@resicafalls.org">chris.brenner@resicafalls.org</a>.
 					</p>
