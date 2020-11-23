@@ -84,6 +84,8 @@ Redirect 301 /dkstatus https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpa
 Redirect 301 /2021 /dates-and-rates
 Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
+Redirect 301 /vote https://woobox.com/fkozco/gallery/OUaCnPBqP9E
+
 
 Redirect /Trading-Post https://resicatradingpost.square.site/
 Redirect /trading-post https://resicatradingpost.square.site/

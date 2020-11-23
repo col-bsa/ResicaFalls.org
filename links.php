@@ -29,9 +29,8 @@
     </div>
 
     <div id="links">
-        <a class="link link-highlight" href="https://resicafalls.org/virtual" target="_blank">Virtual Camp @ Resica Falls</a>
+        <a class="link link-highlight" href="https://resicafalls.org/vote" target="_blank">Vote For Resica Falls</a>
         <a class="link" href="https://resicafalls.org/coronavirus" target="_blank">Resica Falls COVID-19 Updates</a>
-        <a class="link" href="https://resicafalls.org/field-weekend" target="_blank">Field Weekend Registration</a>
         <a class="link" href="https://resicafalls.org/dates-and-rates" target="_blank">2021 Dates and Rates</a>
     </div>
 
