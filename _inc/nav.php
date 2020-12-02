@@ -58,3 +58,6 @@
 <div class="alert alert-highlight text-center" role="alert">
 	For coronavirus related updates, please visit <a class="alert-link" href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
 </div>
+<div class="alert alert-info text-center" role="alert">
+	This week only, use coupon code 'SAVE15' to save 15% at the <a class="alert-link" href="http://resicafalls.org/tradingpost">Resica Falls Trading Post</a>
+</div>
