@@ -20,7 +20,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-3">
-					<img class="img-fluid rounded" src="_img/profiles/steve.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/steve2.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-9">
 					<h2>Steve Mach <div class="h5">Camp Director</div></h2>
@@ -31,7 +31,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-3">
-					<img class="img-fluid rounded" src="_img/profiles/jerry.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/jerry2.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-9">
 					<h2>Jerry Reed <div class="h5">Assistant Camp Director</div></h2>
@@ -42,7 +42,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-3">
-					<img class="img-fluid rounded" src="_img/profiles/jacob.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/jacob2.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-9">
 					<h2>Jacob Huff <div class="h5">Program Director</div></h2>
@@ -51,17 +51,17 @@
 					</p>
 				</div>
 			</div>
-			<!-- <div class="row split">
+			<div class="row split">
 				<div class="hidden-sm-down col-md-3">
-					<img class="img-fluid rounded" src="_img/profiles/andy.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/andy2.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-9">
-					<h2>Andy Connell <div class="h5">Activities Coordinator</div></h2>
+					<h2>Andy Connell <div class="h5">Assistant Program Director</div></h2>
 					<p>
-					Andy brings 9 years of camp staff experience to the table in his role of Activities Coordinator for Virtual Camp. This Eagle Scout has previously worked as Civics Director, Program Commissioner, and Assistant Program Director. Andy is an integral part of the success of Resica Falls. Andy’s favorite board game is Clue. Contact Andy at <a href="mailto:andy.connell@resicafalls.org">andy.connell@resicafalls.org</a>.
+					Andy continues in the role of Assistant Program Director for his 10th summer on staff at Resica Falls. Beginning as a Counselor in Training, Andy has worked in the Dining Hall and Civics area, and served as a Commissioner. As the Activities Coordinator for our 2020 Virtual Camp, he handled all non-merit badges aspect of the program, including Cooking Lessons and Camp-wide Activities. He is also the creator and host of our podcast, Big Springs Life. Andy is an Eagle Scout and works as a secondary education teacher. Contact him at <a href="mailto:andy.connell@resicafalls.org">andy.connell@resicafalls.org</a>.
 					</p>
 				</div>
-			</div> -->
+			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-3">
 					<img class="img-fluid rounded" src="_img/profiles/nick.jpg" alt="">
@@ -75,7 +75,7 @@
 			</div>
 			<div class="row split">
 				<div class="hidden-sm-down col-md-3">
-					<img class="img-fluid rounded" src="_img/profiles/chris.jpg" alt="">
+					<img class="img-fluid rounded" src="_img/profiles/chris2.jpg" alt="">
 				</div>
 				<div class="col-12 col-md-9">
 					<h2>Chris Brenner <div class="h5">Camp Director Emeritus</div></h2>
