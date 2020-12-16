@@ -29,9 +29,9 @@
     </div>
 
     <div id="links">
-        <a class="link link-highlight" href="https://resicafalls.org/vote" target="_blank">Vote For Resica Falls</a>
+        <a class="link link-highlight" href="https://resicafalls.org/dates-and-rates" target="_blank">2021 Dates and Rates</a>
         <a class="link" href="https://resicafalls.org/coronavirus" target="_blank">Resica Falls COVID-19 Updates</a>
-        <a class="link" href="https://resicafalls.org/dates-and-rates" target="_blank">2021 Dates and Rates</a>
+        <a class="link" href="https://resicafalls.org/join-camp-staff" target="_blank">Join Camp Staff!</a>
     </div>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
