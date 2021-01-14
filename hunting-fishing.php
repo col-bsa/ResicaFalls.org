@@ -26,7 +26,7 @@
 							<li>Permit not valid on non-regulated water adjacent to Main Falls. Consult PA Fishing Regulations for specifications.</li>
 						</ul>
 					<p class="text-center">
-						<a role="button" class="btn btn-secondary btn-lg" href="https://colbsa.doubleknot.com/event/2020-fly-fishing-at-resica-falls-scout-reservation/2585066" target="_blank">Register Now</a>
+						<a role="button" class="btn btn-secondary btn-lg" href="https://colbsa.doubleknot.com/event/2021-fly-fishing-permit-at-resica-falls-scout-reservation/2747403" target="_blank">Register Now</a>
 					</p>
 					<h1>Hunting</h1>
 					<p>
