@@ -37,7 +37,7 @@
 							<tr>
 								<td>Week 2</td>
 								<td>July 4 - July 10</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-2/2693058">Register</a></td>
+								<td>Closed (Full)</td>
 							</tr>
 							<tr>
 								<td>Week 3</td>
@@ -52,7 +52,7 @@
 							<tr>
 								<td>Week 5</td>
 								<td>July 25 - July 31</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-5/2693061">Register</a></td>
+								<td>Closed (Full)</td>
 							</tr>
 							<tr>
 								<td>Week 6</td>
