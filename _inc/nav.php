@@ -35,6 +35,7 @@
 				<div class="dropdown-menu" aria-labelledby="dropdown_StaffAndLeadership">
 					<a class="dropdown-item" href="meet-the-team">Meet the Team</a>
 					<a class="dropdown-item" href="join-camp-staff">Join Camp Staff</a>
+					<a class="dropdown-item" href="seek">SEEK</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown">
