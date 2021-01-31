@@ -85,6 +85,8 @@ Redirect 301 /2021 /dates-and-rates
 Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /vote https://woobox.com/fkozco/gallery/OUaCnPBqP9E
+Redirect 301 /leaders-update https://colbsa.zoom.us/webinar/register/WN_TuFXpLLyRwi6-M8yx_oDqA
+Redirect 301 /leadersupdate https://colbsa.zoom.us/webinar/register/WN_TuFXpLLyRwi6-M8yx_oDqA
 
 
 Redirect /Trading-Post https://resicatradingpost.square.site/
