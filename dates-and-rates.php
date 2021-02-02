@@ -57,7 +57,7 @@
 							<tr>
 								<td>Week 6</td>
 								<td>August 1 - August 7</td>
-								<td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-6/2693062">Register</a></td>
+								<td>Closed (Full)</td>
 							</tr>
 							<tr>
 								<td>Week 7</td>
