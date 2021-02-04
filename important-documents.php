@@ -25,6 +25,9 @@
 					</div>
 					<ul class="link-list">
 						<li>
+							<a download href="_files\summer\2021_Resica_LeadersGuide.pdf">2021 Leaders' Guide</a>
+						</li>
+						<li>
 							<a href="/_files\summer\2020.04.06_Covid-19-Update.pdf" target="_blank">Response to COVID-19</a>
 						</li>
 						<li>
@@ -32,9 +35,6 @@
 						</li>
 						<li>
 							<a download href="_files\summer\2020-RFSR-Brochure.pdf">2020 Summer Camp Brochure</a>
-						</li>
-						<li>
-							<a download href="_files\summer\2020_Leaders_Guide.pdf">2020 Leaders' Guide</a>
 						</li>
 						<li>
 							<a download href="_files\summer\2020_Program_Guide.pdf">2020 Program Guide</a>
