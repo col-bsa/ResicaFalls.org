@@ -23,10 +23,26 @@
 					<div class="alert alert-highlight heading">
 						<h4>Summer Forms</h4>
 					</div>
+					<strong class="pl-3">Summer 2021</strong>
 					<ul class="link-list">
 						<li>
 							<a download href="_files\summer\2021_Resica_LeadersGuide.pdf">2021 Leaders' Guide</a>
 						</li>
+						<li>
+							2021 Program Guide <em>(Coming Soon)</em>
+						</li>
+						<li>
+							2021 Roster Template <em>(Coming Soon)</em>
+						</li>
+						<li>
+							<a download href="_files\summer\2021_Refund_Request_Form.pdf">2021 Refund Request Form</a>
+						</li>
+						<li>
+							<a href="https://docs.google.com/forms/d/e/1FAIpQLScitbMoHB6CLHsXEco4HWdI5dgelcdM5mqPWClIhUHfZdySrg/viewform" target="_blank">2021 Campership Applications</a>
+						</li>
+					</ul>
+					<strong class="pl-3">Summer 2020</strong>
+					<ul class="link-list">
 						<li>
 							<a href="/_files\summer\2020.04.06_Covid-19-Update.pdf" target="_blank">Response to COVID-19</a>
 						</li>
@@ -48,19 +64,14 @@
 						<li>
 							<a download href="_files\summer\2020-MeritBadge-Requirements.pdf">2020 Merit Badge Requirements</a> <em>(with Prerequisites)</em>
 						</li>
-						<li>
-							<a href="/campership" target="_blank">2020 Campership Applications</a>
-						</li>
+					</ul>
+					<strong class="pl-3">General Summer Forms</strong>
+					<ul class="link-list">
 						<li>
 							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
 						</li>
-						<li>
-							<a download href="_files/summer/2019_Resica_Specialty_Programs.pdf">2019 Specialty Programs Brochure</a>
-						</li>
-						
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
-						<li><a download href="_files\summer\2019_Refund_Request.pdf">2019 Refund Request Form</a></li>
 						<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
 					</ul>
 				</div>
