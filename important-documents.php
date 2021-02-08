@@ -35,7 +35,7 @@
 							2021 Roster Template <em>(Coming Soon)</em>
 						</li>
 						<li>
-							<a download href="_files\summer\2021_Refund_Request_Form.pdf">2021 Refund Request Form</a>
+							<a download href="_files\summer\2021_Refund_Request_Form.pdf">2021 Refund Request Policy</a>
 						</li>
 						<li>
 							<a href="https://docs.google.com/forms/d/e/1FAIpQLScitbMoHB6CLHsXEco4HWdI5dgelcdM5mqPWClIhUHfZdySrg/viewform" target="_blank">2021 Campership Applications</a>
@@ -67,9 +67,7 @@
 					</ul>
 					<strong class="pl-3">General Summer Forms</strong>
 					<ul class="link-list">
-						<li>
-							<a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a>
-						</li>
+						<li><a download href="_files\summer\ResicaGirlsFlyer.pdf">Prepared for Girls</a></li>
 						<li><a download href="_files\summer\Precamp_Swim_Test.pdf">Precamp Swim Test</a></li>
 						<li><a download href="_files\summer\Parental_Release.pdf">Parental Release</a></li>
 						<li><a download href="_files\summer\MeritBadge_Instructions.pdf">Merit Badge Signup Instructions</a></li>
