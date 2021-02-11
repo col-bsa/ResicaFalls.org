@@ -31,7 +31,7 @@
 						<div class="col-md-8">
 							<div class="list-group">
 								<a href="dates-and-rates" target="_blank" class="list-group-item list-group-item-action h5">2021 Registration Open</a>
-								<a href="https://youtu.be/6YdBajNHrb0" target="_blank" class="list-group-item list-group-item-action h5">February Leaders Update Recap</a>
+								<a href="https://youtu.be/6YdBajNHrb0" target="_blank" class="list-group-item list-group-item-action h5">February Leaders Update</a>
 								<a href="https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg" class="list-group-item list-group-item-action h5" target="_blank">New Videos</a>
 								<a href="tradingpost" class="list-group-item list-group-item-action h5" target="_blank">Online Trading Post</a>
 								<a href="virtual" class="list-group-item list-group-item-action h5">2020 Virtual Camp</a>
