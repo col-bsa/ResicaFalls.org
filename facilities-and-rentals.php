@@ -226,7 +226,7 @@
 							<tbody>
 								<tr>
 									<th scope="row">Bear</th>
-									<td>24</td>
+									<td>22</td>
 									<td>&dollar;300</td>
 									<td><i class="fa fa-check"></td>
 									<td><i class="fa fa-check"></td>
